@@ -30,3 +30,7 @@ This equates to roughly £20 / $20 a year based on average electricity costs.
 ### My unit is not detecting Wi-Fi networks:
 
 You may find that sometimes your wi-fi network may not show in the application if the signal is poor where the Hotspot is located.
+
+## Still having trouble?
+
+If the above tips haven't been able to resolve your issue then get in touch at https://nebra.io/helium-support and we'll work on resolving your issue.
