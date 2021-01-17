@@ -7,3 +7,4 @@
 - [Outdoor Hotspot](outdoor-hotspot/overview.md)
   - [Outdoor Hotspot Quick Start](outdoor-hotspot/quick-start.md)
   - [Outdoor Hotspot Troubleshooting](outdoor-hotspot/troubleshooting.md)
+  - [Outdoor Hotspot LTE Configuration](outdoor-hotspot/lte-config.md)
