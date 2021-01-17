@@ -23,7 +23,9 @@ This can vary depending on your internet connection's speed, However in our test
 
 ### How much power does the Indoor Hotspot Consume?
 
-The Indoor Hotspot 
+The Indoor Hotspot roughly consumes 10-15W from the wall on average. Roughly the same as an internet router or phone charging.
+
+This equates to roughly £20 / $20 a year based on average electricity costs.
 
 ### My unit is not detecting Wi-Fi networks:
 
