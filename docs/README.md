@@ -1,1 +1,3 @@
-# Nebra Helium Hotspot User Guides
+![Nebra Logo](_media/Nebra.svg)
+
+# Helium Hotspot Guides
