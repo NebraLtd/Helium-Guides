@@ -1,4 +1,4 @@
-# Indoor Helium Hotspot Quick Start Guide
+# Outdoor Helium Hotspot Quick Start Guide
 
 ## Chapter 1: Hardware Setup
 
