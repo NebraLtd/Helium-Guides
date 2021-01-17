@@ -1,4 +1,4 @@
-# Nebra Indoor Helium Quick Start Guide
+# Indoor Helium Quick Start Guide
 
 ## Chapter 1: Hardware Setup
 

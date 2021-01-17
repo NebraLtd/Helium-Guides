@@ -1,4 +1,4 @@
-# Nebra Indoor Helium Hotspot Troubleshooting
+# Indoor Helium Hotspot Troubleshooting
 
 If you are having trouble with setting up your hotspot or got a query?, the following tips may help.
 
