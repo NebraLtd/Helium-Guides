@@ -1,8 +1,8 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](_media/Nebra.svg)
 
-# docsify <small>3.5</small>
+# Helium Hotspot Guides
 
 > A magical documentation site generator.
 
