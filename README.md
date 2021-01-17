@@ -1,1 +1,1 @@
-# Helium-Hotspot-Guides
+# Nebra Helium Hotspot Manuals
