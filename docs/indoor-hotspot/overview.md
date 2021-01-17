@@ -1,1 +1,1 @@
-# Nebra Indoor Helium Hotspot Overview
+# Nebra Indoor Helium Hotspot
