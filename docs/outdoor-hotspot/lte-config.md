@@ -1,1 +1,1 @@
-# Adding a LTE Modem to your Outdoor Helium Hotspot
+# Adding a LTE Modem to your Outdoor Hotspot
