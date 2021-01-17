@@ -1,4 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Guide](guide.md)
+
+- Indoor Hotspot
+  - [Indoor Hotspot Quick Start] (indoor-hotspot/quick-start.md)
+  - [Indoor Hotspot Troubleshooting] (indoor-hotspot/troubleshooting.md)
