@@ -12,6 +12,8 @@ Earn HNT cryptocurrency by mining Helium and building coverage for The People’
 ## LongFi™ Technology
 Helium LongFi™ is a technology architecture that combines a leading wireless technology, LoRaWAN, and the Helium Blockchain. LongFi™ is optimised for miles of range, and long battery life for IoT devices.
 
+![LongFi Logo](media/longfi.png)
+
 
 ## Proof of Coverage
 The Nebra HNT Indoor Hotspot Miner earns HNT Helium tokens when devices connect, and for validating wireless coverage delivered by peers. Using a system called Proof-of-Coverage, Hotspot Miners earn more HNT when they're in range of other miners, but need to be at least 300 metres apart.
