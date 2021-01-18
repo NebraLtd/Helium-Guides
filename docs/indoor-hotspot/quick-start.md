@@ -40,14 +40,14 @@ To configure your Hotspot you will require the Helium Network application instal
 
 **Step 4:** Push the button on the back of the unit once to enable pairing and then press scan on the App. You should then see an entry appear in the app. If you do not press re-scan until it appears.
 
-![Nearby Hotspots](../media/screenshots/nearby.png  ':size=350')
+![Nearby Hotspots](../media/screenshots/nearby.jpg  ':size=350')
 
 **Step 5:** Press the entry for your hotspot in the app, you can check it is the correct one by matching the last 4 characters shown in the application with the last 4 characters of the mac address printed on the sticker on the bottom of the hotspot.
 
 **Step 6:** The app will show the available Wi-Fi networks within range of your Hotspot.
 
 If using Wi-Fi tap on the name of your Wi-Fi network on the app.
-![WiFi SSID list](../media/screenshots/wifiSettings.png  ':size=350')
+![WiFi SSID list](../media/screenshots/wifiSettings.jpg  ':size=350')
 
 If you are using ethernet, tap Use Ethernet Instead which will bring you to this page, then click my hotspot is connected.
-![LongFi Logo](../media/screenshots/ethernet.png  ':size=350')
+![LongFi Logo](../media/screenshots/ethernet.jpg  ':size=350')
