@@ -1,5 +1,8 @@
 <!-- _coverpage.md -->
+![]()
+![Nebra Logo](media/Nebra.svg  ':size=400')
 
-![Nebra Logo](_media/Nebra.svg)
+# Helium Hotspot User Guides
 
-# Helium Hotspot Guides
+
+![color](#f0f0f0)
