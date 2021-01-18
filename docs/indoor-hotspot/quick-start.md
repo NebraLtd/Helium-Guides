@@ -46,8 +46,10 @@ To configure your Hotspot you will require the Helium Network application instal
 
 **Step 6:** The app will show the available Wi-Fi networks within range of your Hotspot.
 
-If using Wi-Fi tap on the name of your Wi-Fi network on the app.
+**If using Wi-Fi,** tap on the name of your Wi-Fi network on the app.
+
 ![WiFi SSID list](../media/screenshots/wifiSettings.jpg  ':size=350')
 
-If you are using ethernet, tap Use Ethernet Instead which will bring you to this page, then click my hotspot is connected.
+**If you are using ethernet,** tap Use Ethernet Instead which will bring you to this page, then click my hotspot is connected.
+
 ![LongFi Logo](../media/screenshots/ethernet.jpg  ':size=350')
