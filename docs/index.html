@@ -32,29 +32,20 @@
         },
         noData: {
           '/': 'No Results'
-        }
-      },
+        },
       nameLink: {
         '/': '/'
       },
       notFoundPage: {
         '/': '_404.md',
-      },
+      }
+    },
+
       plugins: [
         // EditOnGithubPlugin.create(
         //   'https://github.com/njleonzhang/docsify-edit-on-github/blob/master/'
         // ),
-        EditOnGithubPlugin.create(
-          'https://github.com/NebraLtd/Helium-Guides/tree/main/docs',
-          null,
-          function(file) {
-            if (file.indexOf('en') === -1) {
-              return '编辑'
-            } else {
-              return 'edit on git'
-            }
-          }
-        )
+      
       ]
     }
   </script>
