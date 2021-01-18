@@ -24,6 +24,8 @@ Your Nebra Helium Hotspot comes with the following items:
 
 You should then see the lower LED on the back of the unit turn on, the hotspot will now take up to 5 minutes to configure for it’s first boot.
 
+The upper light will turn on when it is ready to continue for configuration.
+
 If you have connected it to a wired ethernet connection this process may take slightly longer as it’ll also perform firmware updates as soon as it gets a connection to the internet.
 
 ## Configuring Your Nebra Indoor Hotspot
