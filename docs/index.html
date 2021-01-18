@@ -13,7 +13,7 @@
 </head>
 <body>
   <div id="app"></div>
-  <script type="text/javascript">
+  <script>
     window.$docsify = {
       name: 'Nebra Helium Guides',
       repo: 'NebraLtd/Helium-Guides',
@@ -21,8 +21,9 @@
       logo: 'media/Nebra.png',
       themeColor: '#03a9f4',
       ga: 'UA-65303113-1',
+      routerMode: 'history', // default: 'hash'
       search: {
-        paths: auto,
+        paths: 'auto',
         maxAge: 43200000,
         placeholder: {
           '/': 'Type to search...'
@@ -32,7 +33,10 @@
         }
       },
       nameLink: {
-      '/': '/'
+        '/': '/'
+      },
+      notFoundPage: {
+        '/': '_404.md',
       },
       auto2top: true,
       plugins: [
@@ -50,9 +54,18 @@
             }
           }
         )
-      ]
+      ],
     }
+  </script>
 
+<!-- Docsify v4 -->
+<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+<script type="text/javascript">
   // #abc -> ?id=abc
   // %23abc -> ?id=abc
   if (/(?:#|%23)([^\/]+)/.test(location.href)) {
@@ -64,12 +77,6 @@
     location.href = location.href.replace('/#/', '/')
   }
 </script>
-<!-- Docsify v4 -->
-<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
+
 </html>
