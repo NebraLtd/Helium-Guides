@@ -1,5 +1,8 @@
 {
   "scripts": {
     "convert": "node_modules/.bin/docsify-pdf-converter"
+  },
+  "devDependencies": {
+  "eslint": "^7.12.1"
   }
 }
