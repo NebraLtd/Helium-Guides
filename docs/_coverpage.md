@@ -5,5 +5,6 @@
 # Helium Hotspot User Guides
 
 [Buy Now](https://www.nebra.com/collections/helium-hotspot-miners-hnt)
+[Getting Started](#helium-hotspot-guides)
 
 ![color](#f0f0f0)
