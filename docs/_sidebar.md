@@ -9,3 +9,4 @@
   - [Outdoor Hotspot Troubleshooting](outdoor-hotspot/troubleshooting.md)
   - [Outdoor Hotspot LTE Configuration](outdoor-hotspot/lte-config.md)
 - [Frequently Asked Questions](FAQs.md)
+- [Distributors](Distributors.md)
