@@ -3,6 +3,8 @@
     "convert": "node_modules/.bin/docsify-pdf-converter"
   },
   "devDependencies": {
-  "eslint": "^7.12.1"
+  		"eslint": "^7.11.0",
+  		"stylelint": "^13.8.0",
+  		"stylelint-config-standard": "^20.0.0"
   }
 }
