@@ -1,5 +1,5 @@
 <!-- _coverpage.md -->
-
+![]()
 ![Nebra Logo](media/Nebra.svg  ':size=400')
 
 # Helium Hotspot User Guides
