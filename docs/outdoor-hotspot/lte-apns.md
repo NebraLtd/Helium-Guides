@@ -2,6 +2,12 @@
 
 Here's a list of APN's we have collected when configuring your 4G / LTE Modem as a quick reference.
 
+#Australia
+
+| Network Name | APN | Number | Username | Passwords | Confirmed Working | Notes |
+| --- | ---  | ---  | ---  | ---  | ---  | --- |
+|  |  |  |  |  |  |  |
+
 # Canada
 
 | Network Name | APN | Number | Username | Passwords | Confirmed Working | Notes |
@@ -26,18 +32,6 @@ Here's a list of APN's we have collected when configuring your 4G / LTE Modem as
 | --- | ---  | ---  | ---  | ---  | ---  | --- |
 |  |  |  |  |  |  |  |
 
-# United States
-
-| Network Name | APN | Number | Username | Passwords | Confirmed Working | Notes |
-| --- | ---  | ---  | ---  | ---  | ---  | --- |
-|  |  |  |  |  |  |  |
-
-#Australia
-
-| Network Name | APN | Number | Username | Passwords | Confirmed Working | Notes |
-| --- | ---  | ---  | ---  | ---  | ---  | --- |
-|  |  |  |  |  |  |  |
-
 # United Kingdom
 
 | Network Name | APN | Number | Username | Passwords | Confirmed Working | Notes |
@@ -54,3 +48,9 @@ Here's a list of APN's we have collected when configuring your 4G / LTE Modem as
 | TalkTalk | mobile.talktalk.co.uk | *99# | wap | wap | No |  |
 | Smarty | mob.asm.net | *99# |  |  | Yes |  |
 | Zevvle | everywhere | *99# | eesecure | secure | Yes |  |
+
+# United States
+
+| Network Name | APN | Number | Username | Passwords | Confirmed Working | Notes |
+| --- | ---  | ---  | ---  | ---  | ---  | --- |
+|  |  |  |  |  |  |  |
