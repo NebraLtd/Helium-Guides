@@ -1,8 +1,42 @@
 # Mobile Network APN List
 
-Here's a list of APN's we have collected when configuring your 4G / LTE Modem.
+Here's a list of APN's we have collected when configuring your 4G / LTE Modem as a quick reference.
 
+# Canada
 
+| Network Name | APN | Number | Username | Passwords | Confirmed Working | Notes |
+| --- | ---  | ---  | ---  | ---  | ---  | --- |
+|  |  |  |  |  |  |  |
+
+# France
+
+| Network Name | APN | Number | Username | Passwords | Confirmed Working | Notes |
+| --- | ---  | ---  | ---  | ---  | ---  | --- |
+|  |  |  |  |  |  |  |
+
+# Italy
+
+| Network Name | APN | Number | Username | Passwords | Confirmed Working | Notes |
+| --- | ---  | ---  | ---  | ---  | ---  | --- |
+|  |  |  |  |  |  |  |
+
+# Spain
+
+| Network Name | APN | Number | Username | Passwords | Confirmed Working | Notes |
+| --- | ---  | ---  | ---  | ---  | ---  | --- |
+|  |  |  |  |  |  |  |
+
+# United States
+
+| Network Name | APN | Number | Username | Passwords | Confirmed Working | Notes |
+| --- | ---  | ---  | ---  | ---  | ---  | --- |
+|  |  |  |  |  |  |  |
+
+#Australia
+
+| Network Name | APN | Number | Username | Passwords | Confirmed Working | Notes |
+| --- | ---  | ---  | ---  | ---  | ---  | --- |
+|  |  |  |  |  |  |  |
 
 # United Kingdom
 
