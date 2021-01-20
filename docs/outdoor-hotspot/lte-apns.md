@@ -9,16 +9,14 @@ Here's a list of APN's we have collected when configuring your 4G / LTE Modem.
 | Network Name | APN | Number | Username | Passwords | Confirmed Working | Notes |
 | --- | ---  | ---  | ---  | ---  | ---  | --- |
 | Three | 3internet | *99# |  |  | No | Very likely to work as Smarty is 3 |
-| GiffGaff | 3internet | *99# |  |  | No |  |
-| O2 | 3internet | *99# |  |  | No |  |
-| Vodafone PAYG | 3internet | *99# |  |  | No |  |
-| Voxi | 3internet | *99# |  |  | No |  |
-| EE - Normal | 3internet | *99# |  |  | No |  |
-| EE - Orange | 3internet | *99# |  |  | No |  |
-| EE - Tmobile | 3internet | *99# |  |  | No |  |
-| Virgin Mobile | 3internet | *99# |  |  | No |  |
-| ASDA Mobile | 3internet | *99# |  |  | No |  |
-| Tesco Mobile | 3internet | *99# |  |  | No |  |
-| TalkTalk | 3internet | *99# |  |  | No |  |
+| GiffGaff | giffgaff.com | *99# | giffgaff |  | No |  |
+| O2 | mobile.o2.co.uk | *99# | o2web | password | No |  |
+| Vodafone PAYG | pp.vodafone.co.uk | *99# | wap | wap | No | Same as Voxi |
+| Voxi | pp.vodafone.co.uk | *99# | wap | wap | Yes |  |
+| EE | 3internet | *99# | eesecure | secure | No | Same as Zevvle |
+| Virgin Mobile | vdata | *99# |  |  | No |  |
+| ASDA Mobile | asdamobiles.co.uk | *99# | web | web | No |  |
+| Tesco Mobile | prepay.tesco-mobile.com | *99# | tescowap | password | No |  |
+| TalkTalk | mobile.talktalk.co.uk | *99# | wap | wap | No |  |
 | Smarty | mob.asm.net | *99# |  |  | Yes |  |
-| Zevvle | everywhere | *99# |  |  | Yes |  |
+| Zevvle | everywhere | *99# | eesecure | secure | Yes |  |
