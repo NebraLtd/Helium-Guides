@@ -2,7 +2,7 @@
 
 Here's a list of APN's we have collected when configuring your 4G / LTE Modem as a quick reference.
 
-#Australia
+# Australia
 
 | Network Name | APN | Number | Username | Passwords | Confirmed Working | Notes |
 | --- | ---  | ---  | ---  | ---  | ---  | --- |
