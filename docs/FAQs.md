@@ -31,5 +31,5 @@ To help you decide we've created this handy guide.
 | Ethernet | <span class="material-icons">check_circle</span> | <span class="material-icons">check_circle</span>  |
 | Wi-Fi | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span>  |
 | Bluetooth | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span>  |
-| Optional 4G | <span class="material-icons">remove_circle</span> | <span class="material-icons">check_circle</span>  |
-| POE | <span class="material-icons">remove_circle</span>  | <span class="material-icons">check_circle</span>  |
+| Optional 4G | <span class="material-icons">remove_circle_outline</span> | <span class="material-icons">check_circle</span>  |
+| POE | <span class="material-icons">remove_circle_outline</span>  | <span class="material-icons">check_circle</span>  |
