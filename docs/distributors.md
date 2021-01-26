@@ -9,7 +9,7 @@ We have a range of distributors and places you can buy our hotspots from.
 
 **Indoor Hotspot:** <http://nebra.io/hntin>
 
-**Outdoor Hotspot:** <http://nebra.io/hntoout>
+**Outdoor Hotspot:** <http://nebra.io/hntout>
 
 ### Pi Supply
 **All regions available.**
