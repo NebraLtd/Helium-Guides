@@ -28,8 +28,8 @@ To help you decide we've created this handy guide.
 | --- | ---  | --- |
 | Case | Plastic (ABS) | Aluminium |
 | Ingress Protection | IP40 | IP67 |
-| Ethernet | <i class="material-icons-two-tone">check_circle</i> | :mi-two-tone check_circle green: |
-| Wi-Fi | :mi-two-tone check_circle green: | :mi-two-tone check_circle green: |
-| Bluetooth | :mi-two-tone check_circle green: | :mi-two-tone check_circle green: |
-| Optional 4G | <span class="material-icons">not_interested</span> | :mi-two-tone check_circle amber: |
-| POE | :mi-two-tone not_interested red: | :mi-two-tone check_circle green: |
+| Ethernet | <span class="material-icons">check_circle</span> | <span class="material-icons">check_circle</span>  |
+| Wi-Fi | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span>  |
+| Bluetooth | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span>  |
+| Optional 4G | <span class="material-icons">remove_circle</span> | <span class="material-icons">check_circle</span>  |
+| POE | <span class="material-icons">remove_circle</span>  | <span class="material-icons">check_circle</span>  |
