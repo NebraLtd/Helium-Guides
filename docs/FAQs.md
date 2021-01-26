@@ -18,6 +18,10 @@ Yes, both units have Bluetooth which is used to communicate to the Helium App fo
 
 Examples of how to set it up can be found in the quick-start guides.
 
+## Are you an approved manufacturer of Helium Hotspots?
+
+Yes, we have passed both HIP19 approval with Helium, and have also had our prototype unit's hardware validated. More details can be found on [Helium's Engineering Blog](https://engineering.helium.com/2021/01/26/maker-audit.html)
+
 ## What is the difference between the Indoor & Outdoor Units?
 
 The biggest difference is the outdoor unit comes in a case which is suitable to be used outside in mixed environments and has a few extra features.
