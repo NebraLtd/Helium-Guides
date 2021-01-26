@@ -30,10 +30,12 @@ To help you decide we've created this handy guide.
 
 | Feature | Nebra Indoor Hotspot | Nebra Outdoor Hotspot |
 | --- | ---  | --- |
+| **Price** | £250 ex VAT | £350 ex VAT |
 | Case | Plastic (ABS) | Aluminium |
 | Ingress Protection | IP40 | IP67 |
 | Ethernet | <span class="material-icons">check_circle</span> | <span class="material-icons">check_circle</span>  |
 | Wi-Fi | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span>  |
 | Bluetooth | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span>  |
 | Optional 4G | <span class="material-icons">remove_circle_outline</span> | <span class="material-icons">check_circle</span>  |
-| POE | <span class="material-icons">remove_circle_outline</span>  | <span class="material-icons">check_circle</span>  |
+| Power Over Ethernet | <span class="material-icons">remove_circle_outline</span>  | <span class="material-icons">check_circle</span>  |
+| Power Adaptor Included | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span>  |
