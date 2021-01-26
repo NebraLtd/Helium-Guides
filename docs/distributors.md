@@ -6,6 +6,8 @@ We have a range of distributors and places you can buy our hotspots from.
 
 ### Nebra LTD.
 
+**Indoor Hotspot** [](http://nebra.io/hntin)
+
 ### Pi Supply
 
 ### Stakebox
