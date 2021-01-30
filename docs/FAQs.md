@@ -54,6 +54,12 @@ We are currently confirming the final model of antenna included with the indoor 
 
 For the outdoor hotspot we are including a 3dBm glass fiber antenna which can be also purchased separately at <https://www.nebra.com/products/rakwireless-glass-fiber-lora-gateway-antenna>.
 
+## What is the power consumption of the Hotspot?
+
+We rate the Indoor hotspot at 15W and the Outdoor hotspot at 18W. However these are the peak values rather than the constant power consumption.
+
+Both units drop to approximately 10W during normal use.
+
 ## Where can I buy the Nebra Helium Hotspots?
 
 We have a growing list of distributors on our [Distributors](distributors.md) page.
