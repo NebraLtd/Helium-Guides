@@ -20,6 +20,10 @@ To help you decide we've created this handy guide.
 | **Power Over Ethernet** | <span class="material-icons">remove_circle_outline</span>  | <span class="material-icons">check_circle</span>  |
 | **Power Adaptor Included** | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span>  |
 
+## What frequency do I need for my country?
+
+We recommend you consult the guide at <https://developer.helium.com/longfi/frequency-plans-by-country> to find which frequency plan matches your country, if you have any questions feel free to message.
+
 ## When will the Nebra Hotspot ship?
 
 We are targeting March 2021 for the Indoor Hotspot, and April 2021 for the Outdoor Hotspot.
