@@ -30,7 +30,7 @@ Yes, both the Indoor & Outdoor Hotspots have Wi-Fi Connectivity with a 2.4Ghz 80
 
 ## What is the Ethernet speed of the units?
 
-Both hotspots have 10/100 Mbps Ethernet connectivity.
+Both hotspots have 10/100 Mbps Ethernet connectivity, this is fast enough for the Helium Network and is typically 2x the speed of most Wi-Fi connections and 4x the speed of LTE connections.
 
 ## Can I add 4G connectivity to my Hotspot?
 
