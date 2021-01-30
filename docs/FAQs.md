@@ -16,7 +16,7 @@ To help you decide we've created this handy guide.
 | **Ethernet** | <span class="material-icons">check_circle</span> | <span class="material-icons">check_circle</span>  |
 | **Wi-Fi** | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span>  |
 | **Bluetooth** | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span>  |
-| **Optional 4G** | <span class="material-icons">remove_circle_outline</span> | <span class="material-icons">check_circle</span>  |
+| **Optional 4G Module** | <span class="material-icons">remove_circle_outline</span> | <span class="material-icons">check_circle</span>  |
 | **Power Over Ethernet** | <span class="material-icons">remove_circle_outline</span>  | <span class="material-icons">check_circle</span>  |
 | **Power Adaptor Included** | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span>  |
 
@@ -77,6 +77,22 @@ We rate the Indoor hotspot at 15W and the Outdoor hotspot at 18W. However these 
 Both units drop to approximately 10W during normal use.
 
 This roughly equates to 0.25-0.3kWh per day or 100kWh per year.
+
+## What power supply is required for the Hotspot?
+
+The indoor hotspot includes a 12V 1.5A Power supply with it.
+
+The outdoor hotspot requires either power over ethernet (POE) or a 9-16V DC Power Supply (Not included).  
+
+We sell a 12V 1.5A power supply that is compatible with it. 
+
+## What POE Injectors can I use with the Outdoor Hotspot?
+
+The POE injector must provide 48V to devices, a 802.3AF compatible injector is recommended.
+
+## Can I use POE with the Indoor Hotspot?
+
+If you wish to use POE with the Indoor Hotspot you will require an active POE splitter that outputs 12V to the unit.
 
 ## Can I mine <Alternative Cryptocurrency>?
 
