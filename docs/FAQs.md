@@ -76,6 +76,8 @@ We rate the Indoor hotspot at 15W and the Outdoor hotspot at 18W. However these 
 
 Both units drop to approximately 10W during normal use.
 
+This roughly equates to 0.25-0.3kWh per day or 100kWh per year.
+
 ## Where can I buy the Nebra Helium Hotspots?
 
 We have a growing list of distributors on our [Distributors](distributors.md) page.
