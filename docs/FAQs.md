@@ -20,6 +20,10 @@ To help you decide we've created this handy guide.
 | **Power Over Ethernet** | <span class="material-icons">remove_circle_outline</span>  | <span class="material-icons">check_circle</span>  |
 | **Power Adaptor Included** | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span>  |
 
+## When will the Nebra Hotspot ship?
+
+We are targeting March 2021 for the Indoor Hotspot, and April 2021 for the Outdoor Hotspot.
+
 ## Does the Nebra Hotspot have Wi-Fi Connectivity?
 
 Yes, both the Indoor & Outdoor Hotspots have Wi-Fi Connectivity with a 2.4Ghz 802.11n Wi-Fi Adaptor included in the units.
