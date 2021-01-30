@@ -80,7 +80,7 @@ This roughly equates to 0.25-0.3kWh per day or 100kWh per year.
 
 ## Can I mine <Alternative Cryptocurrency>?
 
-No, the nebra Helium Hotspots only mine HNT.
+No, the Nebra Helium Hotspots only mine HNT.
 
 ## Where can I buy the Nebra Helium Hotspots?
 
