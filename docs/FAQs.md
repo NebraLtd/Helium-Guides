@@ -34,6 +34,18 @@ You can add an optional 4G module to the outdoor hotspot, this is a module that 
 
 The indoor unit does not have the ability to have a 4G Modem added, you could use a solution like a Mi-fi to achieve this.
 
+## Does the 4G Module require a sim-card?
+
+Yes you will need to sign up to a data plan with a mobile network.
+
+We recommend this as it is typically cheaper to sign up to a local plan than the worldwide sims we could ship with it.
+
+## How much internet data per month does the Hotspot use?
+
+Currently we are roughly estimating 30-50GB per month so recommend a 50GB plan when using 4G.
+
+The actual usage may be slightly less or more and will be something we up-date over time as we start measuring more units.
+
 ## Can I setup my Nebra Hotspot with the Helium App?
 
 Yes, both units have Bluetooth which is used to communicate to the Helium App for initial setup.
