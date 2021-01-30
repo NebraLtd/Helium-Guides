@@ -28,6 +28,12 @@ We are targeting March 2021 for the Indoor Hotspot, and April 2021 for the Outdo
 
 Yes, both the Indoor & Outdoor Hotspots have Wi-Fi Connectivity with a 2.4Ghz 802.11n Wi-Fi Adaptor included in the units.
 
+## How quickly will I be up and running?
+
+The setup process takes about 30 minutes for the indoor hotspot and around an hour for the outdoor hotspot.
+
+After initial setup it takes approximately 24-48 hours to download updates & synchronise with the Helium Blockchain and start mining.
+
 ## What is the Ethernet speed of the units?
 
 Both hotspots have 10/100 Mbps Ethernet connectivity, this is fast enough for the Helium Network and is typically 2x the speed of most Wi-Fi connections and 4x the speed of LTE connections.
