@@ -46,7 +46,7 @@ Yes, we have passed both HIP19 approval with Helium, and have also had our proto
 
 ## What is the antenna connector on the Hotspot?
 
-The indoor unit has a RP-SMA Female Connector on, and the outdoor unit has an N-Type connector on.
+The indoor unit has a RP-SMA Female Connector on, and the outdoor unit has an N-Type female connector on.
 
 ## What antenna is included with the Hotspot?
 
