@@ -82,9 +82,9 @@ This roughly equates to 0.25-0.3kWh per day or 100kWh per year.
 
 The indoor hotspot includes a 12V 1.5A Power supply with it.
 
-The outdoor hotspot requires either power over ethernet (POE) or a 9-16V DC Power Supply (Not included).  
+The outdoor hotspot requires either power over ethernet (POE) or a 9-16V 15W DC Power Supply (Not included) (2.1X5.5mm Barrel Jack).
 
-We sell a 12V 1.5A power supply that is compatible with it. 
+We sell a 12V 1.5A power supply that is compatible with it.
 
 ## What POE Injectors can I use with the Outdoor Hotspot?
 
