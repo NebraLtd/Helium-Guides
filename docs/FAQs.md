@@ -114,6 +114,10 @@ If you wish to use PoE with the Indoor Hotspot you will require an active PoE sp
 
 No, the Nebra Helium Hotspots only mine HNT.
 
+## How do I change HNT to USD or vice versa?
+
+We recommend using [Binance](https://www.binance.us/en/trade/HNT_USD) however other exchanges may be available.
+
 ## Where can I buy the Nebra Helium Hotspots?
 
 We have a growing list of distributors on our [Distributors](distributors.md) page.
