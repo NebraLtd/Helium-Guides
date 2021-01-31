@@ -118,7 +118,7 @@ We recommend using [Binance.us](https://www.binance.us/en/trade/HNT_USD) which a
 
 ## Are there any fees when setting up my Nebra Hotspot?
 
-When setting up a Nebra Helium Hotspot there is a $40 activation fee and a $10 fee when setting the hotspot's location.
+When setting up any Helium Hotspot Miner there is a $40 activation fee and a $10 fee when setting the hotspot's location.
 
 As part of your purchase price we cover the $40 activation fee and the first location assert fee of $10 (worth $50 in total).
 
