@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-**Here's some of the Frequently Asked Questions**
+**Here's some of the most Frequently Asked Questions**
 
 ## What is the difference between the Indoor & Outdoor Units?
 
@@ -18,11 +18,13 @@ To help you decide we've created this handy guide.
 | **Bluetooth** | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span>  |
 | **Optional 4G Module** | <span class="material-icons">remove_circle_outline</span> | <span class="material-icons">check_circle</span>  |
 | **Power Over Ethernet** | <span class="material-icons">remove_circle_outline</span>  | <span class="material-icons">check_circle</span>  |
-| **Power Adaptor Included** | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span>  |
+| **Power Adaptor Included** | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span>*  |
+
+* You can purchase a power supply separately [from our website](https://www.nebra.com/products/nebra-12-volt-1-5-amp-worldwide-power-supply)
 
 ## What frequency do I need for my country?
 
-We recommend you consult the guide at <https://developer.helium.com/longfi/frequency-plans-by-country> to find which frequency plan matches your country, if you have any questions feel free to message.
+We recommend you consult the [frequency plan guide on the Helium website](https://developer.helium.com/longfi/frequency-plans-by-country) to find which frequency plan matches your country, if you have any questions feel free to message.
 
 ## When will the Nebra Hotspot ship?
 
@@ -50,7 +52,7 @@ The indoor unit does not have the ability to have a 4G Modem added, you could us
 
 ## Does the 4G Module require a sim-card?
 
-Yes you will need to sign up to a data plan with a mobile network.
+Yes you will need to sign up to a data plan with a mobile network. You can find more details about seeing up 4G with the outdoor gateway on the [LTE Config page](outdoor-hotspot/lte-config.md).
 
 We recommend this as it is typically cheaper to sign up to a local plan than the worldwide sims we could ship with it.
 
@@ -78,7 +80,7 @@ The indoor unit has a RP-SMA Female Connector on, and the outdoor unit has an N-
 
 We are currently confirming the final model of antenna included with the indoor hotspot.
 
-For the outdoor hotspot we are including a 3dBm glass fiber antenna which can be also purchased separately at <https://www.nebra.com/products/rakwireless-glass-fiber-lora-gateway-antenna>.
+For the outdoor hotspot we are including a 3dBm glass fiber antenna which can also be [purchased separately from our website](https://www.nebra.com/products/rakwireless-glass-fiber-lora-gateway-antenna).
 
 ## What is the power consumption of the Hotspot?
 
@@ -92,19 +94,19 @@ This roughly equates to 0.25-0.3kWh per day or 100kWh per year.
 
 The indoor hotspot includes a 12V 1.5A Power supply with it.
 
-The outdoor hotspot requires either power over ethernet (POE) or a 9-16V 18W DC Power Supply (Not included) (2.1X5.5mm Barrel Jack).
+The outdoor hotspot requires either power over ethernet (PoE) or a 9-16V 18W DC Power Supply (Not included) (2.1 x 5.5mm Barrel Jack).
 
-We sell a 12V 1.5A power supply that is compatible with it.
+We sell a [12V 1.5A power supply](https://www.nebra.com/products/nebra-12-volt-1-5-amp-worldwide-power-supply) that is compatible with the outdoor hotspot.
 
-## What POE Injectors can I use with the Outdoor Hotspot?
+## What PoE Injectors can I use with the Outdoor Hotspot?
 
-The POE injector must provide 48V to devices, a 802.3AF compatible injector is recommended.
+The PoE injector must provide 48V to devices, a 802.3af compatible injector is recommended.
 
-## Can I use POE with the Indoor Hotspot?
+## Can I use PoE with the Indoor Hotspot?
 
-If you wish to use POE with the Indoor Hotspot you will require an active POE splitter that outputs 12V to the unit.
+If you wish to use PoE with the Indoor Hotspot you will require an active PoE splitter that outputs 12V to the unit. Alternatively you can use passive PoE adapters as long as the power provided to the unit is between 9 and 16 Volts and can provide 18W of power.
 
-## Can I mine <Alternative Cryptocurrency>?
+## Can I mine *xyz Alternative Cryptocurrency*?
 
 No, the Nebra Helium Hotspots only mine HNT.
 
