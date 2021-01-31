@@ -110,7 +110,7 @@ The PoE injector must provide 48V to devices, a 802.3af compatible injector is r
 
 If you wish to use PoE with the Indoor Hotspot you will require an active PoE splitter that outputs 12V to the unit. Alternatively you can use passive PoE adapters as long as the power provided to the unit is between 9 and 16 Volts and can provide 18W of power.
 
-## Can I mine *xyz Alternative Cryptocurrency*?
+## Can I mine xyz Alternative Cryptocurrency?
 
 No, the Nebra Helium Hotspots only mine HNT.
 
