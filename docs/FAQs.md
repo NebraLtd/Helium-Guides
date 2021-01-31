@@ -20,7 +20,7 @@ To help you decide we've created this handy guide.
 | **Power Over Ethernet** | <span class="material-icons">remove_circle_outline</span>  | <span class="material-icons">check_circle</span>  |
 | **Power Adaptor Included** | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span>*  |
 
-* You can purchase a power supply separately [from our website](https://www.nebra.com/products/nebra-12-volt-1-5-amp-worldwide-power-supply)
+\* You can purchase a power supply separately [from our website](https://www.nebra.com/products/nebra-12-volt-1-5-amp-worldwide-power-supply)
 
 ## What frequency do I need for my country?
 
