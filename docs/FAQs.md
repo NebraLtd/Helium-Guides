@@ -112,17 +112,19 @@ If you wish to use PoE with the Indoor Hotspot you will require an active PoE sp
 
 No, the Nebra Helium Hotspots only mine HNT.
 
-## How do I change HNT to USD or vice versa?
+## How do I change HNT to normal currency or vice versa?
 
 We recommend using [Binance.us](https://www.binance.us/en/trade/HNT_USD) which allows HNT/USD trades or you can use [Binance.com](https://www.binance.com/en/trade/HNT_BTC) to exchange HNT into Bitcoin and then from Bitcoin into GBP, EUR or other currencies. However other exchanges are also available.
 
 ## Are there any fees when setting up my Nebra Hotspot?
 
-When setting up a Helium Hotspot there is a $40 activation fee and a $10 fee when setting the hotspot's location.
+When setting up a Nebra Helium Hotspot there is a $40 activation fee and a $10 fee when setting the hotspot's location.
 
-As part of your purchase price we cover the $40 activation fee and the first activation fee of $10 (Worth $50 in total).
+As part of your purchase price we cover the $40 activation fee and the first location assert fee of $10 (worth $50 in total).
 
-However every time you move your hotspot to a new location you will need to pay the $10 location fee again.
+However every time you move your hotspot to a new location you will need to pay the $10 location assert fee again.
+
+The full list of Helium transaction fees can be found in the [Helium documentation](https://developer.helium.com/blockchain/transaction-fees).
 
 ## Where can I buy the Nebra Helium Hotspots?
 
