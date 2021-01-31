@@ -16,15 +16,13 @@ To help you decide we've created this handy guide.
 | **Ethernet** | <span class="material-icons">check_circle</span> | <span class="material-icons">check_circle</span>  |
 | **Wi-Fi** | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span>  |
 | **Bluetooth** | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span>  |
-| **Optional 4G Module** | <span class="material-icons">remove_circle_outline</span>* | <span class="material-icons">check_circle</span>  |
-| **Power Over Ethernet** | <span class="material-icons">remove_circle_outline</span>**  | <span class="material-icons">check_circle</span>  |
-| **Power Adaptor Included** | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span>***  |
+| **Optional 4G Module** | <span class="material-icons">remove_circle_outline</span> | <span class="material-icons">check_circle</span>  |
+| **Power Over Ethernet** | <span class="material-icons">remove_circle_outline</span>*  | <span class="material-icons">check_circle</span>  |
+| **Power Adaptor Included** | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span>**  |
 
-\* You can use a USB 4G modem and we will provide a guide on how to do this in the future.
+\* Whilst it doesn't natively support PoE, you can use active or passive PoE injectors/splitters to achieve the same effect. More info [can be found below](#can-i-use-poe-with-the-indoor-hotspot).
 
-\** Whilst it doesn't natively support PoE, you can use active or passive PoE injectors/splitters to achieve the same effect. More info [can be found below](#can-i-use-poe-with-the-indoor-hotspot).
-
-\*** You can purchase a power supply separately [from our website](https://www.nebra.com/products/nebra-12-volt-1-5-amp-worldwide-power-supply).
+\** You can purchase a power supply separately [from our website](https://www.nebra.com/products/nebra-12-volt-1-5-amp-worldwide-power-supply).
 
 ## What frequency do I need for my country?
 
