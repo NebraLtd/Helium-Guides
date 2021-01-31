@@ -104,7 +104,7 @@ We sell a [12V 1.5A power supply](https://www.nebra.com/products/nebra-12-volt-1
 
 ## What PoE Injectors can I use with the Outdoor Hotspot?
 
-The PoE injector must provide 48V to devices, a 802.3af compatible injector is recommended.
+The PoE injector must provide 48V to devices and an 802.3af compatible injector is recommended.
 
 ## Can I use PoE with the Indoor Hotspot?
 
