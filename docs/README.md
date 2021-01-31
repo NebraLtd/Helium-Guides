@@ -6,6 +6,8 @@ The Nebra HNT Hotspot Miners for the Helium Network and LongFi are available to 
 - [Nebra Indoor HNT Hotspot Miner](https://nebra.io/hntin)
 - [Nebra Outdoor HNT Hotspot Miner](https://nebra.io/hntout)
 
+You can also purchase from one of our [growing list of distributors](distributors.md) around the world.
+
 ## Contributing
 
 Coming soon
