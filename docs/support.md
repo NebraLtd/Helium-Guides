@@ -12,7 +12,7 @@ We have a huge amount of guides and information available on [this website](/) i
 
 ## Order information
 
-For information about your order, and assuming you ordered directly from our [Nebra.com shop](https://nebra.com) and not from one of our [distributors](distributors.md), we recommend first taking a look at our [order information page](https://www.nebra.com/pages/order-information). If you still can't find the information you are looking for them please contact us directly via email to [sales@nebra.com](mailto:sales@nebra.com).
+For information about your order, and assuming you ordered directly from our [Nebra.com shop](https://nebra.com) and not from one of our [distributors](distributors.md), we recommend first taking a look at our [order information page](https://www.nebra.com/pages/order-information). If you still can't find the information you are looking for then please contact us directly via email to [sales@nebra.com](mailto:sales@nebra.com).
 
 ## Discord servers
 
