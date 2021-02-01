@@ -4,15 +4,15 @@ Need help setting up your Nebra Hotspot Miners? Have questions about your order?
 
 ## FAQs
 
-Before going anywhere else, we would highly recommend visiting our [FAQs page](FAQs.md) as we have already answered some of the most frequently asked questions there which may provide what you need to know.
+Before going anywhere else, we would highly recommend visiting our [FAQs page](FAQs.md) as we have already answered some of the most frequently asked questions there which may provide what you need to know without you having to wait for a reply!
 
 ## Product guides
 
-We have a huge amount of guides and information available on [this website](https://helium.nebra.com) including 
+We have a huge amount of guides and information available on [this website](/) including how to set up your [indoor](/indoor-hotspot/overview.md) and [outdoor](/outdoor-hotspot/overview.md) miners and much more. It is worth having a browse around and using the search function in the menu as you may find that we have already created a tutorial to help you.
 
 ## Order information
 
-For
+For information about your order, and assuming you ordered directly from our [Nebra.com shop](https://nebra.com) and not from one of our [distributors](distributors.md), we recommend first taking a look at our [order information page](https://www.nebra.com/pages/order-information). If you still can't find the information you are looking for them please contact us directly via email to [sales@nebra.com](mailto: sales@nebra.com).
 
 ## Discord servers
 
