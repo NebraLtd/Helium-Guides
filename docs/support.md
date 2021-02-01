@@ -8,7 +8,7 @@ Before going anywhere else, we would highly recommend visiting our [FAQs page](F
 
 ## Product guides
 
-We have a huge amount of guides and information available on [this website](/) including how to set up your [indoor](/indoor-hotspot/overview.md) and [outdoor](/outdoor-hotspot/overview.md) miners and much more. It is worth having a browse around and using the search function in the menu as you may find that we have already created a tutorial to help you.
+We have a huge amount of guides and information available on [this website](/) including how to set up your [indoor](indoor-hotspot/overview.md) and [outdoor](outdoor-hotspot/overview.md) miners and much more. It is worth having a browse around and using the search function in the menu as you may find that we have already created a tutorial to help you.
 
 ## Order information
 
