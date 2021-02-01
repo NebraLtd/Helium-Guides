@@ -11,3 +11,4 @@
     - [Modem APN list](outdoor-hotspot/lte-apns.md)
 - [Frequently Asked Questions](FAQs.md)
 - [Distributors](distributors.md)
+- [Support](support.md)
