@@ -1,6 +1,6 @@
 # Setting up the Helium App
 
-**Please note this guide is written ready for when the V3 Helium app launches and may not match the process you experience with the V2 application currently available for download**.
+**Please note this guide is written ready for when the V3 Helium app launches and may not match the process you experience with the V2 application currently available for download.**
 
 This guide is designed to help you set-up the Helium Application on your phone.
 
@@ -10,7 +10,7 @@ Start by downloading the App from the Apple App Store or the [Google Play Store]
 
 When you open the Application you should see the following screen, for these instructions we'll be going through creating a new account. If you already have a wallet you should import it instead.
 
-| Android 9 | iOS 14 |
+| Android | Apple |
 | --- | ---  |
 | ![Play Store](../media/screenshots/android/ha-setup-1.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
 
@@ -18,7 +18,7 @@ Tap on Create an Account.
 
 You should then see the following screen explaining that Helium Wallets are protected with a 12 unique word passphrase.
 
-| Android 9 | iOS 14 |
+| Android | Apple |
 | --- | ---  |
 | ![Play Store](../media/screenshots/android/ha-setup-2.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
 
@@ -28,7 +28,7 @@ After that you should then see the first word for your wallet appear.
 
 **As the Helium App says, it is crucial that you write all of the 12 words down in the correct order and store this in a safe location. If you do not you risk not being able to re-gain access to your HNT wallet.**
 
-| Android 9 | iOS 14 |
+| Android | Apple |
 | --- | ---  |
 | ![Play Store](../media/screenshots/android/ha-setup-4.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
 
@@ -36,7 +36,7 @@ Go through and write each word down in order and then tap on I have written thes
 
 You should then see a screen similar to the following asking you to confirm that you've written it down.
 
-| Android 9 | iOS 14 |
+| Android | Apple |
 | --- | ---  |
 | ![Play Store](../media/screenshots/android/ha-setup-5.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
 
@@ -44,7 +44,7 @@ Tap on the word that matches the number it is asking for to proceed with setup.
 
 Then you'll be asked to set a PIN Code which secures your wallet.
 
-| Android 9 | iOS 14 |
+| Android | Apple |
 | --- | ---  |
 | ![Play Store](../media/screenshots/android/ha-setup-6.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
 
@@ -52,7 +52,7 @@ Type in a 6 Digit pin code and then re-enter it to proceed.
 
 Finally you should see the following screen.
 
-| Android 9 | iOS 14 |
+| Android | Apple |
 | --- | ---  |
 | ![Play Store](../media/screenshots/android/ha-setup-7.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
 
