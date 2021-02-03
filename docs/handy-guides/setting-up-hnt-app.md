@@ -14,13 +14,17 @@ When you open the Application you should see the following screen, for these ins
 
 Tap on Create an Account.
 
+You should then see the following screen explaining that Helium Wallets are protected with a 12 unique word passphrase.
+
 | Android 9 | iOS 14 |
 | --- | ---  |
 | ![Play Store](../media/screenshots/android/ha-setup-2.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
 
-| Android 9 | iOS 14 |
-| --- | ---  |
-| ![Play Store](../media/screenshots/android/ha-setup-3.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
+Now click on Generate my 12 words, you should then see a screen then say it is generating the 12 words for your wallet.
+
+After that you should then see the first word for your wallet appear.
+
+**As the Helium App says, it is crucial that you write all of the 12 words down in the correct order and store this in a safe location. If you do not you risk not being able to re-gain access to your HNT wallet.**
 
 | Android 9 | iOS 14 |
 | --- | ---  |
