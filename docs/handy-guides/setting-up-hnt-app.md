@@ -10,6 +10,8 @@ Start by downloading the App from the Apple App Store or the [Google Play Store]
 
 When you open the Application you should see the following screen, for these instructions we'll be going through creating a new account. If you already have a wallet you should import it instead.
 
+**If you are asked to grant permissions to allow Location access this is required for setup of the Hotspots later on.**
+
 | Android | Apple |
 | --- | ---  |
 | ![Play Store](../media/screenshots/android/ha-setup-1.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.jpg  ':size=350') |
