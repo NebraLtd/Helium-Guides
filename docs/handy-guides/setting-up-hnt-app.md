@@ -6,4 +6,6 @@ The Helium Application is typically used as your HNT Wallet, along with the abil
 
 Start by downloading the App from the Apple App Store or the [Google Play Store](https://play.google.com/store/apps/details?id=com.helium.wallet) depending on your phone.
 
-![Play Store](../media/screenshots/android/ph.png  ':size=350') ![Apple Store](../media/screenshots/ios/ph.png  ':size=350')
+| Android 9 | iOS 14 |
+| --- | ---  |
+| ![Play Store](../media/screenshots/android/ph.png  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
