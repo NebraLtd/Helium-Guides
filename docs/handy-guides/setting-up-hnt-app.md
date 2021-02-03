@@ -1,5 +1,7 @@
 # Setting up the Helium App
 
+**Please note this guide is written ready for when the V3 Helium app launches and may not match the process you experience with the V2 application currently available for download**.
+
 This guide is designed to help you set-up the Helium Application on your phone.
 
 The Helium Application is typically used as your HNT Wallet, along with the ability to setup your Hotspot via it.
