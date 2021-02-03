@@ -30,14 +30,28 @@ After that you should then see the first word for your wallet appear.
 | --- | ---  |
 | ![Play Store](../media/screenshots/android/ha-setup-4.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
 
+Go through and write each word down in order and then tap on I have written these down.
+
+You should then see a screen similar to the following asking you to confirm that you've written it down.
+
 | Android 9 | iOS 14 |
 | --- | ---  |
 | ![Play Store](../media/screenshots/android/ha-setup-5.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
+
+Tap on the word that matches the number it is asking for to proceed with setup.
+
+Then you'll be asked to set a PIN Code which secures your wallet.
 
 | Android 9 | iOS 14 |
 | --- | ---  |
 | ![Play Store](../media/screenshots/android/ha-setup-6.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
 
+Type in a 6 Digit pin code and then re-enter it to proceed.
+
+Finally you should see the following screen.
+
 | Android 9 | iOS 14 |
 | --- | ---  |
 | ![Play Store](../media/screenshots/android/ha-setup-7.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
+
+Your wallet is now all setup, for now press not right now for setting up a New Hotspot as we will continue hotspot setup in their respective guides.
