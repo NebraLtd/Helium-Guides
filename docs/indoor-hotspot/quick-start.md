@@ -70,3 +70,21 @@ To configure your Hotspot you will require the Helium Network application instal
 | Android | Apple |
 | --- | ---  |
 | ![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+
+**Step 7:** The app will then confirm that the adding a hotspot fee is waived and proceed through adding the hotspot.
+
+| Android | Apple |
+| --- | ---  |
+| ![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+
+**Step 8:** Finally you can confirm the location of your hotspot which the fee is also waived for the first time. Click continue and you should be presented with a map to then place where your hotspot is on the app.
+
+| Android | Apple |
+| --- | ---  |
+| ![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+
+**Step 9:** The setup should now be complete, it'll submit the details of the Hotspot to the Helium network and then within 15 minutes confirm it's added to the network.
+
+| Android | Apple |
+| --- | ---  |
+| ![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
