@@ -108,6 +108,16 @@ The PoE injector must provide 48V to devices and an 802.3af compatible injector 
 
 If you wish to use PoE with the Indoor Hotspot you will require an active PoE splitter that outputs 12V to the unit. Alternatively you can use passive PoE adapters as long as the power provided to the unit is between 9 and 16 Volts and can provide 18W of power.
 
+## What is the Hashrate of the Nebra Hotspots?
+
+Due to how HNT works, coins are not mined traditionally where a hashrate affects the amount earned. How it is earned is explained on the [Helium Website](https://www.helium.com/mine).
+
+## How much HNT will my hotspot earn?
+
+Compared to other cryptocurrencies there isn't a constant amount of HNT earned per day by the units due to the variations on a setup to setup basis.
+
+To get a rough idea, we recommend to have a look at the [Helium Explorer](https://explorer.helium.com/coverage) at other hotspots in your area.
+
 ## Can I mine xyz Alternative Cryptocurrency?
 
 No, the Nebra Helium Hotspots only mine HNT.
