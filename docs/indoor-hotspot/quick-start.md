@@ -10,6 +10,13 @@ Your Nebra Helium Hotspot comes with the following items:
 * Worldwide 12V 1.5A Power Adapter
 * 1M CAT5 Ethernet Cable
 
+### Warnings
+Please remember to follow the following steps when using your Nebra Indoor Hotspot.
+
+* Never power on the Indoor hotspot without it's antenna connected as this may damage the unit.
+* Do not place in direct sunlight or on hot surfaces (e.g a Heater).
+* The Indoor unit's case is designed suitable for use outside and is not waterproof.
+
 ### Preparing Your Nebra Indoor Hotspot
 
 **Step 1:** First screw in the included antenna into the connector on the back of the hotspot.
