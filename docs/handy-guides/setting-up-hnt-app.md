@@ -8,4 +8,28 @@ Start by downloading the App from the Apple App Store or the [Google Play Store]
 
 | Android 9 | iOS 14 |
 | --- | ---  |
-| ![Play Store](../media/screenshots/android/ph.png  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
+| ![Play Store](../media/screenshots/android/ha-setup-1.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
+
+| Android 9 | iOS 14 |
+| --- | ---  |
+| ![Play Store](../media/screenshots/android/ha-setup-2.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
+
+| Android 9 | iOS 14 |
+| --- | ---  |
+| ![Play Store](../media/screenshots/android/ha-setup-3.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
+
+| Android 9 | iOS 14 |
+| --- | ---  |
+| ![Play Store](../media/screenshots/android/ha-setup-4.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
+
+| Android 9 | iOS 14 |
+| --- | ---  |
+| ![Play Store](../media/screenshots/android/ha-setup-5.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
+
+| Android 9 | iOS 14 |
+| --- | ---  |
+| ![Play Store](../media/screenshots/android/ha-setup-6.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
+
+| Android 9 | iOS 14 |
+| --- | ---  |
+| ![Play Store](../media/screenshots/android/ha-setup-7.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.png  ':size=350') |
