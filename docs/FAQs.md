@@ -136,6 +136,14 @@ However every time you move your hotspot to a new location you will need to pay 
 
 The full list of Helium transaction fees can be found in the [Helium documentation](https://developer.helium.com/blockchain/transaction-fees).
 
+## What is the tariff code for these products?
+
+Tariff codes (also known as HS codes, HTS codes or HTSUS codes) are required by most countries when importing goods into the country. We provide these codes to the courier company at the time of shipping but sometimes it is also useful or necessary to have them on the receiver side also.
+
+We have identified that the tariff code [8517610000](https://www.trade-tariff.service.gov.uk/commodities/8517610000) is the best for the Nebra Helium Hotspots.
+
+However if your are not able to find that code in your country's system you can also try [8517620000](https://www.trade-tariff.service.gov.uk/commodities/8517620000) or [8517.62.0090](https://hts.usitc.gov/?query=8517.62.0090) as these are also valid for this product type.
+
 ## Where can I buy the Nebra Helium Hotspots?
 
 We have a growing list of distributors on our [Distributors](distributors.md) page.
