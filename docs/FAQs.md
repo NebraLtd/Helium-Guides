@@ -26,7 +26,9 @@ To help you decide we've created this handy guide.
 
 ## What frequency do I need for my country?
 
-We recommend you consult the [frequency plan guide on the Helium website](https://developer.helium.com/longfi/frequency-plans-by-country) to find which frequency plan matches your country, if you have any questions feel free to message.
+We recommend you consult the [frequency plan guide on the TTN website](https://www.thethingsnetwork.org/docs/lorawan/frequencies-by-country.html) to find which frequency plan matches your country, if you have any questions feel free to message.
+
+While TTN is a different LoRa network the same frequency plans apply.
 
 ## When will the Nebra Hotspot ship?
 
