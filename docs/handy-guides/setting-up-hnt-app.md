@@ -14,7 +14,7 @@ When you open the Application you should see the following screen, for these ins
 
 | Android | Apple |
 | --- | ---  |
-| ![Play Store](../media/screenshots/android/ha-setup-1.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.jpg  ':size=350') |
+| ![Play Store](../media/screenshots/android/ha-setup-1.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ha-setup-1.jpg  ':size=350') |
 
 Tap on Create an Account.
 
@@ -22,7 +22,7 @@ You should then see the following screen explaining that Helium Wallets are prot
 
 | Android | Apple |
 | --- | ---  |
-| ![Play Store](../media/screenshots/android/ha-setup-2.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.jpg  ':size=350') |
+| ![Play Store](../media/screenshots/android/ha-setup-2.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ha-setup-2.jpg  ':size=350') |
 
 Now click on Generate my 12 words, you should then see a screen then say it is generating the 12 words for your wallet.
 
@@ -32,7 +32,7 @@ After that you should then see the first word for your wallet appear.
 
 | Android | Apple |
 | --- | ---  |
-| ![Play Store](../media/screenshots/android/ha-setup-4.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ph.jpg  ':size=350') |
+| ![Play Store](../media/screenshots/android/ha-setup-4.jpg  ':size=350') | ![Apple Store](../media/screenshots/ios/ha-setup-4.jpg  ':size=350') |
 
 Go through and write each word down in order and then tap on I have written these down.
 
