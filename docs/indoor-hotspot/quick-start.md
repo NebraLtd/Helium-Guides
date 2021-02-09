@@ -43,7 +43,28 @@ To configure your Hotspot you will require the Helium Network application instal
 
 **Step 2:** Next click Set up Hotspot , from here you will want to select Nebra Indoor Hotspot.
 
-**Step 3:** Follow the steps of setting up the hotspot until you reach the scan for hotspots page.
+| Android | Apple |
+| --- | ---  |
+| ![Android Placeholder](../media/screenshots/android/hot-setup-1.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+
+**Step 3:**
+
+| Android | Apple |
+| --- | ---  |
+| ![Android Placeholder](../media/screenshots/android/hot-setup-2.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+
+**Step 3:**
+
+| Android | Apple |
+| --- | ---  |
+| ![Android Placeholder](../media/screenshots/android/hot-i-setup-3.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+
+**Step 3:**
+
+| Android | Apple |
+| --- | ---  |
+| ![Android Placeholder](../media/screenshots/android/hot-i-setup-4.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+
 
 **Step 4:** Push the button on the back of the unit once to enable pairing and then press scan on the App. You should then see an entry appear in the app. If you do not press re-scan until it appears.
 
