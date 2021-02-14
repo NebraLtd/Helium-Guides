@@ -52,3 +52,16 @@ We have a range of distributors and places you can buy our hotspots from.
 **Indoor Hotspot:** <https://www.distrelec.biz/search?q=hnt+indoor+hotspot+miner&sid=96bab46c3feb0932753885b2bbce885d9d3483d3>
 
 **Outdoor Hotspot:** <https://www.distrelec.biz/search?q=hnt+outdoor+hotspot+miner&sid=96bab46c3feb0932753885b2bbce885d9d3483d3>
+
+### Yadom
+**Only EU868 available.**
+
+**Indoor Hotspot:** <https://yadom.fr/nebra-hnt-indoor-lorawan-helium-hotspot-miners.html>
+
+**Outdoor Hotspot:** <https://yadom.fr/nebra-hnt-outdoor-lorawan-helium-hotspot-miners.html>
+
+### Mauser
+**Only EU868 available.**
+
+**Indoor Hotspot:** <https://mauser.pt/catalog/product_info.php?products_id=096-9498>
+
