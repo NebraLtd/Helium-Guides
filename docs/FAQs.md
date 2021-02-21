@@ -24,6 +24,8 @@ To help you decide we've created this handy guide.
 
 \** You can purchase a power supply separately [from our website](https://www.nebra.com/products/nebra-12-volt-1-5-amp-worldwide-power-supply).
 
+### For more Hardware related FAQs please visit the respective [Indoor FAQ](/indoor-hotspot/indoor-faq.md) & [Outdoor FAQ](/outdoor-hotspot/outdoor-faq.md) pages for more.
+
 ## What frequency do I need for my country?
 
 We recommend you consult the [frequency plan guide on the TTN website](https://www.thethingsnetwork.org/docs/lorawan/frequencies-by-country.html) to find which frequency plan matches your country, if you have any questions feel free to message.
