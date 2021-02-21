@@ -17,16 +17,6 @@ Ensure Bluetooth is turned on as this is how the application communicates with y
 
 You will have had to have granted location permissions for the Application to access Bluetooth services correctly.
 
-### How long does it take for my Hotspot to sync with the network?
-
-This can vary depending on your internet connection's speed, However in our testing it takes approximately 24-48 hours for the initial synchronisation to be completed.
-
-### How much power does the Indoor Hotspot Consume?
-
-The Indoor Hotspot roughly consumes 10-15W from the wall on average. Roughly the same as an internet router or phone charging.
-
-This equates to roughly £20 / $20 a year based on average electricity costs.
-
 ### My unit is not detecting Wi-Fi networks:
 
 You may find that sometimes your wi-fi network may not show in the application if the signal is poor where the Hotspot is located.

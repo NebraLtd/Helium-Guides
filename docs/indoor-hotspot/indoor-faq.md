@@ -20,3 +20,7 @@ We are currently confirming the final model of antenna included with the indoor 
 ## Can I use PoE with the Indoor Hotspot?
 
 If you wish to use PoE with the Indoor Hotspot you will require an active PoE splitter that outputs 12V to the unit. Alternatively you can use passive PoE adapters as long as the power provided to the unit is between 9 and 16 Volts and can provide 15W of power.
+
+### How long does it take for my Hotspot to sync with the network?
+
+This can vary depending on your internet connection's speed, However in our testing it takes approximately 24-48 hours for the initial synchronisation to be completed.

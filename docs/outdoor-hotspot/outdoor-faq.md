@@ -29,3 +29,7 @@ For the outdoor hotspot we are including a 3dBm glass fiber antenna which can al
 ## Does the Wi-Fi module have an external antenna?
 
 No, we are including a more basic Wi-Fi adaptor which is suitable for short range, you can potentially replace the wi-fi adaptor with one with this ability.
+
+### How long does it take for my Hotspot to sync with the network?
+
+This can vary depending on your internet connection's speed, However in our testing it takes approximately 24-48 hours for the initial synchronisation to be completed.
