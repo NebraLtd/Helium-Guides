@@ -48,23 +48,6 @@ After initial setup it takes approximately 24-48 hours to download updates & syn
 
 Both hotspots have 10/100 Mbps Ethernet connectivity, this is fast enough for the Helium Network and is typically 2x the speed of most Wi-Fi connections and 4x the speed of LTE connections.
 
-## Can I add 4G connectivity to my Hotspot?
-
-You can add an optional 4G module to the outdoor hotspot, this is a module that is simple to install when you receive your hotspot. We'll have a guide on how to do this at </outdoor-hotspot/lte-config>
-
-The indoor unit does not have the ability to have a 4G Modem added, you could use a solution like a Mi-fi to achieve this.
-
-## Does the 4G Module require a sim-card?
-
-Yes you will need to sign up to a data plan with a mobile network. You can find more details about seeing up 4G with the outdoor gateway on the [LTE Config page](outdoor-hotspot/lte-config.md).
-
-We recommend this as it is typically cheaper to sign up to a local plan than the worldwide sims we could ship with it.
-
-## How much internet data per month does the Hotspot use?
-
-Currently we are roughly estimating 30-50GB per month so recommend a 50GB plan when using 4G.
-
-The actual usage may be slightly less or more and will be something we up-date over time as we start measuring more units.
 
 ## Can I setup my Nebra Hotspot with the Helium App?
 
@@ -76,39 +59,14 @@ Examples of how to set it up can be found in the quick-start guides.
 
 Yes, we have passed both HIP19 approval with Helium, and have also had our prototype unit's hardware validated. More details can be found on [Helium's Engineering Blog](https://engineering.helium.com/2021/01/26/maker-audit.html)
 
-## What is the antenna connector on the Hotspot?
-
-The indoor unit has a RP-SMA Female Connector on, and the outdoor unit has an N-Type female connector on.
-
-## What antenna is included with the Hotspot?
-
-We are currently confirming the final model of antenna included with the indoor hotspot.
-
-For the outdoor hotspot we are including a 3dBm glass fiber antenna which can also be [purchased separately from our website](https://www.nebra.com/products/rakwireless-glass-fiber-lora-gateway-antenna).
-
 ## What is the power consumption of the Hotspot?
 
-We rate the Indoor hotspot at 15W and the Outdoor hotspot at 18W. However these are the peak values rather than the constant power consumption.
+You can view the power consumption for the Hotspot's on their respective Overview Pages.
 
-Both units drop to approximately 10W during normal use.
-
-This roughly equates to 0.25-0.3kWh per day or 100kWh per year.
-
-## What power supply is required for the Hotspot?
-
-The indoor hotspot includes a 12V 1.5A Power supply with it.
-
-The outdoor hotspot requires either power over ethernet (PoE) or a 9-16V 18W DC Power Supply (Not included) (2.1 x 5.5mm Barrel Jack).
-
-We sell a [12V 1.5A power supply](https://www.nebra.com/products/nebra-12-volt-1-5-amp-worldwide-power-supply) that is compatible with the outdoor hotspot.
 
 ## What PoE Injectors can I use with the Outdoor Hotspot?
 
 The PoE injector must provide 48V to devices and an 802.3af compatible injector is recommended.
-
-## Can I use PoE with the Indoor Hotspot?
-
-If you wish to use PoE with the Indoor Hotspot you will require an active PoE splitter that outputs 12V to the unit. Alternatively you can use passive PoE adapters as long as the power provided to the unit is between 9 and 16 Volts and can provide 18W of power.
 
 ## What is the Hashrate of the Nebra Hotspots?
 
