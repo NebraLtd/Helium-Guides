@@ -18,5 +18,5 @@ The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium
 | **Network Connectivity** | 10/100 Ethernet, 2.4Ghz 802.11N Wi-Fi, Optional 4G Module available separately.|
 | **Antenna Connection** | N Type Female |
 
-###### * Average Power Consumption Measured At Mains,
+###### * Average Power Consumption Measured At Mains, higher average consumption when the optional 4G Module is used.
 ###### ** Maximum TX Power may be capped to a lower amount in some regions.
