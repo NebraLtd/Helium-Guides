@@ -32,7 +32,7 @@ While TTN is a different LoRa network the same frequency plans apply.
 
 ## When will the Nebra Hotspot ship?
 
-We are targeting March 2021 for the Indoor Hotspot, and April 2021 for the Outdoor Hotspot.
+We're updating shipping times based on when orders are placed, please refer to the sales website for current ETAs.
 
 ## Does the Nebra Hotspot have Wi-Fi Connectivity?
 
