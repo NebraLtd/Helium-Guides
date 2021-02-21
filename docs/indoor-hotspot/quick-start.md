@@ -43,69 +43,47 @@ To configure your Hotspot you will require the Helium Network application instal
 
 **Step 2:** Next click Set up Hotspot , from here you will want to select Nebra Indoor Hotspot.
 
-| Android | Apple |
-| --- | ---  |
-| ![Android Placeholder](../media/screenshots/android/hot-setup-1.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+![Android Placeholder](../media/screenshots/android/hot-setup-1.jpg  ':size=350')
 
 **Step 3:**
 
-| Android | Apple |
-| --- | ---  |
-| ![Android Placeholder](../media/screenshots/android/hot-setup-2.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+![Android Placeholder](../media/screenshots/android/hot-setup-2.jpg  ':size=350')
 
 **Step 3:**
 
-| Android | Apple |
-| --- | ---  |
-| ![Android Placeholder](../media/screenshots/android/hot-i-setup-3.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+![Android Placeholder](../media/screenshots/android/hot-i-setup-3.jpg  ':size=350')
 
 **Step 3:**
 
-| Android | Apple |
-| --- | ---  |
-| ![Android Placeholder](../media/screenshots/android/hot-i-setup-4.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+![Android Placeholder](../media/screenshots/android/hot-i-setup-4.jpg  ':size=350')
 
 
 **Step 4:** Push the button on the back of the unit once to enable pairing and then press scan on the App. You should then see an entry appear in the app. If you do not press re-scan until it appears.
 
-| Android | Apple |
-| --- | ---  |
-| ![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350')
 
 **Step 5:** Press the entry for your hotspot in the app, you can check it is the correct one by matching the last 6 characters shown in the application with the last 6 characters of the mac address printed on the sticker on the bottom of the hotspot.
 
-| Android | Apple |
-| --- | ---  |
-| ![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350')
 
 **Step 6:** The app will show the available Wi-Fi networks within range of your Hotspot.
 
 **If using Wi-Fi,** tap on the name of your Wi-Fi network on the app.
 
-| Android | Apple |
-| --- | ---  |
-| ![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350')
 
 **If you are using ethernet,** tap Use Ethernet Instead which will bring you to this page, then click my hotspot is connected.
 
-| Android | Apple |
-| --- | ---  |
-| ![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350')
 
 **Step 7:** The app will then confirm that the adding a hotspot fee is waived and proceed through adding the hotspot.
 
-| Android | Apple |
-| --- | ---  |
-| ![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350')
 
 **Step 8:** Finally you can confirm the location of your hotspot which the fee is also waived for the first time. Click continue and you should be presented with a map to then place where your hotspot is on the app.
 
-| Android | Apple |
-| --- | ---  |
-| ![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350')
 
 **Step 9:** The setup should now be complete, it'll submit the details of the Hotspot to the Helium network and then within 15 minutes confirm it's added to the network.
 
-| Android | Apple |
-| --- | ---  |
-| ![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350') | ![Apple Placeholder](../media/screenshots/ios/ph.jpg  ':size=350') |
+![Android Placeholder](../media/screenshots/android/ph.jpg  ':size=350')
