@@ -21,6 +21,14 @@ You will have had to have granted location permissions for the Application to ac
 
 You may find that sometimes your wi-fi network may not show in the application if the signal is poor where the Hotspot is located.
 
+### Updating your Nebra Hotspot
+
+If after completing initial troubleshooting steps above you're still having issues, or you are advised to you may find your issues can be resolved by ensuring it is running the latest up to date software.
+
+Nebra Hotspots automatically update once connected to the internet, if you are using an ethernet connection leaving the hotspot for around half an hour should ensure all updates are downloaded.
+
+If you are having difficulties connecting your Hotspot to Wi-Fi, then it would be recommended to move it to a location where you can plug it into an Ethernet connection for half an hour to let it perform updates. Then move it back to the normal location and re-try setup.
+
 ## Still having trouble?
 
-If the above tips haven't been able to resolve your issue then get in touch at https://nebra.io/helium-support and we'll work on resolving your issue.
+If the above tips haven't been able to resolve your issue then get in touch at https://nebra.io/helium-support and we'll work on resolving your issue. But be sure to please perform the steps above to perform the update process.
