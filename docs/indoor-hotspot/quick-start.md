@@ -1,4 +1,4 @@
-.png# Indoor Hotspot Quick Start Guide
+# Indoor Hotspot Quick Start Guide
 
 ## Chapter 1: Hardware Setup
 
