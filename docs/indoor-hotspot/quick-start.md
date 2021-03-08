@@ -46,7 +46,7 @@ To configure your Hotspot you will require the Helium Network application instal
 ![Android Placeholder](../media/screenshots/ios/hs-02.png  ':size=350')
 
 
-**Step 3:** Push the button on the back of the unit once to enable pairing and then press scan on the App.
+**Step 3:** After following the steps on the App to get to this page, Push the button on the back of the unit once to enable pairing and then press scan on the App.
 
 ![Android Placeholder](../media/screenshots/ios/hs-06.png  ':size=350')
 
@@ -60,9 +60,7 @@ To configure your Hotspot you will require the Helium Network application instal
 
 ![Android Placeholder](../media/screenshots/ios/ph.png  ':size=350')
 
-**If you are using ethernet,** tap Use Ethernet Instead which will bring you to this page, then click my hotspot is connected.
-
-![Android Placeholder](../media/screenshots/ios/ph.png  ':size=350')
+**If you are using ethernet,** tap Use Ethernet Instead which will take you to Step 7.
 
 **Step 7:** The app will then ask for you to set your hotspot's location.
 
