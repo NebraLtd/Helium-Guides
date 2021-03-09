@@ -11,7 +11,7 @@
     - [Modem APN list](outdoor-hotspot/lte-apns.md)
 - [Frequently Asked Questions](FAQs.md)
 - [Distributors](distributors.md)
-- [Handy Guides]
+- [Handy Guides](handy-guides.md)
   - [Setting Up the Helium App](handy-guides/setting-up-hnt-app.md)
 - [Contributing](contributing/overview.md)
   - [Translations](contributing/translations.md)
