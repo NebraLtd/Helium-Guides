@@ -7,7 +7,7 @@ If you are having trouble with setting up your hotspot or got a query?, the foll
 You should see the lower light on the back of the unit turn on as soon as power is applied.
 If this is the case, ensure the power supply is firmly plugged into the wall outlet, the power jack is plugged into the unit and that the wall outlet is switched on.
 
-Only the lower light will turn on to begin with until the unit is running.
+You should see 3 Lights show on the mainboard of the unit.
 
 ### My hotspot is not showing in the Helium App:
 
