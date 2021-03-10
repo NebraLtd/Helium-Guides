@@ -23,7 +23,7 @@ Please remember to follow the following steps when using your Nebra Indoor Hotsp
 
 **Step 2:** Next find a suitable location for your Hotspot to be positioned, to provide the best coverage we recommend placing it near a window just out of direct sunlight. You’ll need to be near a mains power source too.
 
-**Step 3:** If you are using a wired ethernet connection, connect an ethernet cable between a router or switch and the ethernet jack on the Hotspot.
+**Step 3:** If you are using a wired Ethernet connection, connect an Ethernet cable between a router or switch and the Ethernet jack on the Hotspot.
 
 **Step 4:** Fit the appropriate power plug for your country onto the universal power supply and plug it into a mains outlet.
 
@@ -33,7 +33,7 @@ You should then see the lower LED on the back of the unit turn on, the hotspot w
 
 The upper light will turn on when it is ready to continue for configuration.
 
-If you have connected it to a wired ethernet connection this process may take slightly longer as it’ll also perform firmware updates as soon as it gets a connection to the internet.
+If you have connected it to a wired Ethernet connection this process may take slightly longer as it’ll also perform firmware updates as soon as it gets a connection to the internet.
 
 ## Configuring Your Nebra Indoor Hotspot
 
