@@ -8,6 +8,13 @@ This tutorial will walk you through installing and configuring a 4G / LTE modem.
 
 ## Required Hardware
 
-
+* 4G Module
+* 2 X 4G Antenna
+* 2 X N Type to U.FL Bulkhead
 
 ## Installing the 4G Module & Sim Card
+
+![LTE](../media/photos/lte-1.png  ':size=350')
+![LTE](../media/photos/lte-2.png  ':size=350')
+![LTE](../media/photos/lte-3.png  ':size=350')
+![LTE](../media/photos/lte-4.png  ':size=350')
