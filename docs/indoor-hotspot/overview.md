@@ -17,6 +17,7 @@ The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Heliu
 | **Maximum TX Power** | 24-27dBm** |
 | **Network Connectivity** | 10/100 Ethernet, 2.4Ghz 802.11N Wi-Fi |
 | **Antenna Connection** | RP-SMA Female |
+| **Rated Environment Temperature** | 20-30C |
 
 ###### * Average Power Consumption Measured At Mains,
 ###### ** Maximum TX Power may be capped to a lower amount in some regions.
