@@ -14,7 +14,7 @@ This tutorial will walk you through installing and configuring a 4G / LTE modem.
 
 ## Installing the 4G Module & Sim Card
 
-![LTE](../media/photos/lte-1.png  ':size=350')
-![LTE](../media/photos/lte-2.png  ':size=350')
-![LTE](../media/photos/lte-3.png  ':size=350')
-![LTE](../media/photos/lte-4.png  ':size=350')
+![LTE](../media/photos/lte-1.jpg  ':size=350')
+![LTE](../media/photos/lte-2.jpg  ':size=350')
+![LTE](../media/photos/lte-3.jpg  ':size=350')
+![LTE](../media/photos/lte-4.jpg  ':size=350')
