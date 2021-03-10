@@ -3,7 +3,7 @@
 ## Chapter 1: Hardware Setup
 
 ### Box Contents
-Your Nebra Helium Hotspot comes with the following items:
+Your Nebra Indoor Helium Hotspot comes with the following items:
 
 * The Nebra Helium Indoor Hotspot
 * RP-SMA LoRa Antenna
