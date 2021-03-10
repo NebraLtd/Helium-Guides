@@ -56,11 +56,15 @@ To configure your Hotspot you will require the Helium Network application instal
 
 **Step 6:** The app will show the available Wi-Fi networks within range of your Hotspot.
 
-**If using Wi-Fi,** tap on the name of your Wi-Fi network on the app.
+![Android Placeholder](../media/screenshots/ios/hs-10.png  ':size=350')
 
-![Android Placeholder](../media/screenshots/ios/ph.png  ':size=350')
+**If you are using Ethernet,** tap Use Ethernet Instead and skip to Step 7.
 
-**If you are using ethernet,** tap Use Ethernet Instead which will take you to Step 7.
+**If using Wi-Fi,** tap on the name of your Wi-Fi network on the app which will bring you to the following screen.
+
+![Android Placeholder](../media/screenshots/ios/hs-11.png  ':size=350')
+
+Type in your Wi-Fi's network password then tap Connect and it should connect to your wi-fi network.
 
 **Step 7:** The app will then ask for you to set your hotspot's location.
 
