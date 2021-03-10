@@ -74,6 +74,6 @@ Type in your Wi-Fi's network password then tap Connect and it should connect to 
 
 ![Android Placeholder](../media/screenshots/ios/hs-17.png  ':size=350')
 
-**Step 9:** The setup should now be complete, it'll submit the details of the Hotspot to the Helium network and then within 15 minutes confirm it's added to the network.
+**Step 9:** The setup should now be complete, it'll submit the details of the Hotspot to the Helium network and then in approximately 15 minutes confirm it's added to the network.
 
 ![Android Placeholder](../media/screenshots/ios/hs-18.png  ':size=350')
