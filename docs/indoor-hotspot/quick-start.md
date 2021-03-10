@@ -1,8 +1,6 @@
 # Indoor Hotspot Quick Start Guide
 
-## Chapter 1: Hardware Setup
-
-### Box Contents
+## Box Contents
 Your Nebra Indoor Helium Hotspot comes with the following items:
 
 * The Nebra Helium Indoor Hotspot
@@ -10,20 +8,23 @@ Your Nebra Indoor Helium Hotspot comes with the following items:
 * Worldwide 12V 1.5A Power Adapter
 * 1M CAT5 Ethernet Cable
 
-### Warnings
+## Warnings
 Please remember to follow the following steps when using your Nebra Indoor Hotspot.
 
 * Never power on the Indoor hotspot without it's antenna connected as this may damage the unit.
 * Do not place in direct sunlight or on hot surfaces (e.g a Heater).
 * The Indoor unit's case is designed suitable for use outside and is not waterproof.
 
-### Preparing Your Nebra Indoor Hotspot
+## Preparing Your Nebra Indoor Hotspot
 
-**Step 1:** First screw in the included antenna into the connector on the back of the hotspot.
+### Step 1:
+First screw in the included antenna into the connector on the back of the hotspot.
 
-**Step 2:** Next find a suitable location for your Hotspot to be positioned, to provide the best coverage we recommend placing it near a window just out of direct sunlight. You’ll need to be near a mains power source too.
+### Step 2:
+Next find a suitable location for your Hotspot to be positioned, to provide the best coverage we recommend placing it near a window just out of direct sunlight. You’ll need to be near a mains power source too.
 
-**Step 3:** If you are using a wired Ethernet connection, connect an Ethernet cable between a router or switch and the Ethernet jack on the Hotspot.
+### Step 3:
+If you are using a wired Ethernet connection, connect an Ethernet cable between a router or switch and the Ethernet jack on the Hotspot.
 
 **Step 4:** Fit the appropriate power plug for your country onto the universal power supply and plug it into a mains outlet.
 
