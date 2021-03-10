@@ -41,37 +41,37 @@ To configure your Hotspot you will require the Helium Network application instal
 
 **Step 2:** Next click Set up Hotspot , from here you will want to select Nebra Indoor Hotspot.
 
-![Android Placeholder](../media/screenshots/ios/hs-02.png  ':size=350')
+![Choose your Hotspot](../media/screenshots/ios/hs-02.png  ':size=350')
 
 
 **Step 3:** After following the steps on the App to get to this page, Push the button on the back of the unit once to enable pairing and then press scan on the App.
 
-![Android Placeholder](../media/screenshots/ios/hs-06.png  ':size=350')
+![Bluetooth Information](../media/screenshots/ios/hs-06.png  ':size=350')
 
 **Step 5:** Press the entry for your hotspot in the app, you can check it is the correct one by matching the last 6 characters shown in the application with the last 6 characters of the mac address printed on the sticker on the bottom of the hotspot.
 
-![Android Placeholder](../media/screenshots/ios/hs-08-i.png  ':size=350')
+![Hotspot Found](../media/screenshots/ios/hs-08-i.png  ':size=350')
 
 **Step 6:** The app will show the available Wi-Fi networks within range of your Hotspot.
 
-![Android Placeholder](../media/screenshots/ios/hs-10.png  ':size=350')
+![Configure Network Connection](../media/screenshots/ios/hs-10.png  ':size=350')
 
 **If you are using Ethernet,** tap Use Ethernet Instead and skip to Step 7.
 
 **If using Wi-Fi,** tap on the name of your Wi-Fi network on the app which will bring you to the following screen.
 
-![Android Placeholder](../media/screenshots/ios/hs-11.png  ':size=350')
+![Wi-Fi Password](../media/screenshots/ios/hs-11.png  ':size=350')
 
 Type in your Wi-Fi's network password then tap Connect and it should connect to your wi-fi network.
 
 **Step 7:** The app will then ask for you to set your hotspot's location.
 
-![Android Placeholder](../media/screenshots/ios/hs-15.png  ':size=350')
+![Setting Hotspot Location](../media/screenshots/ios/hs-15.png  ':size=350')
 
 **Step 8:** Finally you can confirm the location of your hotspot. Click continue and you should be presented with a map to then place where your hotspot is on the app.
 
-![Android Placeholder](../media/screenshots/ios/hs-17.png  ':size=350')
+![Pre-paid Fees](../media/screenshots/ios/hs-17.png  ':size=350')
 
 **Step 9:** The setup should now be complete, it'll submit the details of the Hotspot to the Helium network and then in approximately 15 minutes confirm it's added to the network.
 
-![Android Placeholder](../media/screenshots/ios/hs-18.png  ':size=350')
+![Registering Hotspot](../media/screenshots/ios/hs-18.png  ':size=350')
