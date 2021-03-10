@@ -52,7 +52,7 @@ To configure your Hotspot you will require the Helium Network application instal
 
 **Step 5:** Press the entry for your hotspot in the app, you can check it is the correct one by matching the last 6 characters shown in the application with the last 6 characters of the mac address printed on the sticker on the bottom of the hotspot.
 
-![Android Placeholder](../media/screenshots/ios/hs-08.png  ':size=350')
+![Android Placeholder](../media/screenshots/ios/hs-08-i.png  ':size=350')
 
 **Step 6:** The app will show the available Wi-Fi networks within range of your Hotspot.
 
