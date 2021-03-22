@@ -5,7 +5,7 @@
 ### Box Contents
 Your Nebra Outdoor Helium Hotspot comes with the following items:
 
-* The Nebra Helium Indoor Hotspot
+* The Nebra Helium Outdoor Hotspot
 * 3 dBi N-Type Glass Fiber Antenna
 
 You will need a power source such as a DC Power Supply, or provide both combined power and network connection by using Power Over Ethernet with the unit.
