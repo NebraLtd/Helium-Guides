@@ -36,6 +36,16 @@ The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Heliu
 
 ## Supported Regions
 
+The Nebra Indoor Hotspot comes in three hardware versions:
+
+| Frequency | Supported Regions |
+| --- | ---  |
+| **470 Mhz** | CN470 |
+| **868 Mhz** | EU868, IN865, RU864 |
+| **915 Mhz** | US915, AU915, AS923, KR920 |
+
+The frequency is set upon initialisation by the Helium Network.
+
 ## Antenna Specifications
 
 ## Dimensions
