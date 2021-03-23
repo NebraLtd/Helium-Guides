@@ -2,7 +2,7 @@
 
 The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Helium LongFi coverage and start mining HNT with ease.
 
-## Specifications
+## Quick Specifications
 
 | Specification | Nebra Indoor Hotspot |
 | --- | ---  |
