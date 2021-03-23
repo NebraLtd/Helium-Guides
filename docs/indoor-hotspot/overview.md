@@ -100,4 +100,4 @@ The software is open source at https://github.com/nebraltd/helium-miner-software
 
 ## Certifications
 
-TBC
+We are working on getting the Nebra Indoor Hotspot certified in multiple regions. As we have results from the certification process we will post them here.
