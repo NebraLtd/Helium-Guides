@@ -86,6 +86,10 @@ The Bottom LED acts accordingly:
 
 #### Button
 
+The Nebra Indoor Hotspot has a button on the back of the unit.
+
+This is used to re-enable bluetooth pairing on the hotspot, hold the button in for approximately 15 seconds then release to start pairing. The top light should start blinking slowly if successful.
+
 ## Firmware
 
 The Nebra Hotspots run a customised software to provide high reliability and ensure your units are as up to date as they can be.
