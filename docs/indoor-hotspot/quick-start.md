@@ -13,7 +13,7 @@ Please remember to follow the following steps when using your Nebra Indoor Hotsp
 
 * Never power on the Indoor hotspot without it's antenna connected as this may damage the unit.
 * Do not place in direct sunlight or on hot surfaces (e.g a Heater).
-* The Indoor unit's case is designed suitable for use outside and is not waterproof.
+* The Indoor unit's case is designed to be used indoors, and is not suitable for use outside.
 
 ## Preparing Your Nebra Indoor Hotspot
 
