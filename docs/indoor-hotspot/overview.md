@@ -21,3 +21,27 @@ The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Heliu
 
 ###### * Average Power Consumption Measured At Mains,
 ###### ** Maximum TX Power may be capped to a lower amount in some regions.
+
+## Package Contents
+
+* 1 X Nebra Indoor Hotspot
+* 1 X LoRa Antenna
+* 1 X International 12V DC Power Supply
+* 1 X 1M Cat 5e Ethernet Cable
+
+## Block Diagram
+
+![Indoor Hotspot Block Diagram](../media/diagrams/Indoor-Block-Diagram.png  ':size=350')
+
+
+## Supported Regions
+
+## Antenna Specifications
+
+## Dimensions
+
+## Connections
+
+## Firmware
+
+## Certifications
