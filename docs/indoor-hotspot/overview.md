@@ -60,11 +60,11 @@ Approximatley 175x150x50MM space is required when accounting in space required f
 
 <Image>
 
-1 - 9-16V @ 15W DC 6.5MMx2.0MM Barrel Jack
-2 - LED Indicator
-3 - Interface Button
-4 - RP-SMA LoRa Connector
-5 - Ethernet Connector
+1.  9-16V @ 15W DC 6.5MMx2.0MM Barrel Jack
+2.  LED Indicator
+3. Interface Button
+4. RP-SMA LoRa Connector
+5. Ethernet Connector
 
 ## Firmware
 
