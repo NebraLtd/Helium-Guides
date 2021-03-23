@@ -9,7 +9,7 @@ The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Heliu
 | **RRP** | £250 ex VAT |
 | **Case** | Plastic (ABS) |
 | **Ingress Protection** | IP40 |
-| **Dimensions** | 150x155x50 mm (Excluding Antenna) |
+| **Dimensions** | 150x150x50 mm (Excluding Antenna) |
 | **Weight** | 0.4 Kg |
 | **Power Requirement** | 9-16V DC @ 15W |
 | **Average Power Consumption** | ~8W* |
@@ -48,10 +48,26 @@ The frequency is set upon initialisation by the Helium Network.
 
 ## Antenna Specifications
 
+TBC
+
 ## Dimensions
 
-## Connections
+The Nebra Indoor Hotspot is 150x150x50MM In size when nothing is connected.
+
+Approximatley 175x150x50MM space is required when accounting in space required for connectors.
+
+## Connections & Interfaces
+
+TBC
 
 ## Firmware
 
+The Nebra Hotspots run a customised software to provide high reliability and ensure your units are as up to date as they can be.
+
+Approximately your hotspot will update once a week in an automatic process, we will announce updates via various social media platforms when they happen.
+
+The software is open source at https://github.com/nebraltd/helium-miner-software
+
 ## Certifications
+
+TBC
