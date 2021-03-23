@@ -56,15 +56,35 @@ The Nebra Indoor Hotspot is 150x150x50MM In size when nothing is connected.
 
 Approximatley 175x150x50MM space is required when accounting in space required for connectors.
 
-## Connections & Interfaces
+## Interfaces
+
+#### Connectors
 
 <Image>
 
 1.  9-16V @ 15W DC 6.5MMx2.0MM Barrel Jack
-2.  LED Indicator
+2. LED Indicator.
 3. Interface Button
 4. RP-SMA LoRa Connector
 5. Ethernet Connector
+
+#### Status Indicator
+
+The Nebra Indoor Hotspot has a status indicator as shown above.
+
+The Top LED will act accordingly:
+
+* Off - Software has not started yet.
+* On - Operating as normal
+* Slow Blinking - Bluetooth Pairing is enabled
+* Fast Blinking - There is potentially a fault. Please check diagnostics page.
+
+The Bottom LED acts accordingly:
+
+* Off - Unit is receiving no power.
+* On - Unit is powered up.
+
+#### Button
 
 ## Firmware
 
