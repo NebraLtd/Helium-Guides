@@ -18,6 +18,10 @@
 | **Network Connectivity** | 2.4Ghz 802.11N Wi-Fi, 10 Mbps Ethernet |
 | **Antenna Connection** | RP-SMA Female |
 | **Rated Ambient Temperature** | 20-30C |
+| **Base SOM** | Raspberry Pi Zero |
+| **CPU Specification** | Broadcom BCM2835, ARM11 (ARMv6) 32-bit SoC @ 1GHz |
+| **Storage** | 16-32GB |
+| **RAM** | 512MB LPDDR2 SDRAM |
 
 ###### * Average Power Consumption Measured At Mains,
 ###### ** Maximum TX Power may be capped to a lower amount in some regions.

@@ -30,7 +30,7 @@ The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Heliu
 | **Antenna Connection** | RP-SMA Female |
 | **Rated Ambient Temperature** | 20-30C |
 | **Base SOM** | Raspberry Pi CM3+ |
-| **CPU Specification** | Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit SoC @ 1.2GHz |
+| **CPU Specification** | Broadcom BCM2837B0, Quad Core Cortex-A53 (ARMv8) 64-bit SoC @ 1.2GHz |
 | **High Endurance Storage** | 32GB |
 | **RAM** | 1GB LPDDR2 SDRAM |
 
