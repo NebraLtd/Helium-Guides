@@ -1,3 +1,8 @@
+---
+header: |
+  ![](docs/media/Nebra.png){width=1in}  
+...
+
 # Indoor Helium Hotspot Overview
 
 The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Helium LongFi coverage and start mining HNT with ease.
@@ -18,6 +23,11 @@ The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Heliu
 | **Network Connectivity** | 10/100 Ethernet, 2.4Ghz 802.11N Wi-Fi |
 | **Antenna Connection** | RP-SMA Female |
 | **Rated Ambient Temperature** | 20-30C |
+| **Base SOM** | Raspberry Pi CM3+ |
+| **CPU Specification** | Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit SoC @ 1.2GHz |
+| **High Endurance Storage** | 32GB |
+| **RAM** | 1GB LPDDR2 SDRAM |
+
 
 ###### * Average Power Consumption Measured At Mains,
 ###### ** Maximum TX Power may be capped to a lower amount in some regions.
