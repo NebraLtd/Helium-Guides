@@ -17,6 +17,10 @@ The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium
 | **Maximum TX Power** | 24-27dBm** |
 | **Network Connectivity** | 10/100 Ethernet, 2.4Ghz 802.11N Wi-Fi, Optional 4G Module available separately.|
 | **Antenna Connection** | N Type Female |
+| **Base SOM** | Raspberry Pi CM3+ |
+| **CPU Specification** | Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit SoC @ 1.2GHz |
+| **High Endurance Storage** | 32GB |
+| **RAM** | 1GB LPDDR2 SDRAM |
 
 ###### * Average Power Consumption Measured At Mains, higher average consumption when the optional 4G Module is used.
 ###### ** Maximum TX Power may be capped to a lower amount in some regions.
