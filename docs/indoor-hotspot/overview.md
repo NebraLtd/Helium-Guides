@@ -117,3 +117,17 @@ The software is open source at https://github.com/nebraltd/helium-miner-software
 ## Certifications
 
 We are working on getting the Nebra Indoor Hotspot certified in multiple regions. As we have results from the certification process we will post them here.
+
+**Certification List**
+
+| Approval | Countries Covered | Hardware Frequency | Status | Frequency Plans |
+| --- | --- | --- | --- |
+| CE | European Economic Area | 868 Mhz | In Progress | EU 868 |
+| UKCA | United Kingdom | 868 Mhz | In Progress | EU 868 |
+| FCC | United States of America | 915 Mhz | In Progress | US 915 |
+| ISED | Canada | 915 Mhz | In Progress | US 915 |
+| RCM | Australia & New Zealand | 915 Mhz | In Progress | AU 915 |
+| MIC | Japan | 915 Mhz | In Progress | AS920 (AS1) |
+| SRRC | China | 470 Mhz | In Progress | CN 470 |
+| EAC  | Russia | 868 Mhz | In Progress | RU 864 |
+| WPC | India | 868 Mhz | In Progress | IN 865 |
