@@ -121,7 +121,7 @@ We are working on getting the Nebra Indoor Hotspot certified in multiple regions
 **Certification List**
 
 | Approval | Countries Covered | Hardware Frequency | Status | Frequency Plans |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | CE | European Economic Area | 868 Mhz | In Progress | EU 868 |
 | UKCA | United Kingdom | 868 Mhz | In Progress | EU 868 |
 | FCC | United States of America | 915 Mhz | In Progress | US 915 |
