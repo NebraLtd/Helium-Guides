@@ -76,7 +76,7 @@ Approximatley 175x150x50MM space is required when accounting in space required f
 
 #### Connectors
 
-<Image>
+![Indoor Hotspot Block Diagram](../media/photos/indoor-ports-an.jpg  ':size=800')
 
 1.  9-16V @ 15W DC 6.5MMx2.0MM Barrel Jack
 2. LED Indicator.
