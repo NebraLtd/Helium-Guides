@@ -40,10 +40,14 @@ The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Heliu
 
 ## Package Contents
 
-* 1 X Nebra Indoor Hotspot
-* 1 X LoRa Antenna
-* 1 X International 12V DC Power Supply
-* 1 X 1M Cat 5e Ethernet Cable
+![Indoor Hotspot Included](../media/photos/indoor-included.jpg  ':size=800')
+
+* The Nebra Helium Indoor Hotspot
+* RP-SMA LoRa Antenna
+* Worldwide 12V 1.5A Power Adapter + Adaptors
+* 1M CAT5 Ethernet Cable
+
+*Please note the above image is for illustrative purposes only, colours of some parts may change.*
 
 ## Block Diagram
 

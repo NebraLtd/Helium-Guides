@@ -14,10 +14,14 @@ header-includes:
 ## Box Contents
 Your Nebra Indoor Helium Hotspot comes with the following items:
 
+![Indoor Hotspot Included](../media/photos/indoor-included.jpg  ':size=800')
+
 * The Nebra Helium Indoor Hotspot
 * RP-SMA LoRa Antenna
-* Worldwide 12V 1.5A Power Adapter
+* Worldwide 12V 1.5A Power Adapter + Adaptors
 * 1M CAT5 Ethernet Cable
+
+*Please note the above image is for illustrative purposes only, colours of some parts may change.*
 
 ## Warnings
 Please remember to follow the following steps when using your Nebra Indoor Hotspot.
