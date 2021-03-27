@@ -76,7 +76,7 @@ Approximatley 175x150x50MM space is required when accounting in space required f
 
 #### Connectors
 
-![Indoor Hotspot Block Diagram](../media/photos/indoor-ports-an.jpg  ':size=800')
+![Indoor Hotspot Connectors](../media/photos/indoor-ports-an.jpg  ':size=800')
 
 1.  9-16V @ 15W DC 6.5MMx2.0MM Barrel Jack
 2. LED Indicator.
@@ -113,6 +113,20 @@ The Nebra Hotspots run a customised software to provide high reliability and ens
 Approximately your hotspot will update once a week in an automatic process, we will announce updates via various social media platforms when they happen.
 
 The software is open source at https://github.com/nebraltd/helium-miner-software
+
+## Unit Information
+Each unit has a sticker located on the base of the unit.
+
+![Indoor Hotspot Base](../media/photos/indoor-bottom.jpg  ':size=800')
+
+This includes important Information including:
+
+* Frequency of the Unit
+* Ethernet MAC address
+* Nebra Serial Number
+* Raspberry Pi Serial Number
+
+You will require some of this information when linking your unit to our Dashboard.
 
 ## Certifications
 

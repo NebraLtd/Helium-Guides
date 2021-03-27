@@ -30,6 +30,8 @@ Please remember to follow the following steps when using your Nebra Indoor Hotsp
 
 **Step 1:** First screw in the included antenna into the connector on the back of the hotspot.
 
+![Indoor Hotspot Antenna](../media/photos/indoor-antenna-2.jpg  ':size=800')
+
 **Step 2:** Next find a suitable location for your Hotspot to be positioned, to provide the best coverage we recommend placing it near a window just out of direct sunlight. You’ll need to be near a mains power source too.
 
 **Step 3:** If you are using a wired Ethernet connection, connect an Ethernet cable between a router or switch and the Ethernet jack on the Hotspot.
@@ -39,6 +41,8 @@ Please remember to follow the following steps when using your Nebra Indoor Hotsp
 **Step 5:** Finally connect the DC Jack from the power supply into the power receptacle on the Hotspot.
 
 You should then see the lower LED on the back of the unit turn on, the hotspot will now take up to 5 minutes to configure for it’s first boot.
+
+![Indoor Hotspot Powered Up](../media/photos/indoor-powered.jpg  ':size=800')
 
 The upper light will turn on when it is ready to continue for configuration.
 
