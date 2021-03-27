@@ -49,11 +49,6 @@ The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Heliu
 
 *Please note the above image is for illustrative purposes only, colours of some parts may change.*
 
-## Block Diagram
-
-![Indoor Hotspot Block Diagram](../media/diagrams/Indoor-Block-Diagram.png  ':size=800')
-
-
 ## Supported Regions
 
 The Nebra Indoor Hotspot comes in three hardware versions:
@@ -149,3 +144,10 @@ We are working on getting the Nebra Indoor Hotspot certified in multiple regions
 | SRRC | China | 470 Mhz | In Progress | CN 470 |
 | EAC  | Russia | 868 Mhz | In Progress | RU 864 |
 | WPC | India | 868 Mhz | In Progress | IN 865 |
+
+
+## Block Diagram
+
+Below is a block diagram showing the key components of the Nebra Indoor Hotspot.
+
+![Indoor Hotspot Block Diagram](../media/diagrams/Indoor-Block-Diagram.png  ':size=800')
