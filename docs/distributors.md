@@ -65,3 +65,9 @@ We have a range of distributors and places you can buy our hotspots from.
 
 **Indoor Hotspot:** <https://mauser.pt/catalog/product_info.php?products_id=096-9498>
 
+### Invincatech
+**Only US915 available.**
+
+**Indoor Hotspot:** <https://invincatech.us/shop/ols/products/nebra-indoor-hotspot-mining-unit-for-hnt>
+
+**Outdoor Hotspot:** <https://invincatech.us/shop/ols/products/nebra-outdoor-hotspot-hnt-mining-unit>
