@@ -33,6 +33,7 @@ The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Heliu
 | **CPU Specification** | Broadcom BCM2837B0, Quad Core Cortex-A53 (ARMv8) 64-bit SoC @ 1.2GHz |
 | **High Endurance Storage** | 32GB |
 | **RAM** | 1GB LPDDR2 SDRAM |
+| **Internal PCB Dimensions** | ~ 139x139x30 mm |
 
 
 ###### * Average Power Consumption Measured At Mains,
