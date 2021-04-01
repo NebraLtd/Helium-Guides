@@ -65,9 +65,10 @@ We have a range of distributors and places you can buy our hotspots from.
 
 **Indoor Hotspot:** <https://mauser.pt/catalog/product_info.php?products_id=096-9498>
 
-### Invincatech
-**Only US915 available.**
+### RF-Market
+**Only EU868 available.**
 
-**Indoor Hotspot:** <https://invincatech.us/shop/ols/products/nebra-indoor-hotspot-mining-unit-for-hnt>
+**Indoor Hotspot:** <https://rf-market.fr/node-lorawan/852-hotspot-helium-nebra-hnt-version-interieure.html>
 
-**Outdoor Hotspot:** <https://invincatech.us/shop/ols/products/nebra-outdoor-hotspot-hnt-mining-unit>
+**Outdoor Hotspot:** <https://rf-market.fr/node-lorawan/851-hotspot-helium-nebra-hnt-version-exterieure.html>
+
