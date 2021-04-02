@@ -21,11 +21,24 @@ These adaptors typically have a connector where one cable would connect to your 
 
 In some cases you may find you already have a POE enabled switch, these often can be identified by checking if your switch has ports marked POE.
 
-![TP Link POE Injector](../media/photos/tplink-switch.jpg  ':size=800')
+![TP Link POE Switch](../media/photos/tplink-switch.jpg  ':size=800')
 
 With these the injector is already built in and provides POE power on the ports marked POE.
 
 ### Splitters
+
+On the device side, we then require a splitter or a POE capable device.
+
+A splitter then separates the power from the Ethernet Connection and typically provides the correct connections required for use.
+
+Some splitters also adjust the voltage down to one suitable for use by the device. This is explained below in the different standards segment.
+
+POE capable devices such as the Nebra Outdoor Hotspot have a splitter built into them. In cases like this no additional splitter is required and the network cable connects directly to the unit to provide power and network.
+
+Non POE capable devices such as the Nebra Indoor Hotspot require a splitter to be powered via POE.
+
+![TP Link POE Diagram](../media/photos/tplink-poe-diag.jpg  ':size=800')
+
 
 ## Different Standards
 
