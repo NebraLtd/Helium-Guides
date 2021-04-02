@@ -13,6 +13,7 @@
 - [Distributors](distributors.md)
 - [Handy Guides](handy-guides.md)
   - [Setting Up the Helium App](handy-guides/setting-up-hnt-app.md)
+  - [POE Explained](handy-guides/poe-explained.md)
 - [Contributing](contributing/overview.md)
   - [Translations](contributing/translations.md)
 - [Support](support.md)
