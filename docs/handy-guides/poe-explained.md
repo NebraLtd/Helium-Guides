@@ -33,7 +33,9 @@ A splitter then separates the power from the Ethernet Connection and typically p
 
 Some splitters also adjust the voltage down to one suitable for use by the device. This is explained below in the different standards segment.
 
-POE capable devices such as the Nebra Outdoor Hotspot have a splitter built into them. In cases like this no additional splitter is required and the network cable connects directly to the unit to provide power and network.
+POE capable devices such as the Nebra Outdoor Hotspot have a splitter built into them.
+
+In cases like this no additional splitter is required and the network cable connects directly to the unit to provide power and network.
 
 Non POE capable devices such as the Nebra Indoor Hotspot require a splitter to be powered via POE.
 
