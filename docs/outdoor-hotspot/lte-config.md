@@ -13,7 +13,7 @@ This tutorial will walk you through installing and configuring a 4G / LTE modem.
 * 2 x N Type to U.FL Bulkhead*
 * micro SIM card with ~30GB per month data package
 
-\* If you order our [Quectel EG25-G package](https://www.nebra.com/products/quectel-eg25-g-mini-pcie-with-antennas) this includes all of these items
+\* If you order our [Quectel EG25-G package](https://www.nebra.com/products/quectel-eg25-g-mini-pcie-with-antennas) this includes all of these items.
 
 ## Installing the 4G Module & Sim Card
 
