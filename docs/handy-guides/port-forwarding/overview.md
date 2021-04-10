@@ -24,3 +24,4 @@ Some basic guidelines are:
 * Please put all screenshots in the `/media/port-forwarding/` directory.
 * Please use a format of the same name used for the markdown guide, with -XX being numbered of each screenshot. An example would be for our Virgin Media guide `vm-superhub-v3-01.png`
 * Ideally but not essential, have all screenshots in PNG format.
+* We've got a list of ones we'd like to get added at https://github.com/NebraLtd/Helium-Guides/issues?q=is%3Aopen+is%3Aissue+label%3Aportforwarding
