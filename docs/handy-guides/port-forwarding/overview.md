@@ -5,7 +5,7 @@ Helium Hotspots ideally require a port to be forwarded on the network to work at
 
 # Guide List
 
- - Virgin Media Super Hub V3
+ - [Virgin Media Super Hub V3](vm-superhub-v3)
 
 
 # Contributing
