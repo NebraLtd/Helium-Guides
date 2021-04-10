@@ -12,6 +12,7 @@
 - [Frequently Asked Questions](FAQs.md)
 - [Distributors](distributors.md)
 - [Handy Guides](handy-guides.md)
+  - [Port Forwarding](handy-guides/port-forwarding/overview.md)
   - [Setting Up the Helium App](handy-guides/setting-up-hnt-app.md)
   - [POE Explained](handy-guides/poe-explained.md)
 - [Contributing](contributing/overview.md)
