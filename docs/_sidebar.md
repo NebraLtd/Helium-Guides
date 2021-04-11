@@ -6,7 +6,6 @@
   - [Indoor Hotspot Troubleshooting](indoor-hotspot/troubleshooting.md)
   - [Indoor Hotspot FAQs](indoor-hotspot/indoor-faq.md)
 - [Outdoor Helium Hotspot](outdoor-hotspot/overview.md)
-- [Outdoor Helium Hotspot](outdoor-hotspot/overview.md)
   - [Outdoor Hotspot Quick Start](outdoor-hotspot/quick-start.md)
   - [Outdoor Hotspot Troubleshooting](outdoor-hotspot/troubleshooting.md)
   - [Outdoor Hotspot FAQs](outdoor-hotspot/outdoor-faq.md)
