@@ -4,7 +4,7 @@
 
 ## Can I add 4G connectivity to the Outdoor Hotspot?
 
-You can add an optional 4G module to the outdoor hotspot, this is a module that is simple to install when you receive your hotspot. We'll have a guide on how to do this at </outdoor-hotspot/lte-config>
+You can add an optional 4G module to the outdoor hotspot, this is a module that is simple to install when you receive your hotspot. We'll have a guide on how to do this at [LTE Config page](outdoor-hotspot/lte-config.md).
 
 ## Do I have to add 4G Connectivity / Does 4G Increase Earnings?
 
