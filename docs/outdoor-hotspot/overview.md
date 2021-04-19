@@ -49,7 +49,14 @@ The frequency is set upon initialisation by the Helium Network.
 
 ## Antenna Specifications
 
-TBC
+| Specification | 470Mhz Model | 868 & 915Mhz Models |
+| --- | --- | --- |
+| **Frequency Range** | 420-480 | 860-930 Mhz|
+| **Peak Gain** |  | 3 dBi |
+| **VSWR** |  | ≤1.5 |
+| **Input Impediance** | 50 Ohms | 50 Ohms |
+| **Length** |  | 30CM |
+
 
 ## Dimensions
 
