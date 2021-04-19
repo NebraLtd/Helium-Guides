@@ -50,6 +50,9 @@ After initial setup it takes approximately 24-48 hours to download updates & syn
 
 Both hotspots have 10/100 Mbps Ethernet connectivity, this is fast enough for the Helium Network and is typically 2x the speed of most Wi-Fi connections and 4x the speed of LTE connections.
 
+## How much bandwidth do the units use?
+
+Roughly the hotspots use 30-50GB Per month, overall this roughly is 200-300kBps constantly on the network so should be of little impact to most netwrks.
 
 ## Can I setup my Nebra Hotspot with the Helium App?
 
