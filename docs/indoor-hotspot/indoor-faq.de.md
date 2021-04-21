@@ -11,7 +11,7 @@ Nein, der Indoor Hotspot kann nicht direkt mit einem 4G Modem ausgestattet werde
 
 Derzeit rechnen wir mit etwa 30-50GB pro Monat.
 
-Der tatsächliche Datenverbrauch könnte leicht höher oder auch niedriger sein. Wir werden den Datenverbrauch weiterhin beobachten und diese Info aktualisieren, sobald wir mehr Geräte messen konnten.
+Der tatsächliche Datenverbrauch kann leicht abweichen. Wir werden den Datenverbrauch weiterhin beobachten und aktualisieren, sobald wir mehr Geräte messen konnten.
 
 ## Welche Antenne ist beim Hotspot enthalten?
 
