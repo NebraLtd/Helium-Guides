@@ -49,16 +49,16 @@ Der Nebra Indoor Hotspot kommt in drei verschiedenen Hardware Varianten:
 | **868 Mhz** | EU868, IN865, RU864 |
 | **915 Mhz** | US915, AU915, AS923, KR920 |
 
-Die Frequenz wird automatisch bei der Installation vom Helium Netzwerk gesetzt.
+Die Frequenz wird automatisch vom Helium Netzwerk bei der Installation gesetzt.
 
 ## Antennen Spezifikationen
 
-| Spezifikation | 470Mhz Model | 868 & 915Mhz Modelle |
+| Spezifikation | 470Mhz Modell | 868 & 915Mhz Modelle |
 | --- | --- | --- |
 | **Frequenz Bandbreite** | 420-480 | 860-930 Mhz|
 | **Maximale Verstärkung** | 3 dBi | 3 dBi |
 | **VSWR** | ≤2.3 | ≤1.8 |
-| **Input Impedanz** | 50 Ohms | 50 Ohms |
+| **Eingangsimpedanz** | 50 Ohms | 50 Ohms |
 | **Länge** | 17.2CM | 20.7CM  |
 
 
