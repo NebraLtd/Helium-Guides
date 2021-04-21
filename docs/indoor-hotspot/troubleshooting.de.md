@@ -2,10 +2,10 @@
 
 Wenn sie Probleme mit der Installation ihres Hotspots haben könnten Ihnen die folgenden Tipps helfen.
 
-### Die LEDs schalten sich nicht ein:
+### Die Lampen schalten sich nicht ein:
 
 Die untere LED sollte sich einschalten, sobald das Gerät mit Strom versorgt wird. 
-Sollte das nicht der Fall sein, sollten sie sicherstellen, dass das Netzteil richtig in der Steckdose sitzt und dass die Steckdose mit Strom versogt wird.
+Sollte das nicht der Fall sein, sollten sie sicherstellen, dass der Stromstecker richtig in der Steckdose sitzt und dass die Steckdose mit Strom versogt wird.
 
 Nur die untere LED schaltet sich ein, bis das Gerät fertig gestartet ist.
 
@@ -19,7 +19,7 @@ Sie müssen die Ortungsdienste aktivieren, damit die Anwendung korrekten Zugriff
 
 ### Mein Gerät erkennt keine WLAN Netzwerke:
 
-Es kann passieren, dass ihr WLAN Netzwerk aufgrund eines schlechten Signals nicht angezeigt wird, wenn der Hotspot schlecht platziert wurde.
+Es kann passieren, dass ihr WLAN Netzwerk aufgrund eines schlechten Signals nicht angezeigt wird. Das kann durch eine schlechte Platzierung außerhalb der Reichweite passieren.
 
 ### Updates deines Hotspots
 
