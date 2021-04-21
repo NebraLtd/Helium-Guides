@@ -2,11 +2,17 @@
 
 Helium Hotspots ideally require a port to be forwarded on the network to work at their best, to help with this us and the community have put together a bunch of guides to try and cover as many network setups as possible.
 
+# UPNP
 
-# Guide List
+To save the requirement of port forwarding manually, Nebra Hotspots have a tool that communicates to your internet router to automatically do it for you!
 
- - [Virgin Media Super Hub V3](vm-superhub-v3)
+If you have a router that supports UPNP and has it enabled (a majority of ISP provided routers) then the hotspot should automatically port forward!
 
+Sometimes it may take 24 hours from initial power on for the hotspot to not show as "Relayed" on the network.
+
+# Manual port forwarding
+
+If not you should manually port forward, we'll have guides coming soon on how to do this.
 
 # Contributing
 
