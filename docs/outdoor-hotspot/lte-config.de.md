@@ -1,6 +1,6 @@
 # Installation eines 4G Moduls für ihr Outdoor Hotspot
 
-# Diese Seite befindet sich derzeit noch in Arbeit und wird in Kürze aktualisiert.
+# Diese Seite wird noch überarbeitet und wird in Kürze aktualisiert.
 
 ## 4G Modul Installationsübersicht
 
