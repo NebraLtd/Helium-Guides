@@ -33,4 +33,4 @@ Wenn sie Schwierigkeiten haben ihren Hotspot mit dem WLAN zu verbinden, dann emp
 
 ## Haben sie noch immer Probleme oder Fragen?
 
-Wenn die oben stehenden Tipps nicht geholfen haben, können sie uns gerne unter https://nebra.io/helium-support kontaktieren und wir werden ihnen helfen, ihre Probleme zu lösen. Bitte stellen sie jedoch vorher sicher, dass ihr Gerät sich auf dem neuesten Stand befindet.
+Wenn sie ihren Fehler noch nicht beheben konnten, dann können sie uns gerne unter https://nebra.io/helium-support kontaktieren und wir werden ihnen bei der Fehlerbehebung behilflich sein. Bitte stellen sie jedoch vorher sicher, dass ihr Gerät sich auf dem neuesten Stand befindet.
