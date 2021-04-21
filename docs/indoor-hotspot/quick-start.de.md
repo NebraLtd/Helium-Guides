@@ -58,7 +58,7 @@ Um ihren Hotspot zu konfigurieren ist es notwendig die Helium Network Anwendung 
 
 ![Bluetooth Information](../media/screenshots/ios/hs-06.png  ':size=350')
 
-**Schritt 4:** Wählen sie den Eintrag für ihren Hotspot in der App. Sie können kontrollieren ob es das richtige Gerät ist indem sie die letzten 6 Ziffern in der App mit der MAC Adresse vergleichen, die sie auf der Unterseite ihres Geräts finden. 
+**Schritt 4:** Wählen sie den Eintrag für ihren Hotspot in der App aus. Sie können kontrollieren ob es das richtige Gerät ist indem sie die letzten 6 Ziffern in der App mit der MAC Adresse vergleichen, die sie auf der Unterseite ihres Geräts finden. 
 
 ![Hotspot Found](../media/screenshots/ios/hs-08-i.png  ':size=350')
 
@@ -74,7 +74,7 @@ Um ihren Hotspot zu konfigurieren ist es notwendig die Helium Network Anwendung 
 
 Geben sie das Passwort ihres WLAN Netzwerks ein und drücken sie auf "Connect". Der Hotspot sollte sich nun mit ihrem WLAN Netz verbinden.
 
-**Schritt 6:** Sie müssen jetzt die Position ihres Hotspots in der App festlegen.
+**Schritt 6:** Sie werden jetzt dazu aufgefordert den Standort ihres Hotspots festzulegen.
 
 ![Setting Hotspot Location](../media/screenshots/ios/hs-15.png  ':size=350')
 
