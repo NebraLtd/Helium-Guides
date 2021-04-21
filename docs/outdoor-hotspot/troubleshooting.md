@@ -1,36 +1,35 @@
-# Outdoor Hotspot Fehlerbehebung
+# Outdoor Hotspot Troubleshooting
 
-Wenn sie Probleme mit der Installation ihres Hotspots haben könnten Ihnen die folgenden Tipps helfen.
+If you are having trouble with setting up your hotspot or got a query?, the following tips may help.
 
-### Die Lampen schalten sich nicht ein:
+### No lights are turning on:
 
-Die untere LED sollte sich einschalten, sobald das Gerät mit Strom versorgt wird. 
-Sollte das nicht der Fall sein, sollten sie sicherstellen, dass der Stromstecker richtig in der Steckdose sitzt und dass die Steckdose mit Strom versogt wird.
+You should see the lower light on the back of the unit turn on as soon as power is applied.
+If this is the case, ensure the power supply is firmly plugged into the wall outlet, the power jack is plugged into the unit and that the wall outlet is switched on.
 
-Nur die untere LED schaltet sich ein, bis das Gerät fertig gestartet ist.
+You should see 3 Lights show on the mainboard of the unit.
 
-### Mein Hotspot wird in der Helium App nicht angezeigt:
+### My hotspot is not showing in the Helium App:
 
-Es kann bis zu einer Minute dauern bis der Hotspot nach dem Einschalten in der App angezeigt wird. Ein erneutes, wiederholtes Scannen kann helfen den Hotspot zu finden.
+It can sometimes take 1 minute from power on for the Hotspot to show in the App, simply re-scanning a few times can then find the hotspot.
 
-Stellen sie sicher, dass Bluetooth eingeschaltet wird, denn die Verbindung zwischen Hotspot und Handy benötigt diese Schnittstelle.
+Ensure Bluetooth is turned on as this is how the application communicates with your Hotspot.
 
-Sie müssen die Ortungsdienste aktivieren, damit die Anwendung korrekten Zugriff auf ihren Hotspot über Bluetooth erhalten kann. 
+You will have had to have granted location permissions for the Application to access Bluetooth services correctly.
 
-### Mein Gerät erkennt keine WLAN Netzwerke:
+### My unit is not detecting Wi-Fi networks:
 
-Es kann passieren, dass ihr WLAN Netzwerk aufgrund eines schlechten Signals nicht angezeigt wird. Das kann durch eine schlechte Platzierung außerhalb der Reichweite passieren.
-
-
-### Updates des Hotspots
-
-Wenn nach den vorherigen Schritten immernoch Probleme bestehen sollten, sollte sichergestellt werden, dass ihr Gerät auf dem aktuellsten Stand ist.
-
-Nebra Hotspots automasieren sich automatisch, sobald eine Verbindung zum Internet besteht. Wenn sie ein Netzwerkkabel angeschlossen haben, sollten sie ihren Hotspot etwa eine halbe Stunde laufen lassen um sicherzustellen, dass alle Updates heruntergeladen werden.
-
-Wenn sie Schwierigkeiten haben ihren Hotspot mit dem WLAN zu verbinden, dann empfehlen wir Ihnen das Gerät an einem Ort zu platzieren, wo sie ihn per Netzwerkkabel für etwa eine halbe Stunde laufen lassen können um die neuesten Updates herunterzuladen. Danach können sie den Hotspot an den vorgesehenen Platz zurückbringen und es erneut versuchen.
+You may find that sometimes your Wi-Fi network may not show in the application if the signal is poor where the Hotspot is located.
 
 
-## Haben sie noch immer Probleme oder Fragen?
+### Updating your Nebra Hotspot
 
-Wenn die oben stehenden Tipps nicht geholfen haben, können sie uns gerne unter https://nebra.io/helium-support kontaktieren und wir werden ihnen helfen, ihre Probleme zu lösen. Bitte stellen sie jedoch vorher sicher, dass ihr Gerät sich auf dem neuesten Stand befindet.
+If after completing initial troubleshooting steps above you're still having issues, or you are advised to you may find your issues can be resolved by ensuring it is running the latest up to date software.
+
+Nebra Hotspots automatically update once connected to the internet, if you are using an Ethernet connection leaving the hotspot for around half an hour should ensure all updates are downloaded.
+
+If you are having difficulties connecting your Hotspot to Wi-Fi, then it would be recommended to move it to a location where you can plug it into an Ethernet connection for half an hour to let it perform updates. Then move it back to the normal location and re-try setup.
+
+## Still having trouble?
+
+If the above tips haven't been able to resolve your issue then get in touch at https://nebra.io/helium-support and we'll work on resolving your issue.
