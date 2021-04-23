@@ -12,6 +12,7 @@
   - [Outdoor Hotspot LTE Configuration](outdoor-hotspot/lte-config.md)
     - [Modem APN list](outdoor-hotspot/lte-apns.md)
 - [Frequently Asked Questions](FAQs.md)
+- [Security Overview](security.md)
 - [Distributors](distributors.md)
 - [Handy Guides](handy-guides.md)
   - [Port Forwarding](handy-guides/port-forwarding/overview.md)
