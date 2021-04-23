@@ -1,5 +1,37 @@
 # Nebra Hotspot Device Security Overview
 
+## Security considerations of the Nebra Hotspots
+
+One question we get asked frequently is security considerations when running a Nebra Hotspot on their network.
+
+We've designed and taken measures to ensure reasonable security where possible, and this documentation goes over some of the steps we've taken to ensure the units are as reasonably secure as possible.
+
+## Operating system
+
+The Nerba Hotspots run a variant of Linux called Balena OS which is based off Yocto, Yocto is a cut down variant of linux designed for embedded devices. Due to it's lightweight nature only necessary packages are included to keep the risk of exploits to a minimum.
+
+## OTA updates
+
+Nebra Hotspots once connected to the internet download updates OTA, we're planning on releasing updates on a frequent basis to ensure that the software is kept as up to date as possible.
+
+## Software Containers
+
+The software itself that runs on the unit is all distributed in docker containers, these are configured so containers can only access certain parts of the hotspot helping keep the different pieces of software isolated to a reasonable level where possible.
+
+## Open Source Software
+
+All of the software that runs on the Nebra Hotspots can be found on our github pages:
+
+| Repository | Description |
+| --- | ---  |
+| https://github.com/nebraltd/helium-miner-software | DNS Name Resolution |
+| https://github.com/NebraLtd/hm-diag | NTP Time Synchronization |
+| https://github.com/NebraLtd/hm-config | Connection to Update Servers. |
+| https://github.com/NebraLtd/hm-pktfwd | DNS Name Resolution |
+| https://github.com/NebraLtd/hm-miner | NTP Time Synchronization |
+| https://github.com/NebraLtd/hm-upnp | Connection to Update Servers. |
+| https://github.com/NebraLtd/hm-gwmfr | Connection to Update Servers. |
+
 ## Ports used
 
 Nebra Hotspots require the following ports to be port forwarded on your network
@@ -15,6 +47,13 @@ The Nebra Hotspots also use the following ports, however these do not need to be
 | 53 | DNS Name Resolution |
 | 123 | NTP Time Synchronization |
 | 443 | Connection to Update Servers. |
+
+Finally the hotspots only have the following services running on the network:
+
+| Port Number | Description |
+| --- | ---  |
+| 80 | Hotspot Diagnostics |
+
 
 ## Whitelisted domains
 
