@@ -86,16 +86,6 @@ The Nebra Outdoor Hotspot is approximately 300x200x100 mm In size when nothing i
 5. Sim Card Slot
 
 #### Status Indicator
----
-title:
-header-includes:
-   \usepackage{graphicx}
-   \usepackage{fancyhdr}
-   \pagestyle{fancy}
-   \setlength\headheight{28pt}
-   \fancyhead[L]{\includegraphics[width=5cm]{../media/Nebra.png}}
-   \fancyfoot[LE,RO]{Nebra LTD. 2021}
-...
 
 The Nebra Outdoor Hotspot has a status indicator as shown above.
 
