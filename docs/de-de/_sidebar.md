@@ -1,5 +1,5 @@
-- [German](de-de/readme.md)
-  - [Indoor Helium Hotspot](de-de/de-de/indoor-hotspot/overview.md)
+- [Home](de-de/)
+  - [Indoor Helium Hotspot](de-de/indoor-hotspot/overview.md)
     - [Indoor Hotspot Quick Start](de-de/indoor-hotspot/quick-start.md)
     - [Indoor Hotspot Fehlerbehebung](de-de/indoor-hotspot/troubleshooting.md)
     - [Indoor Hotspot FAQs](de-de/indoor-hotspot/indoor-faq.md)
