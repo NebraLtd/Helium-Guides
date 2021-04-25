@@ -1,0 +1,21 @@
+---
+title:
+header-includes:
+   \usepackage{graphicx}
+   \usepackage{fancyhdr}
+   \pagestyle{fancy}
+   \setlength\headheight{28pt}
+   \fancyhead[L]{\includegraphics[width=5cm]{../docs/media/Nebra.png}}
+   \fancyfoot[LE,RO]{Nebra LTD. 2021}
+fontsize: 14pt
+mainfont: Ubuntu-Regular.otf
+mainfontoptions:
+- BoldFont=Ubuntu-Bold.otf
+- ItalicFont=Ubuntu-Italic.otf
+- BoldItalicFont=Ubuntu-BoldItalic.otf
+monofont: UbuntuMono-Regular.otf
+monofont:
+- BoldFont=UbuntuMono-Bold.otf
+- ItalicFont=UbuntuMono-Italic.otf
+- BoldItalicFont=UbuntuMono-BoldItalic.otf
+---

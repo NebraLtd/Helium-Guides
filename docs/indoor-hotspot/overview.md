@@ -1,14 +1,3 @@
----
-title:
-header-includes:
-   \usepackage{graphicx}
-   \usepackage{fancyhdr}
-   \pagestyle{fancy}
-   \setlength\headheight{28pt}
-   \fancyhead[L]{\includegraphics[width=5cm]{../media/Nebra.png}}
-   \fancyfoot[LE,RO]{Nebra LTD. 2021}
-...
-
 # Indoor Helium Hotspot Overview
 
 The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Helium LongFi coverage and start mining HNT with ease.
