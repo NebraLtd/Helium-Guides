@@ -68,7 +68,7 @@ The frequency is set upon initialisation by the Helium Network.
 | --- | --- | --- |
 | **Frequency Range** | 420-480 | 860-930 Mhz|
 | **Peak Gain** | 3 dBi | 3 dBi |
-| **VSWR** | ≤2.3 | ≤1.8 |
+| **VSWR** | $\leq$ 2.3 | $\leq$ 1.8 |
 | **Input Impediance** | 50 Ohms | 50 Ohms |
 | **Length** | 17.2CM | 20.7CM  |
 
