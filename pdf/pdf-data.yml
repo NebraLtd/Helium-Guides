@@ -8,14 +8,14 @@ header-includes:
    \fancyhead[L]{\includegraphics[width=5cm]{../docs/media/Nebra.png}}
    \fancyfoot[LE,RO]{Nebra LTD. 2021}
 fontsize: 14pt
-mainfont: Ubuntu-Regular.ttf
+mainfont: fonts/Ubuntu-Regular.ttf
 mainfontoptions:
-- BoldFont=Ubuntu-Bold.ttf
-- ItalicFont=Ubuntu-Italic.ttf
-- BoldItalicFont=Ubuntu-BoldItalic.ttf
-monofont: UbuntuMono-Regular.ttf
+- BoldFont=fonts/Ubuntu-Bold.ttf
+- ItalicFont=fonts/Ubuntu-Italic.ttf
+- BoldItalicFont=fonts/Ubuntu-BoldItalic.ttf
+monofont: fonts/UbuntuMono-Regular.ttf
 monofontoptions:
-- BoldFont=UbuntuMono-Bold.ttf
-- ItalicFont=UbuntuMono-Italic.ttf
-- BoldItalicFont=UbuntuMono-BoldItalic.ttf
+- BoldFont=fonts/UbuntuMono-Bold.ttf
+- ItalicFont=fonts/UbuntuMono-Italic.ttf
+- BoldItalicFont=fonts/UbuntuMono-BoldItalic.ttf
 ---
