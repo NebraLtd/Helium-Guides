@@ -14,7 +14,7 @@ An Antenna is a transducer that converts radio frequency (RF) fields into altern
 
 | Antenna Length vs dBi | Antenna Reception |
 |---| ---|
-| ![Antenna length vs dbi](../../media/photos/antenna/antenna-length-vs-dbi.png)| ![Antenna Receception](../../media/photos/antenna/antenna-reception.png) | 
+| ![Antenna length vs dbi](../media/photos/antenna/antenna-length-vs-dbi.png)| ![Antenna Receception](../media/photos/antenna/antenna-reception.png) | 
 
 
 A bigger antenna doesn't necessarily mean wider/further coverage or more HNT earnings. Take a look at the images above and notice the different coverage for antennas. **The higher dBi antenna is, more narrow and longer its signal coverage gets**.
@@ -26,4 +26,4 @@ A bigger antenna doesn't necessarily mean wider/further coverage or more HNT ear
 
 You can be looking at two different antennas that have the same gain according to the spec sheets, but one of them can have the potential to perform better than the other. An understanding of where and how the antenna will be deployed is key to help determine which environmental parameters are important and in turn which antenna would suit you best.
 
-![Antenna Gain on Different Terrain](../../media/photos/antenna/antenna-gain-location.png)
+![Antenna Gain on Different Terrain](../media/photos/antenna/antenna-gain-location.png)
