@@ -21,6 +21,7 @@
   - [Antenna](handy-guides/antenna/overview.md)
     - [Antenna Explained](handy-guides/antenna/overview.md)
     - [Antenna Connectors](handy-guides/antenna/connectors.md)
+- [Datasheets](datasheets.md)
 - [Contributing](contributing/overview.md)
   - [Translations](contributing/translations.md)
   - [German](/de-de/)
