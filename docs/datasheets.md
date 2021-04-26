@@ -14,8 +14,8 @@ Here's a list of all datasheets for the following products:
 
 | Datasheet | Description |
 | --- | ---  |
-| [Outdoor Hotspot Overview / Datasheet]() | Overview PDF for the Outdoor Hotspot |
-| Outdoor Hotspot Quick Start  | Setup manual for the Outdoor Hotspot |
+| [Outdoor Hotspot Overview / Datasheet](https://helium.nebra.com/pdfs/outdoor-overview.pdf) | Overview PDF for the Outdoor Hotspot |
+| [Outdoor Hotspot Quick Start](https://helium.nebra.com/pdfs/outdoor-quick-start.pdf)  | Setup manual for the Outdoor Hotspot |
 | Antenna Datasheet | Datasheet of the included 3dBi Glass Fiber antenna |
 
 
