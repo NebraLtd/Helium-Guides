@@ -132,9 +132,9 @@ We are working on getting the Nebra Indoor Hotspot certified in multiple regions
 
 | Approval | Countries Covered | Hardware Frequency | Status | Frequency Plans |
 | --- | --- | --- | --- | --- |
-| CE | European Economic Area | 868 Mhz | ![Completed](https://helium.nebra.com/certifications/indoor/CE/) | EU 868 |
+| CE | European Economic Area | 868 Mhz | [Completed](https://helium.nebra.com/certifications/indoor/CE/) | EU 868 |
 | UKCA | United Kingdom | 868 Mhz | In Progress | EU 868 |
-| FCC | United States of America | 915 Mhz | ![Final Draft](https://helium.nebra.com/certifications/indoor/FCC/) | US 915 |
+| FCC | United States of America | 915 Mhz | [Final Draft](https://helium.nebra.com/certifications/indoor/FCC/) | US 915 |
 | ISED | Canada | 915 Mhz | In Progress | US 915 |
 | RCM | Australia & New Zealand | 915 Mhz | In Progress | AU 915 |
 | MIC | Japan | 915 Mhz | In Progress | AS920 (AS1) |
