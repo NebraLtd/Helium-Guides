@@ -153,9 +153,8 @@ We are working on getting the Nebra Indoor Hotspot certified in multiple regions
 
 This device complies with Part 15 of the FCC Rules. Operation is subject to the following two conditions:
 
-(1) This device may not cause harmful interference.
-
-(2) This device must accept any interference received, including interference that may cause undesired operation.
+1. This device may not cause harmful interference.
+2. This device must accept any interference received, including interference that may cause undesired operation.
 
 Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the equipment.
 
