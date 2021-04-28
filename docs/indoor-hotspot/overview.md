@@ -147,7 +147,7 @@ We are working on getting the Nebra Indoor Hotspot certified in multiple regions
 | Certification | ID Code |
 | --- | ---  |
 | FCC | 2AZDM-HNTIN |
-| ISED | TBC |
+| ISED | 27187-HNTIN |
 
 #### FCC Statement
 
@@ -169,8 +169,6 @@ If this equipment does cause harmful interference to radio or television recepti
 * Increase the separation between the equipment and receiver.
 * Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
 * Consult the dealer or an experienced radio/TV technician for help.
-
-
 
 ## Block Diagram
 
