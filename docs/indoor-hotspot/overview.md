@@ -169,9 +169,3 @@ If this equipment does cause harmful interference to radio or television recepti
 * Increase the separation between the equipment and receiver.
 * Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
 * Consult the dealer or an experienced radio/TV technician for help.
-
-## Block Diagram
-
-Below is a block diagram showing the key components of the Nebra Indoor Hotspot.
-
-![Indoor Hotspot Block Diagram](../media/diagrams/Indoor-Block-Diagram.png  ':size=800')
