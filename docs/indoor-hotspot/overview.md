@@ -41,7 +41,7 @@ The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Heliu
 
 ## Supported Regions
 
-The Nebra Indoor Hotspot comes in three hardware versions:
+The Nebra Indoor Hotspot comes in three frequency versions:
 
 | Frequency | Supported Regions |
 | --- | ---  |
@@ -141,6 +141,13 @@ We are working on getting the Nebra Indoor Hotspot certified in multiple regions
 | SRRC | China | 470 Mhz | In Progress | CN 470 |
 | EAC  | Russia | 868 Mhz | In Progress | RU 864 |
 | WPC | India | 868 Mhz | In Progress | IN 865 |
+
+#### Certification Codes
+
+| Certification | ID Code |
+| --- | ---  |
+| FCC | 2AZDM-HNTIN |
+| ISED | TBC |
 
 #### FCC Statement
 ```
