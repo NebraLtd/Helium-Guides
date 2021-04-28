@@ -150,7 +150,7 @@ We are working on getting the Nebra Indoor Hotspot certified in multiple regions
 | ISED | TBC |
 
 #### FCC Statement
-```
+
 This device complies with Part 15 of the FCC Rules. Operation is subject to the following two conditions:
 (1) This device may not cause harmful interference.
 (2) This device must accept any interference received, including interference that may cause undesired operation.
@@ -166,7 +166,7 @@ Reorient or relocate the receiving antenna.
 Increase the separation between the equipment and receiver.
 Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
 Consult the dealer or an experienced radio/TV technician for help.
-```
+
 
 
 ## Block Diagram
