@@ -18,6 +18,7 @@
   - [Port Forwarding](handy-guides/port-forwarding/overview.md)
   - [Setting Up the Helium App](handy-guides/setting-up-hnt-app.md)
   - [POE Explained](handy-guides/poe-explained.md)
+  - [Surge Protectors](handy-guides/surge-protectors.md)
   - [Antenna](handy-guides/antenna/overview.md)
     - [Overview](handy-guides/antenna/overview.md)
     - [Connectors](handy-guides/antenna/connectors.md)
