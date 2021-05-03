@@ -4,7 +4,6 @@
 
 ## What is the difference between the Indoor & Outdoor Units?
 
-<details> <summary>Click to expand! </summary>
 
 The biggest difference is the outdoor unit comes in a case which is suitable to be used outside in mixed environments and has a few extra features.
 
@@ -26,7 +25,7 @@ To help you decide we've created this handy guide.
 
 \** You can purchase a power supply separately [from our website](https://www.nebra.com/products/nebra-12-volt-1-5-amp-worldwide-power-supply).
 
-</details>
+
 
  ### For more Hardware related FAQs please visit the respective  [Indoor FAQ](/indoor-hotspot/indoor-faq.md) & [Outdoor FAQ](/outdoor-hotspot/outdoor-faq.md) pages for more.
 
