@@ -24,13 +24,13 @@ All of the software that runs on the Nebra Hotspots can be found on our github p
 
 | Repository | Description |
 | --- | ---  |
-| https://github.com/nebraltd/helium-miner-software | DNS Name Resolution |
-| https://github.com/NebraLtd/hm-diag | NTP Time Synchronization |
-| https://github.com/NebraLtd/hm-config | Connection to Update Servers. |
-| https://github.com/NebraLtd/hm-pktfwd | DNS Name Resolution |
-| https://github.com/NebraLtd/hm-miner | NTP Time Synchronization |
-| https://github.com/NebraLtd/hm-upnp | Connection to Update Servers. |
-| https://github.com/NebraLtd/hm-gwmfr | Connection to Update Servers. |
+| <https://github.com/nebraltd/helium-miner-software> | DNS Name Resolution |
+| <https://github.com/NebraLtd/hm-diag> | NTP Time Synchronization |
+| <https://github.com/NebraLtd/hm-config> | Connection to Update Servers. |
+| <https://github.com/NebraLtd/hm-pktfwd> | DNS Name Resolution |
+| <https://github.com/NebraLtd/hm-miner> | NTP Time Synchronization |
+| <https://github.com/NebraLtd/hm-upnp> | Connection to Update Servers. |
+| <https://github.com/NebraLtd/hm-gwmfr> | Connection to Update Servers. |
 
 ## Ports used
 
