@@ -155,3 +155,16 @@ If this equipment does cause harmful interference to radio or television recepti
 * Increase the separation between the equipment and receiver.
 * Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
 * Consult the dealer or an experienced radio/TV technician for help.
+
+<hr>
+
+#### Resource
+
+* [Outdoor IP67 Case Diagram ](../media/cases/IP67-Diagram-DAM005C.pdf)
+* [Outdoor IP67 Case Drawing](../media/cases/IP67-Diagram.dwg)
+* [Outdoor IP67 3D Model Top](../media/cases/IP67-3D-Model-DAM005CLID.stp)
+* [Outdoor IP67 3D Model Bottom](../media/cases/IP67-3D-Model-DAM-005CBOTTOM.stp)
+
+Click [here](../media/cases/IP67-Diagram.zip) to download all the files. 
+
+
