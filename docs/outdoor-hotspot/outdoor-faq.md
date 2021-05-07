@@ -2,6 +2,8 @@
 
 ## Can I use a different antenna with the Outdoor Hotspot?
 
+Yes you can, Please check the [Antenna Connections](../../handy-guides/antenna/connections.md)  guide to know the adpater and setup.
+
 ## Can I add 4G connectivity to the Outdoor Hotspot?
 
 You can add an optional 4G module to the outdoor hotspot, this is a module that is simple to install when you receive your hotspot. We'll have a guide on how to do this at [LTE Config page](outdoor-hotspot/lte-config.md).
