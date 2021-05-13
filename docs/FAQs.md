@@ -25,9 +25,7 @@ To help you decide we've created this handy guide.
 
 \** You can purchase a power supply separately [from our website](https://www.nebra.com/products/nebra-12-volt-1-5-amp-worldwide-power-supply).
 
-
-
- ### For more Hardware related FAQs please visit the respective  [Indoor FAQ](/indoor-hotspot/indoor-faq.md) & [Outdoor FAQ](/outdoor-hotspot/outdoor-faq.md) pages for more.
+### For more Hardware related FAQs please visit the respective [Indoor FAQ](/indoor-hotspot/indoor-faq.md) & [Outdoor FAQ](/outdoor-hotspot/outdoor-faq.md) pages for more.
 
 ## What frequency do I need for my country?
 
