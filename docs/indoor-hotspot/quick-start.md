@@ -15,11 +15,11 @@ Your Nebra Indoor Helium Hotspot comes with the following items:
 ## Warnings
 Please remember to follow the following steps when using your Nebra Indoor Hotspot.
 
-* **<span style="color:red">Never power on the Indoor hotspot without it's antenna connected as this may damage the unit.</span>** 
+* **<span style="color:red">Never power on the Indoor hotspot without it's antenna connected as this may damage the unit.</span>**
 * Do not place in direct sunlight or on hot surfaces (e.g a Heater).
 * The Indoor unit's case is designed to be used indoors, and is not suitable for use outside.
 
-> Note: If you want place the miner outside, please consider weatherproof [**outdoor hotspot miner**](https://www.nebra.com/products/helium-outdoor-hotspot-miner-gateway) we have. 
+> Note: If you want place the miner outside, please consider weatherproof [**outdoor hotspot miner**](https://www.nebra.com/products/helium-outdoor-hotspot-miner-gateway) we have.
 
 ## Preparing Your Nebra Indoor Hotspot
 
@@ -45,7 +45,7 @@ If you have connected it to a wired Ethernet connection this process may take sl
 
 ## Configuring Your Nebra Indoor Hotspot
 
-To configure your Hotspot you will require the Helium Network application installed on a Mobile Phone and for you to have gone through the account setup process to continue.
+To configure your Hotspot, you will require the Helium Network application installed on a Mobile Phone, and for you to have gone through the account setup process to continue.
 
 **Step 1:** Open the Helium application and login, then press hotspots.
 
