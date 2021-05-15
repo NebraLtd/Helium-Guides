@@ -78,7 +78,7 @@ Type in your Wi-Fi's network password then tap Connect and it should connect to 
 
 ![Setting Hotspot Location](../media/screenshots/ios/hs-15.png  ':size=350')
 
-**Step 8:** Finally you can confirm the location of your hotspot. Click continue and you should be presented with a map to then place where your hotspot is on the app.
+**Step 8:** Finally, you can confirm the location of your hotspot. Click continue and you should be presented with a map to then place where your hotspot is on the app.
 
 ![Pre-paid Fees](../media/screenshots/ios/hs-17.png  ':size=350')
 
