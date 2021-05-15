@@ -11,7 +11,8 @@ Only the lower light will turn on to begin with until the unit is running.
 
 ### My hotspot is not showing in the Helium App:
 
-It can sometimes take 1 minute from power on for the Hotspot to show in the App, simply re-scanning a few times can then find the hotspot.
+It can sometimes take 1 minute from turning the power on for the Hotspot to show in the App.
+Re-scanning a few times can then find the hotspot.
 
 Ensure Bluetooth is turned on as this is how the application communicates with your Hotspot.
 
