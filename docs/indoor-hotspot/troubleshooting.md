@@ -24,7 +24,9 @@ You may find that sometimes your Wi-Fi network may not show in the application i
 
 ### Updating your Nebra Hotspot
 
-If after completing initial troubleshooting steps above you're still having issues, or you are advised to you may find your issues can be resolved by ensuring it is running the latest up to date software.
+If after completing initial troubleshooting steps above, you are still having issues.
+
+You may find your issues can be resolved by ensuring it is running the latest up to date software.
 
 Nebra Hotspots automatically update once connected to the internet, if you are using an Ethernet connection leaving the hotspot for around half an hour should ensure all updates are downloaded.
 
