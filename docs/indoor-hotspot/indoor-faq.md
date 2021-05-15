@@ -27,7 +27,7 @@ The actual usage may be slightly less or more and will be something we up-date o
 ## What antenna is included with the Hotspot?
 <details> <summary>Click to expand! </summary>
 
-We are currently confirming the final model of antenna included with the indoor hotspot.
+A 3dBi Omni-directional antenna is included with the Nebra Indoor Hotspot, specifications can be found on the [Overview](/indoor-hotspot/overview) page.
 
 </details>
 
