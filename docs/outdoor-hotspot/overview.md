@@ -164,6 +164,4 @@ If this equipment does cause harmful interference to radio or television recepti
 * [Outdoor IP67 3D Model Top](../media/cases/outdoor/IP67-3D-Model-DAM005CLID.stp ':ignore')
 * [Outdoor IP67 3D Model Bottom](../media/cases/outdoor/IP67-3D-Model-DAM-005CBOTTOM.stp ':ignore')
 
-Click [here](../media/cases/outdoor/IP67-Diagram.zip ':ignore') to download all the files. 
-
-
+Click [here](../media/cases/outdoor/IP67-Diagram.zip ':ignore') to download all the files.
