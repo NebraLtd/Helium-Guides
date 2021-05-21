@@ -7,7 +7,6 @@ The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium
 | Specification | Nebra Outdoor Hotspot |
 | --- | ---  |
 | **RRP** | £350 ex VAT |
-| **Case** |  |
 | **Ingress Protection** | IP67 |
 | **Dimensions** | 300x200x100 mm (Excluding Antenna) |
 | **Weight** | 1.25 Kg |
@@ -98,7 +97,7 @@ The Top LED will act accordingly:
 
 #### Button
 
-The Nebra Indoor Hotspot has a button on the smaller board inside the unit.
+The Nebra Outdoor Hotspot has a button on the smaller board inside the unit.
 
 This is used to re-enable bluetooth pairing on the hotspot, hold the button in for approximately 15 seconds then release to start pairing. The status light should start blinking slowly if successful.
 

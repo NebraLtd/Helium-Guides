@@ -8,7 +8,7 @@ The Indoor hotspot have **RP-SMA female** connector and the hotspot comes with a
 
 ![Indoor](../../media/photos/antenna/connectors/indoor-sma2.jpg)
 
-<hr><hr>
+<hr>
 
 # Outdoor Hotspot - Glass Fiber Antenna Direct Connection
 
