@@ -18,6 +18,11 @@ Here's a list of all datasheets for the following products:
 | [Outdoor Hotspot Overview / Datasheet](https://helium.nebra.com/pdfs/outdoor-overview.pdf) | Overview PDF for the Outdoor Hotspot |
 | [Outdoor Hotspot Quick Start](https://helium.nebra.com/pdfs/outdoor-quick-start.pdf)  | Setup manual for the Outdoor Hotspot |
 | [860-930Mhz Antenna](https://helium.nebra.com/datasheets/antennas/NBR-0040.pdf) | Datasheet of the included 3dBi glass fiber antenna for 868 & 915 Mhz Units |
+| [Outdoor IP67 Case Diagram](../datasheets/cases/outdoor/IP67-Diagram-DAM005C.pdf ':ignore')  | IP67 Case Dimensions in **.PDF** |
+|[Outdoor IP67 Case Drawing](../datasheets/cases/outdoor/IP67-Diagram.dwg ':ignore')|IP67 Case Diagram in **.DWG** Format |
+|[Outdoor IP67 3D Model Top](.../datasheets/cases/outdoor/IP67-3D-Model-DAM005CLID.stp ':ignore')| IP67 Case Top Part 3D Model **.STP** Format |
+|[Outdoor IP67 3D Model Bottom](../datasheets/cases/outdoor/IP67-3D-Model-DAM-005CBOTTOM.stp ':ignore')| IP67 Case Bottom Part 3D Model **.STP** Format|
+
 
 
 #### Antennas
