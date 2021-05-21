@@ -159,9 +159,11 @@ If this equipment does cause harmful interference to radio or television recepti
 
 #### Resources
 
-* [Outdoor IP67 Case Diagram](../media/cases/outdoor/IP67-Diagram-DAM005C.pdf ':ignore')
-* [Outdoor IP67 Case Drawing](../media/cases/outdoor/IP67-Diagram.dwg ':ignore')
-* [Outdoor IP67 3D Model Top](../media/cases/outdoor/IP67-3D-Model-DAM005CLID.stp ':ignore')
-* [Outdoor IP67 3D Model Bottom](../media/cases/outdoor/IP67-3D-Model-DAM-005CBOTTOM.stp ':ignore')
+You can find 2D and 3D drawings of the outdoor IP67 case here 
 
-Click [here](../media/cases/outdoor/IP67-Diagram.zip ':ignore') to download all the files.
+* [Outdoor IP67 Case Diagram](../datasheets/cases/outdoor/IP67-Diagram-DAM005C.pdf ':ignore')
+* [Outdoor IP67 Case Drawing](../datasheets/cases/outdoor/IP67-Diagram.dwg ':ignore')
+* [Outdoor IP67 3D Model Top](.../datasheets/cases/outdoor/IP67-3D-Model-DAM005CLID.stp ':ignore')
+* [Outdoor IP67 3D Model Bottom](../datasheets/cases/outdoor/IP67-3D-Model-DAM-005CBOTTOM.stp ':ignore')
+
+Click [here](../datasheets/cases/outdoor/IP67-Diagram.zip ':ignore') to download all the files.

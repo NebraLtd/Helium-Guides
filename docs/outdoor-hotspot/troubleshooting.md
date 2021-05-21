@@ -1,6 +1,6 @@
 # Outdoor Hotspot Troubleshooting
 
-If you are having trouble with setting up your hotspot or got a query?, the following tips may help.
+If you are having trouble with setting up your hotspot or got a query? the following tips may help.
 
 ### No lights are turning on
 
