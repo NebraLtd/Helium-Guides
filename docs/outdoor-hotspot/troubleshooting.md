@@ -28,17 +28,7 @@ If after completing initial troubleshooting steps above you're still having issu
 
 Nebra Hotspots automatically update once connected to the internet, if you are using an Ethernet connection leaving the hotspot for around half an hour should ensure all updates are downloaded.
 
-If you are having difficulties connecting your Hotspot to Wi-Fi, then it would be recommended to move it to a location where you can plug it into an Ethernet connection for half an hour to let it perform updates. Then move it back to the normal location and re-try setup.
-
-### Application error while setting up!
-
-If you get an error like this while setting our your miner
-
-![Bluetooth Error](../media/photos/troubleshooting/bluetooth_error.jpg)
-
-please close your helium app and turn off the bluetooth then turn on bluetooth agin, then open the app and try agin. 
-
-If you get different error, please let us know! 
+If you are having difficulties connecting your Hotspot to Wi-Fi, then it would be recommended to move it to a location where you can plug it into an Ethernet connection for half an hour to let it perform updates. Then move it back to the normal location and re-try setup. 
 
 ## Still having trouble?
 

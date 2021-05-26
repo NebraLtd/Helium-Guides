@@ -32,6 +32,16 @@ Nebra Hotspots automatically update once connected to the internet, if you are u
 
 If you are having difficulties connecting your Hotspot to Wi-Fi, then it would be recommended to move it to a location where you can plug it into an Ethernet connection for half an hour to let it perform updates. Then move it back to the normal location and re-try setup.
 
+### Application error while setting up!
+
+If you get an error like this while setting our your miner
+
+![Bluetooth Error](../media/photos/troubleshooting/bluetooth_error.jpg)
+
+please close your helium app and turn off the bluetooth then turn on bluetooth agin, then open the app and try agin. 
+
+If you get different error, please let us know!
+
 ## Still having trouble?
 
 If the above tips haven't been able to resolve your issue then get in touch at https://nebra.io/helium-support and we'll work on resolving your issue. But be sure to please perform the steps above to perform the update process.
