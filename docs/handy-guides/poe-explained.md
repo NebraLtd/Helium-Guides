@@ -53,5 +53,17 @@ This is the main standard of POE and is what the Outdoor Hotspot supports out of
 
 The second most common standard is 12V Passive POE, this is where
 
+## Connections
+
+![PoE Diagram](../media/diagrams/PoE20Diagrams.png)
+
 
 ## What do I need?
+
+#### For Indoor unit
+
+If you wish to use PoE with the Indoor Hotspot you will require an **active PoE splitter** that outputs **12V** to the unit. Alternatively you can use **passive PoE adapters** as long as the power provided to the unit is between **9 and 16 Volts** and can provide **15W** of power.
+
+#### For Outdoor unit
+
+For outdoor unit you can directly connect since it support PoE, no need spliters, but you don't have the PoE network you can use a **802.3AF 48V POE PoE injector**. 
