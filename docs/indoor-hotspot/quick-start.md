@@ -74,7 +74,9 @@ To configure your Hotspot, you will require the Helium Network application insta
 
 Type in your Wi-Fi's network password then tap Connect and it should connect to your wi-fi network.
 
-**Step 7:** The app will then ask for you to set your hotspot's location.
+**Step 7:** The app will then ask for you to set your hotspot's location. As part of your purchase price we cover the $40 activation fee and the first location assert fee of $10 (worth $50 in total).
+
+You can move device to another location, However every time you move your hotspot to a new location you will need to pay the $10 location assert fee again.
 
 ![Setting Hotspot Location](../media/screenshots/ios/hs-15.png  ':size=350')
 
