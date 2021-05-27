@@ -115,6 +115,8 @@ Each unit has a sticker located on the base of the unit.
 
 ![Indoor Hotspot Base](../media/photos/indoor-bottom.jpg  ':size=800')
 
+![product label image ](../media/photos/product_label_image.jpg)
+
 This includes important Information including:
 
 * Frequency of the Unit
