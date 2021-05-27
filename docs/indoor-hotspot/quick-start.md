@@ -87,3 +87,8 @@ You can move device to another location, However every time you move your hotspo
 **Step 9:** The setup should now be complete, it'll submit the details of the Hotspot to the Helium network and then in approximately 15 minutes confirm it's added to the network.
 
 ![Registering Hotspot](../media/screenshots/ios/hs-18.png  ':size=350')
+
+
+You can also watch this video and learn how to onBoard the hotspot. 
+
+[![Nebra $HNT Indoor Hotspot Miner - Android App Onboarding Video](https://img.youtube.com/vi/6pSKwtGAwDg/0.jpg)](https://www.youtube.com/watch?v=6pSKwtGAwDg)
