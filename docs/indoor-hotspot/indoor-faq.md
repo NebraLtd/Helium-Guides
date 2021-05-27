@@ -38,9 +38,53 @@ If you wish to use PoE with the Indoor Hotspot you will require an active PoE sp
 
 </details>
 
-### How long does it take for my Hotspot to sync with the network?
+## How long does it take for my Hotspot to sync with the network?
 <details> <summary>Click to expand! </summary>
 
 This can vary depending on your internet connection's speed, However in our testing it takes approximately 24-48 hours for the initial synchronisation to be completed.
 
 </details>
+
+## How to remount the indoor miner daughter-board?
+<details> <summary>Click to exapand! </summary>
+
+* **Step 1:** Remove the screws from the bottom of the case to take off the lid. 
+* **Step 2:** Then re-insert the daughter board into the 60 pin header and then reassemble 
+
+That's all, you should be good to go. 
+
+Here's a short video showing you how to re-mount the daughterboard. 
+
+[![How to remount the Nebra Indoor Miner daughter-board](https://img.youtube.com/vi/3g28DGvG3Jw/0.jpg)](https://www.youtube.com/watch?v=3g28DGvG3Jw)
+
+</details>
+
+## How to fix lose antenna connector ?
+
+<details> <summary>Click to exapand! </summary>
+
+This can be rectified by first removing  the 4 screws to take the lid off. Then use a pair of needle nose pliers or an M8 spanner, along with another M8 Spanner the other side to tighten it up.
+
+
+![Indoor Antenna Fix](../media/photos/troubleshooting/indoor_antenna_fix.jpg)
+
+</details>
+
+## I have issue but it's not listed here?
+
+<details> <summary>Click to exapand! </summary>
+
+If your issues cannot be resolved by the troubleshooting page then please email sales@nebra.com and include the following information:
+
+* Model of unit:
+* Mac address of the unit (Shown as ETH on sticker):
+* Frequency of the unit (Shown as Freq on sticker):
+* How are you connecting it to internet? (Ethernet, Wi-Fi, Cellular):
+* How are you powering the unit? (Included adaptor, POE, Third party adaptor): If the issue relates to 
+* initial setup of the hotspot:
+* What make & model of phone are you using?
+* What version of the Helium App are you using?
+* Do you have any screenshots of any error codes? 
+
+</details>
+
