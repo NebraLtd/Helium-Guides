@@ -27,21 +27,21 @@ Um ihren Hotspot zu konfigurieren ist es notwendig die Helium Network Anwendung 
 
 **Schritt 2:** Klicke als nächstes auf "Set up Hotspot", hier müssen sie Nebra Outdoor Hotspot auswählen.
 
-![Android Placeholder](../media/screenshots/ios/hs-02.png  ':size=350')
+![Android Placeholder](../../media/screenshots/ios/hs-02.png  ':size=350')
 
 
 **Schritt 3:** Nachdem sie die Schritte abgeschlossen haben, die notwendig sind um auf diese Seite zu kommen, müssen sie den Button auf der Rückseite des Geräts drücken um das koppeln zu aktivieren. Drücke dann auf "Scan".
 
-![Android Placeholder](../media/screenshots/ios/hs-06.png  ':size=350')
+![Android Placeholder](../../media/screenshots/ios/hs-06.png  ':size=350')
 
 **Schritt 4:** 
 Wählen sie den Eintrag für ihren Hotspot in der App aus. Sie können kontrollieren ob es das richtige Gerät ist indem sie die letzten 6 Ziffern in der App mit der MAC Adresse vergleichen, die sie auf der Unterseite ihres Geräts finden.
 
-![Android Placeholder](../media/screenshots/ios/hs-08-o.png  ':size=350')
+![Android Placeholder](../../media/screenshots/ios/hs-08-o.png  ':size=350')
 
 **Step 5:** Die App zeigt ihnen die verfügbaren WLAN Netzwerke in der Reichweite ihres Hotspots.
 
-![Android Placeholder](../media/screenshots/ios/hs-10.png  ':size=350')
+![Android Placeholder](../../media/screenshots/ios/hs-10.png  ':size=350')
 
 **Wenn sie ein Netzwerkkabel verwenden,** drücken sie stattdessen auf "Use Ethernet Instead" und fahren sie mit Schritt 6 fort.
 
@@ -53,7 +53,7 @@ Geben sie das Passwort ihres WLAN Netzwerks ein und drücken sie auf "Connect". 
 
 **Step 7:** Sie werden jetzt dazu aufgefordert den Standort ihres Hotspots festzulegen.
 
-![Android Placeholder](../media/screenshots/ios/hs-15.png  ':size=350')
+![Android Placeholder](../../media/screenshots/ios/hs-15.png  ':size=350')
 
 **Step 8:** Abschließend können sie die Position ihres Hotspots bestätigen. Drücken sie auf "continue" und sie sollten dann eine Karte sehen, auf der sie die Position ihres Hotspots auf der Karte auswählen können.
 
@@ -61,4 +61,4 @@ Geben sie das Passwort ihres WLAN Netzwerks ein und drücken sie auf "Connect". 
 
 **Step 9:** Die Konfiguration sollte nun abgeschlossen sein. Die Details ihres Hotspots werden an das Helium Netzwerk weitergegeben und in ungefähr 15 Minuten sollte dann bestätigt werden, dass der Hotspot dem Netzwerk hinzugefügt wurde.
 
-![Android Placeholder](../media/screenshots/ios/hs-18.png  ':size=350')
+![Android Placeholder](../../media/screenshots/ios/hs-18.png  ':size=350')

@@ -30,7 +30,7 @@ Der Nebra Indoor Helium Hotspot ist eine kompakte und elegante Lösung zur Berei
 
 ## Lieferumfang
 
-![Indoor Hotspot Included](../media/photos/indoor-included.jpg  ':size=800')
+![Indoor Hotspot Included](../../media/photos/indoor-included.jpg  ':size=800')
 
 * Der Nebra Helium Indoor Hotspot
 * RP-SMA LoRa Antenne
@@ -74,7 +74,7 @@ Etwa 175x150x50mm werden benötigt, um genügend Platz für die Anschlüsse zu g
 
 #### Anschlüsse
 
-![Indoor Hotspot Connectors](../media/photos/indoor-ports-an.jpg  ':size=800')
+![Indoor Hotspot Connectors](../../media/photos/indoor-ports-an.jpg  ':size=800')
 
 1.  9-16V @ 15W DC 6.5MMx2.0MM Klinkenstecker
 2. LED Indikator
@@ -116,7 +116,7 @@ Die Software ist Open-Source unter https://github.com/nebraltd/helium-miner-soft
 ## Geräteinformationen
 Jedes Gerät hat einen Sticker auf der Unterseite.
 
-![Indoor Hotspot Base](../media/photos/indoor-bottom.jpg  ':size=800')
+![Indoor Hotspot Base](../../media/photos/indoor-bottom.jpg  ':size=800')
 
 Dieser Sticker beinhaltet wichtige Informationen wie:
 
@@ -150,4 +150,4 @@ Wir arbeiten daran den Nebra Indoor Hotspot in mehreren Regionen zu zertifiziere
 
 Unten stehend ist ein Blockdiagramm, dass die Hauptbestandteile des Nebra Indoor Hotspots darstellt.
 
-![Indoor Hotspot Block Diagram](../media/diagrams/Indoor-Block-Diagram.png  ':size=800')
+![Indoor Hotspot Block Diagram](../../media/diagrams/Indoor-Block-Diagram.png  ':size=800')

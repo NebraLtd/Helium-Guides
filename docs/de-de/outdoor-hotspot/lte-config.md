@@ -17,7 +17,7 @@ Dieses Tutorial führt sie durch die Installation und Konfiguration eines 4G/LTE
 
 ## Installation des 4G Moduls & der SIM Karte
 
-![LTE](../media/photos/lte-1.jpg  ':size=350')
-![LTE](../media/photos/lte-2.jpg  ':size=350')
-![LTE](../media/photos/lte-3.jpg  ':size=350')
-![LTE](../media/photos/lte-4.jpg  ':size=350')
+![LTE](../../media/photos/lte-1.jpg  ':size=350')
+![LTE](../../media/photos/lte-2.jpg  ':size=350')
+![LTE](../../media/photos/lte-3.jpg  ':size=350')
+![LTE](../../media/photos/lte-4.jpg  ':size=350')
