@@ -47,6 +47,10 @@ If you have connected it to a wired Ethernet connection this process may take sl
 
 To configure your Hotspot, you will require the Helium Network application installed on a Mobile Phone, and for you to have gone through the account setup process to continue.
 
+> Nebra Hotspots require the following ports to be port forwarded on your network , [Please check here](../security.md) 
+
+
+
 **Step 1:** Open the Helium application and login, then press hotspots.
 
 **Step 2:** Next click Set up Hotspot, from here you will want to select Nebra Indoor Hotspot.
