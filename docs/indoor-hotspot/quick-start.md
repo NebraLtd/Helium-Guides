@@ -13,11 +13,11 @@ Your Nebra Indoor Helium Hotspot comes with the following items:
 *Please note the above image is for illustrative purposes only, colours of some parts may change.*
 
 ## Warnings
-Please remember to follow the following steps when using your Nebra Indoor Hotspot.
+Please remember to follow these important warnings when using your Nebra Indoor Hotspot:
 
-> * **<span style="color:red">Never power on the Indoor hotspot without it's antenna connected as this may damage the unit.</span>**  
-> * Do not place in direct sunlight or on hot surfaces (e.g a Heater).  
-> * The Indoor unit's case is designed to be used indoors, and is not suitable for use outside.
+!> * **<span style="color:red">Never power on the Indoor hotspot without it's antenna connected as this may damage the unit.</span>**  
+* Do not place in direct sunlight or on hot surfaces (e.g a heater).  
+* The Indoor unit's case is designed to be used indoors, and is not suitable for use outdoor usage.
 
 Note: If you want place your miner outside, please consider our IP67 rated weatherproof [**outdoor hotspot miner**](https://www.nebra.com/products/helium-outdoor-hotspot-miner-gateway).
 
