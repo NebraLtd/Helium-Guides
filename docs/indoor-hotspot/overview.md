@@ -112,7 +112,7 @@ The Nebra Hotspots run a customised software to provide high reliability and ens
 
 Approximately your hotspot will update once a week in an automatic process, we will announce updates via various social media platforms when they happen.
 
-The software is open source at https://github.com/nebraltd/helium-miner-software
+The software is open source and available on our [Helium Miner Software repo on GitHub](https://github.com/nebraltd/helium-miner-software).
 
 ## Unit Information
 Each unit has a sticker located on the base of the unit.
@@ -128,7 +128,7 @@ This includes important Information including:
 * Nebra Serial Number
 * Raspberry Pi Serial Number
 
-You will require some of this information when linking your unit to our Dashboard.
+You will require some of this information when linking your unit to our [remote management dashboard](https://dashboard.nebra.com).
 
 ## Certifications
 
