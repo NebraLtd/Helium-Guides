@@ -60,4 +60,4 @@ If you wish to use PoE with the Indoor Hotspot you will require **active PoE inj
 
 #### For Outdoor unit
 
-For the outdoor unit you can directly connect it to a suitable 802.3af PoE injector or PoE enabled switch/router since it supports 802.3af PoE natively. You do not need spliters and if you do not already have a PoE enabled switch/router you can use a **802.3af 48V POE PoE injector**. 
+For the outdoor unit you can directly connect it to a suitable 802.3af PoE injector or PoE enabled switch/router since it **supports 802.3af PoE natively**. You do not need spliters and if you do not already have a PoE enabled switch/router you can use a **802.3af 48V PoE injector**. 
