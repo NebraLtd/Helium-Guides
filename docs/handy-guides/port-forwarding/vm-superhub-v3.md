@@ -58,4 +58,4 @@ Once complete, you should then see the new port forwarding rule saved in the tab
 
 ![Virgin Media Hub 3.0 Port Forwarding Rules](https://raw.githubusercontent.com/NebraLtd/Helium-Guides/main/docs/media/screenshots/port-forwarding/vm-superhub-v3/vm-superhub-v3-10.png)
 
-Congratulations! You have now successfully set up port forwarding on your Virgin Media Super Hub 3.0. After an hour or so, you should be able to go to the [Helium Explorer](https://explorer.helium.com) and search for your hotspot, and it should no longer have the "relayed" status.
+Congratulations! You have now successfully set up port forwarding on your Virgin Media Super Hub 3.0. Assuming everything has been correctly configured, after 24 hours or so you should be able to go to the [Helium Explorer](https://explorer.helium.com) and search for your hotspot, and it should no longer have the "relayed" status.
