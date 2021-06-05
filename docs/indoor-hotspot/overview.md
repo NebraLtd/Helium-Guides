@@ -148,7 +148,7 @@ We are working on getting the Nebra Indoor Hotspot certified in multiple regions
 | EAC  | Russia | 868 Mhz | In Progress | RU 864 |
 | WPC | India | 868 Mhz | In Progress | IN 865 |
 
-All certification related documents can be viewed at https://helium.nebra.com/certifications/indoor/
+All certification related documents can be viewed in the [certification folder for our indoor miner](https://helium.nebra.com/certifications/indoor/).
 
 #### Certification Codes
 
