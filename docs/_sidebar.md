@@ -2,8 +2,8 @@
 
 - [Home](/)
 
-- [Indoor Helium Hotspot](indoor-hotspot/overview.md)
-
+- Indoor Helium Hotspot
+  - [Overview](indoor-hotspot/overview.md)
   - [Indoor Hotspot Quick Start](indoor-hotspot/quick-start.md)
   - [Indoor Hotspot Troubleshooting](indoor-hotspot/troubleshooting.md)
   - [Indoor Hotspot FAQs](indoor-hotspot/indoor-faq.md)
