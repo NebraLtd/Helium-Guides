@@ -16,6 +16,8 @@
 - [Distributors](distributors.md)
 - [Handy Guides](handy-guides.md)
   - [Port Forwarding](handy-guides/port-forwarding/overview.md)
+    - [Overview](handy-guides/port-forwarding/overview.md)
+    - [Virgin Media Superhub 3.0](handy-guides/port-forwarding/vm-superhub-v3.md)
   - [Setting Up the Helium App](handy-guides/setting-up-hnt-app.md)
   - [PoE Explained](handy-guides/poe-explained.md)
   - [Surge Protectors](handy-guides/surge-protectors.md)
