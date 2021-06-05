@@ -27,7 +27,7 @@ Some basic guidelines are:
 * Ideally we're looking at keeping to ISP provided routers as these are the most popular. Some other popular brands would be good to have too but primarily we're looking at ones provided by ISPs.
 * No repeat guides please, first check if your router combo has been added.
 * Please create the guide with a name that won't collide. In the case of us documenting the Virgin Media Superhub V3 we used `vm-superhub-v3.md`
-* Please put all screenshots in the `/media/port-forwarding/` directory.
-* Please use a format of the same name used for the markdown guide, with -XX being numbered of each screenshot. An example would be for our Virgin Media guide `vm-superhub-v3-01.png`
+* Please put all screenshots in the `/media/screenshots/portforwarding/router-name` directory where `router-name` matches the name of the .md file shown above. So for our example template you can see this is `/media/screenshots/portforwarding/vm-superhub-v3`.
+* Please also name the screenshots with the same name used for the guide, but with a number appended to the end such as `router-name-xx` where `-xx` is the number of each screenshot. An example would be for our Virgin Media guide `vm-superhub-v3-01.png`.
 * Ideally but not essential, have all screenshots in PNG format.
-* We've got a list of ones we'd like to get added at https://github.com/NebraLtd/Helium-Guides/issues?q=is%3Aopen+is%3Aissue+label%3Aportforwarding
+* We've got a list of routers we would like to get added at https://github.com/NebraLtd/Helium-Guides/issues?q=is%3Aopen+is%3Aissue+label%3Aportforwarding
