@@ -2,7 +2,7 @@
 
 - Home
 
- - [Return to homepage](/)
+  - [Return to homepage](/)
 
 - Indoor Helium Hotspot
 
