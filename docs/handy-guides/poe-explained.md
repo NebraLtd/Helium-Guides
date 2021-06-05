@@ -46,7 +46,7 @@ One common confusion with PoE is that there are different standards.
 
 The most common standard, and often what is referred to as PoE is the 802.3af 48V standard. This is the main standard of PoE and is what the Outdoor Hotspot supports out of the box. It is sometimes also called "active" PoE because it requires an active "handshake" or "negotiation" between the powered device ("PD") and the injector/switch ("midspan" or "endspan"). With a suitable PoE injector (explained in the next part) this is the easiest setup with the outdoor hotspot.
 
-The second most common standard is 12V "passive" POE which is where power is passed over the spare cable pairs on the Ethernet cable, however there is no active power negotiation between the injector and the end device. On long runs of cable, due to voltage drop accross the cable, the voltage can drop far below the input 12 Volts so if you use passive PoE injectors you need to use a multimeter to make sure that your device is receiving a suitable voltage at the output side.
+The second most common standard is 12V "passive" PoE which is where power is passed over the spare cable pairs on the Ethernet cable, however there is no active power negotiation between the injector and the end device. On long runs of cable, due to voltage drop accross the cable, the voltage can drop far below the input 12 Volts so if you use passive PoE injectors you need to use a multimeter to make sure that your device is receiving a suitable voltage at the output side.
 
 ## Connections
 
