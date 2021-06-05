@@ -1,20 +1,27 @@
 <!-- docs/_sidebar.md -->
 
 - Home
+
  - [Return to homepage](/)
+
 - Indoor Helium Hotspot
+
   - [Indoor Hotspot Overview](indoor-hotspot/overview.md)
   - [Indoor Hotspot Quick Start](indoor-hotspot/quick-start.md)
   - [Indoor Hotspot Troubleshooting](indoor-hotspot/troubleshooting.md)
   - [Indoor Hotspot FAQs](indoor-hotspot/indoor-faq.md)
+
 - Outdoor Helium Hotspot
+
   - [Outdoor Hotspot Overview](outdoor-hotspot/overview.md)
   - [Outdoor Hotspot Quick Start](outdoor-hotspot/quick-start.md)
   - [Outdoor Hotspot Troubleshooting](outdoor-hotspot/troubleshooting.md)
   - [Outdoor Hotspot FAQs](outdoor-hotspot/outdoor-faq.md)
   - [Outdoor Hotspot LTE Configuration](outdoor-hotspot/lte-config.md)
     - [Modem APN list](outdoor-hotspot/lte-apns.md)
+
 - General Information
+
   - [Frequently Asked Questions](FAQs.md)
   - [Security Overview](security.md)
   - [Distributors](distributors.md)
@@ -30,7 +37,9 @@
       - [Connectors](handy-guides/antenna/connectors.md)
       - [Connections](handy-guides/antenna/connections.md)
   - [Datasheets](datasheets.md)
+
 - Contributions and Support
+
   - [Contributing](contributing/overview.md)
     - [Translations](contributing/translations.md)
   - [Support](support.md)
