@@ -151,3 +151,16 @@ However if your are not able to find that code in your country's system you can 
 
 We have a growing list of distributors on our [Distributors](distributors.md) page.</details>
 
+## Which cable should I use between hotspot and antenna ?
+
+<details> <summary>Click to expand! </summary>
+
+The distance that you need to run the Coax will be the main factor in deciding the cable to use, for short runs LMR/HDF 200 will be adequate but for longer runs then LMR/HDF 400 should be used.
+
+Check more about cables and connectors here [Antenna Connectors](handy-guides/antenna/connectors.md)
+
+docs\handy-guides\antenna\connectors.md
+
+</details>
+
+
