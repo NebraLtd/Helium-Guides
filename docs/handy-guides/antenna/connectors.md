@@ -29,3 +29,39 @@ The same as SMA but with reversed polarity. Reverse-polarity SMA (RP-SMA) is a v
 
 ![RPSMA Type](../../media/photos/antenna/connectors/rpsma.png)
 
+
+##
+
+##  Which cable should I use ?
+
+The distance that you need to run the Coax will be the main factor in deciding the cable to use, for short runs LMR/HDF 200 will be adequate but for longer runs then LMR/HDF 400 should be used.
+
+## Cable loss
+
+As all cables will give some signal loss it\'s important to be able to calculate the losses and therefore know how this will affect the signal strength. 
+
+Here is list cables and it's cable loss. 
+
+| TYPE OF CABLE  |  LOSS / M  | DIAMETER |
+|----------|:-------------:|------:|
+| LMR-600 | ~0,08 dBm | 15 mm |
+| LMR-400 | ~0,10 dBm | 10 mm |
+| HDF-400 | ~0.13 dBm | 10 mm |
+| LMR-300 | ~0.15 dBm | 08 mm |
+| RG-401  | ~0.18 dBm | 6.4 mm |
+| LMR-240 | ~0.24 dBm | 6 mm|
+| RG-142  | ~0,25 dBm | 5 mm|
+| RG-402  | ~0,25 dBm | 3.6 mm|
+| RG-213/214 | ~0.26 dBm | 10 mm |
+| RG-8X   | ~0.42 dBm | 6.4 mm|
+| RG-405  | ~0.45 dBm | 2.1 mm|
+| RG-58   | ~0.50 dBm | 5 mm |
+| HDF-200 | 0.59 dBm  |	5 mm |
+| RG-178  | ~1.00 dBm | 2 mm | 
+| RG-174  | ~1.00 dBm | 2.5 mm| 
+
+
+
+
+Src: https://www.disk91.com/2021/technology/hardware/radio-cable-selection-for-outdoor-lorawan-antenna/ , https://www.digitalairwireless.com/articles/blog/signal-loss-in-rf-cable-what-is-the-numbers 
+
