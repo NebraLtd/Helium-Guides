@@ -16,7 +16,7 @@ If your router does not support UPnP and after 24 hours you are still showing as
 
 We have created a few examples guides for popular routers:
 
-- [Virgin Media Superhub v3.0](../vm-superhub-v3.md)
+- [Virgin Media Superhub v3.0](./vm-superhub-v3.md)
 
 We will add more guides as time goes on, but if you have a different router and could help with a guide please see the below instructions on how to do this.
 
