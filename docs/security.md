@@ -30,7 +30,7 @@ All of the software that runs on the Nebra Hotspots can be found on our github p
 | <https://github.com/NebraLtd/hm-pktfwd> | Nebra Helium Miner Packet Forwarder |
 | <https://github.com/NebraLtd/hm-miner> | Nebra Helium Miner Container |
 | <https://github.com/NebraLtd/hm-upnp> | UPNP Container for Nebra Hotspots |
-| <https://github.com/NebraLtd/hm-gwmfr> |  |
+| <https://github.com/NebraLtd/hm-gwmfr> | ECC Secure Element Chip Provisioning |
 
 ## Ports used
 
