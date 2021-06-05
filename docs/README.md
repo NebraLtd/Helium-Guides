@@ -8,7 +8,7 @@ The Nebra HNT Hotspot Miners for the Helium Network and LongFi are available to 
 
 You can also purchase from one of our [growing list of distributors](distributors.md) around the world.
 
-> Not sure what region you require for your Helium Hotspot? use [What Helium Region](https://whatheliumregion.xyz/) to find. 
+> Not sure what region you require for your Helium Hotspot? Use [What Helium Region](https://whatheliumregion.xyz/) to find out! 
 
 ## Contributing
 
