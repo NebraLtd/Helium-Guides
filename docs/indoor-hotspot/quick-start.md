@@ -97,4 +97,6 @@ You can move device to another location, However every time you move your hotspo
 
 You can also watch this video and learn how to onboard the hotspot. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6pSKwtGAwDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [![Nebra $HNT Indoor Hotspot Miner - Android App Onboarding Video](https://img.youtube.com/vi/6pSKwtGAwDg/0.jpg)](https://www.youtube.com/watch?v=6pSKwtGAwDg)
