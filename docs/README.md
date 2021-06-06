@@ -18,7 +18,7 @@ We have created a couple of informational pages to help you get started and to f
 * [Contributing Overview](contributing/overview.md)
 * [Translations](/contributing/translations.md)
 
-Please be aware that all contributions you make are given freely and unconditionally and will be licensed under the [permissive open source license shown on our GitHub repo](https://github.com/NebraLtd/Helium-Guides/blob/main/LICENSE). If you have any questions about contributing to this documentation, please feel free to reach out to us via one of the methods shown on our [support page](support.md)
+Please be aware that all contributions you make are given freely and unconditionally and will be licensed under the [permissive open source license shown on our GitHub repo](https://github.com/NebraLtd/Helium-Guides/blob/main/LICENSE). If you have any questions about contributing to this documentation, please feel free to reach out to us via one of the methods shown on our [support page](support.md).
 
 ## Contributors
 
