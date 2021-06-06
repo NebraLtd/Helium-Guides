@@ -7,7 +7,7 @@ Your Nebra Indoor Helium Hotspot comes with the following items:
 
 * The Nebra Helium Indoor Hotspot
 * RP-SMA LoRa Antenna
-* Worldwide 12V 1.5A Power Adapter + Adaptors
+* Worldwide 12V 1.5A Power Adapter (with UK, US, EU and Aus plug heads)
 * 1m Cat5e Ethernet Cable
 
 *Please note the above image is for illustrative purposes only, colours of some parts may change.*
@@ -23,7 +23,7 @@ Please remember to follow these important warnings when using your Nebra Indoor 
 
 </div>
 
-Note: If you want place your miner outside, please consider our IP67 rated weatherproof [**outdoor hotspot miner**](https://www.nebra.com/products/helium-outdoor-hotspot-miner-gateway).
+**Note:** If you want place your miner outside, please consider our IP67 rated weatherproof [**outdoor hotspot miner**](https://www.nebra.com/products/helium-outdoor-hotspot-miner-gateway).
 
 ## Preparing Your Nebra Indoor Hotspot
 
