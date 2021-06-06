@@ -23,7 +23,7 @@ Please remember to follow these important warnings when using your Nebra Indoor 
 
 </div>
 
-**Note:** If you want place your miner outside, please consider our IP67 rated weatherproof [**outdoor hotspot miner**](https://www.nebra.com/products/helium-outdoor-hotspot-miner-gateway).
+**Note:** If you want place your miner outside, please consider our IP67 rated weatherproof [outdoor hotspot miner](https://www.nebra.com/products/helium-outdoor-hotspot-miner-gateway).
 
 ## Preparing Your Nebra Indoor Hotspot
 
@@ -51,9 +51,7 @@ If you have connected it to a wired Ethernet connection this process may take sl
 
 To configure your Hotspot, you will require the Helium Network application installed on a Mobile Phone, and for you to have gone through the account setup process to continue.
 
-> Nebra Hotspots require the following ports to be port forwarded on your network , [Please check here](../security.md) 
-
-
+> For the best results, Nebra Hotspots require some ports to be port forwarded on your network. Please check our [security](../security.md) and [port forwarding](../handy-guides/port-forwarding/overview.md) pages for more details.
 
 **Step 1:** Open the Helium application and login, then press hotspots.
 
