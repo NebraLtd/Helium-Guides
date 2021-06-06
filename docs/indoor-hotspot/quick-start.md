@@ -94,9 +94,8 @@ You can move device to another location, However every time you move your hotspo
 
 ![Registering Hotspot](../media/screenshots/ios/hs-18.png  ':size=350')
 
+## Onboarding Video
 
-You can also watch this video and learn how to onboard the hotspot. 
+You can also watch this video to learn how to onboard the hotspot. This is using the Nebra Indoor Hotspot on Android, but the process is very similar for the Outdoor Hotspot and using iOS devices:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6pSKwtGAwDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[![Nebra $HNT Indoor Hotspot Miner - Android App Onboarding Video](https://img.youtube.com/vi/6pSKwtGAwDg/0.jpg)](https://www.youtube.com/watch?v=6pSKwtGAwDg)
+<iframe width="560" height="560" src="https://www.youtube.com/embed/6pSKwtGAwDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
