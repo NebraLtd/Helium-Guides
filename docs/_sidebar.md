@@ -25,7 +25,8 @@
   - [Frequently Asked Questions](FAQs.md)
   - [Security Overview](security.md)
   - [Distributors](distributors.md)
-  - [Handy Guides](handy-guides.md)
+
+  - [**Handy Guides**](handy-guides.md)
     - [Port Forwarding](handy-guides/port-forwarding/overview.md)
       - [Overview](handy-guides/port-forwarding/overview.md)
       - [Virgin Media Superhub 3.0](handy-guides/port-forwarding/vm-superhub-v3.md)
@@ -36,6 +37,7 @@
       - [Overview](handy-guides/antenna/overview.md)
       - [Connectors](handy-guides/antenna/connectors.md)
       - [Connections](handy-guides/antenna/connections.md)
+  - [Ideal Hotspot Placement](handy-guides/hotspot-ideal-location.md)
   - [Datasheets](datasheets.md)
 
 - Contributions and Support

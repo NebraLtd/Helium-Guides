@@ -47,7 +47,8 @@ A good rule of thumb to start approaching 90% of optimum earnings is at least 20
 
 Here’s an example of a good elevation placement in a suburban location:
 
-![](https://miro.medium.com/max/700/1*OUhcr2mWpE_OUHey5YnEmw.jpeg) src: [nikhawks.medium.com](https://nikhawks.medium.com/a-rough-guide-to-helium-hotspot-placement-bb96b0b81343)
+![](https://miro.medium.com/max/700/1*OUhcr2mWpE_OUHey5YnEmw.jpeg) 
+src: [nikhawks.medium.com](https://nikhawks.medium.com/a-rough-guide-to-helium-hotspot-placement-bb96b0b81343)
 
 ##
 
