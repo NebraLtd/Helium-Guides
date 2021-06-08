@@ -12,6 +12,7 @@ Under this category we've got a small collection of helpful guides to help with 
     * [Overview](handy-guides/antenna/overview.md) 
     * [Connectors](handy-guides/antenna/connectors.md) 
     * [Connections](handy-guides/antenna/connections.md)
+* [Ideal location for the Hotspot](handy-guides/hotspot-ideal-location.md)
 
     
 
