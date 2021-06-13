@@ -30,6 +30,8 @@
     - [Port Forwarding](handy-guides/port-forwarding/overview.md)
       - [Overview](handy-guides/port-forwarding/overview.md)
       - [Virgin Media Superhub 3.0](handy-guides/port-forwarding/vm-superhub-v3.md)
+      - [Sky Hub SR102](handy-guides/port-forwarding/sky-hub-sr102.md)
+      - [Google WiFi](handy-guides/port-forwarding/google-wifi.md)
     - [Setting Up the Helium App](handy-guides/setting-up-hnt-app.md)
     - [PoE Explained](handy-guides/poe-explained.md)
     - [Surge Protectors](handy-guides/surge-protectors.md)
