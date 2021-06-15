@@ -20,4 +20,25 @@ This jumper is used in conjunction with JP3 to put the CM3 into programming mode
 
 ## Characteristic 398168aa Write Fail
 
-This issue
+This issue is an intermittent one on iOS devices (iPhone / iPad)
+
+## LoRa OK showing as False in diagnostics
+
+This error is displayed if the system fails to start the software for the Miner 5 times in a row.
+
+## Diagnostics page
+
+## Green light not turning on
+
+## Green light is rapidly blinking
+
+## BT Pairing is not working
+
+
+## Invalid Wire Type / Index out of range
+
+Typically only occuring on iPhones & iPads this issue relates to there being too many wi-fi networks being detected by the hotspot.
+
+We fixed this issue in firmware version 2021.05.26.2, hotspots from batch 2 onwards should have a fixed already applied.
+
+However if you have an older hotspot to resolve this issue we recommend that you plug the hotspot into a wired ethernet connection for approximately 30 minutes and then re-try with wireless.
