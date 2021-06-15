@@ -2,9 +2,34 @@
 
 ## Nebra Indoor Hotspot lights
 
+The Nebra Indoor Hotspot has 4 lights that can be checked to resolve issues
+
+### External lights
+The first two can be located on the back of the unit, one green and one amber.
+
+**Amber Light** - This should turn on as soon as the unit is plugged in as it indicates if power is present. If this light does not turn on then the power supply and socket should be checked.
+
+**Green Light** - This light typically should turn on after about 1 minute after powering up which means the software has started. It should then start a slow blink.
+
+If the light does not turn on then there may be an issue with the daughterboard inside the unit and it may require opening up for further investigation.
+
+### Internal Lights
+
+The hotspot has 2 internal lights, along with 2 others documented in the daughterboard section.
+
+These are located under the silver EMF tape on the big board, both should be lit solid all the time.
+
 ## Nebra Outdoor Hotspot Lights
 
 ## Nebra CM3 Daughterboard Lights
+
+The CM3 daughterboard has two lights, one near the USB port and one near the two jumpers.
+
+The one near the USB port is under some EMF tape, this should be a solid green once power is applied.
+
+The second near the jumpers is a blue LED and should occasionally blink, sometimes it may blink in a pattern of 4 times which indicates it has not got a network connection.
+
+However if this light does not blink at all, it could indicate that the compute module needs re-seating.
 
 ## Daughterboard Jumpers
 
