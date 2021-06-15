@@ -51,6 +51,10 @@ This issue is an intermittent one on iOS devices (iPhone / iPad)
 
 This error is displayed if the system fails to start the software for the Miner 5 times in a row.
 
+Two possible fixes for this are:
+* Ensure the antenna connector is connected to the LoRa module.
+* Open up the hotspot and remove then re-insert the LoRa module.
+
 ## Diagnostics page
 
 ## Green light not turning on
