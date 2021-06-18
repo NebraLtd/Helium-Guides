@@ -66,8 +66,8 @@ Two possible fixes for this are:
 
 ## Invalid Wire Type / Index out of range
 
-Typically only occuring on iPhones & iPads this issue relates to there being too many wi-fi networks being detected by the hotspot.
+Typically, only occuring on iPhones & iPads this issue relates to there being too many wi-fi networks being detected by the hotspot.
 
 We fixed this issue in firmware version 2021.05.26.2, hotspots from batch 2 onwards should have a fixed already applied.
 
-However if you have an older hotspot to resolve this issue we recommend that you plug the hotspot into a wired ethernet connection for approximately 30 minutes and then re-try with wireless.
+However, if you have an older hotspot to resolve this issue we recommend that you plug the hotspot into a wired ethernet connection for approximately 30 minutes and then re-try with wireless.
