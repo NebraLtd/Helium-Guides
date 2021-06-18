@@ -40,6 +40,7 @@
       - [Connectors](handy-guides/antenna/connectors.md)
       - [Connections](handy-guides/antenna/connections.md)
   - [Ideal Hotspot Placement](handy-guides/hotspot-ideal-location.md)
+  - [Nebra Helium Hotspot Advance Information](handy-guides/advance-diagnostics.md)
   - [Datasheets](datasheets.md)
 
 - Contributions and Support
