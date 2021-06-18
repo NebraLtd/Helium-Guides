@@ -1,4 +1,4 @@
-# Nebra Helium Hotspot Advance Information
+# Nebra Helium Hotspot Advanced Diagnostics Information
 
 ## Nebra Indoor Hotspot lights
 
