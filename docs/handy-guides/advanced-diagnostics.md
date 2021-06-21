@@ -59,6 +59,13 @@ Two possible fixes for this are:
 
 ## Green light not turning on
 
+Possible causes of this could be:
+
+* The Bluetooth Adaptor has become loose in transit - Check diagnostics page to confirm.
+* The Daughterboard has become loose in transit, open case and check board is correctly seated.
+* The Daughterboard is in programming mode disabling USB, check JP3 & JP4
+* The USB circuitry has an issue, connect a wired ethernet cable to help confirm. If no lights on ethernet turn on and rest has been check this could be the cause.
+
 ## Green light is rapidly blinking
 
 ## BT Pairing is not working
