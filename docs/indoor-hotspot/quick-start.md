@@ -41,7 +41,7 @@ Please remember to follow these important warnings when using your Nebra Indoor 
 
 You should then see the lower LED on the back of the unit turn on, the hotspot will now take up to 5 minutes to configure for it’s first boot.
 
-![Indoor Hotspot Powered Up](../media/photos/indoor-powered.jpg  ':size=800')
+![Indoor Hotspot Powered Up](../media/photos/indoor-ports.jpg  ':size=800')
 
 The upper light will turn on when it is ready to continue for configuration.
 
