@@ -14,12 +14,6 @@ The first thing is to understand some of the basics around the different activit
 
 So the process works a little something like this, every time period (around 480 blocks) a hotspot will issue a challenge to another hotspot on the network via the internet. The challenged hotspot will then send out a radio signal to be witnessed by other hotspots in the local area. The hotspots that witness this beacon will then report back to the original challenger that they have witnessed a beacon. 
 
-```mermaid
-graph LR
-A[Challenger] -- Issues Request via Internet --> B[Beacon]
-B -- Sends Radio Signal--> D{Witnesses}
-D -- Sends Notification via Internet--> A
-```
 It is important to note that this process starts with a challenge to a random hotspot so this is the first element of luck as it is entirely possible for 2 hotspots to independently challenge the same hotspot within a short period of time. This is taken care of by the Helium network algorithms to ensure that the average will tend towards 8 hours. Yes, but what does that mean for me I hear you ask.
 
 Well we are not quite there yet, as there is also the consideration of the placement of not only your hotspot but also of those around you. Know that you can only control what you do with your hotspots and that those around you will have the biggest influence your rewards and that you cant really assume anything about them.
