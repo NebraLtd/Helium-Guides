@@ -18,7 +18,6 @@ For information about your order, and assuming you ordered directly from our [Ne
 
 As a HIP-19 approved third party manufacturer, we have a #nebra support channel on the [official Helium Discord server](https://discord.gg/helium) where a number of our technical and support staff often hang out to answer any pre or post sales questions you might have about our products.
 
-We also have our own [Pi Supply Discord server](https://pisupp.ly/chat) where we would also be more than happy to help.
 
 ## GitHub
 
