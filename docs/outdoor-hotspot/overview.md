@@ -86,9 +86,9 @@ The Nebra Outdoor Hotspot is approximately 300x200x100 mm In size when nothing i
 
 #### Status Indicator
 
-The Nebra Outdoor Hotspot has a status indicator as shown above.
+The Nebra Outdoor Hotspot has a status indicator called LED1 on the Wifi daughterboard in the middle of the hotspot
 
-The Top LED will act accordingly:
+This indicator is RED and will act accordingly:
 
 * Off - Software has not started yet.
 * On - Operating as normal
@@ -97,9 +97,9 @@ The Top LED will act accordingly:
 
 #### Button
 
-The Nebra Outdoor Hotspot has a button on the smaller board inside the unit.
+The Nebra Outdoor Hotspot has a button on the Wifi daughterboard in the middle of inside teh hotspot. This is labeled S1
 
-This is used to re-enable bluetooth pairing on the hotspot, hold the button in for approximately 15 seconds then release to start pairing. The status light should start blinking slowly if successful.
+This is used to re-enable bluetooth pairing on the hotspot, hold the button in for approximately 15 seconds then release to start pairing. The adjacent status light LED1 should start blinking slowly if successful.
 
 ## Firmware
 
