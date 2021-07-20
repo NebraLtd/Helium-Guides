@@ -40,6 +40,7 @@
       - [Connectors](handy-guides/antenna/connectors.md)
       - [Connections](handy-guides/antenna/connections.md)
   - [Ideal Hotspot Placement](handy-guides/hotspot-ideal-location.md)
+  - [Advanced Diagnostics Info](handy-guides/advanced-diagnostics.md)
   - [Datasheets](datasheets.md)
 
 - Contributions and Support
