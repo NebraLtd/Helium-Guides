@@ -25,23 +25,27 @@
   - [Frequently Asked Questions](FAQs.md)
   - [Security Overview](security.md)
   - [Distributors](distributors.md)
+  - [Datasheets](datasheets.md)
 
-  - [**Handy Guides**](handy-guides.md)
-    - [Port Forwarding](handy-guides/port-forwarding/overview.md)
-      - [Overview](handy-guides/port-forwarding/overview.md)
-      - [Virgin Media Superhub 3.0](handy-guides/port-forwarding/vm-superhub-v3.md)
-      - [Sky Hub SR102](handy-guides/port-forwarding/sky-hub-sr102.md)
-      - [Google WiFi](handy-guides/port-forwarding/google-wifi.md)
-    - [Setting Up the Helium App](handy-guides/setting-up-hnt-app.md)
-    - [PoE Explained](handy-guides/poe-explained.md)
-    - [Surge Protectors](handy-guides/surge-protectors.md)
-    - [Antenna](handy-guides/antenna/overview.md)
-      - [Overview](handy-guides/antenna/overview.md)
-      - [Connectors](handy-guides/antenna/connectors.md)
-      - [Connections](handy-guides/antenna/connections.md)
+- Handy Guides
+
+  - [Overview](handy-guides.md)
+  - [Port Forwarding](handy-guides/port-forwarding/overview.md)
+    - [Overview](handy-guides/port-forwarding/overview.md)
+    - [Virgin Media Superhub 3.0](handy-guides/port-forwarding/vm-superhub-v3.md)
+    - [Sky Hub SR102](handy-guides/port-forwarding/sky-hub-sr102.md)
+    - [Google WiFi](handy-guides/port-forwarding/google-wifi.md)
+  - [Setting Up the Helium App](handy-guides/setting-up-hnt-app.md)
+  - [PoE Explained](handy-guides/poe-explained.md)
+  - [Surge Protectors](handy-guides/surge-protectors.md)
+  - [Antenna](handy-guides/antenna/overview.md)
+    - [Overview](handy-guides/antenna/overview.md)
+    - [Connectors](handy-guides/antenna/connectors.md)
+    - [Connections](handy-guides/antenna/connections.md)
   - [Ideal Hotspot Placement](handy-guides/hotspot-ideal-location.md)
   - [Advanced Diagnostics Info](handy-guides/advanced-diagnostics.md)
-  - [Datasheets](datasheets.md)
+  - [First Few Days](handy-guides/first-days.md)
+  
 
 - Contributions and Support
 
