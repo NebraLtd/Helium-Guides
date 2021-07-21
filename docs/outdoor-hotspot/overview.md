@@ -57,12 +57,68 @@ The frequency is set upon initialisation by the Helium Network.
 | **Length** |  | 30CM |
 
 
+## Hardware Overview
+
+### Mainboard Layout
+
+![SmartGatewayBreakdown](../media/photos/outdoor/smartGatewayBreakdown-sm.png)
+
+##### Layout Contents
+
+1. DC Barrel Jack - 2MM Pin, 6.5MM Barrel centre positive. Recommended PSU 12V @1.5A.
+2. LAN Connector - RJ45 Connector wired to the Ethernet & POE Modules.
+3. Power Jumper - 3 Pin jumper to select power source, place in position 1-2 for POE, or 2-3 for DC Jack.
+4. POE Module - Negotiates 802.11AF compliant connection and outputs 12V DC into the power section.
+5. Power Section - Takes the 12V power source and regulates it down to 5V & 3V3 rails.
+6. Ethernet Controller - 10/100 Ethernet to USB 2.0 Adaptor, Maxlinear XR22800IL32-F. Connected to USB Hub.
+7. USB Hub - 4 Port USB Hub, wired to Ethernet controller, USB port & M-PCIE connector.
+8. USB Port - USB 2.0 Type A Connector, recommended max power 250mA.
+9. "Raspberry Pi" Header - 40 Pin RPi style header, please note only the first 24 pins are wired. (Refer to 1.1.X)
+10. M-PCIE connector - M-PCIE Connector wired up to USB for connectivity, has Micro SIM Card connected to it.
+11. Micro Sim Card Slot - For use with 3G/4G Module in M-PCIE slot
+12. Lora Module Connector - Designed for use with select M-PCIE LoRa Concentrators, these only have wired up SPI, plus GPS PPS from the GPS Module.
+13. GPS Module - NEO-6M GPS module, connected to UART1 on the compute module. Plus PPS signal to LoRa modules for accurate timings.
+14. Daughterboard Connector - Connects to Compute Module Daughterboard.
+
+#####  Status LEDS
+The mainboard has 3 Status LEDs which do the following:
+* 12V LED - Indicates the mainboard has power located near the jumper.
+* 5V LED - Indicates the 5V regulator is operational located in the power section.
+* 3V3 LED - Indicates the 3V3 regulator is operational located in the power section.
+
+### Daugherboard Overview
+
+
+####  Daughterboard (CM3) Overview
+The standard daughterboard supports the Compute Module 3, Compute Module 3+ and Lite Variants.
+
+While also compatible with the CM1 we recommend using the CM3 Lite or CM3+ / CM3 Lite for storage sizes.
+
+![DaughterboardBreakdown](../media/photos/outdoor/daughterboardBreakdown.png)
+
+##### Layout Contents
+1. Daughterboard Connector - Connects to the Mainboard.
+2. SO-DIMM connector - Raspberry Pi Compute Module connects here.
+3. Power Regulator - Power Circuitry required for the compute module.
+4. SD Card Slot - SD Card Slot for if a CM3/CM3+ Lite is used.
+5. Micro USB Connector - Used to re-flash the EMMC on the Compute Module.
+6. USB Switch - IC responsible to allow switching between Micro USB and Mainboard.
+7. USB Jumper - Used to switch between normal operation and flash mode, ensure it is in position 1-2 for normal operation and 2-3 for programming.
+8. Power Jumper - Allows the module to be powered from the Micro USB connector. Only connect when programming from PC and ensure mainboard is not connected.
+
+##### Status LEDS
+The board has 2 Status LEDs which do the following:
+* Power LED - Indicates the board has power. (Blue)
+* ACT LED - Indicates Read / Write operations on the storage. (Green)
+
+## 
+
 ## Dimensions
 
 The Nebra Outdoor Hotspot is approximately 300x200x100 mm In size when nothing is connected.
 
-
 ## Interfaces
+
 
 #### Connectors
 
