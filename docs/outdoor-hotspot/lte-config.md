@@ -21,7 +21,7 @@ Our recommended modem is the [Quectel EG25-G package](https://www.nebra.com/prod
 
 This is a list of 3G/4G mPCIe modules that we've validated work with the balenaOS / NetworkManager / ModemManager software stack used on Nebra Helium Hotspots.
 
-All were tested in the UK. Please note however that only the Quectel EG25-G mPCIe module has been tested in our compliance testing and therefore if you want to use any other module you may need to undergo further compliance testing with the alternative module...the testing below is *functional only*.
+All were tested in the UK. Please note however that only the Quectel EG25-G mPCIe module has been tested in our compliance testing and therefore if you want to use any other module you may need to undergo further compliance testing with the alternative module...the testing below is **functional only**.
 
 | Module | Status | Sim Card | USB ID | Notes |
 | --- | --- | --- |  --- | --- |
