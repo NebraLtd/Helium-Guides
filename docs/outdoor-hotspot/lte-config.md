@@ -34,7 +34,7 @@ All were tested in the UK.
 | Reyax RYT9000 | Pass | Nano Sim | | Sim Card Holder On Module / Based on Telit LE910C4 chipset , however works with sim card in slot. |
 | Sierra Wireless MC7700 | Needs Testing | Micro Sim | 1199:68a2 | No longer manufactured |
 | Huawei ME909s-120 | Needs Testing | Micro Sim |  | No longer manufactured |
-| MikroTik R11e-LTE6 | Needs Testing | Micro Sim |  |  |
+| MikroTik R11e-LTE6 | Needs Testing | Micro Sim | 2cd2:0004 |  |
 
 > Have you tested an mPCIe cellular modem with your Nebra Outdoor Hotspot and want us to add it to the list? Or have a modem that is not on this list which you would like to ensure is supported? Please post an issue on our [GitHub Issues section](https://github.com/NebraLtd/Helium-Guides/issues/new).
 
