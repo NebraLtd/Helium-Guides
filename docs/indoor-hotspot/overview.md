@@ -54,7 +54,7 @@ The Nebra Indoor Hotspot comes in three frequency versions:
 | **433 Mhz** | Coming Soon |
 | **470 Mhz** | CN470 |
 | **868 Mhz** | EU868, IN865, RU864 |
-| **915 Mhz** | US915, AU915, AS923, KR920 |
+| **915 Mhz** | US915, AU915, AS923-1/2/3/4, KR920 |
 
 The frequency is set upon initialisation by the Helium Network.
 
