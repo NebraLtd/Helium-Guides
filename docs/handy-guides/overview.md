@@ -2,7 +2,7 @@
 
 Under this category we've got a small collection of helpful guides to help with some more generic information regarding the Helium Network and general Hotspot Information.
 
-- [Port Forwarding](handy-guides/port-forwarding/overview.md)
+- [Port Forwarding](../handy-guides/port-forwarding/overview.md)
   - [Overview](handy-guides/port-forwarding/overview.md)
   - [Virgin Media Superhub 3.0](handy-guides/port-forwarding/vm-superhub-v3.md)
   - [Sky Hub SR102](handy-guides/port-forwarding/sky-hub-sr102.md)
