@@ -3,7 +3,7 @@
 ## Box Contents
 Your Nebra Outdoor Helium Hotspot comes with the following items:
 
-![Outdoor Hotspot Contents](../media/photos/outdoor/quick-start/quick-start-1.jpg)
+![Outdoor Hotspot Contents](../media/photos/outdoor/quick-start/outdoor-quick-start-1.jpg)
 
 * The Nebra Helium Outdoor Hotspot
 * 3 dBi N-Type glass fiber antenna
