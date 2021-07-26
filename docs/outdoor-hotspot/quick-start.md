@@ -1,19 +1,40 @@
 # Outdoor Hotspot Quick Start Guide
 
-## Chapter 1: Hardware Setup
-
-### Box Contents
+## Box Contents
 Your Nebra Outdoor Helium Hotspot comes with the following items:
 
+![Outdoor Hotspot Contents](../media/photos/outdoor/quick-start/quick-start-1.jpg)
+
 * The Nebra Helium Outdoor Hotspot
-* 3 dBi N-Type Glass Fiber Antenna
+* 3 dBi N-Type glass fiber antenna
+* N-type WiFi antenna
+* Ethernet gland cover end
+* Sealing string
+* M20 general cable gland
+* M10 general cable gland
+* Spare blanking plugs (2 x N-type, 1 x M20)
+* 2 x L shaped mounting brackets
+* 2 pairs of Z clamp brackets (for pole mounting)
+* 2 x serial number QR code stickers
+* 2 x Nebra stickers
 
-You will need a power source such as a DC Power Supply, or provide both combined power and network connection by using Power Over Ethernet with the unit.
+*Please note: You will need a Power Over Ethernet power source (802.3af PoE switch or PoE injector) in order to power the outdoor hotspot. Alternatively, you can use a 12 Volt / 1.5 Amp power supply which can be [purchased separately on our website](https://www.nebra.com/products/nebra-12-volt-1-5-amp-worldwide-power-supply).*
 
-### Warnings
-Please remember to follow the following steps when using your Nebra Outdoor Hotspot.
+## Warnings
 
-* Never power on the Outdoor hotspot without it's antenna connected as this may damage the unit.
+Please remember to follow these important warnings when using your Nebra Outdoor Hotspot:
+
+<div class="tip">
+
+* **<span style="color:red">Never power on the Outdoor hotspot without the grey LoRa antenna connected as this may damage the unit.</span>**
+* The Outdoor unit's case is designed to be used outdoors, in all weather conditions, however it is always recommended to protect it from the elements whenever possible especially in harsh environments. Additionally, the outdoor case is not suitable for submerged usage.
+* Before installing outside, make sure you have tightened all connectors and the case itself very well to avoid any unintended water ingress.
+* The unit should operate without issue even in direct sunlight - however, heat cycling can reduce the service life of the electronics. So where possible it is always recommended to provide some shade for the hotspot case itself.
+* It is highly reccommended to provide surge protection both on the antenna connection (to avoid damage to the LoRa concentrator) and on the Ethernet connection (to avoid any onwards damage to your networking equipment in the event of a lightning strike or similar. Please read our [surge protectors](../handy-guides/surge-protectors.md) guide for more information.
+  
+</div>
+
+**Note:** If you want place your outdoor miner inside, that is entirely fine and will work without issue, however you may want to consider our [indoor hotspot miner](https://www.nebra.com/products/helium-indoor-hotspot-miner) instead.
 
 ### Preparing Your Nebra Outdoor Hotspot
 
