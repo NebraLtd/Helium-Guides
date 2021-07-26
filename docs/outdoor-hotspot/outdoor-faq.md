@@ -72,7 +72,7 @@ Yes, we include a white N-type WiFi antenna with the outdoor hotspot. This screw
 
 </details>
 
-### How long does it take for my Hotspot to sync with the network?
+## How long does it take for my Hotspot to sync with the network?
 
 <details>
 <summary>Click to expand!</summary>
