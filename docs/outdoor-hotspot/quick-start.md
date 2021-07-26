@@ -112,3 +112,9 @@ Type in your Wi-Fi's network password then tap Connect and it should connect to 
 **Step 9:** The setup should now be complete, it'll submit the details of the Hotspot to the Helium network and then within 15 minutes confirm it's added to the network.
 
 ![Android Placeholder](../media/screenshots/ios/hs-18.png  ':size=350')
+
+## Onboarding Video
+
+You can also watch this video to learn how to onboard the hotspot. This is using the Nebra Indoor Hotspot on Android, but the process is very similar for the Outdoor Hotspot and using iOS devices:
+
+<iframe width="560" height="560" src="https://www.youtube.com/embed/6pSKwtGAwDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
