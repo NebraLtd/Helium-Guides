@@ -6,7 +6,7 @@ The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Heliu
 
 | Specification | Nebra Indoor Hotspot |
 | --- | ---  |
-| **RRP** | £250 ex VAT |
+| **RRP** | £350 ex VAT |
 | **Case** | Plastic (ABS) |
 | **Ingress Protection** | IP40 |
 | **Dimensions** | 150x150x50 mm (Excluding Antenna) |
@@ -30,18 +30,20 @@ The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Heliu
 
 ## Package Contents
 
-![Indoor Hotspot Included](../media/photos/indoor-included.jpg  ':size=800')
+![Indoor Hotspot Included](../media/photos/indoor/indoor-included.jpg  ':size=800')
 
 * The Nebra Helium Indoor Hotspot
 * RP-SMA LoRa Antenna
-* Worldwide 12V 1.5A Power Adapter + Adaptors
-* 1M CAT5 Ethernet Cable
+* Worldwide 12V 1.5A Power Adapter (with UK, US, EU and Aus plug heads)
+* 1m Cat5e Ethernet cable
+* 2 x serial number QR code stickers
+* 2 x Nebra stickers
 
 *Please note the above image is for illustrative purposes only, colours of some parts may change.*
 
 ## Block Diagram
 
-![Indoor Hotspot Block Diagram](../media/diagrams/Indoor-Block-Diagram.png ':size=800')
+![Indoor Hotspot Block Diagram](../media/diagrams/indoor/Indoor-Block-Diagram.png ':size=800')
 
 ## Supported Regions
 
@@ -49,6 +51,7 @@ The Nebra Indoor Hotspot comes in three frequency versions:
 
 | Frequency | Supported Regions |
 | --- | ---  |
+| **433 Mhz** | Coming Soon |
 | **470 Mhz** | CN470 |
 | **868 Mhz** | EU868, IN865, RU864 |
 | **915 Mhz** | US915, AU915, AS923, KR920 |
@@ -76,7 +79,7 @@ Approximatley 175x150x50MM space is required when accounting in space required f
 
 #### Connectors
 
-![Indoor Hotspot Connectors](../media/photos/indoor-ports-an.jpg  ':size=800')
+![Indoor Hotspot Connectors](../media/photos/indoor/indoor-ports-an.jpg  ':size=800')
 
 1.  9-16V @ 15W DC 6.5MMx2.0MM Barrel Jack
 2. LED Indicator.
@@ -117,9 +120,9 @@ The software is open source and available on our [Helium Miner Software repo on 
 ## Unit Information
 Each unit has a sticker located on the base of the unit.
 
-![Indoor Hotspot Base](../media/photos/indoor-bottom.jpg  ':size=800')
+![Indoor Hotspot Base](../media/photos/indoor/indoor-bottom.jpg  ':size=800')
 
-![product label image ](../media/photos/product_label_image.jpg)
+![product label image ](../media/photos/indoor/product_label_image.jpg)
 
 This includes important Information including:
 
