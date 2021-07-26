@@ -3,7 +3,7 @@
 ## Box Contents
 Your Nebra Indoor Helium Hotspot comes with the following items:
 
-![Indoor Hotspot Included](../media/photos/indoor-included.jpg  ':size=800')
+![Indoor Hotspot Included](../media/photos/indoor/indoor-included.jpg  ':size=800')
 
 * The Nebra Helium Indoor Hotspot
 * RP-SMA LoRa Antenna
@@ -31,7 +31,7 @@ Please remember to follow these important warnings when using your Nebra Indoor 
 
 **Step 1:** First screw in the included antenna into the connector on the back of the hotspot.
 
-![Indoor Hotspot Antenna](../media/photos/indoor-antenna-2.jpg  ':size=800')
+![Indoor Hotspot Antenna](../media/photos/indoor/indoor-antenna-2.jpg  ':size=800')
 
 **Step 2:** Next find a suitable location for your Hotspot to be positioned, to provide the best coverage we recommend placing it near a window just out of direct sunlight. You’ll need to be near a mains power source too.
 
@@ -43,7 +43,7 @@ Please remember to follow these important warnings when using your Nebra Indoor 
 
 You should then see the lower LED on the back of the unit turn on, the hotspot will now take up to 5 minutes to configure for it’s first boot.
 
-![Indoor Hotspot Powered Up](../media/photos/indoor-ports.jpg  ':size=800')
+![Indoor Hotspot Powered Up](../media/photos/indoor/indoor-ports.jpg  ':size=800')
 
 The upper light will turn on when it is ready to continue for configuration.
 
