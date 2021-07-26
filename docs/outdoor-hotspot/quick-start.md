@@ -17,7 +17,37 @@ Please remember to follow the following steps when using your Nebra Outdoor Hots
 
 ### Preparing Your Nebra Outdoor Hotspot
 
-This section will be written soon.
+
+
+**Step 1:** First, carefully screw in the included LoRaWAN antenna (the large, cylindrical antenna, usually grey), to the port at the top of the hotspot. 
+
+You may also have a smaller WiFi antenna (white), that screws into the connection at the bottom of the hotspot, beside the ethernet gland.
+
+
+**Step 2:** Next find a suitable location for your hotspot to be positioned, to provide the best coverage we recommend placing it on a rooftop, or mast as high as possible. 
+
+Please take all appropriate precautions if working at height, or ask a trained professional to install the hotspot if you are unsure. 
+
+**Step 3:**  You will need to consider how to power the hotspot. By default, it is configured for Power over Ethernet (PoE -  IEEE 802.3af or  IEEE 802.3at), using a switch or PoE injector. 
+
+To power using a DC supply, you may need to open the case to change a jumper clip. (coming soon)
+
+
+
+**Step 4:**  Use an ethernet cable connected to your PoE switch or PoE injector, and connect it to the hotspot using an ethernet cable to with the supplied gland, to ensure a watertight (IP68) seal. 
+
+It takes a minute or so to power on, and for the first 10 minutes, the hotspot is discoverable via Bluetooth. 
+
+note: even if you have powered the hotspot using PoE, but there is no network connection, WiFI will still work as usual. 
+
+If you have connected it to a wired Ethernet connection, the process may take slightly longer as it’ll also perform firmware updates as soon as it gets a connection to the internet.
+
+
+**Step 5:** register your hotspot (see below) and wait for your hotspot to sync the blockchain, this can take a few hours. 
+
+
+
+
 
 ## Configuring Your Nebra Outdoor Hotspot
 
