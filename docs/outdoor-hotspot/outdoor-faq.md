@@ -37,7 +37,7 @@ Yes you will need to sign up to a data plan with a mobile network. You can find 
 
 We recommend this as it is typically cheaper to sign up to a local plan than the worldwide sims we could ship with it.
   
-Often, cheaper SIM plans do not have a dedicated IP address and use something called [CGNAT (carrier grade network address translation)](https://en.wikipedia.org/wiki/Carrier-grade_NAT) which will mean it will be nearly impossible for you to remove the "relayed" status from your miner and to correctly set up [port forwarding](../handy-guides/port-forwarding.md). For this reason, we recommend that you try to find a business SIM plan that comes with a dedicated public IP address.
+Often, cheaper SIM plans do not have a dedicated IP address and use something called [CGNAT (carrier grade network address translation)](https://en.wikipedia.org/wiki/Carrier-grade_NAT) which will mean it will be nearly impossible for you to remove the "relayed" status from your miner and to correctly set up [port forwarding](../handy-guides/port-forwarding/overview.md). For this reason, we recommend that you try to find a business SIM plan that comes with a dedicated public IP address.
 
 </details>
 
