@@ -88,7 +88,7 @@ This can be rectified by first removing  the 4 screws to take the lid off. Then 
 <details>
 <summary>Click to expand!</summary>
 
-If your issues cannot be resolved by using the troubleshooting page then please email [sales@nebra.com](mailto:sales@nebra.com) and include the following information:
+If your issues cannot be resolved with information from this FAQs page or the [troubleshooting page](../indoor-hotspot/troubleshooting.md) then please email [sales@nebra.com](mailto:sales@nebra.com) and include the following information:
 
 * Model of unit:
 * Mac address of the unit (Shown as ETH on sticker):
@@ -100,4 +100,6 @@ If your issues cannot be resolved by using the troubleshooting page then please 
 * What version of the Helium App are you using?
 * Do you have any screenshots of any error codes? 
 
+Alternatively, you you can get in touch using any of the methods listed on our [support page](../support.md) and we'll work on resolving your issue.
+  
 </details>
