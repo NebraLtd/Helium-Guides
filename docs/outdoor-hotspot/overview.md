@@ -6,7 +6,7 @@ The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium
 
 | Specification | Nebra Outdoor Hotspot |
 | --- | ---  |
-| **RRP** | £350 ex VAT |
+| **RRP** | £450 ex VAT |
 | **Ingress Protection** | IP67 |
 | **Dimensions** | 300x200x100 mm (Excluding Antenna) |
 | **Weight** | 1.25 Kg |
@@ -26,12 +26,22 @@ The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium
 
 ## Package Contents
 
-* 1 X Nebra Outdoor Hotspot
-* 1 X 3 dBi LoRa Antenna
+* The Nebra Helium Outdoor Hotspot
+* 3 dBi N-Type glass fiber antenna
+* N-type WiFi antenna
+* Ethernet gland cover end
+* Sealing string
+* M20 general cable gland
+* M10 general cable gland
+* Spare blanking plugs (2 x N-type, 1 x M20)
+* 2 x L shaped mounting brackets
+* 2 pairs of Z clamp brackets (for pole mounting)
+* 2 x serial number QR code stickers
+* 2 x Nebra stickers
 
 ## Block Diagram
 
-![Outdoor Hotspot Block Diagram](../media/diagrams/Outdoor-Block-Diagram.png  ':size=800')
+![Outdoor Hotspot Block Diagram](../media/diagrams/outdoor/Outdoor-Block-Diagram.png  ':size=800')
 
 
 ## Supported Regions
@@ -40,9 +50,10 @@ The Nebra Outdoor Hotspot comes in three hardware versions:
 
 | Frequency | Supported Regions |
 | --- | ---  |
+| **433 Mhz** | Coming Soon |
 | **470 Mhz** | CN470 |
 | **868 Mhz** | EU868, IN865, RU864 |
-| **915 Mhz** | US915, AU915, AS923, KR920 |
+| **915 Mhz** | US915, AU915, AS923-1/2/3/4, KR920 |
 
 The frequency is set upon initialisation by the Helium Network.
 
@@ -51,10 +62,10 @@ The frequency is set upon initialisation by the Helium Network.
 | Specification | 470Mhz Model | 868 & 915Mhz Models |
 | --- | --- | --- |
 | **Frequency Range** | 420-480 | 860-930 Mhz|
-| **Peak Gain** |  | 3 dBi |
-| **VSWR** |  | ≤1.5 |
+| **Peak Gain** | 3 dBi | 3 dBi |
+| **VSWR** | ≤1.5 | ≤1.5 |
 | **Input Impediance** | 50 Ohms | 50 Ohms |
-| **Length** |  | 30CM |
+| **Length** | 50CM | 30CM |
 
 
 ## Hardware Overview
@@ -77,7 +88,7 @@ The frequency is set upon initialisation by the Helium Network.
 10. M-PCIE connector - M-PCIE Connector wired up to USB for connectivity, has Micro SIM Card connected to it.
 11. Micro Sim Card Slot - For use with 3G/4G Module in M-PCIE slot
 12. Lora Module Connector - Designed for use with select M-PCIE LoRa Concentrators, these only have wired up SPI, plus GPS PPS from the GPS Module.
-13. GPS Module - NEO-6M GPS module, connected to UART1 on the compute module. Plus PPS signal to LoRa modules for accurate timings.
+13. GPS Module - NEO-6M GPS module, connected to UART1 on the compute module. Plus PPS signal to LoRa modules for accurate timings. **PLEASE NOTE: this is not used by the Nebra Helium Hotspots and is only present on the first batch.**
 14. Daughterboard Connector - Connects to Compute Module Daughterboard.
 
 #####  Status LEDS
@@ -86,13 +97,10 @@ The mainboard has 3 Status LEDs which do the following:
 * 5V LED - Indicates the 5V regulator is operational located in the power section.
 * 3V3 LED - Indicates the 3V3 regulator is operational located in the power section.
 
-### Daugherboard Overview
+####  Daughterboard Overview
+The standard daughterboard supports both the Compute Module 3 and Compute Module 3+ (including Lite) variants.
 
-
-####  Daughterboard (CM3) Overview
-The standard daughterboard supports the Compute Module 3, Compute Module 3+ and Lite Variants.
-
-While also compatible with the CM1 we recommend using the CM3 Lite or CM3+ / CM3 Lite for storage sizes.
+While also compatible with the CM1 we recommend using the CM3 / CM3+ / CM3 Lite / CM3+ Lite for the extra power and RAM as well as larger onboard storage options.
 
 ![DaughterboardBreakdown](../media/photos/outdoor/daughterboardBreakdown.png)
 
@@ -111,14 +119,11 @@ The board has 2 Status LEDs which do the following:
 * Power LED - Indicates the board has power. (Blue)
 * ACT LED - Indicates Read / Write operations on the storage. (Green)
 
-## 
-
 ## Dimensions
 
 The Nebra Outdoor Hotspot is approximately 300x200x100 mm In size when nothing is connected.
 
 ## Interfaces
-
 
 #### Connectors
 
@@ -129,7 +134,7 @@ The Nebra Outdoor Hotspot is approximately 300x200x100 mm In size when nothing i
 1. CAT 5e Gland / Passthrough Gland
 2. N-Type Female LoRa Antenna Connector
 
-##### On the inside
+#### On the inside
 
 <Image>
 
@@ -210,8 +215,6 @@ If this equipment does cause harmful interference to radio or television recepti
 * Increase the separation between the equipment and receiver.
 * Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
 * Consult the dealer or an experienced radio/TV technician for help.
-
-<hr>
 
 #### Resources
 
