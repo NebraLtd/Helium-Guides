@@ -34,7 +34,7 @@ The actual usage may be slightly less or more and will be something we up-date o
 <details>
 <summary>Click to expand!</summary>
 
-A 3dBi Omni-directional antenna is included with the Nebra Indoor Hotspot, specifications can be found on the [Overview](../indoor-hotspot/overview.md) page.
+A 3dBi Omni-directional antenna is included with the Nebra Indoor Hotspot, specifications can be found on the [overview page](../indoor-hotspot/overview.md).
 
 </details>
 
