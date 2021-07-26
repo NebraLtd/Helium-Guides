@@ -16,11 +16,11 @@ Typically on the side where the network connection is provided, there is a PoE i
 
 These adaptors typically have a connector where one cable would connect to your Network's Router or Switch and a power input on one side. Then on the other side another Ethernet connector which you would connect to the end device.
 
-![TP Link PoE Injector](../media/photos/tplink-poe.jpg  ':size=800')
+![TP Link PoE Injector](../media/photos/poe/tplink-poe.jpg  ':size=800')
 
 In some cases you may find you already have a PoE enabled switch, these often can be identified by checking if your switch has ports marked PoE.
 
-![TP Link PoE Switch](../media/photos/tplink-switch.jpg  ':size=800')
+![TP Link PoE Switch](../media/photos/poe/tplink-switch.jpg  ':size=800')
 
 With these the injector is already built in and provides PoE power on the ports marked PoE.
 
@@ -38,7 +38,7 @@ In cases like this no additional splitter is required and the network cable conn
 
 Non PoE capable devices such as the Nebra Indoor Hotspot require a splitter in order to be powered via PoE.
 
-![TP Link PoE Diagram](../media/photos/tplink-poe-diag.jpg  ':size=800')
+![TP Link PoE Diagram](../media/photos/poe/tplink-poe-diag.jpg  ':size=800')
 
 ## Different Standards
 
@@ -50,7 +50,7 @@ The second most common standard is 12V "passive" PoE which is where power is pas
 
 ## Connections
 
-![PoE Diagram](../media/diagrams/PoE20Diagrams.png)
+![PoE Diagram](../media/diagrams/poe/PoE20Diagrams.png)
 
 ## What do I need?
 
