@@ -124,7 +124,7 @@ Each unit has a sticker located on the base of the unit.
 
 ![product label image ](../media/photos/indoor/product_label_image.jpg)
 
-This includes important Information including:
+This includes the following important Information:
 
 * Frequency of the Unit
 * Ethernet MAC address
