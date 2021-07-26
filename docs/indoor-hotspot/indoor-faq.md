@@ -24,8 +24,10 @@ No, the indoor unit does not have the ability to have a 4G Modem added, you coul
 <summary>Click to expand!</summary>
 
 Currently we are roughly estimating 30-50GB per month.
-
+  
 The actual usage may be slightly less or more and will be something we up-date over time as we start measuring more units.
+  
+Once all hotspots become "light hotspots" this data usage will reduce.
 
 </details>
 
@@ -35,6 +37,8 @@ The actual usage may be slightly less or more and will be something we up-date o
 <summary>Click to expand!</summary>
 
 A 3dBi Omni-directional antenna is included with the Nebra Indoor Hotspot, specifications can be found on the [overview page](../indoor-hotspot/overview.md).
+
+Upgraded antennas can be [purchased separately from our website](https://www.nebra.com/collections/antennas).
 
 </details>
 
@@ -52,7 +56,7 @@ If you wish to use PoE with the Indoor Hotspot you will require an active PoE sp
 <details>
 <summary>Click to expand!</summary>
 
-This can vary depending on your internet connection's speed. However, in our testing it takes approximately 24-48 hours for the initial synchronisation to be completed.
+This can vary depending on your internet connection speed. However, in our testing it takes approximately 24-48 hours for the initial synchronisation to be completed.
 
 </details>
 
@@ -88,14 +92,16 @@ This can be rectified by first removing  the 4 screws to take the lid off. Then 
 <details>
 <summary>Click to expand!</summary>
 
-If your issues cannot be resolved with information from this FAQs page or the [troubleshooting page](../indoor-hotspot/troubleshooting.md) then please email [sales@nebra.com](mailto:sales@nebra.com) and include the following information:
+If your issues cannot be resolved with information from this FAQs page or the [troubleshooting page](../outdoor-hotspot/troubleshooting.md) then please email [sales@nebra.com](mailto:sales@nebra.com) and include the following information:
 
-* Model of unit:
-* Mac address of the unit (Shown as ETH on sticker):
-* Frequency of the unit (Shown as Freq on sticker):
-* How are you connecting it to internet? (Ethernet, Wi-Fi, Cellular):
-* How are you powering the unit? (Included adaptor, POE, Third party adaptor): If the issue relates to 
-* initial setup of the hotspot:
+* Model of unit?
+* Mac address of the unit (Shown as ETH on sticker)?
+* Frequency of the unit (Shown as Freq on sticker)?
+* How are you connecting it to internet? (Ethernet, Wi-Fi, Cellular)?
+* How are you powering the unit? (included adaptor, PoE, third party adaptor)
+  
+If the issue relates to initial setup of the hotspot, please also include:
+  
 * What make & model of phone are you using?
 * What version of the Helium App are you using?
 * Do you have any screenshots of any error codes? 
