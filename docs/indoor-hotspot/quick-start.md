@@ -3,7 +3,7 @@
 ## Box Contents
 Your Nebra Indoor Helium Hotspot comes with the following items:
 
-![Indoor Hotspot Included](../media/photos/indoor/indoor-included.jpg  ':size=800')
+![Indoor Hotspot Included](../media/photos/indoor/Indoor_PackageContents.jpg  ':size=800')
 
 * The Nebra Helium Indoor Hotspot
 * RP-SMA LoRa Antenna
@@ -34,6 +34,8 @@ Please remember to follow these important warnings when using your Nebra Indoor 
 ![Indoor Hotspot Antenna](../media/photos/indoor/indoor-antenna-2.jpg  ':size=800')
 
 **Step 2:** Next find a suitable location for your Hotspot to be positioned, to provide the best coverage we recommend placing it near a window just out of direct sunlight. You’ll need to be near a mains power source too.
+
+> Please check "[Ideal Hotspot Placement](../handy-guides/hotspot-ideal-location.md)" Guide 
 
 **Step 3:** If you are using a wired Ethernet connection, connect an Ethernet cable between a router or switch and the Ethernet jack on the Hotspot.
 
