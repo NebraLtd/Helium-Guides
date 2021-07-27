@@ -14,17 +14,11 @@ The first thing is to understand some of the basics around the different activit
 
 So the process works a little something like this, every time period (around 480 blocks) a hotspot will issue a challenge to another hotspot on the network via the internet. The challenged hotspot will then send out a radio signal to be witnessed by other hotspots in the local area. The hotspots that witness this beacon will then report back to the original challenger that they have witnessed a beacon. 
 
-```mermaid
-graph LR
-A[Challenger] -- Issues Request via Internet --> B[Beacon]
-B -- Sends Radio Signal--> D{Witnesses}
-D -- Sends Notification via Internet--> A
-```
 It is important to note that this process starts with a challenge to a random hotspot so this is the first element of luck as it is entirely possible for 2 hotspots to independently challenge the same hotspot within a short period of time. This is taken care of by the Helium network algorithms to ensure that the average will tend towards 8 hours. Yes, but what does that mean for me I hear you ask.
 
 Well we are not quite there yet, as there is also the consideration of the placement of not only your hotspot but also of those around you. Know that you can only control what you do with your hotspots and that those around you will have the biggest influence your rewards and that you cant really assume anything about them.
 
-I am synchronised already, why don't I see any rewards immediately? Well, remember that 8 hour cycle, it has only just started so it will take time for anything to start happening and it will depend again more on those hotspots around you rather than your own hotspot. For example things will be very different for you depending on whether there are 0 hotspots around you or if there are 100 and this is before taking in to consideration the terrain and buildings in your surrounding area.
+I am synchronised already, why don't I see any rewards immediately? Well, remember that 8 hour cycle, it has only just started so it will take time for anything to start happening and it will depend again more on those hotspots around you rather than your own hotspot. For example things will be very different for you depending on whether there are 0 hotspots around you or if there are 100 and this is before taking in to consideration the terrain and buildings in your surrounding area. It is also worth remembering that mining rewards are only issued once per consensus cycle which are currently occurring around every 45-50 minutes. You can check this and the time between blocks on [The Helium Explorer](https://explorer.helium.com/)
 
 ## Rewards
 
@@ -36,13 +30,19 @@ This is generally the lowest reward that you will receive and potentially the on
 
 In the explorer you will see first a PoC Challenger activity in a green box.
 
-
+![1](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days/first-days-01.png)
 
 This, if successful, will be followed by a Challenger activity in a purple box accompanied by details of the hotspot that you have challenged. If the challenge is not successful you will see nothing.
 
+![2](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-02.png)
+
 If you click the purple box you will be presented with the details of the hotspot that the challenge was issued to along with a graphical representation of the beacon that was issued and the witnesses.
 
+![4](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-04.png)
+
 If the challenge is successful and the beacon issued by the hotspot is witnessed then you will see a Mining Reward activity in a brown box and you will receive a reward.
+
+![3](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-03.png)
 
 An important thing to note is that if YOUR hotspot is relayed it is more likely that you will have failed challenges as the network responses from the witnesses do not reach you in good time to validate. The impact of relayed hotspots will be discussed further in the Beacon and Witness reward types.
 
@@ -52,15 +52,29 @@ The rewards for challenges are typically small and do not depend on your locatio
 
 If you receive a challenge from another hotspot you will issue a beacon and if it is successfully witnessed you will receive a reward.
 
-In the explorer you will see first a Beacon activity in a blue box along with the number of witnesses. The number of witnesses can be 0 to 25 but 0 doesn't necessarily mean there is an issue with your hotspot.
+In the explorer you will see first a Beacon activity in a blue box along with the number of witnesses. The number of witnesses can be 0 but this doesn't necessarily mean there is an issue with your hotspot.
+
+![5](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-05.png)
 
 If you click the blue box you will be presented with the details of the beacon along with a graphical representation of the witnesses.
 
-The witnesses here are the ones that will appear in your witness list as this is a list of witnesses to you and not who you have witnessed. This is sometimes a point of confusion as it is displayed on the main page in the explorer for your hotspot. It displays those hotspots that have witnessed your beacons over the last few days.
+![7](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-07.png)
+
+The witnesses here are the ones that will appear in your witness list as this is a list of witnesses to you and not who you have witnessed. This is sometimes a point of confusion as it is displayed on the main page in the explorer for your hotspot. It displays all of those hotspots that have witnessed your beacons over the last few days and is likely to show more than any individual beacon.
+
+![8](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-08.png)
 
 If the beacon is succesful and is witnessed by at least one hotspot then you will see a Mining Reward activity in a brown box and you will receive a reward.
 
-Now, another point about relayed hotspots. This time not your hotspot but the one who challenged you. If the hotspot that challenged you is relayed then there is a good chance that it will not validate the witnesses in time and the result will be 0 witnesses and 0 HNT for you. This is irrespective of the fact you may have 25 perfectly placed hotspots close to you. You can check this by clicking on the blue beacon box to inspect the transaction and then navigate to the hotspot that issued the challenge. This is another element of luck and could negatively impact your expected rewards.
+![6](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-06.png)
+
+Now, another point about relayed hotspots. This time not your hotspot but the one who challenged you. If the hotspot that challenged you is relayed then there is a good chance that it will not validate the witnesses in time and the result will be 0 witnesses and 0 HNT for you. This is irrespective of the fact you may have 25 perfectly placed hotspots close to you. You can check this by clicking on the blue beacon box to inspect the transaction and then navigate to the hotspot that issued the challenge.
+
+![9](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-09.png)
+
+![10](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-10.png)
+
+This is another element of luck and could negatively impact your expected rewards.
 
 The rewards for beacons depend on many factors and you can read about them in the official Helium documents. They are typically medium/large depending on the coverage that is assessed by the Proof of Coverage algorithms.
 
@@ -70,9 +84,15 @@ If you witness a beacon from a nearby hotspot you will receive a reward.
 
 In the explorer you will see first a Witness activity in an orange box along with the details of the hotspot that sent the beacon.
 
+![11](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-11.png)
+
 If you click the orange box you will be presented with the details of the beacon along with a graphical representation of the witnesses of which your hotspot will be one.
 
-You will see a Mining Reward activity in a brown box and you will receive a reward
+![13](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-13.png)
+
+You will see a Mining Reward activity in a brown box and you will receive a reward.
+
+![12](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-12.png)
 
 Again if the hotspot that issued the challenge to the beaconing hotspot is relayed the transaction will not be successful, in this case you will not see anything in the explorer for your hotspot.
 
