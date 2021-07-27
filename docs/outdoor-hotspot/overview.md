@@ -26,6 +26,8 @@ The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium
 
 ## Package Contents
 
+![Indoor Hotspot Included](../media/photos/outdoor/outdoor_package.jpg ':size=800')
+
 * The Nebra Helium Outdoor Hotspot
 * 3 dBi N-Type glass fiber antenna
 * N-type WiFi antenna
