@@ -54,7 +54,7 @@ If you receive a challenge from another hotspot you will issue a beacon and if i
 
 In the explorer you will see first a Beacon activity in a blue box along with the number of witnesses. The number of witnesses can be 0 but this doesn't necessarily mean there is an issue with your hotspot.
 
-![5](../media/screenshots/first-days-05.png)
+![5](../media/screenshots/first-days/first-days-05.png)
 
 If you click the blue box you will be presented with the details of the beacon along with a graphical representation of the witnesses.
 
