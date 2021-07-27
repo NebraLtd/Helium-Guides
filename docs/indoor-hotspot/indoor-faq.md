@@ -72,7 +72,7 @@ That's all, you should be good to go.
 
 Here's a short video showing you how to re-mount the daughterboard...
 
-<iframe width="560" height="560" src="https://www.youtube.com/watch?v=3g28DGvG3Jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="560" src="https://www.youtube.com/embed/3g28DGvG3Jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </details>
 
