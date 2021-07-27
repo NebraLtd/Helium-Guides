@@ -30,7 +30,7 @@ The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Heliu
 
 ## Package Contents
 
-![Indoor Hotspot Included](../media/photos/indoor/indoor-included.jpg  ':size=800')
+![Indoor Hotspot Included](../media/photos/indoor/Indoor_PackageContents.jpg ':size=800')
 
 * The Nebra Helium Indoor Hotspot
 * RP-SMA LoRa Antenna
