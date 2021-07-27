@@ -65,8 +65,8 @@ This can vary depending on your internet connection speed. However, in our testi
 <details>
 <summary>Click to expand!</summary>
 
-* **Step 1:** Remove the screws from the bottom of the case to take off the lid. 
-* **Step 2:** Then re-insert the daughter board into the 60 pin header and then reassemble 
+* **Step 1:** On 1st gen design (dark grey case with white logo) - remove the screws from the bottom of the case to take off the lid. On second gen design (gloss black plastic case) - unclip the lid from the base (there are 4 clips, one in each corner).
+* **Step 2:** Re-insert the daughter board into the 60 pin header and then reassemble 
 
 That's all, you should be good to go. 
 
