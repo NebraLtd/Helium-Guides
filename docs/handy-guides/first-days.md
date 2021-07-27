@@ -30,7 +30,7 @@ This is generally the lowest reward that you will receive and potentially the on
 
 In the explorer you will see first a PoC Challenger activity in a green box.
 
-![1](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days/first-days-01.png)
+![1](https://github.com/NebraLtd/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days/first-days-01.png)
 
 This, if successful, will be followed by a Challenger activity in a purple box accompanied by details of the hotspot that you have challenged. If the challenge is not successful you will see nothing.
 
