@@ -25,13 +25,13 @@ All were tested in the UK. Please note however that only the Quectel EG25-G mPCI
 
 | Module | Status | Sim Card | USB ID | Notes |
 | --- | --- | --- |  --- | --- |
-| Quectel EG21-G | Pass | Micro Sim |  | |
+| Quectel EG21-G | Pass | Micro Sim | 2c7c:0121 | |
 | Quectel EG25-G | Pass | Micro Sim | 2c7c:0125 | |
-| Quectel EC25-E | Pass | Micro Sim |  | |
-| Quectel EG25-G SIM | Pass | Standard Size | | Has Sim Card Holder On Module, however works with sim card in slot. |
-| SimCom SIM7100E | Pass |  Micro Sim | | |
+| Quectel EC25-E | Pass | Micro Sim | 2c7c:0125 | |
+| Quectel EG25-G SIM | Pass | Standard Size | 2c7c:0125 | Has Sim Card Holder On Module, however works with sim card in slot. |
+| SimCom SIM7100E | Pass |  Micro Sim | 1e0e:9001 | |
 | TELIT LE910C4-EU SIM | Pass* | Nano Sim | | \*Pass based on same module used in the Reyax |
-| Reyax RYT9000 | Pass | Nano Sim | | Sim Card Holder On Module / Based on Telit LE910C4 chipset , however works with sim card in slot. |
+| Reyax RYT9000 | Pass | Nano Sim | 1bc7:1201 | Sim Card Holder On Module / Based on Telit LE910C4 chipset , however works with sim card in slot. |
 | Sierra Wireless MC7700 | Needs Testing | Micro Sim | 1199:68a2 | No longer manufactured |
 | Huawei ME909s-120 | Needs Testing | Micro Sim | 12d1:15c1 | No longer manufactured |
 | MikroTik R11e-LTE6 | Needs Testing | Micro Sim | 2cd2:0004 |  |
