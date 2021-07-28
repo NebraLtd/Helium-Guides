@@ -118,7 +118,7 @@ After closing the lid of your hotspot you need to make sure that the cover is pr
 The Lora antenna is connected on the pre-installed antenna connector on top of the hotspot in the center. 
 The Wifi antenna is attached on the pre-installed antenna connector at the bottom of the hotspot.
 
-The LTE antennas are not included with the Outdoor hotspot and need to be purchased seperately. They are delivered with the Quectel LTE modem when you order from us. The antenn connectors should be placed at the top of the hotspot on the left and right side.
+The LTE antennas are not included with the Outdoor hotspot and need to be purchased seperately. They are delivered with the Quectel LTE modem when you order from us. The antenna connectors should be placed at the top of the hotspot on the left and right side.
 
 All antenna connectors are N-type female.
 
