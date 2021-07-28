@@ -75,13 +75,13 @@ Before placing your hotspot outside you need to check a few parts to ensure the 
 **Step 1** Check the bolts
 You should make sure that all bolts are tight. Control all bolts at the top and the bottom manually. The medium sized bolts should have rubber gaskets on them. The small ones don't have them.
 
-![Outdoor Hotspot Top Connectors](../media/photos/outdoor/quick-start/bolts.jpg)
+![Outdoor Hotspot Top Connectors](../media/photos/outdoor/quick-start/bolts.JPG)
 
 **Step 2** Check the antenna connectors
 
 Make sure that all antenna connectors are properly screwed in. They need to sit tight and the gasket should be squished. They should look as following:
 
-![Antenna Connectors](../media/photos/outdoor/quick-start/antennaconnectors.jpg)
+![Antenna Connectors](../media/photos/outdoor/quick-start/antennaconnectors.JPG)
 
 If they look as following, you should tighten them:
 
@@ -91,19 +91,19 @@ If they look as following, you should tighten them:
 
 You need to make sure that the gasket for the bottom cover is properly seated and not damaged
 
-![Bottom seal](../media/photos/outdoor/quick-start/bottomseal.jpg)
+![Bottom seal](../media/photos/outdoor/quick-start/bottomseal.JPG)
 
 **Step 4** Install the sealing string on the top cover
 
 The seal for the top cover is not inserted when you receive the hotspot. You need to the sealing string into the top lid and cut it to the correct length needed. The end should connect at the bottom of the hotspot.
 
-![Top Seal](../media/photos/outdoor/quick-start/topseal.jpg)
+![Top Seal](../media/photos/outdoor/quick-start/topseal.JPG)
 
 **Step 5** Install the Ethernet gland
 
 Make sure that the Ethernet gland is properly sealed with the fitting connector.
 
-![Ethernet Gland](../media/photos/outdoor/quick-start/ethernetgland.jpg)
+![Ethernet Gland](../media/photos/outdoor/quick-start/ethernetgland.JPG)
 
 **Step 6** Tighten the bolts of the casing
 
