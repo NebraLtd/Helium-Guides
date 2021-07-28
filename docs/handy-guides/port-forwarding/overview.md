@@ -2,7 +2,7 @@
 
 Helium Hotspots ideally require a port to be forwarded on the network (port 44158) to work at their best, to help with this us and the community have put together a bunch of guides to try and cover as many network setups as possible.
 
-You can find out more about port forwarding on the Helium Network via [this guide in the Helium support docs](https://intercom.help/heliumnetwork/en/articles/3207912-troubleshooting-network-connection-issues) or [this guide by community member Rob Putt](https://www.robertputt.co.uk/helium-hnt-fixing-relayed-hotspots/).
+You can find out more about port forwarding on the Helium Network via [this guide in the Helium support docs](https://docs.helium.com/troubleshooting/network-troubleshooting/) or [this guide by community member Rob Putt](https://www.robertputt.co.uk/helium-hnt-fixing-relayed-hotspots/).
 
 # UPnP
 
