@@ -96,7 +96,7 @@ You need to make sure that the gasket for the bottom cover is properly seated an
 
 **Step 4** Install the sealing string on the top cover
 
-The seal for the top cover is not inserted when you receive the hotspot. You need to the sealing string into the top lid and cut it to the correct length needed. The end should connect at the bottom of the hotspot.
+The seal for the top cover is not inserted when you receive the hotspot. You need to push the sealing string into the top lid and cut it to the correct length needed. The ends should connect at the bottom of the hotspot.
 
 ![Top Seal](../media/photos/outdoor/quick-start/topseal.JPG)
 
