@@ -41,7 +41,7 @@ Here's a list of APNs we have collected when configuring your 4G / LTE Modem as 
 | O2 | mobile.o2.co.uk | *99# | o2web | password | No |  |
 | Vodafone PAYG | pp.vodafone.co.uk | *99# | wap | wap | No | Same as Voxi |
 | Voxi | pp.vodafone.co.uk | *99# | wap | wap | Yes |  |
-| EE | 3internet | *99# | eesecure | secure | No | Same as Zevvle |
+| EE | everywhere | *99# | eesecure | secure | No | Same as Zevvle |
 | Virgin Mobile | vdata | *99# |  |  | No |  |
 | ASDA Mobile | asdamobiles.co.uk | *99# | web | web | No |  |
 | Tesco Mobile | prepay.tesco-mobile.com | *99# | tescowap | password | No |  |
