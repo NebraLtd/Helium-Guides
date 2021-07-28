@@ -111,6 +111,17 @@ Make sure that the Ethernet gland is properly sealed with the fitting connector.
 After closing the lid of your hotspot you need to make sure that the cover is properly closed. Check all 4 screws and tighten them fully to ensure the waterproofing
 
 
+## Antenna placements
+
+![Antenna placements](../media/photos/outdoor/quick-start/antennaplacement.JPG)
+
+The Lora antenna is connected on the pre-installed antenna connector on top of the hotspot in the center. 
+The Wifi antenna is attached on the pre-installed antenna connector at the bottom of the hotspot.
+
+The LTE antennas are not included with the Outdoor hotspot and need to be purchased seperately. They are delivered with the Quectel LTE modem when you order from us. The antenn connectors should be placed at the top of the hotspot on the left and right side.
+
+All antenna connectors are N-type female.
+
 ## Configuring Your Nebra Outdoor Hotspot
 
 To configure your Hotspot you will require the Helium Network application installed on a Mobile Phone and for you to have gone through the account setup process to continue.
