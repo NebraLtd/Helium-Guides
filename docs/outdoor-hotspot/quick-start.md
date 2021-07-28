@@ -113,7 +113,7 @@ After closing the lid of your hotspot you need to make sure that the cover is pr
 
 ## Antenna placements
 
-![Antenna placements](../media/photos/outdoor/quick-start/antennaplacement.JPG)
+![Antenna placements](../media/photos/outdoor/quick-start/antennaplacement.jpg)
 
 The Lora antenna is connected on the pre-installed antenna connector on top of the hotspot in the center. 
 The Wifi antenna is attached on the pre-installed antenna connector at the bottom of the hotspot.
