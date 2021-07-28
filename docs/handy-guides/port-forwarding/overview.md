@@ -24,6 +24,8 @@ Often the process is quite similar on different routers, so we have created a fe
 
 If you can't find your router model in the above list there is a variety of router specific guides on [this website](https://portforward.com/router.htm). We will also add more guides here as time goes on, but if you have a different router and could help with a guide please see the below instructions on how to do this.
 
+> Please note: it is not possible to port forward multiple devices on the same network so if you have more than one hotspot it's better to have them on separate networks for optimal performance.
+
 # Contributing
 
 To make getting up and running as easy as possible, we'd love it if you could help document your network's system!
