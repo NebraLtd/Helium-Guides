@@ -73,17 +73,18 @@ If you have connected it to a wired Ethernet connection, the process may take sl
 Before placing your hotspot outside you need to check a few parts to ensure the waterproofing
 
 **Step 1** Check the bolts
-You should make sure that all bolts are tight. Control all bolts at the top and the bottom manually. The medium sized bolts should have rubber gaskets on them. The small ones don't have them.
+
+You should make sure that all bolts are tight. Control all bolts at the top and the bottom manually. The medium sized bolts should have rubber gaskets on them. The small ones don't have a gasket.
 
 ![Outdoor Hotspot Top Connectors](../media/photos/outdoor/quick-start/bolts.JPG)
 
 **Step 2** Check the antenna connectors
 
-Make sure that all antenna connectors are properly screwed in. They need to sit tight and the gasket should be squished. They should look as following:
+Make sure that all antenna connectors are fully screwed in. They need to sit tight and the gasket should be squished. They should look as following:
 
 ![Antenna Connectors](../media/photos/outdoor/quick-start/antennaconnectors.JPG)
 
-If they look as following, you should tighten them:
+If they look as following, you should tighten them further:
 
 ![Loose Antenna Connectors](../media/photos/outdoor/quick-start/antennaconnectorloose.jpg)
 
