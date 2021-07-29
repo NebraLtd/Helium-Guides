@@ -56,6 +56,36 @@ Lora OK?: Checks if the Lora module is recognized by your hotspot. If it is show
 
 #### In-app diagnostics 
 
+To access the In-app diagnostics your hotspot needs to be in pairing mode. Your hotspot is in pairing mode directly after startup or by pressing the pair button on the back of your hotspot for 10 seconds. You then need to go into the Helium app and select your hotspot. By clicking on the cog symbol on the top right a new menu will appear. Choose Pair here. Your hotspot should show up now if it is in pairing mode. Select the diagnostics next. The In-app diagnostics will show up after:
+
+![In-app diagnostics](../media/photos/troubleshooting/inappdiagnostics.png)
+
+You can find the following information in the In-App diagnostics
+
+Hotspot name: The animal name of your hotspot will show on top. 
+
+Peer-to-Peer Connections: Here you can see if your hotspot has successful Outbound and Inbound connections. Directly after rebooting/ changing the connection it can take up to 15 minutes to show a green mark. No inbound connections can be due to the hotspot being relayed.
+
+Blockchain Sync: This sync status is not fully up to date and will show as 100% even though the hotspot is still syncing. For a more accurate syncing status you should have a look at the ip diagnostics.
+
+Last Challenged: Shows when the hotspot was challenged the last time. It will only participate in challenges when it is fully synced and has a proper internet connection
+
+Hotspot Maker: The maker of your Hotspot. In our case it will always show as Nebra LTD
+
+Hotspot Firmware: The firmware version running on your hotspot
+
+App Version: The version of the Helium app your are using
+
+Wi-Fi MAC: The Wi-Fi mac address of your hotspot
+
+Ethernet MAC: The Ethernet mac address of your hotspot. Always mention this if you have a technical support request, but don't share it with a third party. It is used in combination with the RPi serial to add your hotspot to our Dashboard
+
+NAT Type: Shows the nat type of your hotspot. This will partially indicate if your hotspot is Relayed. Having nat-type none and unknown is usually the status you want. With a symmetric nat-type it is usually not possible to portforward as you are sharing a IPv4 address with others. It can be resolved by asking for a own IPv4 address at your ISP. Restricted shows that the port is blocked.
+
+IP Address: The local ip address of your hotspot. By entering it in the browser you are able to access the browser diagnostics of your hotspot for a more detailed diagnostics view. It is useful for adding the port-forwarding rule too.
+
+Report Generated: Date when the diagnostics were made.
+
 ### No lights are turning on:
 
 You should see the lower light on the back of the unit turn on as soon as power is applied.
