@@ -122,13 +122,23 @@ While also compatible with the CM1 we recommend using the CM3 / CM3+ / CM3 Lite 
 8. Power Jumper - Allows the module to be powered from the Micro USB connector. Only connect when programming from PC and ensure mainboard is not connected.
 
 ##### Status LEDS
+
+
+
+
 The board has 2 Status LEDs which do the following:
+
 * Power LED - Indicates the board has power. (Blue)
 * ACT LED - Indicates Read / Write operations on the storage. (Green)
 
 ## Dimensions
 
+![DaughterboardBreakdown](../media/photos/outdoor/Dimensions.png)
+
+
 The Nebra Outdoor Hotspot is approximately 300x200x100 mm In size when nothing is connected.
+
+You can find the datasheet [here](#resources)
 
 ## Interfaces
 
