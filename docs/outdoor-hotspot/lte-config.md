@@ -21,22 +21,33 @@ Our recommended modem is the [Quectel EG25-G package](https://www.nebra.com/prod
 
 This is a list of 3G/4G mPCIe modules that we've validated work with the balenaOS / NetworkManager / ModemManager software stack used on Nebra Helium Hotspots.
 
-All were tested in the UK. Please note however that only the Quectel EG25-G mPCIe module has been tested in our compliance testing and therefore if you want to use any other module you may need to undergo further compliance testing with the alternative module...the testing below is **functional only**.
+All were tested in the UK. Please note however that **only the Quectel EG25-G mPCIe module has been tested in our compliance testing** and therefore if you want to use any other module you may need to undergo further compliance testing with the alternative module...the testing below is **functional only**.
 
 | Module | Status | Sim Card | USB ID | Notes |
 | --- | --- | --- |  --- | --- |
-| Quectel EG21-G | Pass | Micro Sim | 2c7c:0121 | |
-| Quectel EG25-G | Pass | Micro Sim | 2c7c:0125 | |
-| Quectel EC25-E | Pass | Micro Sim | 2c7c:0125 | |
-| Quectel EG25-G SIM | Pass | Standard Size | 2c7c:0125 | Has Sim Card Holder On Module, however works with sim card in slot. |
-| SimCom SIM7100E | Pass |  Micro Sim | 1e0e:9001 | |
-| TELIT LE910C4-EU SIM | Pass* | Nano Sim | | \*Pass based on same module used in the Reyax |
-| Reyax RYT9000 | Pass | Nano Sim | 1bc7:1201 | Sim Card Holder On Module / Based on Telit LE910C4 chipset , however works with sim card in slot. |
-| Sierra Wireless MC7700 | Needs Testing | Micro Sim | 1199:68a2 | No longer manufactured |
-| Huawei ME909s-120 | Needs Testing | Micro Sim | 12d1:15c1 | No longer manufactured |
-| MikroTik R11e-LTE6 | Needs Testing | Micro Sim | 2cd2:0004 |  |
+| Quectel EG21-G | Pass | Micro SIM on Nebra Outdoor | 2c7c:0121 | |
+| Quectel EG25-G | Pass | Micro SIM on Nebra Outdoor | 2c7c:0125 | |
+| Quectel EC25-E | Pass | Micro SIM on Nebra Outdoor | 2c7c:0125 | |
+| Quectel EG25-G SIM | Pass | Standard size SIM on module or Micro SIM on Nebra Outdoor | 2c7c:0125 | |
+| SimCom SIM7100E | Pass |  Micro SIM on Nebra Outdoor | 1e0e:9001 | |
+| Telit LE910C4-EU SIM | Pass* | Standard size SIM on module or Micro SIM on Nebra Outdoor | | \*Pass based on same module used in the Reyax |
+| Telit LE910C4-EU | Pass* | Micro SIM on Nebra Outdoor | | \*Pass based on same module used in the Reyax |
+| Reyax RYT9000 | Pass | Nano SIM on module or Micro SIM on Nebra Outdoor | 1bc7:1201 | Based on the Telit LE910C4 chipset |
+| Sierra Wireless MC7700 | Needs Testing | Micro SIM on Nebra Outdoor | 1199:68a2 | No longer manufactured |
+| Huawei ME909s-120 | Needs Testing | Micro SIM on Nebra Outdoor | 12d1:15c1 | No longer manufactured |
+| MikroTik R11e-LTE6 | Needs Testing | Micro SIM on Nebra Outdoor | 2cd2:0004 |  |
 
 > Have you tested an mPCIe cellular modem with your Nebra Outdoor Hotspot and want us to add it to the list? Or have a modem that is not on this list which you would like to ensure is supported? Please post an issue on our [GitHub Issues section](https://github.com/NebraLtd/Helium-Guides/issues/new).
+
+## Onboard or offboard SIM card?
+
+You will notice that on our outdoor hotspot main board, between the mPCIe module slot and the LoRa module, there is a holder for a Micro SIM card. This is directly wired to the external SIM card pins for the mPCIe module such that a Micro SIM card inserted in this slot works seamlessly with the modem.
+
+However you will notice from the table above that some of the modems listed have both an onboard SIM card slot on the module itself as well as the Micro SIM slot on the outdoor hotspot main board. You can see an example of this in the below photo, which shows the Quectel EG25-G (no SIM slot) and EG25-G-S (with SIM slot) mPCIe modules, both of which we supply like-for-like as part of our [Quectel EG25-G package](https://www.nebra.com/products/quectel-eg25-g-mini-pcie-with-antennas):
+
+![EG25-G with and without SIM card slot](../media/photos/lte/lte-6.jpg)
+
+For modems without an onboard SIM slot, you will obviously need to use the Micro SIM slot on the Nebra Outdoor Hotspot itself. For the modems that have a SIM slot on the modem itself, typically these modules will support having your SIM card placed either directly in the module or in the Nebra SIM slot, however if you find that the modem is not working correctly then we would highly recommend trying the other slot as it might be that your specific modem is not wired up in a conventional way (especially if it is not featured on the above list or marked as not tested). One final thing to note is that for modules that have on board SIM card holders these are sometimes not the same size as the Micro SIM on our outdoor hotspot but instead may use a standard or nano sized SIM card so you must make sure to get the correct size SIM for your application.
 
 ## Installing the 4G Module & Sim Card
 
