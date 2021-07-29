@@ -43,7 +43,9 @@ All were tested in the UK. Please note however that **only the Quectel EG25-G mP
 
 You will notice that on our outdoor hotspot main board, between the mPCIe module slot and the LoRa module, there is a holder for a Micro SIM card. This is directly wired to the external SIM card pins for the mPCIe module such that a Micro SIM card inserted in this slot works seamlessly with the modem.
 
-However you will notice from the table above that some of the modems listed have both an onboard SIM card slot on the module itself as well as the Micro SIM slot on the outdoor hotspot main board. You can see an example of this in the below photo, which shows the Quectel EG25-G (no SIM slot) and EG25-G-S (with SIM slot) mPCIe modules, both of which we supply like-for-like as part of our [Quectel EG25-G package](https://www.nebra.com/products/quectel-eg25-g-mini-pcie-with-antennas):
+![Nebra SIM slot](../media/photos/lte/lte-7.jpg)
+
+However in the table above you can see that some of the modems listed have both an onboard SIM card slot on the module itself as well as the Micro SIM slot on the outdoor hotspot main board. You can see an example of this in the below photo, which shows the Quectel EG25-G (no SIM slot) and EG25-G-S (with SIM slot) mPCIe modules, both of which we supply like-for-like as part of our [Quectel EG25-G package](https://www.nebra.com/products/quectel-eg25-g-mini-pcie-with-antennas):
 
 ![EG25-G with and without SIM card slot](../media/photos/lte/lte-6.jpg)
 
