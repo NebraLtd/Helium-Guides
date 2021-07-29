@@ -18,7 +18,7 @@ Your Nebra Outdoor Helium Hotspot comes with the following items:
 * 2 x serial number QR code stickers
 * 2 x Nebra stickers
 
-*Please note: You will need a Power Over Ethernet power source (802.3af PoE switch or PoE injector) in order to power the outdoor hotspot. Alternatively, you can use a 12 Volt / 1.5 Amp power supply which can be [purchased separately on our website](https://www.nebra.com/products/nebra-12-volt-1-5-amp-worldwide-power-supply).*
+*Please note: You will need a Power Over Ethernet power source (802.3af/802.3at PoE switch or PoE injector) in order to power the outdoor hotspot. Alternatively, you can use a 12 Volt / 1.5 Amp power supply which can be [purchased separately on our website](https://www.nebra.com/products/nebra-12-volt-1-5-amp-worldwide-power-supply).*
 
 ## Warnings
 
@@ -31,6 +31,7 @@ Please remember to follow these important warnings when using your Nebra Outdoor
 * Before installing outside, make sure you have tightened all connectors and the case itself very well to avoid any unintended water ingress.
 * The unit should operate without issue even in direct sunlight - however, heat cycling can reduce the service life of the electronics. So where possible it is always recommended to provide some shade for the hotspot case itself.
 * It is highly reccommended to provide surge protection both on the antenna connection (to avoid damage to the LoRa concentrator) and on the Ethernet connection (to avoid any onwards damage to your networking equipment in the event of a lightning strike or similar. Please read our [surge protectors](../handy-guides/surge-protectors.md) guide for more information.
+* Before placing your hotspot outside, you need to make sure that it is fully waterproof. You can find more info about this down below.
   
 </div>
 
@@ -67,8 +68,59 @@ If you have connected it to a wired Ethernet connection, the process may take sl
 **Step 5:** register your hotspot (see below) and wait for your hotspot to sync the blockchain, this can take a few hours. 
 
 
+## Ensure waterproofing
+
+Before placing your hotspot outside you need to check a few parts to ensure the waterproofing
+
+**Step 1** Check the bolts
+
+You should make sure that all bolts are tight. Control all bolts at the top and the bottom manually. The medium sized bolts should have rubber gaskets on them. The small ones don't have a gasket.
+
+![Outdoor Hotspot Top Connectors](../media/photos/outdoor/quick-start/bolts.JPG)
+
+**Step 2** Check the antenna connectors
+
+Make sure that all antenna connectors are fully screwed in. They need to sit tight and the gasket should be squished. They should look as following:
+
+![Antenna Connectors](../media/photos/outdoor/quick-start/antennaconnectors.JPG)
+
+If they look as following, you should tighten them further:
+
+![Loose Antenna Connectors](../media/photos/outdoor/quick-start/antennaconnectorloose.jpg)
+
+**Step 3** Check the gasket of the bottom cover
+
+You need to make sure that the gasket for the bottom cover is properly seated and not damaged
+
+![Bottom seal](../media/photos/outdoor/quick-start/bottomseal.JPG)
+
+**Step 4** Install the sealing string on the top cover
+
+The seal for the top cover is not inserted when you receive the hotspot. You need to push the sealing string into the top lid and cut it to the correct length needed. The ends should connect at the bottom of the hotspot.
+
+![Top Seal](../media/photos/outdoor/quick-start/topseal.JPG)
+
+**Step 5** Install the Ethernet gland
+
+Make sure that the Ethernet gland is properly sealed with the fitting connector.
+
+![Ethernet Gland](../media/photos/outdoor/quick-start/ethernetgland.JPG)
+
+**Step 6** Tighten the bolts of the casing
+
+After closing the lid of your hotspot you need to make sure that the cover is properly closed. Check all 4 screws and tighten them fully to ensure the waterproofing
 
 
+## Antenna placements
+
+![Antenna placements](../media/photos/outdoor/quick-start/antennaplacement.jpg)
+
+The Lora antenna is connected on the pre-installed antenna connector on top of the hotspot in the center. 
+The Wifi antenna is attached on the pre-installed antenna connector at the bottom of the hotspot.
+
+The LTE antennas are not included with the Outdoor hotspot and need to be purchased seperately. They are delivered with the Quectel LTE modem when you order from us. The antenna connectors should be placed at the top of the hotspot on the left and right side.
+
+All antenna connectors are N-type female.
 
 ## Configuring Your Nebra Outdoor Hotspot
 

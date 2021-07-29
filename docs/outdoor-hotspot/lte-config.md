@@ -68,19 +68,19 @@ In order to manually add your APN connection details you will need to plug your 
 
 First, you will need to adjust some pin jumpers on the "daughterboard". The daughterboard is the highest of the blue circuit boards in the case, and has the green Raspberry Pi compute module attached to it. As you can see circled in the image below, there are two jumpers labeled JP3 and JP4:
 
-![Daughterboard Pin Jumpers](../media/photos/lte/lte-5.png)
+![Daughterboard Pin Jumpers](../media/photos/lte/jumperoriginal.JPG)
 
 JP3 is the 2 pin jumper at the bottom of the circled area and JP4 is the 3 pin jumper at the top of the circled area. When you get your miner, JP3 should be covering just one of the two pins and JP4 should be on the pins labelled 1 and 2. In order to program the compute module, you need to move the jumper JP3 so that it covers both of the two pins and you will need to move the jumper for JP4 onto the pins labeled 2 and 3. When done it should look like this:
 
-pic
+![Daughterboard Pin Jumpers Changed](../media/photos/lte/jumperchanged.JPG)
 
 Then you can remove the short microUSB cable from between the WiFi/Bluetooth dongle board and the main board (you can see it indicated with an arrow below):
 
-pic
+![Daughterboard USB Connector](../media/photos/lte/usbmainboard.JPG)
 
 You can then proceed to removing the USB hub board altogether:
 
-pic
+![USB Hub Removed](../media/photos/lte/hubremoved.JPG)
 
 Next, you can plug a microUSB cable into the microUSB connector on the daughterboard (please be **very careful** during this step so that you do not damage the connector):
 
