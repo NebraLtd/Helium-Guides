@@ -1,6 +1,6 @@
 # Mobile Network APN List
 
-Here's a list of APNs we have collected when configuring your 4G / LTE Modem as a quick reference.
+Here's a list of APNs we have collected for configuring your 4G / LTE modem. This is intended to be used as a quick reference but is far from being a complete and exhaustive list. If your network isn't listed here we recommend you speak to a customer service representative from your network provider and ask them for their APN settings, alternatively you can often find them via a Google search. If you find working APN settings for a network that is not listed here we would be really grateful if you could submit them to us via a [GitHub issue](https://github.com/NebraLtd/Helium-Guides/issues/new) or edit the file and submit a [pull request](https://github.com/NebraLtd/Helium-Guides/pulls).
 
 # Australia
 
