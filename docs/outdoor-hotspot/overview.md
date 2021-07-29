@@ -79,7 +79,7 @@ The frequency is set upon initialisation by the Helium Network.
 
 ### Mainboard Layout
 
-![SmartGatewayBreakdown](../media/photos/outdoor/smartGatewayBreakdown-sm.png)
+![SmartGatewayBreakdown](../media/photos/outdoor/smartGatewayBreakdown-sm.png ':size=800')
 
 ##### Layout Contents
 
@@ -109,7 +109,7 @@ The standard daughterboard supports both the Compute Module 3 and Compute Module
 
 While also compatible with the CM1 we recommend using the CM3 / CM3+ / CM3 Lite / CM3+ Lite for the extra power and RAM as well as larger onboard storage options.
 
-![DaughterboardBreakdown](../media/photos/outdoor/daughterboardBreakdown.png)
+![DaughterboardBreakdown](../media/photos/outdoor/daughterboardBreakdown.png ':size=800')
 
 ##### Layout Contents
 1. Daughterboard Connector - Connects to the Mainboard.
@@ -131,7 +131,7 @@ The board has 2 Status LEDs which do the following:
 
 ## Dimensions
 
-![DaughterboardBreakdown](../media/photos/outdoor/Dimensions.png)
+![DaughterboardBreakdown](../media/photos/outdoor/Dimensions.png ':size=800')
 
 
 The Nebra Outdoor Hotspot is approximately 300x200x100 mm In size when nothing is connected.
@@ -151,7 +151,7 @@ The Nebra Outdoor Hotspot is approximately 300x200x100 mm In size when nothing i
 
 #### On the inside
 
-![DaughterboardBreakdown](../media/photos/outdoor/Inside-Interfaces.jpg)
+![DaughterboardBreakdown](../media/photos/outdoor/Inside-Interfaces.jpg ':size=800')
 
 1. **9-16V @ 15W DC 6.5MMx2.0MM Barrel Jack**
 2. **Ethernet Connector**
