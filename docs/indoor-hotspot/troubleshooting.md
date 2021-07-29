@@ -44,13 +44,13 @@ Miner Relayed: Indicates if your hotspot is relayed. Will show False if it is no
 
 ECC detected: Shows True if your secure chip is detected. Can show false temporarily due to the diagnostics refreshing too quickly. If the error persists, please contact the customer support
 
-ETH0 MAC: The Ethernet mac address of your hotspot
+ETH0 MAC: The Ethernet mac address of your hotspot. Always mention this if you have a technical support request, but don't share it with a third party. It is used in combination with the RPi serial to add your hotspot to our Dashboard
 
 WLAN0 MAC: The Wifi mac address of the hotspot. Shows Unknown if there is an issue with the Wifi on your hotspot. This is a known issue and we are working on it
 
 RPi Serial: The serial number of the Raspberry Pi used in your hotspot. It is used together with the ETH0 mac to add the hotspot to the dashboard.
 
-BT detected: Indicated if the bluetooth is connected
+BT detected: Indicates if the bluetooth is connected
 
 Lora OK?: Checks if the Lora module is recognized by your hotspot. If it is showing false, you should turn off the hotspot and try to reseat the Lora concentrator as advised in the advanced diagnostics.
 
@@ -58,21 +58,21 @@ Lora OK?: Checks if the Lora module is recognized by your hotspot. If it is show
 
 To access the In-app diagnostics your hotspot needs to be in pairing mode. Your hotspot is in pairing mode directly after startup or by pressing the pair button on the back of your hotspot for 10 seconds. You then need to go into the Helium app and select your hotspot. By clicking on the cog symbol on the top right a new menu will appear. Choose Pair here. Your hotspot should show up now if it is in pairing mode. Select the diagnostics next. The In-app diagnostics will show up after:
 
-![In-app diagnostics](../media/photos/troubleshooting/inappdiagnostics.png)
+![In-app diagnostics](../media/photos/troubleshooting/inappdiagnostics.jpg)
 
-You can find the following information in the In-App diagnostics
+**What information can you find in here**
 
 Hotspot name: The animal name of your hotspot will show on top. 
 
 Peer-to-Peer Connections: Here you can see if your hotspot has successful Outbound and Inbound connections. Directly after rebooting/ changing the connection it can take up to 15 minutes to show a green mark. No inbound connections can be due to the hotspot being relayed.
 
-Blockchain Sync: This sync status is not fully up to date and will show as 100% even though the hotspot is still syncing. For a more accurate syncing status you should have a look at the ip diagnostics.
+Blockchain Sync: This sync status is not fully up to date and will show as 100% even though the hotspot might still be syncing. For a more accurate syncing status you should have a look at the ip diagnostics.
 
 Last Challenged: Shows when the hotspot was challenged the last time. It will only participate in challenges when it is fully synced and has a proper internet connection
 
-Hotspot Maker: The maker of your Hotspot. In our case it will always show as Nebra LTD
+Hotspot Maker: The maker of your Hotspot. In our case it will show as Nebra LTD
 
-Hotspot Firmware: The firmware version running on your hotspot
+Hotspot Firmware: The firmware version of the software running on your hotspot
 
 App Version: The version of the Helium app your are using
 
