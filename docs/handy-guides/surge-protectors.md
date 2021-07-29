@@ -23,6 +23,12 @@ Surge protectors are relatively cheap too, but unlike power strips they offer so
 
 This goes between the antenna and the hotspot and should be grounded. This one helps protects the hotspot against damage.
 
+![](https://cdn.shopify.com/s/files/1/2187/3161/products/Angle-Left_1024x.png?v=1576087764)
+
+You can purchase [Pi-Supply](https://uk.pi-supply.com/) antenna surge protector here at https://uk.pi-supply.com/products/antenna-surge-protector
+
+
+
 ## Ethernet Surge Protector
 
 ![Surge Protector](../media/photos/surgeprotector/3rd-Party_ESD_Protection_01.jpg)
