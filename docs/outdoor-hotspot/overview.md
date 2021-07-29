@@ -29,20 +29,20 @@ The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium
 ![Indoor Hotspot Included](../media/photos/outdoor/outdoor_package.jpg ':size=800')
 
 
-1. 3 dBi N-Type Glass Fiber Antenna
-2. WiFi Antenna 
-3. Nebra Helium Outdoor Hotspot
-4. M20 General Cable Gland
-5. M22 General Cable Gland
-6. M10 General Cable Gland
-7. Sealing String
-8. Spare Blanking Plugs N-type
-9. Spare Blanking Plugs N-type
-10. Spare Blanking Plugs M20
-11. L Shaped Mounting Brackets 2 x L
-12. Z clamp Brackets x 2 (for pole mounting)
-13. Serial Number QR Code Stickers x 2
-14. Nebra Stickers x 2
+1. **3 dBi N-Type Glass Fiber Antenna**
+2. **WiFi Antenna** 
+3. **Nebra Helium Outdoor Hotspot**
+4. **M20 General Cable Gland**
+6. **M10 General Cable Gland**
+5. **M22 General Cable Gland**
+7. **Sealing String**
+8. **Spare Blanking Plugs N-type**
+9. **Spare Blanking Plugs N-type**
+10. **Spare Blanking Plugs M20**
+11. **L Shaped Mounting Brackets 2 x L**
+12. **Z clamp Brackets x 2** (for pole mounting)
+13. **Serial Number QR Code Stickers x 2**
+14. **Nebra Stickers x 2**
 
 
 
