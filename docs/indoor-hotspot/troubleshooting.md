@@ -6,7 +6,7 @@ If you are having trouble with setting up your hotspot or got a query?, the foll
 
 There are two different methods to access the diagnostics of your hotspot. One is the In-App diagnostics in the Helium app and the other is the IP diagnostics.
 
-## IP diagnostics
+#### IP diagnostics
 
 The more detailed and more recommended version available is the IP diagnostics. You need to be connected to the same local network to access the IP diagnostics.
 To find the IP address of your hotspot you can either get it from the Helium In-App diagnostics explained later or through the connected devices found in your router settings.
@@ -54,7 +54,7 @@ BT detected: Indicated if the bluetooth is connected
 
 Lora OK?: Checks if the Lora module is recognized by your hotspot. If it is showing false, you should turn off the hotspot and try to reseat the Lora concentrator as advised in the advanced diagnostics.
 
-## In-app diagnostics 
+#### In-app diagnostics 
 
 ### No lights are turning on:
 
