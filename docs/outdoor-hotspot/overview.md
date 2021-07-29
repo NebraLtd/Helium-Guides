@@ -124,8 +124,6 @@ While also compatible with the CM1 we recommend using the CM3 / CM3+ / CM3 Lite 
 ##### Status LEDS
 
 
-
-
 The board has 2 Status LEDs which do the following:
 
 * Power LED - Indicates the board has power. (Blue)
@@ -138,7 +136,7 @@ The board has 2 Status LEDs which do the following:
 
 The Nebra Outdoor Hotspot is approximately 300x200x100 mm In size when nothing is connected.
 
-You can find the datasheet [here](#resources)
+> You can find the datasheet [here](#resources)
 
 ## Interfaces
 
@@ -153,14 +151,14 @@ You can find the datasheet [here](#resources)
 
 #### On the inside
 
-<Image>
+![DaughterboardBreakdown](../media/photos/outdoor/Inside-Interfaces.jpg)
 
-1. 9-16V @ 15W DC 6.5MMx2.0MM Barrel Jack
-2. Ethernet Connector
-3. LED Indicator.
-4. Interface Button
-5. 4G / LTE Module Connector
-5. Sim Card Slot
+1. **9-16V @ 15W DC 6.5MMx2.0MM Barrel Jack**
+2. **Ethernet Connector**
+3. **LED Indicator**
+4. **Interface Button**
+5. **4G / LTE Module Connector**
+5. **Sim Card Slot**
 
 #### Status Indicator
 
@@ -176,6 +174,8 @@ This indicator is RED and will act accordingly:
 #### Button
 
 The Nebra Outdoor Hotspot has a button on the Wifi daughterboard in the middle of inside teh hotspot. This is labeled S1
+
+![DaughterboardBreakdown](../media/photos/outdoor/Outdoor_button.jpg)
 
 This is used to re-enable bluetooth pairing on the hotspot, hold the button in for approximately 15 seconds then release to start pairing. The adjacent status light LED1 should start blinking slowly if successful.
 
