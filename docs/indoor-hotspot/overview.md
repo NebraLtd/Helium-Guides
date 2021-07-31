@@ -127,9 +127,12 @@ The software is open source and available on our [Helium Miner Software repo on 
 Each unit has a sticker located on the base of the unit.
 
 
-![Indoor Hotspot Base](../media/photos/indoor/indoor_bottom.png  ':size=600')
+<!-- ![Indoor Hotspot Base](../media/photos/indoor/indoor_bottom.png  ':size=600')
 
-![product label image ](../media/photos/indoor/product_label_image.jpg  ':size=500')
+![product label image ](../media/photos/indoor/product_label_image.jpg  ':size=500') -->
+
+
+![Indoor Hotspot Base](../media/photos/indoor/Unit_Informations.png ':size=800')
 
 This includes the following important Information:
 
