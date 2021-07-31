@@ -111,6 +111,8 @@ The Bottom LED acts accordingly:
 
 The Nebra Indoor Hotspot has a button on the back of the unit.
 
+![Indoor Hotspot Connectors](../media/photos/indoor/Indoor_button.png  ':size=600')
+
 This is used to re-enable bluetooth pairing on the hotspot, hold the button in for approximately 15 seconds then release to start pairing. The top light should start blinking slowly if successful.
 
 ## Firmware
@@ -124,16 +126,17 @@ The software is open source and available on our [Helium Miner Software repo on 
 ## Unit Information
 Each unit has a sticker located on the base of the unit.
 
-![Indoor Hotspot Base](../media/photos/indoor/indoor-bottom.jpg  ':size=800')
 
-![product label image ](../media/photos/indoor/product_label_image.jpg)
+![Indoor Hotspot Base](../media/photos/indoor/indoor_bottom.png  ':size=600')
+
+![product label image ](../media/photos/indoor/product_label_image.jpg  ':size=500')
 
 This includes the following important Information:
 
-* Frequency of the Unit
-* Ethernet MAC address
-* Nebra Serial Number
-* Raspberry Pi Serial Number
+* **FREQ**: Frequency of the Unit
+* **ETH**: Ethernet MAC address
+* **NSER**: Nebra Serial Number
+* **RPi**: Raspberry Pi Serial Number
 
 You will require some of this information when linking your unit to our [remote management dashboard](https://dashboard.nebra.com).
 
