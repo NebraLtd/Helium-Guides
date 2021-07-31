@@ -73,19 +73,23 @@ The frequency is set upon initialisation by the Helium Network.
 
 The Nebra Indoor Hotspot is 150x150x50MM In size when nothing is connected.
 
+![Indoor Hotspot Connectors](../media/photos/indoor/Indoor_dimension.jpg ':size=500')
+
+
+
 Approximatley 175x150x50MM space is required when accounting in space required for connectors.
 
 ## Interfaces
 
 #### Connectors
 
-![Indoor Hotspot Connectors](../media/photos/indoor/indoor-ports-an.jpg  ':size=800')
+![Indoor Hotspot Connectors](../media/photos/indoor/Connectors.png  ':size=600')
 
-1.  9-16V @ 15W DC 6.5MMx2.0MM Barrel Jack
-2. LED Indicator.
-3. Interface Button
-4. RP-SMA LoRa Connector
-5. Ethernet Connector
+1. **9-16V @ 15W DC 6.5MMx2.0MM Barrel Jack**
+2. **LED Indicator.**
+3. **Interface Button**
+4. **RP-SMA LoRa Connector**
+5. **Ethernet Connector**
 
 #### Status Indicator
 
