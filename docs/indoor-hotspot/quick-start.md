@@ -31,23 +31,40 @@ Please remember to follow these important warnings when using your Nebra Indoor 
 
 **Step 1:** First screw in the included antenna into the connector on the back of the hotspot.
 
-![Indoor Hotspot Antenna](../media/photos/indoor/indoor-antenna-2.jpg  ':size=800')
+<!-- ![Indoor Hotspot Antenna](../media/photos/indoor/indoor-antenna-2.jpg  ':size=800') -->
+
+![Indoor Hotspot Antenna](../media/photos/indoor/step1.jpg ':size=800')
+
 
 **Step 2:** Next find a suitable location for your Hotspot to be positioned, to provide the best coverage we recommend placing it near a window just out of direct sunlight. You’ll need to be near a mains power source too.
+
+![Indoor Hotspot Antenna](../media/photos/indoor/step2.jpg ':size=800')
+
 
 > Please check "[Ideal Hotspot Placement](../handy-guides/hotspot-ideal-location.md)" Guide 
 
 **Step 3:** If you are using a wired Ethernet connection, connect an Ethernet cable between a router or switch and the Ethernet jack on the Hotspot.
 
+![Indoor Hotspot Antenna](../media/photos/indoor/step3.jpg ':size=800')
+
+
 **Step 4:** Fit the appropriate power plug for your country onto the universal power supply and plug it into a mains outlet.
+
+![Indoor Hotspot Antenna](../media/photos/indoor/step4.jpg ':size=800')
+
 
 **Step 5:** Finally connect the DC Jack from the power supply into the power receptacle on the Hotspot.
 
-You should then see the lower LED on the back of the unit turn on, the hotspot will now take up to 5 minutes to configure for it’s first boot.
+![Indoor Hotspot Antenna](../media/photos/indoor/step5.jpg ':size=800')
 
-![Indoor Hotspot Powered Up](../media/photos/indoor/indoor-ports.jpg  ':size=800')
+**Step 6:** You should then see the lower LED on the back of the unit turn on, the hotspot will now take up to 5 minutes to configure for it’s first boot.
 
-The upper light will turn on when it is ready to continue for configuration.
+![Indoor Hotspot Antenna](../media/photos/indoor/step6.jpg ':size=800')
+
+ **Step 7:** The upper light will turn on when it is ready to continue for configuration.
+
+![Indoor Hotspot Antenna](../media/photos/indoor/step7.jpg ':size=800')
+
 
 If you have connected it to a wired Ethernet connection this process may take slightly longer as it’ll also perform firmware updates as soon as it gets a connection to the internet.
 
