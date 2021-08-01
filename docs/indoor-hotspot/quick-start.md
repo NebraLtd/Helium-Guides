@@ -74,7 +74,16 @@ To configure your Hotspot, you will require the Helium Network application insta
 
 > For the best results, Nebra Hotspots require some ports to be port forwarded on your network. Please check our [security](../security.md) and [port forwarding](../handy-guides/port-forwarding/overview.md) pages for more details.
 
+**Prerequisites**
+
+* Ready to connect nebra hotspot 
+* Helium application with account. 
+
+##
+
 **Step 1:** Open the Helium application and login, then press hotspots.
+
+
 
 **Step 2:** Next click Set up Hotspot, from here you will want to select Nebra Indoor Hotspot.
 
