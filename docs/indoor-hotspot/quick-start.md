@@ -81,9 +81,7 @@ To configure your Hotspot, you will require the Helium Network application insta
 
 ##
 
-**Step 1:** Open the Helium application and login, then press hotspots.
-
-
+**Step 1:** Open the Helium application and login, then press **+ Add a Hotspot**.
 
 **Step 2:** Next click Set up Hotspot, from here you will want to select Nebra Indoor Hotspot.
 
