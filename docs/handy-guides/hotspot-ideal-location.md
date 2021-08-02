@@ -8,7 +8,6 @@ Hotspot miners earn HNT mainly in 2 ways:
 
 * **Relay Device Data** : Hotspots earn HNT for transferring device data over the network. The more device data a Hotspot transfers, the more it earns. There are more details on [the Helium website](https://docs.helium.com/blockchain/helium-token).
 
-<!-- * **Consensus Groups** : Trusted Hotspots are randomly elected to Consensus Groups, earning HNT by validating transactions and adding blocks to the blockchain. [more details](https://docs.helium.com/blockchain/consensus-protocol). -->
 
 
 So it's all about your hotspot visibility and participation in the network, there are some techinque to improve these things, that's we are looking. If you found any mistake or need to add any point, please [open a issue](https://github.com/NebraLtd/Helium-Guides/issues/new), we are happy to look into that.
