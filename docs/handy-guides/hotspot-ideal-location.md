@@ -2,18 +2,18 @@
 
 On the Helium Network, participants earn HNT by mining and building coverage for The People’s Network using compatible Hotspots.
 
-Hotspot Miners earn HNT in 3 ways:
+Hotspot miners earn HNT mainly in 2 ways:
 
 * **Proof-of-Coverage** : Hotspots on the network are randomly and automatically assigned Proof-of-Coverage tests to complete. Passing and witnessing tests earns HNT. You can read more about the mechanics of PoC on [the Helium website](https://docs.helium.com/blockchain/proof-of-coverage).
 
 * **Relay Device Data** : Hotspots earn HNT for transferring device data over the network. The more device data a Hotspot transfers, the more it earns. There are more details on [the Helium website](https://docs.helium.com/blockchain/helium-token).
 
-* **Consensus Groups** : Trusted Hotspots are randomly elected to Consensus Groups, earning HNT by validating transactions and adding blocks to the blockchain. [more details](https://docs.helium.com/blockchain/consensus-protocol).
+<!-- * **Consensus Groups** : Trusted Hotspots are randomly elected to Consensus Groups, earning HNT by validating transactions and adding blocks to the blockchain. [more details](https://docs.helium.com/blockchain/consensus-protocol). -->
 
 
 So it's all about your hotspot visibility and participation in the network, there are some techinque to improve these things, that's we are looking. If you found any mistake or need to add any point, please [open a issue](https://github.com/NebraLtd/Helium-Guides/issues/new), we are happy to look into that.
 
-Please note that the earning will not just simply increase by following these steps, there are some external factors such as the number of **hotspots near by you** and the **hotspot density**, so please consider these factors too.  
+Please note that the earning will not just simply increase by following these steps, there are some external factors such as the number of **hotspots nearby you** and the **hotspot density**, so please consider these factors too.  
 
 
 We are going to take a look at some different parameters that improve the coverage and participation in the network. 
