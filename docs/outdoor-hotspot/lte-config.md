@@ -90,6 +90,8 @@ pic
 
 Plug the other end of the microUSB cable into your computer and it should recognise the compute module as a mass storage device. In your file browser you should be able to now find a device / volume called `resin-boot`:
 
+Please note, if your PC doesn't properlly recognize the device, you will need to install the drivers contained in the program here: https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md
+
 pic
 
 You will then need to open a plain text editor on your computer (something like Notepad on Windows or TextEdit on macOS) and copy the following settings into a blank file:
