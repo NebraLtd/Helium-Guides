@@ -66,6 +66,8 @@ In the future, you will be able to do the initial configuration of the APN setti
 
 In order to manually add your APN connection details you will need to plug your Nebra Outdoor Hotspot into another computer with a text editor. Any Windows, macOS or Linux machine with USB connectivity should be fine.
 
+Please note, if your PC doesn't properlly recognize the device, you will need to install the drivers contained in the program here: https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md
+
 First, you will need to adjust some pin jumpers on the "daughterboard". The daughterboard is the highest of the blue circuit boards in the case, and has the green Raspberry Pi compute module attached to it. As you can see circled in the image below, there are two jumpers labeled JP3 and JP4:
 
 ![Daughterboard Pin Jumpers](../media/photos/lte/jumperoriginal.JPG)
@@ -82,7 +84,7 @@ You can then proceed to removing the USB hub board altogether:
 
 ![USB Hub Removed](../media/photos/lte/hubremoved.JPG)
 
-Next, you can plug a microUSB cable into the microUSB connector on the daughterboard (please be **very careful** during this step so that you do not damage the connector):
+Next, you can plug a microUSB cable into the microUSB connector on the daughterboard (please be **very careful** during this step so that you do not damage the connector, it's also good to note that this is not the microUSB connector used on the USB hub):
 
 pic
 
@@ -115,7 +117,7 @@ addr-gen-mode=stable-privacy
 method=auto
 ```
 
-Alternatively you can download the file by right clicking [this link](https://raw.githubusercontent.com/NebraLtd/Helium-Guides/main/docs/outdoor-hotspot/cellular) and clicking save as and saving the file with filename `cellular`. You will need to substitute the settings for `apn`, `number`, `password` and `username` for those that correspond to your network provider. We do maintain a [list of known APNs](https://github.com/NebraLtd/Helium-Guides/blob/main/docs/outdoor-hotspot/lte-apns.md) on the website however it is not complete. If you can't find your provider usually Googling for `apn settings for xx network` for your network (where `xx` is the network name) should pull up some useful results. If you find working APN details and they are not already included in the tables on the APN page then we would be very grateful if you could please post an issue on our [GitHub Issues section](https://github.com/NebraLtd/Helium-Guides/issues/new) with the details so we can add them.
+Alternatively you can download the file by right clicking [this link](https://raw.githubusercontent.com/NebraLtd/Helium-Guides/main/docs/outdoor-hotspot/cellular) and clicking save as and saving the file with filename `cellular`(do not include .txt). You will need to substitute the settings for `apn`, `number`, `password` and `username` for those that correspond to your network provider. We do maintain a [list of known APNs](https://github.com/NebraLtd/Helium-Guides/blob/main/docs/outdoor-hotspot/lte-apns.md) on the website however it is not complete. If you can't find your provider usually Googling for `apn settings for xx network` for your network (where `xx` is the network name) should pull up some useful results. If you find working APN details and they are not already included in the tables on the APN page then we would be very grateful if you could please post an issue on our [GitHub Issues section](https://github.com/NebraLtd/Helium-Guides/issues/new) with the details so we can add them.
 
 Once you have updated the settings in the file, make sure to save the file somewhere that you will remember with the file name `cellular` (no file extension like .txt should be used). Browse to the location of this file, right click on it and click copy. Then browse back to the `resin-boot` device we found earlier, navigate to the `system-connections` folder and paste the file here (you should also see some files already there called ???). You can then eject the mass storage device from your computer and then remove the USB cable.
 
