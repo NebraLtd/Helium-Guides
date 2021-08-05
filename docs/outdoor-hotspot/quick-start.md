@@ -53,9 +53,9 @@ Please take all appropriate precautions if working at height, or ask a trained p
 
 **Step 3:**  You will need to consider how to power the hotspot. By default, it is configured for Power over Ethernet (PoE -  IEEE 802.3af or  IEEE 802.3at), using a switch or PoE injector. 
 
-To power using a DC supply, you may need to open the case to change a jumper clip. (coming soon)
+To power the hotspot using a DC supply, you need to open the case to adjust the power jumper to position 2-3. (The image shows the power jumper configured for PoE)
 
-
+![DC Switch](../media/photos/outdoor/quick-start/DCSwitch.JPG)
 
 **Step 4:**  Use an ethernet cable connected to your PoE switch or PoE injector, and connect it to the hotspot using an ethernet cable to with the supplied gland, to ensure a watertight (IP68) seal. 
 
