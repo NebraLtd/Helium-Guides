@@ -1,8 +1,8 @@
-# Google WiFi
+# Google Wi-Fi
 
 Google Wifi has become one of the more popular mesh networking routers. It works through the Google Home app and is fairly straight forward to use, but also fairly locked down.  While they do work with uPnP, that doesnt stop the helium hotspot from being relayed.  Luckily Google does allow port forwarding, and if needed the ability to assign static IP addresses as well.
 
-## How to port-foward with Google WiFi
+## How to port-foward with Google Wi-Fi
 Open the Google Home app on your phone (unlike other routers, this one cannot be accessed without an app)
 
 * Choose the **Wi-Fi button** underneath the name of your home.
@@ -30,4 +30,4 @@ Open the Google Home app on your phone (unlike other routers, this one cannot be
     ![Nebra Hotspot Port Forwarded via TCP](https://raw.githubusercontent.com/NebraLtd/Helium-Guides/main/docs/media/screenshots/media/screenshots/port-forwarding/googlewifi/heliumHotspotPortForwarded.png)
 
 
-**Congratulations!** You have now successfully set up port forwarding on your Google Wifi. Assuming everything has been correctly configured, after 24 hours or so you should be able to go to the [Helium Explorer](https://explorer.helium.com) and search for your hotspot, and it should no longer have the "relayed" status.
+**Congratulations!** You have now successfully set up port forwarding on your Google Wi-fi. Assuming everything has been correctly configured, after 24 hours or so you should be able to go to the [Helium Explorer](https://explorer.helium.com) and search for your hotspot, and it should no longer have the "relayed" status.
