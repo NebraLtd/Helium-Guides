@@ -26,6 +26,12 @@ If you can't find your router model in the above list there is a variety of rout
 
 > **Please note:** it is not possible to port forward multiple devices on the same network so if you have more than one hotspot it's better to have them on separate networks for optimal performance.
 
+# Port forwarding with 4G / LTE connection
+
+A lot of 4G / LTE cellular network providers use [CGNAT](https://en.wikipedia.org/wiki/Carrier-grade_NAT) for their data services and therefore your devices do not get a statically assigned public IP address. If this is the case with your provider, it will not be possible to get your miner out of relayed status. This may not cause an issue with the operation of your hotspot, but in certain circumstances it can cause slower syncing and reduced earnings.
+
+Some network providers offer static IP addresses as part of their offering (usually for an additional charge) and if your carrier offers this it is highly recommended to upgrade to a static IP.
+
 # Contributing
 
 To make getting up and running as easy as possible, we'd love it if you could help document your network's system!
