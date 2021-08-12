@@ -2,7 +2,7 @@
 
 Google Wifi has become one of the more popular mesh networking routers. It works through the Google Home app and is fairly straight forward to use, but also fairly locked down.  While they do work with uPnP, that doesnt stop the helium hotspot from being relayed.  Luckily Google does allow port forwarding, and if needed the ability to assign static IP addresses as well.
 
-## How to port-foward with Google Wi-Fi
+## How to port-forward with Google Wi-Fi
 Open the Google Home app on your phone (unlike other routers, this one cannot be accessed without an app)
 
 * Choose the **Wi-Fi button** underneath the name of your home.
