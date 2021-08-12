@@ -4,7 +4,7 @@ Helium Hotspots ideally require a port to be forwarded on the network (port 4415
 
 You can find out more about port forwarding on the Helium Network via [this guide in the Helium support docs](https://docs.helium.com/troubleshooting/network-troubleshooting/) or [this guide by community member Rob Putt](https://www.robertputt.co.uk/helium-hnt-fixing-relayed-hotspots/).
 
-UPnP# 
+# UPnP 
 
 To eliminate the requirement for port forwarding manually, Nebra Hotspots have a UPnP tool that communicates with your internet router to automatically do it for you!
 
