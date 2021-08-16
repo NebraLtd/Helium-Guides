@@ -2,17 +2,20 @@
 
 If you are having trouble with setting up your hotspot or got a query?, the following tips may help.
 
-### How to access the diagnostics
+## How to access the diagnostics
 
-There are two different methods to access the diagnostics of your hotspot. One is the In-App diagnostics in the Helium app and the other is the IP diagnostics.
+<details>
+<summary>Click to expand!</summary>
+  
+There are two different methods to access the diagnostics of your hotspot. One is the In-App diagnostics in the Helium app (requires you to be in bluetooth range) and the other is the IP diagnostics (requires you to be connected to the same local network).
 
-#### IP diagnostics
+### IP diagnostics
 
-The more detailed and more recommended version available is the IP diagnostics. You need to be connected to the same local network to access the IP diagnostics.
+The more detailed and recommended diagnostics version available is the IP diagnostics. You need to be connected to the same local network to access the IP diagnostics.
 
-To find the IP address of your hotspot you can either get it from the Helium In-App diagnostics explained later or through the connected devices found in your router settings.
+To find the IP address of your hotspot you can either get it from the Helium In-App diagnostics explained later or through the connected devices found in your router settings. If you are signed up to the [Nebra Dashboard](https://dashboard.nebra.com) you should also be able to find the local IP address from the specific device page.
 
-You can use any browser to access the IP diagnostics either on your desktop or on your mobile. Just enter the IP address of your hotspot in the address bar of your browser and hit enter. You will find a page similar to the following image:
+You can use any browser to access the IP diagnostics either on your desktop or on your mobile. Just enter the IP address of your hotspot into the address bar of your browser and hit enter. You will find a page similar to the following image:
 
 ![IP diagnostics](../media/photos/troubleshooting/ipdiagnostics.png ':size=800')
 
@@ -55,13 +58,13 @@ You can use any browser to access the IP diagnostics either on your desktop or o
 
 * **Lora OK?**: Checks if the Lora module is recognized by your hotspot. If it is showing false, you should turn off the hotspot and try to reseat the Lora concentrator as advised in the advanced diagnostics.
 
-#### In-app diagnostics 
+### In-app diagnostics 
 
 To access the In-app diagnostics your hotspot needs to be in pairing mode. Your hotspot is in pairing mode directly after startup or by pressing the pair button on the back of your hotspot for 10 seconds. You then need to go into the Helium app and select your hotspot. By clicking on the cog symbol on the top right a new menu will appear. Choose Pair here. Your hotspot should show up now if it is in pairing mode. Select the diagnostics next. The In-app diagnostics will show up after:
 
 ![In-app diagnostics](../media/photos/troubleshooting/inappdiagnostics.jpg ':size=600')
 
-**What information can you find in here**
+#### What information can you find in here
 
 * **Hotspot name**: The animal name of your hotspot will show on top. 
 
@@ -86,8 +89,7 @@ To access the In-app diagnostics your hotspot needs to be in pairing mode. Your 
 * **IP Address**: The local ip address of your hotspot. By entering it in the browser you are able to access the browser diagnostics of your hotspot for a more detailed diagnostics view. It is useful for adding the port-forwarding rule too.
 
 * **Report Generated**: Date when the diagnostics were made.
-
-<hr>
+</details>
 
 ### No lights are turning on:
 
@@ -154,6 +156,5 @@ If you get different error, please let us know!
 </details>
 
 ## Still having trouble?
-
 
 If the above tips haven't been able to resolve your issue then get in touch at https://nebra.io/helium-support and we'll work on resolving your issue. But be sure to please perform the steps above to perform the update process.
