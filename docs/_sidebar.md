@@ -43,6 +43,7 @@
     - [Connectors](handy-guides/antenna/connectors.md)
     - [Connections](handy-guides/antenna/connections.md)
   - [Ideal Hotspot Placement](handy-guides/hotspot-ideal-location.md)
+  - [Local Diagnostics](handy-guides/local-diagnostics.md)
   - [Advanced Diagnostics Info](handy-guides/advanced-diagnostics.md)
   - [First Few Days](handy-guides/first-days.md)
   
