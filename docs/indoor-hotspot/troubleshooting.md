@@ -1,8 +1,8 @@
 # Indoor Hotspot Troubleshooting
 
-If you are having trouble with setting up your hotspot or got a query?, the following tips may help.
+If you are having trouble with setting up your hotspot or you have got a query, the following tips may help.
 
-## How to access the diagnostics
+### How to access the diagnostics
 
 <details>
 <summary>Click to expand!</summary>
