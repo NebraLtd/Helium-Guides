@@ -195,7 +195,7 @@ We are working on getting the Nebra Outdoor Hotspot certified in multiple region
 
 | Approval | Countries Covered | Hardware Frequency | Status | Frequency Plans |
 | --- | --- | --- | --- | --- |
-| CE | European Economic Area | 868 Mhz | In Progress | EU 868 |
+| CE | European Economic Area | 868 Mhz | [Completed](https://helium.nebra.com/certifications/outdoor/CE/EU%20Declaration%20of%20Conformity%20%28DoC%29.pdf) | EU 868 |
 | UKCA | United Kingdom | 868 Mhz | In Progress | EU 868 |
 | FCC | United States of America | 915 Mhz | [Completed](https://helium.nebra.com/certifications/outdoor/FCC/P21SZ07107%20FCC%20ID%202AZDM-HNTOUT-JAD.pdf) | US 915 |
 | ISED | Canada | 915 Mhz | In Progress | US 915 |
