@@ -106,6 +106,6 @@ If the issue relates to initial setup of the hotspot, please also include:
 * What version of the Helium App are you using?
 * Do you have any screenshots of any error codes? 
 
-Alternatively, you you can get in touch using any of the methods listed on our [support page](../support.md) and we'll work on resolving your issue.
+Alternatively, you can get in touch using any of the methods listed on our [support page](../support.md) and we'll work on resolving your issue.
   
 </details>
