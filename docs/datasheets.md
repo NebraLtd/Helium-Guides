@@ -38,7 +38,7 @@ Here's a list of all datasheets for the following products:
 | --- | ---  |
 | [420-470Mhz 3dBi Plastic Antenna] | Datasheet of the 3dBi antenna included with the Indoor Unit |
 | [860-930Mhz Mhz 3dBi Plastic Antenna] | Datasheet of the 3dBi antenna included with the Indoor Unit |
-| [420-470Mhz 3dBi Glass Fiber Antenna] | Datasheet of the 3dBi glass fiber antenna |
+| [420-470Mhz 3dBi Glass Fiber Antenna](https://github.com/NebraLtd/Helium-Guides/blob/main/docs/datasheets/antennas/NBR-0041.pdf) | Datasheet of the 3dBi glass fiber antenna |
 | [860-930Mhz 3dBi Glass Fiber Antenna](https://helium.nebra.com/datasheets/antennas/NBR-0040.pdf)  | Datasheet of the 3dBi glass fiber antenna |
 | [420-470Mhz 5.8dBi Glass Fiber Antenna] | Datasheet of the 5.8dBi glass fiber antenna |
 | [860-930Mhz 5.8dBi Glass Fiber Antenna](https://helium.nebra.com/datasheets/antennas/NBR-0042.pdf)  | Datasheet of the 5.8dBi glass fiber antenna |
