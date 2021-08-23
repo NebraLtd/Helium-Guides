@@ -22,6 +22,7 @@ Here's a list of all datasheets for the following products:
 |[Outdoor IP67 Case Drawing](../datasheets/cases/outdoor/IP67-Diagram.dwg ':ignore')|IP67 Case Diagram in **.DWG** Format |
 |[Outdoor IP67 3D Model Top](.../datasheets/cases/outdoor/IP67-3D-Model-DAM005CLID.stp ':ignore')| IP67 Case Top Part 3D Model **.STP** Format |
 |[Outdoor IP67 3D Model Bottom](../datasheets/cases/outdoor/IP67-3D-Model-DAM-005CBOTTOM.stp ':ignore')| IP67 Case Bottom Part 3D Model **.STP** Format|
+| [FCC Report](../docs/certifications/outdoor/FCC)  | This [Folder](../docs/certifications/outdoor/FCC) Contains FCC Certificates and Reports For the Outdoor Unit and It's Modules.|
 
 
 
