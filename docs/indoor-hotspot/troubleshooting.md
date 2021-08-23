@@ -9,11 +9,11 @@ If you are having trouble with setting up your hotspot or you have got a query, 
 
 On the Nebra Helium Hotspots we have two local diagnostics tools that can help you to find any issues with your miners.
   
-Please take a look at the dedicated [local diagnostics page](../../handy-guides/local-diagnostics.md) for more information.
+Please take a look at the dedicated [local diagnostics page](../handy-guides/local-diagnostics.md) for more information.
 
 </details>
 
-### No lights are turning on:
+### No lights are turning on
 
 <details>
 <summary>Click to expand!</summary>
@@ -25,7 +25,7 @@ Upon power up the lower LED (yellow) should light up instantly. Approximately af
 
 </details>
 
-### My hotspot is not showing in the Helium App:
+### My hotspot is not showing in the Helium App
 
 <details>
 <summary>Click to expand!</summary>
@@ -39,7 +39,7 @@ You will have had to have granted location permissions for the Application to ac
 
 </details>
 
-### My unit is not detecting Wi-Fi networks:
+### My unit is not detecting Wi-Fi networks
 
 <details>
 <summary>Click to expand!</summary>
