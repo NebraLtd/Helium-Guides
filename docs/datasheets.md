@@ -10,6 +10,8 @@ Here's a list of all datasheets for the following products:
 | [Nebra 12V 1.5 A Worldwide Power Supply](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/Prime_Power_PS1082_Interchageable_UK_Eu_US_Au_12VDC_1.5A_Output_2.1x5.5x12mm_C.pdf)  | Datasheet of the included PSU |
 | [420-470Mhz Antenna]| Datasheet of the included 3dBi plastic antenna for 470 Mhz Units |
 | [860-930Mhz Antenna]| Datasheet of the included 3dBi plastic antenna for 868 & 915 Mhz Units |
+| [Indoor Hotspot FCC Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/FCC) | This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/FCC) Contains FCC Certificates and Reports For The Indoor Unit and It's Modules.|
+|[Indoor Hotspot CE Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/CE)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/CE) Contains CE Certificates and Reports For The Indoor Unit and It's Modules. |
 
 #### Outdoor Hotspot
 
@@ -18,11 +20,12 @@ Here's a list of all datasheets for the following products:
 | [Outdoor Hotspot Overview / Datasheet](https://helium.nebra.com/pdfs/outdoor-overview.pdf) | Overview PDF for the Outdoor Hotspot |
 | [Outdoor Hotspot Quick Start](https://helium.nebra.com/pdfs/outdoor-quick-start.pdf)  | Setup manual for the Outdoor Hotspot |
 | [860-930Mhz Antenna](https://helium.nebra.com/datasheets/antennas/NBR-0040.pdf) | Datasheet of the included 3dBi glass fiber antenna for 868 & 915 Mhz Units |
-| [Outdoor IP67 Case Diagram](../datasheets/cases/outdoor/IP67-Diagram-DAM005C.pdf ':ignore')  | IP67 Case Dimensions in **.PDF** |
-|[Outdoor IP67 Case Drawing](../datasheets/cases/outdoor/IP67-Diagram.dwg ':ignore')|IP67 Case Diagram in **.DWG** Format |
-|[Outdoor IP67 3D Model Top](.../datasheets/cases/outdoor/IP67-3D-Model-DAM005CLID.stp ':ignore')| IP67 Case Top Part 3D Model **.STP** Format |
-|[Outdoor IP67 3D Model Bottom](../datasheets/cases/outdoor/IP67-3D-Model-DAM-005CBOTTOM.stp ':ignore')| IP67 Case Bottom Part 3D Model **.STP** Format|
-| [FCC Report](../docs/certifications/outdoor/FCC)  | This [Folder](../docs/certifications/outdoor/FCC) Contains FCC Certificates and Reports For the Outdoor Unit and It's Modules.|
+| [Outdoor Hotspot IP67 Case Diagram](../datasheets/cases/outdoor/IP67-Diagram-DAM005C.pdf ':ignore')  | IP67 Case Dimensions in **.PDF** |
+|[Outdoor Hotspot IP67 Case Drawing](../datasheets/cases/outdoor/IP67-Diagram.dwg ':ignore')|IP67 Case Diagram in **.DWG** Format |
+|[Outdoor Hotspot IP67 3D Model Top](.../datasheets/cases/outdoor/IP67-3D-Model-DAM005CLID.stp ':ignore')| IP67 Case Top Part 3D Model **.STP** Format |
+|[Outdoor Hotspot IP67 3D Model Bottom](../datasheets/cases/outdoor/IP67-3D-Model-DAM-005CBOTTOM.stp ':ignore')| IP67 Case Bottom Part 3D Model **.STP** Format|
+| [Outdoor Hotspot FCC Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/outdoor/FCC) | This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/outdoor/FCC) Contains FCC Certificates and Reports For The Outdoor Unit and It's Modules.|
+|[Outdoor Hotspot CE Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/outdoor/CE)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/outdoor/CE) Contains CE Certificates and Reports For The Outdoor Unit and It's Modules. |
 
 
 
