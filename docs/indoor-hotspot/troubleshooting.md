@@ -82,7 +82,7 @@ If you get different error, please let us know!
 <details>
 <summary>Click to expand!</summary>
 
-The Helium Syncing Process sometimes takes some time. Some customers report that the hotspot takes multiple days to sync properly. This is not so much an issue with Nebra, rather an issue with the Helium blockchain itself. Please allow the hotspot to take some time, especially during the 90% mark. If you are still having trouble, feel free to contact support below. If you are not familiar with Nebra's diagnostics page, I would highly recommend connecting to your hotspot directly using the local IP address in combination with a web browser. This will provide more insight between the device, and the Helium blockchain.
+The Helium Syncing Process sometimes takes some time. Some customers report that the hotspot takes multiple days to sync properly. This is not so much an issue with Nebra, rather an issue with the Helium blockchain itself. Please allow the hotspot to take some time, especially during the 90% mark. If you are still having trouble, feel free to contact support below. If you are not familiar with Nebra's diagnostics page, we highly recommend connecting to your hotspot directly using the local IP address in combination with a web browser. This will provide more insight between the device, and the Helium blockchain.
 
 </details>
 
