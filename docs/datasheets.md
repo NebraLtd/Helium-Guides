@@ -12,6 +12,10 @@ Here's a list of all datasheets for the following products:
 | [860-930Mhz Antenna]| Datasheet of the included 3dBi plastic antenna for 868 & 915 Mhz Units |
 | [Indoor Hotspot FCC Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/FCC) | This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/FCC) Contains FCC Certificates and Reports For The Indoor Unit and It's Modules.|
 |[Indoor Hotspot CE Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/CE)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/CE) Contains CE Certificates and Reports For The Indoor Unit and It's Modules. |
+|[Indoor Hotspot RCM Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/RCM)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/RCM) Contains RCM Certificates and Reports For The Indoor Unit and It's Modules. |
+|[Indoor Hotspot UKCA Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/UKCA)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/UKCA) Contains UKCA Certificates and Reports For The Indoor Unit and It's Modules. |
+
+
 
 #### Outdoor Hotspot
 
