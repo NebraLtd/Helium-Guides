@@ -9,7 +9,7 @@ If you are having trouble with setting up your hotspot or you have got a query, 
 
 On the Nebra Helium Hotspots we have two local diagnostics tools that can help you to find any issues with your miners.
   
-Please take a look at the dedicated [local diagnostics page](../../handy-guides/local-diagnostics.md) for more information.
+Please take a look at the dedicated [local diagnostics page](../handy-guides/local-diagnostics.md) for more information.
 
 </details>
 
