@@ -6,18 +6,21 @@ Your Nebra Outdoor Helium Hotspot comes with the following items:
 ![Indoor Hotspot Included](../media/photos/outdoor/outdoor_package.jpg ':size=800')
 
 
-* The Nebra Helium Outdoor Hotspot
-* 3 dBi N-Type glass fiber antenna
-* N-type WiFi antenna
-* Ethernet gland cover end
-* Sealing string
-* M20 general cable gland
-* M10 general cable gland
-* Spare blanking plugs (2 x N-type, 1 x M20)
-* 2 x L shaped mounting brackets
-* 2 pairs of Z clamp brackets (for pole mounting)
-* 2 x serial number QR code stickers
-* 2 x Nebra stickers
+1. **3 dBi N-Type Glass Fiber Antenna**
+2. **WiFi Antenna** 
+3. **Nebra Helium Outdoor Hotspot**
+4. **M20 General Cable Gland**
+6. **M10 General Cable Gland**
+5. **M22 General Cable Gland**
+7. **Sealing String**
+8. **Spare Blanking Plugs N-type**
+9. **Spare Blanking Plugs N-type**
+10. **Spare Blanking Plugs M20**
+11. **L Shaped Mounting Brackets 2 x L**
+12. **Z clamp Brackets x 2** (for pole mounting)
+13. **Serial Number QR Code Stickers x 2**
+14. **Nebra Stickers x 2**
+
 
 *Please note: You will need a Power Over Ethernet power source (802.3af/802.3at PoE switch or PoE injector) in order to power the outdoor hotspot. Alternatively, you can use a 12 Volt / 1.5 Amp power supply which can be [purchased separately on our website](https://www.nebra.com/products/nebra-12-volt-1-5-amp-worldwide-power-supply).*
 
