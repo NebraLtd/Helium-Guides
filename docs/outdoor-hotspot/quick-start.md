@@ -141,21 +141,51 @@ The LTE antennas are not included with the Outdoor hotspot and need to be purcha
 
 All antenna connectors are N-type female.
 
-## Outdoor Unit Pole Mounting 
+## Outdoor Unit Pole Mounting Setup
 
 Things we need (alredy included with package)
 
-* L Shaped Mounting Brackets 2 x L 
-* Z clamp Brackets x 2 (for pole mounting)
-
-![Antenna placements](../media/photos/outdoor/antennaplacement.jpg)
-
-
+1. U Clamp Brackets x 2 
+2. Z clamp Brackets x 2 (for pole mounting) 
+3. U Clamp Mounting Screws x 2
+4. L Shaped Mounting Brackets 2 x L 
 
 
+![Antenna placements](../media/photos/outdoor/mounting1.jpg)
+
+
+**Step 1: Remove Placeholder Part by Unscrew M6 Hex Screw**
+
+
+![ Remove Placeholder](../media/photos/outdoor/mounting2.jpg)
+
+
+**Step 2: Install "L" Shaped Mounting Brakets**
+
+![Lnrakets](../media/photos/outdoor/mounting3.jpg)
+
+
+**Step 3: Insert "U" Clamp Brackets**
+
+![Uclamp](../media/photos/outdoor/mounting4.jpg)
+
+
+**Step 4: Attach "Z" Clamp Brackets**
+
+![Zclamp](../media/photos/outdoor/mounting5.jpg)
+
+**Step 5: Tighten Screws**
+
+![Screwing](../media/photos/outdoor/mounting6.jpg)
+
+
+**Step 6: Installtion** : You can install the hotspot in different ways and make sure to tighten the screws well. 
+
+![Installation](../media/photos/outdoor/mounting7.jpg)
 
 
 
+<hr>
 
 ## Configuring Your Nebra Outdoor Hotspot
 
