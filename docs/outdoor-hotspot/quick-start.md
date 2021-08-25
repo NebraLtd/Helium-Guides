@@ -16,8 +16,8 @@ Your Nebra Outdoor Helium Hotspot comes with the following items:
 8. **Spare Blanking Plugs N-type**
 9. **Spare Blanking Plugs N-type**
 10. **Spare Blanking Plugs M20**
-11. **L Shaped Mounting Brackets 2 x L**
-12. **Z clamp Brackets x 2** (for pole mounting)
+11. **Z clamp Brackets x 2** (for pole mounting)
+12. **L Shaped Mounting Brackets 2 x L**
 13. **Serial Number QR Code Stickers x 2**
 14. **Nebra Stickers x 2**
 
@@ -141,6 +141,22 @@ The LTE antennas are not included with the Outdoor hotspot and need to be purcha
 
 All antenna connectors are N-type female.
 
+## Outdoor Unit Pole Mounting 
+
+Things we need (alredy included with package)
+
+* L Shaped Mounting Brackets 2 x L 
+* Z clamp Brackets x 2 (for pole mounting)
+
+![Antenna placements](../media/photos/outdoor/antennaplacement.jpg)
+
+
+
+
+
+
+
+
 ## Configuring Your Nebra Outdoor Hotspot
 
 
@@ -216,3 +232,5 @@ You can move device to another location, However every time you move your hotspo
 You can also watch this video to learn how to onboard the hotspot. This is using the Nebra Indoor Hotspot on Android, but the process is very similar for the Outdoor Hotspot and using iOS devices:
 
 <iframe width="560" height="560" src="https://www.youtube.com/embed/6pSKwtGAwDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+

@@ -151,7 +151,7 @@ The Nebra Outdoor Hotspot is approximately 300x200x100 mm In size when nothing i
 
 #### On the inside
 
-![DaughterboardBreakdown](../media/photos/outdoor/Inside-Interfaces.jpg ':size=800')
+![DaughterboardBreakdown](../media/photos/outdoor/Inside-Interfaces.jpg ':size=500')
 
 1. **9-16V @ 15W DC 6.5MMx2.0MM Barrel Jack**
 2. **Ethernet Connector**
