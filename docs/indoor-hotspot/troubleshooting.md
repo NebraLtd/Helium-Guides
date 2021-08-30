@@ -77,6 +77,15 @@ please close your helium app and turn off the bluetooth then turn on bluetooth a
 If you get different error, please let us know!
 </details>
 
+### Syncing Issues
+
+<details>
+<summary>Click to expand!</summary>
+
+The Helium Syncing Process sometimes takes some time. Some customers report that the hotspot takes multiple days to sync properly. This is not so much an issue with Nebra, rather an issue with the Helium blockchain itself. Please allow the hotspot to take some time, especially during the 90% mark. If you are still having trouble, feel free to contact support below. If you are not familiar with Nebra's diagnostics page, we highly recommend connecting to your hotspot directly using the local IP address in combination with a web browser. This will provide more insight between the device, and the Helium blockchain.
+
+</details>
+
 ## Still having trouble?
 
 If the above tips haven't been able to resolve your issue then get in touch at https://nebra.io/helium-support and we'll work on resolving your issue. But be sure to please perform the steps above to perform the update process.
