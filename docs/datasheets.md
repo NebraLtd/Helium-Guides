@@ -7,7 +7,7 @@ Here's a list of all datasheets for the following products:
 | --- | ---  |
 | [Indoor Hotspot Overview / Datasheet](https://helium.nebra.com/pdfs/indoor-overview.pdf) | Overview PDF for the Indoor Hotspot |
 | [Indoor Hotspot Quick Start](https://helium.nebra.com/pdfs/indoor-quick-start.pdf)  | Setup manual for the Indoor Hotspot |
-| [Nebra 12V 1.5 A Worldwide Power Supply](https://helium.nebra.com/datasheets/accessories/Nebra12v1.5A-Power-Supply-Datasheet.pdf)  | Datasheet of the included PSU |
+| [Nebra 12V 1.5 A Worldwide Power Supply](https://github.com/NebraLtd/Helium-Guides/blob/main/docs/datasheets/accessories/Nebra12v1.5A-Power-Supply-Datasheet.pdf)  | Datasheet of the included PSU |
 | [420-470Mhz Antenna]| Datasheet of the included 3dBi plastic antenna for 470 Mhz Units |
 | [860-930Mhz Antenna]| Datasheet of the included 3dBi plastic antenna for 868 & 915 Mhz Units |
 | [Indoor Hotspot FCC Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/FCC) | This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/FCC) Contains FCC Certificates and Reports For The Indoor Unit and It's Modules.|
@@ -47,5 +47,5 @@ Here's a list of all datasheets for the following products:
 #### Accessories
 | Datasheet | Description |
 | --- | ---  |
-| [Nebra 12V 1.5 A Worldwide Power Supply](https://helium.nebra.com/datasheets/accessories/Nebra12v1.5A-Power-Supply-Datasheet.pdf) | Datasheet of the power supply included with the indoor unit. Also sold seperately.|
+| [Nebra 12V 1.5 A Worldwide Power Supply](https://github.com/NebraLtd/Helium-Guides/blob/main/docs/datasheets/accessories/Nebra12v1.5A-Power-Supply-Datasheet.pdf) | Datasheet of the power supply included with the indoor unit. Also sold seperately.|
 | [EC25-G LTE Module Datasheet](https://www.quectel.com/wp-content/uploads/pdfupload/EP-FMEG25GMPCIs_Specification_V1.0-1609137.pdf)| Datasheet of the 4G Module sold seperately.|
