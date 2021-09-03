@@ -46,6 +46,7 @@
   - [Local Diagnostics](handy-guides/local-diagnostics.md)
   - [Advanced Diagnostics Info](handy-guides/advanced-diagnostics.md)
   - [First Few Days](handy-guides/first-days.md)
+  - [Nebra Dashboard](handy-guides/dashboard.md)
   
 
 - Contributions and Support
