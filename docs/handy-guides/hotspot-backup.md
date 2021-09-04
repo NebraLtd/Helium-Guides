@@ -2,6 +2,7 @@
 
 * [Overview](#hotspot-backup-guide) 
 * [External eMMC Module Clone](#external-emmc-module-clone)
+* [External eMMC Module Backup](#external-emmc-module-backup)
 
 <hr>
 
@@ -61,7 +62,7 @@ If you getting any warnning like this, please ignore. **DO NOT FORMAT!**
 
 <hr>
 
-## External eMMC Module '.img' File Backup 
+## External eMMC Module Backup 
 
 #### Required Tools
 
@@ -89,7 +90,38 @@ If you getting any warnning like this, please ignore. **DO NOT FORMAT!**
 #### Step 3: Connect external eMMC to computer via SD card reader. 
 
 
-#### Step 4:
+#### Step 4: Open [Win32 Disk Manager](https://sourceforge.net/projects/win32diskimager/) and Nname the backup file with extension '.img' and specify the backup location then click 'Read'. 
+
+![](../media/photos/hotspotBackup/externaleMMC/win002.png)
+
+#### Step 5: Wait Until Backup is complete.
+
+![](../media/photos/hotspotBackup/externaleMMC/win003.png)
+
+#### Step 6: Once it is complete, Click OK. 
+
+![](../media/photos/hotspotBackup/externaleMMC/win004.png)
+
+
+#### Step 7:  Remove nebra external eMMC module and Insert SD Card.
+
+> Now you successfully backup nebra hotspot firmware. If you want flash to an SD card you can continue to follow the instructions. 
+
+#### Step 8:  Format the new SD card completely You can use [SD Card Formater](https://www.sdcard.org/downloads/formatter/) for this, then  Connect SD Card to your computer. 
+
+( caution: this process will wipe everything in your SD card)
+
+#### Step 9: Open Win32 Disk Manager and Select Previously Backuped  .Img File.
+
+![](../media/photos/hotspotBackup/externaleMMC/win005.png)
+
+#### Step 10: After selecting the .img file click to write and wait until the writing is complete.  
+
+![](../media/photos/hotspotBackup/externaleMMC/win006.png)
+
+#### Step 10: Done, Once complete Please remove the SD card and Insert it on your nebra hotspot.
+
+<hr>
 
 
 

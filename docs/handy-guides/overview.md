@@ -18,3 +18,4 @@ Under this category we've got a small collection of helpful guides to help with 
 - [Advanced Diagnostics Info](../handy-guides/advanced-diagnostics.md)
 - [First Few Days](../handy-guides/first-days.md)
 - [Nebra Dashboard](../handy-guides/dashboard.md)
+- [Hotspot Backup Guide](../handy-guides/hotspot-backup.md)
