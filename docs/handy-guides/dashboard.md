@@ -15,7 +15,7 @@
 ![Nebra Dashboard](../media/photos/nebraDashboard/dashboardOverview.png)
 
 
-Nebra Dashboard  allows you to view all of your Nebra hotspot statistics in one place: keep track of **rewards**, **sync status**, and **device status**.
+The Nebra Dashboard allows you to view all of your Nebra hotspot statistics in one place: keep track of **rewards**, **sync status**, and **device status**.
 
 
 ## Dashboard Setup 
@@ -36,19 +36,19 @@ Add a device by scanning its QR code or add it manually by pressing the button b
 ### Step 2.1: Add a device using QR
 
 ![Nebra Dashboard](../media/photos/nebraDashboard/3.jpg)
-To add a device by scanning its QR code, click Start scan. After that provide permission to use your camera the point the QR code. 
+To add a device by scanning its QR code, click Start scan. You will be requested to allow the access to your camera. 
 
-## Step 2.2: Add a device by manuel input
+## Step 2.2: Add a device by manual input
 
 ![Nebra Dashboard](../media/photos/nebraDashboard/4.jpg)
 
-To add a device by manual input, Enter device RPI/RSER and ETH.   
+To add a device by manual input, enter the device RPI/RSER and ETH.   
 
 ### Step 3: Done: Device Regsiatrtion Completed
 
 ![Nebra Dashboard](../media/photos/nebraDashboard/5.jpg )
 
-You now successfully added your device, you can see added device list under the "List of your registered devices". 
+You now have successfully added your device to the dashboard and you will be able to see it under "List of your registered devices". 
 
 <hr>
 
@@ -59,7 +59,7 @@ Let's take a look at the dashboard.
 
 ![Nebra Dashboard](../media/photos/nebraDashboard/rewardSection.png)
 
-The rewards section allows you to view all of your hotspot rewards within the last day, 14 days, and 30 days. While the earning chart allows you to compare each day’s earnings to the rest. 
+The rewards section allows you to see the rewards of all of your hotspot rewards within the last day, 14 days, and 30 days. The earnings chart shows you the earnings for each day.
 
 ## Helium Status 
 
@@ -71,10 +71,7 @@ The Helium Status tab shows you how many of your hotspots are in sync, syncing, 
 
 ![Nebra Dashboard](../media/photos/nebraDashboard/deviceDetails.png)
 
-The device details will show you connection status, individual rewards, CPU usage, CPU temperature, memory usage, and storage usage. You can also individually control by using the hotspot actions, Restart, Reboot, and Shutdown. 
-
-
-
+The device details will show you the connection status, individual rewards, CPU usage, CPU temperature, memory usage, and storage usage. You can also issue a number of actions to your hotspot like reboot, restart and shutdown.
 
 
 
