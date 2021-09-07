@@ -13,7 +13,7 @@ In this guide, we will be looking into "How to backup hotspot software".
 Each device firmware is tightly coupled with their account so it's important to keep the backup in case something wrong happens.
 
 
-> ⚠ Do not flash your device with other device firmwar or Modify it, it will make the device useless and avoid warranty. If you need support please contact sales@nebra.com
+> ⚠ Do not flash your device with other device firmwar or Modify it, it will make the device useless and void warranty. If you need support please contact sales@nebra.com
 
 
 ## External eMMC Module Clone
