@@ -53,8 +53,8 @@ Here's a list of APNs we have collected for configuring your 4G / LTE modem. Thi
 
 | Network Name | APN | Number | Username | Password | Confirmed Working | Notes |
 | --- | ---  | ---  | ---  | ---  | ---  | --- |
+| T-Mobile | fast.t-mobile.com | *99# |  |  | Yes |  |
 |  |  |  |  |  |  |  |
-
 # Worldwide
 
 | Network Name | APN | Number | Username | Password | Confirmed Working | Notes |
