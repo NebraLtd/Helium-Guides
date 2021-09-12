@@ -44,7 +44,7 @@ You will have had to have granted location permissions for the Application to ac
 <details>
 <summary>Click to expand!</summary>
 
-You may find that sometimes your Wi-Fi network may not show in the application if the signal is poor where the Hotspot is located.
+You may find that sometimes your Wi-Fi network will not show in the application if the signal is poor where the Hotspot is located.
 
 </details>
 
@@ -53,9 +53,7 @@ You may find that sometimes your Wi-Fi network may not show in the application i
 <details>
 <summary>Click to expand!</summary>
 
-If after completing initial troubleshooting steps above, you are still having issues.
-
-You may find your issues can be resolved by ensuring it is running the latest up to date software.
+If after completing the initial troubleshooting steps above, you are still having issues, you may find your issues can be resolved by ensuring it is running the latest up to date software.
 
 Nebra Hotspots automatically update once connected to the internet, if you are using an Ethernet connection leaving the hotspot for around half an hour should ensure all updates are downloaded.
 
@@ -68,13 +66,14 @@ If you are having difficulties connecting your Hotspot to Wi-Fi, then it would b
 <details>
 <summary>Click to expand!</summary>
 
-If you get an error like this while setting our your miner
+If you get an error like this while setting up your miner:
 
 ![Bluetooth Error](../media/photos/troubleshooting/bluetooth_error.jpg)
 
-please close your helium app and turn off the bluetooth then turn on bluetooth agin, then open the app and try agin. 
+Please close your Helium app completely and turn off the bluetooth on your device. Then turn on bluetooth agin, open the app and try again. 
 
-If you get different error, please let us know!
+If you get a different error then please let us know!
+
 </details>
 
 ### Syncing Issues
