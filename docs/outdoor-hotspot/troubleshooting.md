@@ -43,7 +43,7 @@ You will have had to have granted location permissions for the Application to ac
 <details>
 <summary>Click to expand!</summary>
 
-You may find that sometimes your Wi-Fi network may not show in the application if the signal is poor where the Hotspot is located.
+You may find that sometimes your Wi-Fi network will not show in the application if the signal is poor where the Hotspot is located.
 
 </details>
 
@@ -52,11 +52,20 @@ You may find that sometimes your Wi-Fi network may not show in the application i
 <details>
 <summary>Click to expand!</summary>
 
-If after completing initial troubleshooting steps above you're still having issues, or you are advised to you may find your issues can be resolved by ensuring it is running the latest up to date software.
+If after completing initial troubleshooting steps above you're still having issues, or you are advised to, you may find your issues can be resolved by ensuring it is running the latest up to date software.
 
 Nebra Hotspots automatically update once connected to the internet, if you are using an Ethernet connection leaving the hotspot for around half an hour should ensure all updates are downloaded.
 
-If you are having difficulties connecting your Hotspot to Wi-Fi, then it would be recommended to move it to a location where you can plug it into an Ethernet connection for half an hour to let it perform updates. Then move it back to the normal location and re-try setup.\
+If you are having difficulties connecting your Hotspot to Wi-Fi, then it would be recommended to move it to a location where you can plug it into an Ethernet connection for half an hour to let it perform updates. Then move it back to the normal location and re-try setup.
+
+</details>
+
+### Syncing Issues
+
+<details>
+<summary>Click to expand!</summary>
+
+The Helium Syncing Process can take some time. Some customers report that the hotspot takes multiple days to sync fully. This is not so much an issue with Nebra, rather an issue with the Helium blockchain itself. Please allow the hotspot time to sync (can be 2 days to a week depending on your connection speed), especially above the 90% mark. If you are still having trouble after a week, please feel free to contact support below. If you are not familiar with Nebra's [diagnostics page](../handy-guides/local-diagnostics.md), we highly recommend connecting to your hotspot directly using the local IP address in combination with a web browser. This will provide more insight on the connection between the device and the Helium blockchain.
 
 </details>
 
