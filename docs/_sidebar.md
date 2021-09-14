@@ -23,6 +23,7 @@
 - General Information
 
   - [Frequently Asked Questions](FAQs.md)
+  - [Troubleshooting Guide](handy-guides/troubleshooting.md)
   - [Security Overview](security.md)
   - [Distributors](distributors.md)
   - [Datasheets](datasheets.md)
