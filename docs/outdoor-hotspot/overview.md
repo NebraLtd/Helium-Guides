@@ -2,6 +2,33 @@
 
 The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium LongFi coverage and suitable for use outside in most envrionments.
 
+## Contents
+
+* [Specifications](#specifications)
+* [Package Contents](#packageontents)
+* [Block Diagram](#block-aiagram)
+* [Supported Regions](#supported-regions)
+* [Antenna Specifications](#antenna-specifications)
+* [Hardware Overview](#hardware-overview])
+    * [Mainboard Layout](#mainboard-layout)
+    * [Status LEDS](#status-leds)
+    * [Daughterboard Overview](#daughterboard-overview)
+* [Dimensions](#dimensions)
+* [Interfaces](#interfaces)
+    * [Status Indicator](#status-indicator)
+    * [Button](#button)
+* [Firmware](#firmware)
+* [Certifications](#certifications)
+    * [Certification List](#certification-list)
+    * [Certification Codes](#certification-codes)
+    * [FCC Statement](#fcc-statement)
+* [Resources](#resources)
+
+
+
+<hr>
+
+
 ## Specifications
 
 | Specification | Nebra Outdoor Hotspot |
@@ -43,7 +70,6 @@ The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium
 12. **Z clamp Brackets x 2** (for pole mounting)
 13. **Serial Number QR Code Stickers x 2**
 14. **Nebra Stickers x 2**
-
 
 
 ## Block Diagram
