@@ -1,5 +1,22 @@
 # Port Forwarding for your Helium Hotspot
 
+#### Contents
+
+* [Overview](#overview )
+* [UPnP](#upnp)
+* [Manual port forwarding](#manual-port-forwarding)
+    * [Virgin Media Superhub 3.0](handy-guides/port-forwarding/vm-superhub-v3.md)
+    * [Sky Hub SR102](handy-guides/port-forwarding/sky-hub-sr102.md)
+    * [Google WiFi](handy-guides/port-forwarding/google-wifi.md)
+* [Port forwarding with 4G / LTE connection](#port-forwarding-with-4G-/-LTE-connection)
+* [Contributing](#Contributing)
+
+<hr>
+
+
+
+## Overview 
+
 Helium Hotspots ideally require a port to be forwarded on the network (port 44158) to work at their best. To help with this, with the support of the community we have put together some guides to try and cover as many network setups as possible.
 
 You can find out more about port forwarding on the Helium Network via [this guide in the Helium support docs](https://docs.helium.com/troubleshooting/network-troubleshooting/) or [this guide by community member Rob Putt](https://www.robertputt.co.uk/helium-hnt-fixing-relayed-hotspots/).
