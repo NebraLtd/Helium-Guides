@@ -16,9 +16,8 @@
   - [Outdoor Hotspot Overview](outdoor-hotspot/overview.md)
   - [Outdoor Hotspot Quick Start](outdoor-hotspot/quick-start.md)
   - [Outdoor Hotspot Troubleshooting](outdoor-hotspot/troubleshooting.md)
-  - [Outdoor Hotspot FAQs](outdoor-hotspot/outdoor-faq.md)
   - [Outdoor Hotspot LTE Configuration](outdoor-hotspot/lte-config.md)
-    - [Modem APN list](outdoor-hotspot/lte-apns.md)
+  - [Outdoor Hotspot FAQs](outdoor-hotspot/outdoor-faq.md)
 
 - General Information
 
