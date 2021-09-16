@@ -1,5 +1,13 @@
 # Indoor Hotspot Quick Start Guide
 
+* [Box Contents](#box-contents)
+* [Warnings](#warnings)
+* [Preparing Nebra Indoor Hotspot](#preparing-nebra-indoor-hotspot)
+* [Configuring Nebra Indoor Hotspot](#configuring-nebra-indoor-hotspot )
+* [Onboarding Video](#onboarding-video)
+
+
+
 ## Box Contents
 Your Nebra Indoor Helium Hotspot comes with the following items:
 
@@ -27,7 +35,7 @@ Please remember to follow these important warnings when using your Nebra Indoor 
 
 **Note:** If you want place your miner outside, please consider our IP67 rated weatherproof [outdoor hotspot miner](https://www.nebra.com/products/helium-outdoor-hotspot-miner-gateway).
 
-## Preparing Your Nebra Indoor Hotspot
+## Preparing Nebra Indoor Hotspot
 
 **Step 1:** First screw in the included antenna into the connector on the back of the hotspot.
 
@@ -69,7 +77,7 @@ If you have connected it to a wired Ethernet connection this process may take sl
 
 <hr>
 
-## Configuring Nebra Indoor Hotspot with your helium wallet. 
+## Configuring Nebra Indoor Hotspot
 
 To configure your Hotspot, you will require the Helium Network application installed on a Mobile Phone, and for you to have gone through the account setup process to continue.
 
