@@ -1,5 +1,25 @@
 # Indoor Helium Hotspot Overview
 
+* [Quick Specifications](#quick-specifications)
+* [Package Contents](#package-contents)
+* [Block Diagram](#block-diagram)
+* [Supported Regions](#supported-regions)
+* [Antenna Specifications](#antenna-specifications)
+* [Dimensions](#dimensions)
+* [Interfaces](#interfaces)
+    * [Connectors](#connectors)
+    * [Status Indicator](#status-indicator)
+    * [Button](#status-indicator )
+* [Firmware](#firmware) 
+* [Unit Information](#unit-information)
+* [Certifications ](#certifications )
+    * [Certification List](#certification-list)
+    * [Certification Codes](#certification-codes)
+    * [FCC Statement](#fcc-Statement)
+
+
+<hr>
+
 ![Indoor Hotspot Included](../media/photos/indoor/Indoor-flyer.png ':size=800')
 
 The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Helium LongFi coverage and start mining HNT with ease.
