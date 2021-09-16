@@ -5,11 +5,11 @@ The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium
 ## Contents
 
 * [Specifications](#specifications)
-* [Package Contents](#packageontents)
-* [Block Diagram](#block-aiagram)
+* [Package Contents](#package-contents)
+* [Block Diagram](#block-diagram)
 * [Supported Regions](#supported-regions)
 * [Antenna Specifications](#antenna-specifications)
-* [Hardware Overview](#hardware-overview])
+* [Hardware Overview](#hardware-overview)
     * [Mainboard Layout](#mainboard-layout)
     * [Status LEDS](#status-leds)
     * [Daughterboard Overview](#daughterboard-overview)

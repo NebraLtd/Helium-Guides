@@ -1,5 +1,18 @@
 # Outdoor Hotspot Quick Start Guide
 
+## Contents 
+
+* [Box Contents](#box-contents)
+* [Warnings](#warnings)
+* [Preparing Nebra Outdoor Hotspot](#preparing-nebra-outdoor-hotspot)
+* [Ensure Waterproofing](#ensure-waterproofing)
+* [Antenna Placements](#antenna-placements)
+* [Outdoor Unit Pole Mounting Setup](#outdoor-unit-pole-mounting-setup)
+* [Configuring Nebra Outdoor Hotspot](#configuring-nebra-outdoor-hotspot)
+* [Onboarding Video](#onboarding-video)
+
+<hr>
+
 ## Box Contents
 Your Nebra Outdoor Helium Hotspot comes with the following items:
 
@@ -41,7 +54,7 @@ Please remember to follow these important warnings when using your Nebra Outdoor
 
 **Note:** If you want place your outdoor miner inside, that is entirely fine and will work without issue, however you may want to consider our [indoor hotspot miner](https://www.nebra.com/products/helium-indoor-hotspot-miner) instead.
 
-### Preparing Your Nebra Outdoor Hotspot
+### Preparing Nebra Outdoor Hotspot
 
 
 
@@ -187,7 +200,7 @@ Things we need (alredy included with package)
 
 <hr>
 
-## Configuring Your Nebra Outdoor Hotspot
+## Configuring Nebra Outdoor Hotspot
 
 
 To configure your Hotspot, you will require the Helium Network application installed on a Mobile Phone, and for you to have gone through the account setup process to continue.
