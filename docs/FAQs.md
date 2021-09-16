@@ -31,7 +31,7 @@ To help you decide we've created this handy guide.
 <details>
 <summary>Click to expand!</summary>
 
-Not sure what region you require for your Helium Hotspot? Use [What Helium Region](https://whatheliumregion.xyz/) to find out!
+Not sure what region you require for your Helium Hotspot? Use [Nebra Region Tool](https://region.nebra.com/) to find out!
   
 You can also consult the [frequency plan guide on the TTN [website](https://www.thethingsnetwork.org/docs/lorawan/frequencies-by-country.html) to find which frequency plan matches your country, if you have any questions feel free to message.
 
