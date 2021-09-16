@@ -9,7 +9,7 @@
 * [How long does it take for my Hotspot to sync with the network?](#how-long-does-it-take-for-my-hotspot-to-sync-with-the-network)
 * [How to remount the indoor miner daughter board?](#how-to-remount-the-indoor-miner-daughter-board)
 * [How to fix lose antenna connector?](#how-to-fix-lose-antenna-connector)
-* [I have an issue but it's not listed here?](#i-have-an-issue-but-its-not-listed-here)
+* [I have an issue but not listed here?](#i-have-an-issue-but-not-listed-here)
 
 
 <hr>
@@ -76,22 +76,22 @@ This can be rectified by first removing  the 4 screws to take the lid off. Then 
 
 
 
-## I have an issue but it's not listed here?
+## I have an issue but not listed here?
 
 
 If your issues cannot be resolved with information from this FAQs page or the [troubleshooting page](../handy-guides/troubleshooting.md) then please email [sales@nebra.com](mailto:sales@nebra.com) and include the following information:
 
-* Model of unit?
-* Mac address of the unit (Shown as ETH on sticker)?
-* Frequency of the unit (Shown as Freq on sticker)?
-* How are you connecting it to internet? (Ethernet, Wi-Fi, Cellular)?
-* How are you powering the unit? (included adaptor, PoE, third party adaptor)
+* **Model of unit?**
+* **Mac address of the unit** (Shown as ETH on sticker)?
+* **Frequency of the uni**t (Shown as Freq on sticker)?
+* **How are you connecting it to internet?** (Ethernet, Wi-Fi, Cellular)?
+* **How are you powering the unit?** (included adaptor, PoE, third party adaptor)
   
 If the issue relates to initial setup of the hotspot, please also include:
   
-* What make & model of phone are you using?
-* What version of the Helium App are you using?
-* Do you have any screenshots of any error codes? 
+* **What make & model of phone are you using?**
+* **What version of the Helium App are you using?**
+* **Do you have any screenshots of any error codes?**
 
 Alternatively, you can get in touch using any of the methods listed on our [support page](../support.md) and we'll work on resolving your issue.
   
