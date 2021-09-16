@@ -1,5 +1,20 @@
 # Indoor Hotspot FAQs
 
+## Contents 
+
+*  [What is the antenna connector on the Hotspot?](#what-is-the-antenna-connector-on-the-hotspot)
+* [Can I add 4G connectivity to my Indoor Hotspot?](#can-i-add-4g-connectivity-to-my-indoor-hotspot)
+* [How much internet data per month does the Hotspot use?](#how-much-internet-data-per-month-does-the-hotspot-use)
+* [What antenna is included with the Hotspot?](#what-antenna-is-included-with-the-hotspot)
+* [How long does it take for my Hotspot to sync with the network?](#how-long-does-it-take-for-my-hotspot-to-sync-with-the-network)
+* [How to remount the indoor miner daughter board?](#how-to-remount-the-indoor-miner-daughter-board)
+* [How to fix lose antenna connector?](#how-to-fix-lose-antenna-connector)
+* [I have an issue but it's not listed here?](#i-have-an-issue-but-its-not-listed-here)
+
+
+<hr>
+
+
 ## What is the antenna connector on the Hotspot?
 
 <details>
