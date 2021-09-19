@@ -1,11 +1,24 @@
 # Nebra Helium Hotspot Advanced Diagnostics Information
 
+* [Nebra Indoor Hotspot lights](#nebra-indoor-hotspot-lights)
+    * [External lights](#external-lights)
+    * [Internal Lights](#internal-lights)
+* [Nebra Outdoor Hotspot Lights](#nebra-outdoor-hotspot-lights)
+    * External Lights
+* [Nebra CM3 Daughterboard Lights](#nebra-cm3-daughterboard-lights)
+* [Daughterboard Jumpers](#daughterboard-jumpers)
+
+<hr>
+
+
 ## Nebra Indoor Hotspot lights
 
 The Nebra Indoor Hotspot has 4 lights that can be checked to resolve issues
 
 ### External lights
 The first two can be located on the back of the unit, one green and one amber.
+
+![Indoor External Lights](../media/photos/indoor/indoor-external-lights.jpg)
 
 **Amber Light** - This should turn on as soon as the unit is plugged in as it indicates if power is present. If this light does not turn on then the power supply and socket should be checked.
 
@@ -19,7 +32,11 @@ The hotspot has 2 internal lights, along with 2 others documented in the daughte
 
 These are located under the silver EMF tape on the big board, both should be lit solid all the time.
 
+
+
 ## Nebra Outdoor Hotspot Lights
+
+
 
 ## Nebra CM3 Daughterboard Lights
 
@@ -43,38 +60,3 @@ This jumper is used in conjunction with JP3 to put the CM3 into programming mode
 
 **For normal operation the jumper should be in position 1+2**
 
-## Characteristic 398168aa Write Fail
-
-This issue is an intermittent one on iOS devices (iPhone / iPad)
-
-## LoRa OK showing as False in diagnostics
-
-This error is displayed if the system fails to start the software for the Miner 5 times in a row.
-
-Two possible fixes for this are:
-* Ensure the antenna connector is connected to the LoRa module.
-* Open up the hotspot and remove then re-insert the LoRa module.
-
-## Diagnostics page
-
-## Green light not turning on
-
-Possible causes of this could be:
-
-* The Bluetooth Adaptor has become loose in transit - Check diagnostics page to confirm.
-* The Daughterboard has become loose in transit, open case and check board is correctly seated.
-* The Daughterboard is in programming mode disabling USB, check JP3 & JP4
-* The USB circuitry has an issue, connect a wired ethernet cable to help confirm. If no lights on ethernet turn on and rest has been check this could be the cause.
-
-## Green light is rapidly blinking
-
-## BT Pairing is not working
-
-
-## Invalid Wire Type / Index out of range
-
-Typically, only occuring on iPhones & iPads this issue relates to there being too many wi-fi networks being detected by the hotspot.
-
-We fixed this issue in firmware version 2021.05.26.2, hotspots from batch 2 onwards should have a fixed already applied.
-
-However, if you have an older hotspot to resolve this issue we recommend that you plug the hotspot into a wired ethernet connection for approximately 30 minutes and then re-try with wireless.
