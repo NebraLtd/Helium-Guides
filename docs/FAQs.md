@@ -52,6 +52,8 @@ We're updating shipping times based on when orders are placed, please refer to t
 <details> <summary>Click to expand! </summary>
 
 Yes, both the Indoor & Outdoor Hotspots have Wi-Fi Connectivity with a 2.4Ghz 802.11n Wi-Fi Adaptor included in the units.
+  
+Please note: Hotspots will only work on networks with valid characters in it's SSID, or network name. All characters of the network SSID should fall into the following ranges: A-Z 0-9
 
 </details>
 
