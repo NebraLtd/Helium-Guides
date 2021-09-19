@@ -9,6 +9,8 @@
 * [Outdoor Unit Pole Mounting Setup](#outdoor-unit-pole-mounting-setup)
 * [Configuring Nebra Outdoor Hotspot](#configuring-nebra-outdoor-hotspot)
 * [Onboarding Video](#onboarding-video)
+* [LTE Configuration ](lte-config.md)
+* [LTE APN List](lte-apns.md)
 
 <hr>
 
