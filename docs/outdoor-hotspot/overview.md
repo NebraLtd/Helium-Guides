@@ -2,7 +2,6 @@
 
 The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium LongFi coverage and suitable for use outside in most envrionments.
 
-## Contents
 
 * [Specifications](#specifications)
 * [Package Contents](#package-contents)
