@@ -5,7 +5,6 @@ If you are having trouble with setting up your hotspot or you have got a query, 
 
 
 
-
 * [No lights are turning on](#no-lights-are-turning-on) 
 * [How to access the diagnostics](#how-to-access-the-diagnostics) 
 * [Updating Nebra Hotspot Firmware](#updating-nebra-hotspot-firmware)
