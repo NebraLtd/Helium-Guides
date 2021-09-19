@@ -35,7 +35,7 @@ The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium
 | **RRP** | £450 ex VAT |
 | **Ingress Protection** | IP67 |
 | **Dimensions** | 300x200x100 mm (Excluding Antenna) |
-| **Rated Ambient Temperature** |-25-80C |
+| **Rated Ambient Temperature** |-25-80<sup>oC</sup> |
 | **Weight** | 1.25 Kg |
 | **Power Requirement** | 802.3AF 48V POE *OR* 9-16V DC @ 15W |
 | **Average Power Consumption** | ~12-15W* |
