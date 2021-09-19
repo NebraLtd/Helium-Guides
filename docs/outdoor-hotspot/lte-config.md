@@ -9,9 +9,6 @@
 * [Manually adding the APN details](#manually-adding-the-apn-details)
 
 
-
-
-
 ## 4G Module Installation Overview
 
 This tutorial will walk you through installing and configuring a 4G / LTE modem. Other modems may work (such as 3G, 5G & NB-IOT) and over time we may test and add official support for more models. 
