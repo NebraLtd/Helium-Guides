@@ -35,6 +35,7 @@ The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium
 | **RRP** | £450 ex VAT |
 | **Ingress Protection** | IP67 |
 | **Dimensions** | 300x200x100 mm (Excluding Antenna) |
+| **Rated Ambient Temperature** |-25-80C |
 | **Weight** | 1.25 Kg |
 | **Power Requirement** | 802.3AF 48V POE *OR* 9-16V DC @ 15W |
 | **Average Power Consumption** | ~12-15W* |
@@ -46,6 +47,8 @@ The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium
 | **CPU Specification** | Broadcom BCM2837B0, Quad Core Cortex-A53 (ARMv8) 64-bit SoC @ 1.2GHz |
 | **High Endurance Storage** | 32GB |
 | **RAM** | 1GB LPDDR2 SDRAM |
+| **Outer dimensions (w/o connectors)** |235mm x 155mm x 75mm|
+
 
 ###### * Average Power Consumption Measured At Mains, higher average consumption when the optional 4G Module is used.
 ###### ** Maximum TX Power may be capped to a lower amount in some regions.
