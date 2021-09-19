@@ -1,5 +1,17 @@
 # Adding a 4G / LTE Modem to your Outdoor Hotspot
 
+* [Overview](#4g-module-installation-overview)
+* [Required Hardware](#required-hardware)
+* [Tested 4G mPCIe Modules](#tested-4g-mpcie-modules)
+* [Onboard or offboard SIM card?](#onboard-or-offboard-sim-card)
+* [Installing the 4G Module and Sim Card](#installing-the-4g-module-and-sim-card)
+* [Adding your APN details using the diagnostics page](#adding-your-apn-details-using-the-diagnostics-page)
+* [Manually adding the APN details](#manually-adding-the-apn-details)
+
+
+
+
+
 ## 4G Module Installation Overview
 
 This tutorial will walk you through installing and configuring a 4G / LTE modem. Other modems may work (such as 3G, 5G & NB-IOT) and over time we may test and add official support for more models. 
@@ -51,7 +63,7 @@ However in the table above you can see that some of the modems listed have both 
 
 For modems without an onboard SIM slot, you will obviously need to use the Micro SIM slot on the Nebra Outdoor Hotspot itself. For the modems that have a SIM slot on the modem itself, typically these modules will support having your SIM card placed either directly in the module or in the Nebra SIM slot. However, if you find that the modem is not working correctly then we would highly recommend trying the other slot as it might be that your specific modem is not wired up in a conventional way (especially if it is not featured on the above list or marked as not tested). One final thing to note is that for modules that have on board SIM card holders these are sometimes not the same size as the Micro SIM on our outdoor hotspot but instead may use a standard or nano sized SIM card so you must make sure to get the correct size SIM for your application.
 
-## Installing the 4G Module & Sim Card
+## Installing the 4G Module and Sim Card
 
 ![LTE](../media/photos/lte/lte-1.jpg  ':size=350')
 ![LTE](../media/photos/lte/lte-2.jpg  ':size=350')
