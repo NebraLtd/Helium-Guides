@@ -1,6 +1,5 @@
 # Outdoor Hotspot Quick Start Guide
 
-## Contents 
 
 * [Box Contents](#box-contents)
 * [Warnings](#warnings)
