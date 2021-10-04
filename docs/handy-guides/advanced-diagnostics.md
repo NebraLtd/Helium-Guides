@@ -20,9 +20,15 @@ The first two can be located on the back of the unit, one green and one amber.
 
 ![Indoor External Lights](../media/photos/indoor/indoor-external-lights.jpg)
 
-**Amber Light** - This should turn on as soon as the unit is plugged in as it indicates if power is present. If this light does not turn on then the power supply and socket should be checked.
+**Amber Light : Power Indicator**  - This should turn on as soon as the unit is plugged in as it indicates if power is present. If this light does not turn on then the power supply and socket should be checked.
 
-**Green Light** - This light typically should turn on after about 1 minute after powering up which means the software has started. It should then start a slow blink.
+**Green Light : Activity LED**  - This light typically should turn on after about 1 minute after powering up which means the software has started. It should then start a slow blink.
+
+#### Green Light Blinking  Status 
+
+* Blink fast if diagnostics are not OK
+* Blink slow if advertising bluetooth
+* Solid if diagnostics are OK and not advertising 
 
 If the light does not turn on then there may be an issue with the daughterboard inside the unit and it may require opening up for further investigation.
 
