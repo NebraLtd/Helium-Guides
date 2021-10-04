@@ -13,12 +13,12 @@
 
 ## Nebra Indoor Hotspot lights
 
-The Nebra Indoor Hotspot has 4 lights that can be checked to resolve issues
+The Nebra Indoor Hotspot has 6 lights that can be checked to resolve issues
 
 ### External lights
 The first two can be located on the back of the unit, one green and one amber.
 
-![Indoor External Lights](../media/photos/indoor/indoor-external-lights.jpg)
+![Indoor External Lights](../media/photos/indoor/indoor-external-lights.png)
 
 **Amber Light : Power Indicator**  - This should turn on as soon as the unit is plugged in as it indicates if power is present. If this light does not turn on then the power supply and socket should be checked.
 
@@ -34,9 +34,19 @@ If the light does not turn on then there may be an issue with the daughterboard 
 
 ### Internal Lights
 
-The hotspot has 2 internal lights, along with 2 others documented in the daughterboard section.
+The Indoor hotspot has 4 internal lights. 
 
-These are located under the silver EMF tape on the big board, both should be lit solid all the time.
+![](../media/photos/indoor/Indoor-internal-lights.png)
+
+* **Daughter Board Status Indicator** :  In normall mode this BLUE led will turn off. During booting led blink several times.
+
+* **3.3v and 5v Power Indicator** : These are two RED led that indicate the 3.3v and 5v power supply status. 
+
+*  **Duagther Board Status Indicator** : This green LED indcate power supply in the duagther board. 
+
+
+
+##
 
 
 
