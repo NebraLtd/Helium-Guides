@@ -34,3 +34,10 @@ A bigger antenna doesn't necessarily mean wider/further coverage or more HNT ear
 You can be looking at two different antennas that have the same gain according to the spec sheets, but one of them can have the potential to perform better than the other. An understanding of where and how the antenna will be deployed is key to help determine which environmental parameters are important and in turn which antenna would suit you best.
 
 ![Antenna Gain on Different Terrain](../../media/photos/antenna/antenna-gain-location.png)
+
+
+## 
+
+#### Resource 
+* [RF Line-of-Sight Tool](https://www.scadacore.com/tools/rf-path/rf-line-of-sight/) : This free online tool takes antenna height and the topographical formations of the earth to calculate the line-of-sight of a radio path. Note that buildings and other obstructions is not taken into consideration when calculating line-of-sight using this tool.
+
