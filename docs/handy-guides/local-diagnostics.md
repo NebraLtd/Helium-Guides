@@ -1,34 +1,36 @@
 # Local Diagnostics
 
-There are two different methods to access the diagnostics of your hotspot. One is the In-App diagnostics in the Helium app (requires you to be in bluetooth range) and the other is the IP diagnostics (requires you to be connected to the same local network).
+There are two different methods to access the diagnostics information of your Nebra hotspot:
+
+1. Helium App Diagnostics(Bluetooth)
+2. Nebra Diagnostics(Private IP Address)
 
 ## IP diagnostics
 
-The more detailed and recommended diagnostics version available is the IP diagnostics. You need to be connected to the same local network to access the IP diagnostics.
+We highly recommend utilizing the Nebra Diagnostics page. To do so, Identify the private IP address of your hotspot by retreiving the information from Helium App Diagnostics over Bluetooth, or by using your router's admin page (Typically can be accessed by typing 192.168.1.1 into a web browser, but not all routers are the same, for more details regarding your specific router, please visit some of the router guides found [here](https://portforward.com/router.htm)).
 
-To find the IP address of your hotspot you can either get it from the Helium In-App diagnostics explained later or through the connected devices found in your router settings. If you are signed up to the [Nebra Dashboard](https://dashboard.nebra.com) you should also be able to find the local IP address from the specific device page.
-
-You can use any browser to access the IP diagnostics either on your desktop or on your mobile. Just enter the IP address of your hotspot into the address bar of your browser and hit enter. You will find a page similar to the following image:
+You can typically do all of these steps on a mobile device, laptop, or desktop. Once you have identified the IP address of your unit, you will be able to access a page that looks like this:
 
 ![IP diagnostics](../media/photos/troubleshooting/local-diagnostics.jpg ':size=800')
 
 ### What information can you find in here
 
-1. **Hotspot animal name**: Right at the top you will find the animal name of your hotspot.
+1. **Hotspot animal name**: animal name of your hotspot.
 
-2. **Helium address**: You can find the address of your Helium hotspot here. By clicking on it you will be redirected to your hotspot in the explorer
+2. **Helium address**: address of your Helium hotspot here. (Clicking this will directly lead you to the helium explorer)
 
 3. **Sync percentage**: This shows an up-to-date sync status of your Helium hotspot. This information will be updated every 2 minutes. Sometimes it will show as **Miner is Still Loading** - This can have different causes:
 * Your hotspot is still booting up
-* The Height status is higher than the blockchain height reported by the Helium API. This can be ignored and is just a display bug
+* The Height status is higher than the blockchain height reported by the Helium API.
 * There is an issue with the Helium miner software and it won't fully load up
+* Most of these issues will resolve over time as various counter measures will activate to keep your Hotspot 100% synced and up-to-date.
 
 
 4. **Height status**: It will show the block your hotspot is currently synced up to and the total blockchain height reported by the Helium API
 
 5. **Firmware version**: The current firmware version that is running on your hotspot
 
-6. **Frequency**: Shows the frequency plan your hotspot is using. It will show 470/ 868 or 915 based on the base model of your hotspot
+6. **Frequency**: Shows the frequency plan your hotspot is using. It will show 470/ 868 or 915 based on the region the hotspot is operating in.
 
 7. **Region Plan**: Shows the exact frequency your hotspot is using
 
@@ -36,55 +38,53 @@ You can use any browser to access the IP diagnostics either on your desktop or o
 
 9. **Miner connected to Blockchain**: Will say yes if your hotspot has a good connection to the Helium network. Even when showing no your hotspot can still be connected to it, but it has less than 5 peer to peer connections. This will be updated in the future.
 
-10. **Miner Relayed**: Indicates if your hotspot is relayed. Will show False if it is not. If it is showing True you should have a look at our Port Forwarding guide.
+10. **Miner Relayed**: Indicates if your hotspot is relayed. View our Port Forwarding guide if you are having trouble eliminating the relayed status.
 
-11. **ECC detected**: Shows True if your secure chip is detected. Can show false temporarily due to the diagnostics refreshing too quickly. If the error persists, please contact the customer support
+11. **ECC detected**: Shows True if your secure chip is detected. If it shows as false, check the hardware, reseat components. If the problem persists, contact us at support.
 
-12. **ETH0 MAC**: The Ethernet mac address of your hotspot. Always mention this if you have a technical support request, but don't share it with a third party. It is used in combination with the RPi serial to add your hotspot to our Dashboard
+12. **ETH0 MAC**: The Ethernet MAC address of your hotspot. Provide this to support when you open a ticket with us. It is a unique identifier for your unit and should be kept private otherwise.
 
-13. **WLAN0 MAC**: The Wifi mac address of the hotspot. Shows Unknown if there is an issue with the Wifi on your hotspot. This is a known issue and we are working on it
+13. **WLAN0 MAC**: The Wifi mac address of the hotspot. Shows Unknown if there is an issue with the Wifi on your hotspot.
 
-14. **RPi Serial**: The serial number of the Raspberry Pi used in your hotspot. It is used together with the ETH0 mac to add the hotspot to the dashboard.
+14. **RPi Serial**: The serial number of the Raspberry Pi used in your hotspot. It is used with the ETH MAC address to add a hotspot to the Nebra Dashboard.
 
-15. **BT detected**: Indicates if the bluetooth is connected
+15. **BT detected**: Indicates if the bluetooth is connected.
 
-16. **Lora OK?**: Checks if the Lora module is recognized by your hotspot. If it is showing **False**, you should turn off the hotspot and try to reseat the Lora concentrator as advised in the advanced diagnostics.
+16. **Lora OK?**: Checks if the Lora module is recognized by your hotspot. If it is showing **False**, you should turn off the hotspot and reseat the LORA module. Contact us if the problem persists.
 
-17. **Modem Detected** : Check if the Cellular LTE module is reconginzed by your hotspot. If it is showing **False**, and you attached LTE modem the you should turn off the hotspot and reseat the LTE module, Outdoor unit does't comes with LTE module pre-built, so it's normall to show **False** wihout the LTE Module. 
-
-> **Modem Detected** only shown in outdoor hotspot. 
+17. **Modem Detected** : Check if the Cellular LTE module is reconginzed by your hotspot. If it is showing as **False**, turn off the hotspot and reseat the LTE module. Please note the Outdoor unit does't comes with LTE module pre-installed, it will show **False** as default.
 
 ## In-app diagnostics 
 
-To access the In-app diagnostics your hotspot needs to be in pairing mode. Your hotspot is in pairing mode directly after startup or by pressing the pair button on the back of your hotspot for 10 seconds. You then need to go into the Helium app and select your hotspot. By clicking on the cog symbol on the top right a new menu will appear. Choose Pair here. Your hotspot should show up now if it is in pairing mode. Select the diagnostics next. The In-app diagnostics will show up after:
+To access the Helium Bluetooth diagnostics, your hotspot needs to be in pairing mode. Your hotspot is in pairing mode directly after startup. You can initiate pairing mode manually by pressing the pair button on the back of your hotspot for 10 seconds. You will now be able to pair with the hotspot in the helium app. If you are unaware of how to do this, simply click on the cog symbol on the top right corner and a new menu will appear. Choose Pair. Your hotspot will now appear.
 
 ![In-app diagnostics](../media/photos/troubleshooting/inappdiagnostics.jpg ':size=600')
 
 ### What information can you find in here
 
-* **Hotspot name**: The animal name of your hotspot will show on top. 
+* **Hotspot name**: The animal name of your hotspot. 
 
-* **Peer-to-Peer Connections**: Here you can see if your hotspot has successful Outbound and Inbound connections. Directly after rebooting/ changing the connection it can take up to 15 minutes to show a green mark. No inbound connections can be due to the hotspot being relayed.
+* **Peer-to-Peer Connections**: Here you can see if your hotspot has successful Outbound and Inbound connections. It can take up to 15 minutes to update this information. If you have no inbound connections, this is an indicator that your hotspot is relayed. Refer to our port forwarding guide.
 
-* **Blockchain Sync**: This sync status is not fully up to date and will show as 100% even though the hotspot might still be syncing. For a more accurate syncing status you should have a look at the ip diagnostics.
+* **Blockchain Sync**: This sync status is not always up-to-date and will show as 100% even though the hotspot still might be syncing. This is where we advise using the Nebra diagnostics page for more accurate information.
 
-* **Last Challenged**: Shows when the hotspot was challenged the last time. It will only participate in challenges when it is fully synced and has a proper internet connection
+* **Last Challenged**: Shows when the hotspot was challenged the last time. It will only participate in challenges when it is fully synced and has an internet connection.
 
-* **Hotspot Maker**: The maker of your Hotspot. In our case it will show as Nebra LTD
+* **Hotspot Maker**: The maker of your Hotspot. In our case it will show as Nebra LTD.
 
-* **Hotspot Firmware** : The firmware version of the software running on your hotspot
+* **Hotspot Firmware** : The firmware version your hotspot is using.
 
-* **App Version**: The version of the Helium app your are using
+* **App Version**: The version of the Helium app your are using.
 
-* **Wi-Fi MAC**: The Wi-Fi mac address of your hotspot
+* **Wi-Fi MAC**: The Wi-Fi MAC address of your hotspot.
 
-* **Ethernet MAC**: The Ethernet mac address of your hotspot. Always mention this if you have a technical support request, but don't share it with a third party. It is used in combination with the RPi serial to add your hotspot to our Dashboard
+* **Ethernet MAC**: The Ethernet MAC address of your hotspot. Provide this to support when you open a ticket with us. It is a unique identifier for your unit and should be kept private otherwise.
 
-* **NAT Type**: Shows the nat type of your hotspot. This will partially indicate if your hotspot is Relayed. Having nat-type none and unknown is usually the status you want. With a symmetric nat-type it is usually not possible to portforward as you are sharing a IPv4 address with others. It can be resolved by asking for a own IPv4 address at your ISP. Restricted shows that the port is blocked.
+* **NAT Type**: Shows the NAT type of your hotspot. This can indicate if your hotspot is Relayed. NAT-type showing none and unknown is ideal and what you want. With a symmetric NAT-type, you share an IP address with others, so port forwarding may not be possible. It can be resolved by asking for a unique IPv4 address from your ISP. Restricted means that the port is blocked.
 
-* **IP Address**: The local ip address of your hotspot. By entering it in the browser you are able to access the browser diagnostics of your hotspot for a more detailed diagnostics view. It is useful for adding the port-forwarding rule too.
+* **IP Address**: The local IP address of your hotspot. By entering it in the browser you are able to access the Nebra Diagnostics page of your hotspot for more accurate information.
 
-* **Report Generated**: Date when the diagnostics were made.
+* **Report Generated**: Date when the diagnostics were produced.
 
 ## Still having trouble?
 
