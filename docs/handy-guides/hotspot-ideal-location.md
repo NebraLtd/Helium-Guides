@@ -2,48 +2,43 @@
 
 On the Helium Network, participants earn HNT by mining and building coverage for The People’s Network using compatible Hotspots.
 
-Hotspot miners earn HNT mainly in 2 ways:
+Hotspot miners earn HNT in two different ways:
 
 * **Proof-of-Coverage** : Hotspots on the network are randomly and automatically assigned Proof-of-Coverage tests to complete. Passing and witnessing tests earns HNT. You can read more about the mechanics of PoC on [the Helium website](https://docs.helium.com/blockchain/proof-of-coverage).
 
 * **Relay Device Data** : Hotspots earn HNT for transferring device data over the network. The more device data a Hotspot transfers, the more it earns. There are more details on [the Helium website](https://docs.helium.com/blockchain/helium-token).
 
 
+Hotspot visibility and participation in the network directly correlate with the rewards earned.
 
-So it's all about your hotspot visibility and participation in the network, there are some techinque to improve these things, that's we are looking. If you found any mistake or need to add any point, please [open a issue](https://github.com/NebraLtd/Helium-Guides/issues/new), we are happy to look into that.
+Some external factors include the number of **hotspots nearby you**, and the **hotspot density**. These can both affect your rewards.  
 
-Please note that the earning will not just simply increase by following these steps, there are some external factors such as the number of **hotspots nearby you** and the **hotspot density**, so please consider these factors too.  
-
-
-We are going to take a look at some different parameters that improve the coverage and participation in the network. 
- 
- 
 ## Hotspot Location/Antenna View
-
-Location of the hotspot or antenna view is very important, and it's play a key role. 
-
-* Outside. Walls and even windows will block radio waves.
-* High above other obstacles.
-* Clear view to as much as possible.
 
 Hotspots like to be deployed high up, overlooking wide-open spaces. If you have a house or apartment building with multiple floors, aim for the highest floor with a window. Ideally, your Hotspot has a clear view of the sky. (src: [blog.helium.com](https://blog.helium.com/helium-hotspot-101-1aa9dcecb5e))
 
+Things to consider when placing your hotspot: 
+
+* Walls and windows can decrease or block your signal.
+* It's best to have the hotspot mounted high, with a clear line of sight.
+* Long cable length can severly effect antenna performance.
+
 ![](../media/photos/hotspotPlacement/placement01.jpeg) 
 
-Avoid putting the Hotspot in locations where it can’t see the outside world: in basements, in cabinets, behind TVs, metal screens, or ‘cyberglass’ in skyscrapers and things like that. (src: [blog.helium.com](https://blog.helium.com/helium-hotspot-101-1aa9dcecb5e))
+Avoid putting the Hotspot in locations where signal strength can be heavily degraded; Such locations include, but are not limited too: basements, cabinets, behind TVs, metal screens, or ‘cyberglass’. (src: [blog.helium.com](https://blog.helium.com/helium-hotspot-101-1aa9dcecb5e))
 
 ![](../media/photos/hotspotPlacement/placement02.jpeg) 
 
-
-Hotspots should not be deployed too close to one another. A good rule of thumb is to provide a minimum distance of 300 to 500 meters between Hotspots though this could vary depending on the environment (in a dense city closer, and in a more rural environment farther).(src: [blog.helium.com](https://blog.helium.com/helium-hotspot-101-1aa9dcecb5e))
+Hotspots should not be deployed too close to one another. It's best to provide a minimum distance of 300 to 500 meters between Hotspots. You typically encounter a stronger density in cities, and a weaker density in rural enviorments.(src: [blog.helium.com](https://blog.helium.com/helium-hotspot-101-1aa9dcecb5e))
 
 ![](https://miro.medium.com/max/4520/1*tBiYItd0qtSYCV6DZF3O-Q.png)
 
 
-A good rule of thumb to start approaching 90% of optimum earnings is at least 20' above your roof and surrounding roofs.(src: [nikhawks.medium.com](https://nikhawks.medium.com/a-rough-guide-to-helium-hotspot-placement-bb96b0b81343)
+
+Reaching a good transmit scale is optimal for earnings. For more information about transmit scale, hotspot density, and attenna details, please view the following resource - src: [nikhawks.medium.com](https://nikhawks.medium.com/a-rough-guide-to-helium-hotspot-placement-bb96b0b81343)
 
 
-Here’s an example of a good elevation placement in a suburban location:
+Good elevation placement in a suburban location:
 
 ![](https://miro.medium.com/max/700/1*OUhcr2mWpE_OUHey5YnEmw.jpeg) 
 src: [nikhawks.medium.com](https://nikhawks.medium.com/a-rough-guide-to-helium-hotspot-placement-bb96b0b81343)
@@ -51,7 +46,7 @@ src: [nikhawks.medium.com](https://nikhawks.medium.com/a-rough-guide-to-helium-h
 
 ## Appropriate Antenna 
 
-A bigger antenna doesn't necessarily mean wider/further coverage or more HNT earnings. Take a look at the images above and notice the different coverage for antennas. **The higher dBi antenna is, more narrow and longer its signal coverage gets**.
+A stronger antenna doesn't necessarily mean better coverage, or better earnings. Take a look at the images above and notice the different coverage for antennas. **The higher the dBi antenna is, the narrower and longer its signal coverage becomes**.
 
 | Antenna Length vs dBi | Antenna Reception |
 |---| ---|
@@ -59,25 +54,22 @@ A bigger antenna doesn't necessarily mean wider/further coverage or more HNT ear
 
 
 
-* Higher dBI: awesome performance on flat terrain
-* Lower dBI: awresome performance on hill terrain
-* Middle dBI: great all rounder
-
-You can be looking at two different antennas that have the same gain according to the spec sheets, but one of them can have the potential to perform better than the other. An understanding of where and how the antenna will be deployed is key to help determine which environmental parameters are important and in turn which antenna would suit you best.
+* Higher dBI: Great performance on flat terrain and low hotspot density.
+* Lower dBI: Great performance on uneven terrains, or areas with a high hotspot density.
+* Middle dBI: Perfect for those eniorments that fall in between the other enviorments described above.
 
 ![Antenna Gain on Different Terrain](../media/photos/antenna/antenna-gain-location.png)
 
 You can read more about antenna [here](../handy-guides/antenna/overview.md) 
 
 
-
 ## Antenna cables 
 
-Antenna cable also imporve your antenna performance, and not all cables are same, the price and signal drops are vary. 
+Antenna cable can also effect your signal, and consequently, your rewards. 
 
-As all cables will give some signal loss it\'s important to be able to calculate the losses and therefore know how this will affect the signal strength. 
+All cables provide some signal loss, it\'s important to be able to calculate and account for these variables. 
 
-Here is list cables and it's cable loss. 
+Here is a table of cables, and the loss encountered while using them. 
 
 | TYPE OF CABLE  |  LOSS / M  | DIAMETER |
 |----------|:-------------:|------:|
@@ -97,13 +89,10 @@ Here is list cables and it's cable loss.
 | RG-178  | ~1.00 dBm | 2 mm | 
 | RG-174  | ~1.00 dBm | 2.5 mm| 
 
-more details at [Antenna Connectors](handy-guides/antenna/connectors.md) 
-
-
-If you found any mistake or need to add any point, please [open a issue](https://github.com/NebraLtd/Helium-Guides/issues/new), we are happy to look into that.
-
+More details at [Antenna Connectors](handy-guides/antenna/connectors.md) 
 
 #### Resources
+* [Hotspot Placement Tool ](https://app.hotspotty.net/)
 
 * [Antenna Height and Communications Effectiveness by ](https://www.arrl.org/files/file/antplnr.pdf)
 
