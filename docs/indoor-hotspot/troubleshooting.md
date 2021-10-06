@@ -33,6 +33,10 @@ If this is the case, ensure the power supply is firmly plugged into the wall out
 
 Upon power up the lower LED (yellow) should light up instantly. Approximately after a minute the top LED (green) should then start blinking.
 
+### The Green LED is blinking rapidly with few seconds intervall 
+
+The upper light on the back fo the unit blinks rapidly with few seconds intervall. This is expected behaviour. 
+If this is the case, use your web browser to access diagnostic page of the hotspot. If the diagnostic page does not show any error everything is fine. 
 
 
 ### Hotspot is not showing in the Helium App
