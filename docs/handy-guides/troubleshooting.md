@@ -105,6 +105,7 @@ This issue is an intermittent one on iOS devices (iPhone / iPad), If you **close
 
 ## BT Pairing is not working
 
+Check the Bluetooth module is connected. 
 
 
 
