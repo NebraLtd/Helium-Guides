@@ -7,6 +7,8 @@
 * [How long does it take for my Hotspot to sync with the network?](#how-long-does-it-take-for-my-hotspot-to-sync-with-the-network)
 * [How to remount the indoor miner daughter board?](#how-to-remount-the-indoor-miner-daughter-board)
 * [How to fix lose antenna connector?](#how-to-fix-lose-antenna-connector)
+* [How to insert compute module ](#how-to-insert-compute-module )
+* [How to insert LoRa module](#how-to-insert-lora-module)
 * [I have an issue but not listed here?](#i-have-an-issue-but-not-listed-here)
 
 
@@ -72,6 +74,16 @@ This can be rectified by first removing  the 4 screws to take the lid off. Then 
 
 ![Indoor Antenna Fix](../media/photos/troubleshooting/indoor_antenna_fix.jpg)
 
+## How to insert compute module 
+
+At the side, it has two little metal clips, pull these out a little bit to release the compute module, you can then put it back in at a 45 degree angle, as far as it will go in, and clip it down into the clips again. most of the "gold fingers" on the compute module should not be visible and the sides should click into place. 
+
+<iframe src="https://drive.google.com/file/d/1nrVsDf5OdqDxGuwlTlnhfCaUu6ixjGXj/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+## How to insert LoRa module 
+
+<iframe src="https://drive.google.com/file/d/1zfyYgRzivvKD_g2tDWVZdrws-O6fDk7D/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 ## I have an issue but not listed here?
