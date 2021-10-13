@@ -14,9 +14,6 @@ We have a huge amount of guides and information available on [this website](/) i
 
 For information about your order, and assuming you ordered directly from our [Nebra.com shop](https://nebra.com) and not from one of our [distributors](distributors.md), we recommend first taking a look at our [order information page](https://www.nebra.com/pages/order-information). If you still can't find the information you are looking for then please contact us directly via email to [sales@nebra.com](mailto:sales@nebra.com).
 
-## Discord servers
-
-As a HIP-19 approved third party manufacturer, we have a #nebra support channel on the [official Helium Discord server](https://discord.gg/helium) where a number of our technical and support staff often hang out to answer any pre or post sales questions you might have about our products.
 
 ## GitHub
 
