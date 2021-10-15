@@ -62,10 +62,40 @@ For modems without an onboard SIM slot, you will obviously need to use the Micro
 
 ## Installing the 4G Module and Sim Card
 
+1. **Step 1 : Open Outdoor Unit** - Remove the four Hex-head screws to open the outdoor unit. 
+
+![LTE STEP 1](../media/photos/lte/LTE1.jpg )
+
+
+2. **Step 1 : Insert SIM Card** - Insert SIM Card on Outdoor unit Micro SIM Slot. 
+
+![LTE STEP 2](../media/photos/lte/LTE2.jpg )
+
+3. **Step 3 : Install LTE Module** -Insert LTE module connector first then snap fit the other part. 
+
+![LTE STEP 3](../media/photos/lte/LTE3.jpg )
+
+4. **Step 4 : Install LTE Antenna on Module** - Use **"MAIN"** and **"DIV"** to connect antenna cable.
+
+![LTE STEP 4](../media/photos/lte/LTE4.jpg)
+
+5. **Step 5 : Install LTE Antenna Connector** - Install the "Main" and "Auxiliary" Antenna side by side with LoRa Antenna.  
+
+![LTE STEP 5](../media/photos/lte/LTE5.jpg)
+
+6. **Step 5 : Install LTE Antenna Connector** - Install the provided LTE antenna previously connected antenna connectors. .  
+
+![LTE STEP 5](../media/photos/lte/LTE6.jpg )
+
+<hr>
+
+
+
+<!-- 
 ![LTE](../media/photos/lte/lte-1.jpg  ':size=350')
 ![LTE](../media/photos/lte/lte-2.jpg  ':size=350')
 ![LTE](../media/photos/lte/lte-3.jpg  ':size=350')
-![LTE](../media/photos/lte/lte-4.jpg  ':size=350')
+![LTE](../media/photos/lte/lte-4.jpg  ':size=350') -->
 
 ## Adding your APN details using the diagnostics page
 
