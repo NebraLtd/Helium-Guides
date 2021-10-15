@@ -90,7 +90,6 @@ For modems without an onboard SIM slot, you will obviously need to use the Micro
 <hr>
 
 
-
 <!-- 
 ![LTE](../media/photos/lte/lte-1.jpg  ':size=350')
 ![LTE](../media/photos/lte/lte-2.jpg  ':size=350')
