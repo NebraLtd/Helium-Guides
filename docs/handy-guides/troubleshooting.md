@@ -32,15 +32,18 @@ If you are having trouble with setting up your hotspot or you have got a query, 
 * [Green light not turning on](#green-light-not-turning-on)
 * [LoRa OK showing as False in diagnostics](#lora-ok-showing-as-false-in-diagnostics)
 * [Invalid Wire Type / Index out of range](#invalid-wire-type-or-index-out-of-range)
+* [Request Failed with status code 404 when setting location](#request-failed-with-status-code-404-when-setting-location)
 * [Hotspot going offline for no reason wihtout any error](#hotspot-going-offline-for-no-reason-wihtout-any-error)
 * [No onboarding key found or Hotspot not found on Onboarding Server](#no-onboarding-key-found-or-hotspot-not-found-on-onboarding-server)
-* [df3b16ca write fail](#df3b16ca-write-fail)
-* [Characteristic 398168aa Write Fail](#characteristic-398168aa-write-fail)
-* [Characteristics b833d34f Read fail](#characteristics-b833d34f-read-fail)
 * [Green light is rapidly blinking](#green-light-is-rapidly-blinking)
 * [Blue LED inside ON  all the time](#blue-led-inside-on-all-the-time)
 * [Blue LED blinking inside four times](#blue-led-blinking-inside-four-times)
 * [BT Pairing is not working](#bt-pairing-is-not-working)
+* [Hotspot not found on Onboarding Server](#hotspot-not-found-on-onboarding-server)
+* [Characteristic **df3b16ca** write fail](#df3b16ca-write-fail)
+* [Characteristic **398168aa** Write Fail](#characteristic-398168aa-write-fail)
+* [Characteristics **b833d34f** Read fail](#characteristics-b833d34f-read-fail)
+* [Characteristics **7731de63** Device not connected](#characteristics-7731de63-device-not-connected)
 * [Issue not listed here](#issue-not-listed-here)
 
 
@@ -79,6 +82,9 @@ We fixed this issue in firmware version 2021.05.26.2, hotspots from batch 2 onwa
 
 However, if you have an older hotspot to resolve this issue we recommend that you plug the hotspot into a wired ethernet connection for approximately 30 minutes and then re-try with wireless.
 
+### Request Failed with status code 404 when setting location
+
+To solve the error, please update helium mobile application. 
 
 ### Hotspot going offline for no reason wihtout any error. 
 
@@ -110,35 +116,22 @@ To solve this error we need to add the key manually, **Please contact customer s
 
 
 
-## Characteristic 398168aa Write Fail
-
-This issue is an intermittent one on iOS devices (iPhone / iPad), If you **close the app and re-open it and try again that should work** or please try to use another device anb see. If it's not solved please conact customer support. 
-
-## Characteristics b833d34f Read fail
-
-The error is pop-up when helium application failed to read diagnostics over bluetooth. **Re-open the application and bluetooth after few minutes will solve the issue**. Please try multiple times and if not solved, Please let us know. 
-
-## 7731de63 device not connected 
-
-It is a rare issue and it will be resolved by6 y unplugging the Wifi dongle. If you still getting the error please conact us. 
-
-## Green light is rapidly blinking
+### Green light is rapidly blinking
 
 Open the hotspot and make sure the compute module and LoRa concentrator are inserted fully. 
 
 If the issue, still persist. keep connect the devcie with internet and power, then please conact customer support and share the device details. 
 
-## Blue LED inside ON  all the time. 
+### Blue LED inside ON  all the time. 
 
 Device not able to boot, to solve the issue try to re-insert compute module and re-seat the daughter board.
 
-## Blue LED blinking inside four times
+### Blue LED blinking inside four times
 
 The device having trouble to access the network, try to re-insert the WiFi adapter, re-insert compute module and re-seat the daughter board will solve the error. 
 
 
-
-## BT Pairing is not working
+### BT Pairing is not working
 
 Make sure the helium application have the permission to use bluetooth in your phone. 
 
@@ -146,8 +139,27 @@ Open [local diagnostics page](../handy-guides/local-diagnostics.md) and see **Bl
 
 If you getting  any specfic error information on mobile app, please check the respective error related solution. 
 
+### Hotspot not found on Onboarding Server
 
-## Issue not listed here 
+To solve the we need to add your device in the onboarding server, for that please conact sales@nebra.com with **Model** of unint , **MAC address** and **Frequency** of the unit, And make sure to keep the device online till the issue solved.  
+
+
+
+### Characteristic 398168aa Write Fail
+
+This issue is an intermittent one on iOS devices (iPhone / iPad), If you **close the app and re-open it and try again that should work** or please try to use another device anb see. If it's not solved please conact customer support. 
+
+### Characteristics b833d34f Read fail
+
+The error is pop-up when helium application failed to read diagnostics over bluetooth. **Re-open the application and bluetooth after few minutes will solve the issue**. Please try multiple times and if not solved, Please let us know. 
+
+### Characteristics 7731de63 device not connected 
+
+It is a rare issue and it will be resolved by6 y unplugging the Wifi dongle. If you still getting the error please conact us. 
+
+
+
+### Issue not listed here 
 
 If you faccing issue/error not liste here, please contact our customer support team (sales@nebra.com) with device details mentioned below. 
 
