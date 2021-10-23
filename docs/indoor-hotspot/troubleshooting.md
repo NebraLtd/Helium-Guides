@@ -10,7 +10,7 @@ If you are having trouble with setting up your hotspot or you have got a query, 
 * [Updating Nebra Hotspot Firmware](#updating-nebra-hotspot-firmware)
 * [Hotspot is not showing in the Helium App](#hotspot-is-not-showing-in-the-helium-app)
 * [Hotspot is not detecting Wi-Fi networks](#hotspot-is-not-detecting-wi-fi-networks)
-* [Updating your Nebra Hotspot](#updating-your-Nebra-Hotspot)
+* [Updating Nebra Hotspot](#updating-nebra-hotspot-firmware)
 * [Application error while setting up](#application-error-while-setting-up)
 * [Syncing Issues](#syncing-issues)
 
