@@ -14,7 +14,7 @@ You can also purchase from our [growing list of distributors](distributors.md).
 
 As you can see from the [contributors section](#contributors) below and our [GitHub issues page](https://github.com/NebraLtd/Helium-Guides/issues), this documentation is generated from our extensive global community. We gladly welcome any issue reports, typo fixes, documentation improvements, or entire documentation translations!
 
-We have created a couple of informational pages to help you get started and to format your pull requests in the most helpful way:
+We have created a couple of informational pages to help you get started formatting your own pull requests, check those out here:
 * [Contributing Overview](contributing/overview.md)
 * [Translations](/contributing/translations.md)
 
