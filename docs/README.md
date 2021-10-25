@@ -1,6 +1,6 @@
 # Helium Hotspot Guides
 
-Documentation for how to get started with Nebra Hotspots.
+Documentation for how to get started with Nebra Hotspots for Helium and LongFi.
 
 Helium and LongFi Nebra units are available to purchase at the following links:
 - [Nebra Indoor HNT Hotspot Miner](https://nebra.io/hntin)
@@ -12,9 +12,7 @@ You can also purchase from our [growing list of distributors](distributors.md).
 
 ## Contributing
 
-View our Github issues page [here](https://github.com/NebraLtd/Helium-Guides/issues).
-
-This documentation is produced from our extensive global community. We gladly welcome any issue reports, typo fixes, documentation improvements, or documentation translations!
+As you can see from the [contributors section](#contributors) below and our [GitHub issues page](https://github.com/NebraLtd/Helium-Guides/issues), this documentation is generated from our extensive global community. We gladly welcome any issue reports, typo fixes, documentation improvements, or entire documentation translations!
 
 We have created a couple of informational pages to help you get started and to format your pull requests in the most helpful way:
 * [Contributing Overview](contributing/overview.md)
