@@ -1,6 +1,6 @@
 # Helium Hotspot Guides
 
-Documentation for how to get started with Nebra Hotspots for Helium and LongFi.
+Documentation for how to get started with Nebra Hotspots for **Helium** and **LongFi**.
 
 Helium and LongFi Nebra units are available to purchase at the following links:
 - [Nebra Indoor HNT Hotspot Miner](https://nebra.io/hntin)
