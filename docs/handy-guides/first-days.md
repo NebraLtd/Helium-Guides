@@ -8,6 +8,10 @@ Your hotspot, once powered up, checks for any pending updates. Bluetooth becomes
 
 Follow the [Quick Start Guide](https://helium.nebra.com/indoor-hotspot/quick-start) for getting your unit up and running correctly. It's important to never power the unit without an antenna.
 
+It is critical to understand all of these mechanisms will take time to establish. Until these first few days have passed, it is difficult to determine proper functionality and performance of your unit. Please be patient with this time period before contacting support, we often have many people that reach out with issues that get resolved the next day.
+
+**I am synchronised already, why don't I see any rewards?** Remember that multiple operations occur in a six hour cycle. This part will depend heavily on those hotspots around you, rather than your own hotspot. While factoring terrain and buildings that can affect these times, it will also depend heavily on the hotspot density around you. It is also worth remembering that mining rewards are only issued once per consensus cycle, these occur every 45-50 minutes. You can check this information on the [The Helium Explorer](https://explorer.helium.com/)
+
 ## The Basics
 
 The whole network works on a 360 block cycle. Each block is processed every 60 seconds and contains a number of transactions. Please note: Congestion can occur, and this may increase your sync time.
