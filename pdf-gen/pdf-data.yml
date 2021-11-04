@@ -10,11 +10,13 @@ header-includes:
 fontsize: 14pt
 mainfont: Ubuntu-Regular.ttf
 mainfontoptions:
+- Path=pdf-gen/
 - BoldFont=Ubuntu-Bold.ttf
 - ItalicFont=Ubuntu-Italic.ttf
 - BoldItalicFont=Ubuntu-BoldItalic.ttf
 monofont: UbuntuMono-Regular.ttf
 monofontoptions:
+- Path=pdf-gen/
 - BoldFont=UbuntuMono-Bold.ttf
 - ItalicFont=UbuntuMono-Italic.ttf
 - BoldItalicFont=UbuntuMono-BoldItalic.ttf
