@@ -3,7 +3,7 @@ name: Purge Cache for Helium Guides
 on:
   push:
     branches:
-     - master
+     - main
   schedule:
     - cron: "10 */6 * * *"
   workflow_dispatch:
