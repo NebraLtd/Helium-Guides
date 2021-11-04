@@ -1,0 +1,21 @@
+name: Generate PDFs
+
+on:
+  push:
+    branches:
+     - main
+  workflow_dispatch:
+
+ jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: docker://pandoc/latex:2.9
+        run: ./pdf-gen/gen-pdfs.sh
+          
+      - uses: actions/upload-artifact@master
+        with:
+          name: output
+          path: docs/media/
