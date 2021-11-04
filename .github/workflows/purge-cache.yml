@@ -1,0 +1,21 @@
+name: Purge Cache for Helium Guides
+
+on:
+  push:
+    branches:
+     - master
+  schedule:
+    - cron: "10 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: Purge Cloudflare Cache for URL helium.nebra.com
+        run: |
+          curl -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CLOUDFLARE_ZONE_ID }}/purge_cache" \
+          -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_CACHE_PURGE_KEY }}" \
+          -H "Content-Type: application/json" \
+          --data '{"hosts":["helium.nebra.com"]}'
