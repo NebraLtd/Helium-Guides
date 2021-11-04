@@ -15,7 +15,7 @@ jobs:
       
       - uses: docker://pandoc/latex:2.9
         with:
-          args: pdf-gen/pdf-data.yml docs/indoor-hotspot/overview.md -o docs/pdfs/indoor-overview.pdf --pdf-engine=xelatex --resource-path docs/media/
+          args: "docs/indoor-hotspot/overview.md -o docs/pdfs/indoor-overview.pdf --pdf-engine=xelatex --resource-path docs/media/"
           
       - uses: actions/upload-artifact@master
         with:
