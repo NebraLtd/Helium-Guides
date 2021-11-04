@@ -12,9 +12,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-
+      
       - uses: docker://pandoc/latex:2.9
-        run: ./pdf-gen/gen-pdfs.sh
+        with:
+          args: /pdf-gen/pdf-data.yml  /docs/indoor-hotspot/overview.md -o /docs/pdfs/indoor-overview.pdf --pdf-engine=xelatex --resource-path /docs/media/
           
       - uses: actions/upload-artifact@master
         with:
