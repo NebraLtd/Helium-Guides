@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v2
       
       - name: Install fonts
-        run: apt-get install ttf-ubuntu-font-family
+        run: sudo apt-get install ttf-ubuntu-font-family
       
       - name: Pandoc generate PDFs 
         uses: docker://pandoc/latex:2.9
