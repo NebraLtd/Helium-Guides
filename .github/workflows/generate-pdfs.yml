@@ -15,7 +15,7 @@ jobs:
       
       - uses: docker://pandoc/latex:2.9
         with:
-          entrypoint: ${{ github.action_path }}/pdf-gen/gen-pdfs.sh
+          entrypoint: pdf-gen/gen-pdfs.sh
 
       - uses: actions/upload-artifact@master
         with:
