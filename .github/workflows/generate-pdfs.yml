@@ -11,13 +11,19 @@ jobs:
     runs-on: ubuntu-20.04
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
       
-      - uses: docker://pandoc/latex:2.9
+      - name: Install fonts
+        run: apt-get install ttf-ubuntu-font-family
+      
+      - name: Pandoc generate PDFs 
+        uses: docker://pandoc/latex:2.9
         with:
           entrypoint: pdf-gen/gen-pdfs.sh
 
-      - uses: actions/upload-artifact@master
+      - name: Upload artifacts
+        uses: actions/upload-artifact@master
         with:
           name: output
           path: docs/pdfs/
