@@ -30,7 +30,7 @@ jobs:
         uses: actions/upload-artifact@master
         with:
           name: pdf-artifacts
-          path: docs/pdfs/
+          path: docs/pdfs/*.pdf
 
       - name: Update PDFs on repo
         uses: test-room-7/action-update-file@v1
