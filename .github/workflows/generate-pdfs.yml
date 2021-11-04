@@ -1,9 +1,8 @@
 name: Generate PDFs
 
 on:
-  push:
-    branches:
-     - main
+  schedule:
+    - cron:  "15 0 * * *" # Run daily at 00.15
   workflow_dispatch:
 
 jobs:
@@ -17,7 +16,7 @@ jobs:
       - name: Install fonts
         run: sudo apt-get install ttf-ubuntu-font-family
       
-      - name: Pandoc generate PDFs 
+      - name: Generate PDFs 
         uses: docker://pandoc/latex:2.9
         with:
           entrypoint: pdf-gen/gen-pdfs.sh
@@ -25,5 +24,13 @@ jobs:
       - name: Upload artifacts
         uses: actions/upload-artifact@master
         with:
-          name: output
+          name: pdf-artifacts
           path: docs/pdfs/
+
+      - name: Update PDFs on repo
+        uses: test-room-7/action-update-file@v1
+        with:
+          file-path: docs/pdfs/*.pdf
+          commit-msg: Update PDFs
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
