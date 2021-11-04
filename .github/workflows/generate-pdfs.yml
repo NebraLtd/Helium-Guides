@@ -1,9 +1,8 @@
 name: Generate PDFs
 
 on:
-  push:
-    branches:
-     - main
+  schedule:
+    - cron:  "15 0 * * *" # Run daily at 00.15
   workflow_dispatch:
 
 jobs:
@@ -11,13 +10,33 @@ jobs:
     runs-on: ubuntu-20.04
 
     steps:
-      - uses: actions/checkout@v2
-      
-      - uses: docker://pandoc/latex:2.9
-        with:
-          args: ${{ github.action_path }}/pdf-gen/gen-pdfs.sh
+      - name: Checkout
+        uses: actions/checkout@v2
+        with: 
+          ref: ${{ github.ref }}
 
-      - uses: actions/upload-artifact@master
+      - name: Get current branch
+        run: |
+          # Get the current branch and output as environment variable
+          GITHUB_BRANCH=$( echo "${{ github.ref }}" | sed 's/refs\/heads\///g' )
+          echo "GITHUB_BRANCH=$GITHUB_BRANCH" >> $GITHUB_ENV
+
+      - name: Generate PDFs 
+        uses: docker://pandoc/latex:2.9
         with:
-          name: output
-          path: docs/pdfs/
+          entrypoint: pdf-gen/gen-pdfs.sh
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@master
+        with:
+          name: pdf-artifacts
+          path: docs/pdfs/*.pdf
+
+      - name: Update PDFs on repo
+        uses: test-room-7/action-update-file@v1
+        with:
+          branch: ${{ env.GITHUB_BRANCH }}
+          file-path: docs/pdfs/*.pdf
+          commit-msg: Update PDFs
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
