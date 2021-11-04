@@ -15,9 +15,9 @@ jobs:
       
       - uses: docker://pandoc/latex:2.9
         with:
-          args: "docs/indoor-hotspot/overview.md -o docs/pdfs/indoor-overview.pdf --pdf-engine=xelatex --resource-path docs/media/"
+          args: "Helium-Guides/docs/indoor-hotspot/overview.md -o Helium-Guides/docs/pdfs/indoor-overview.pdf --pdf-engine=xelatex --resource-path Helium-Guides/docs/media/"
           
       - uses: actions/upload-artifact@master
         with:
           name: output
-          path: docs/pdfs/
+          path: Helium-Guides/docs/pdfs/
