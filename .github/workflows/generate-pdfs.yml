@@ -12,10 +12,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      
-      - name: Install fonts
-        run: sudo apt-get install ttf-ubuntu-font-family
-      
+
       - name: Generate PDFs 
         uses: docker://pandoc/latex:2.9
         with:
