@@ -55,8 +55,8 @@ A stronger antenna doesn't necessarily mean better coverage, or better earnings.
 
 
 * Higher dBI: Great performance on flat terrain and low hotspot density.
-* Lower dBI: Great performance on uneven terrains, or areas with a high hotspot density.
-* Middle dBI: Perfect for those eniorments that fall in between the other enviorments described above.
+* Lower dBI: Great performance on uneven terrain, or areas with a high hotspot density.
+* Middle dBI: Perfect for those environments that fall in between the other environments described above.
 
 ![Antenna Gain on Different Terrain](../media/photos/antenna/antenna-gain-location.png)
 
@@ -65,7 +65,7 @@ You can read more about antenna [here](../handy-guides/antenna/overview.md)
 
 ## Antenna cables 
 
-Antenna cable can also effect your signal, and consequently, your rewards. 
+Antenna cable can also affect your signal, and consequently, your rewards. 
 
 All cables provide some signal loss, it\'s important to be able to calculate and account for these variables. 
 
