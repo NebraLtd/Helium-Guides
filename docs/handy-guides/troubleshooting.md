@@ -56,7 +56,7 @@ Possible causes of this could be:
 
 * The Bluetooth Adaptor has become loose in transit - [Check diagnostics page](../handy-guides/local-diagnostics.md) to confirm.
 * The Daughterboard has become loose in transit, **open case and check board is correctly seated.**
-* The Daughterboard is in programming mode disabling USB, check JP3 & JP4 . **Please make sure JP3 jumper not connected  and JP4 jumper in 1-2 mode**.  
+* The Daughterboard is in programming mode disabling USB, check JP3 & JP4 . **Please make sure JP3 jumper not connected and JP4 jumper in 1-2 mode**.  
 * The USB circuitry has an issue, **connect a wired ethernet cable to help confirm. If no lights on ethernet turn on and rest has been check this could be the cause.**
 
 
@@ -104,10 +104,10 @@ To solve this error we need to add the key manually, **Please contact customer s
 
 
 ### Characteristic df3b16ca write fail 
- If you seeing this error while setting up the device, please conact the customer support with hotspot details and make sure to keep the hotspot with internet and power. 
+ If you seeing this error while setting up the device, please contact the customer support with hotspot details and make sure to keep the hotspot with internet and power. 
  
 * Model of unit (Indoor or Outdoor)
-* Mac address of the unit (Shown as ETH on sticker)
+* MAC address of the unit (Shown as ETH on sticker)
 * Frequency of the unit (Shown as Freq on sticker)
 * What country are you using the miner in?
 * How are you connecting it to the internet? (Ethernet, Wi-Fi, Cellular)
@@ -119,7 +119,7 @@ To solve this error we need to add the key manually, **Please contact customer s
 
 Open the hotspot and make sure the compute module and LoRa concentrator are inserted fully. 
 
-If the issue, still persist. keep connect the devcie with internet and power, then please conact customer support and share the device details. 
+If the issue still persists, keep the device connected with internet and power, then please contact customer support and share the device details. 
 
 ### Blue LED inside ON  all the time. 
 
@@ -140,13 +140,13 @@ If you getting  any specfic error information on mobile app, please check the re
 
 ### Hotspot not found on Onboarding Server
 
-To solve the we need to add your device in the onboarding server, for that please conact sales@nebra.com with **Model** of unint , **MAC address** and **Frequency** of the unit, And make sure to keep the device online till the issue solved.  
+To solve the we need to add your device in the onboarding server, for that please contact sales@nebra.com with **Model** of unint , **MAC address** and **Frequency** of the unit, And make sure to keep the device online till the issue solved.  
 
 
 
 ### Characteristic 398168aa Write Fail
 
-This issue is an intermittent one on iOS devices (iPhone / iPad), If you **close the app and re-open it and try again that should work** or please try to use another device anb see. If it's not solved please conact customer support. 
+This issue is an intermittent one on iOS devices (iPhone / iPad), If you **close the app and re-open it and try again that should work** or please try to use another device anb see. If it's not solved please contact customer support. 
 
 ### Characteristics b833d34f Read fail
 
@@ -154,20 +154,20 @@ The error is pop-up when helium application failed to read diagnostics over blue
 
 ### Characteristics 7731de63 device not connected 
 
-It is a rare issue and it will be resolved by6 y unplugging the Wifi dongle. If you still getting the error please conact us. 
+It is a rare issue and it will be resolved by unplugging the Wifi dongle. If you still getting the error please contact us. 
 
 
 
 ### Issue not listed here 
 
-If you faccing issue/error not liste here, please contact our customer support team (sales@nebra.com) with device details mentioned below. 
+If you facing an issue/error that is not listed here, please contact our customer support team (sales@nebra.com) with the device details mentioned below. 
 
 * Model of unit (Indoor or Outdoor)
-* Mac address of the unit (Shown as ETH on sticker)
+* MAC address of the unit (Shown as ETH on sticker)
 * Frequency of the unit (Shown as Freq on sticker)
 * What country are you using the miner in?
 * How are you connecting it to the internet? (Ethernet, Wi-Fi, Cellular)
-* How are you powering the unit? (Included adaptor, POE, Third-party adaptor)
+* How are you powering the unit? (Included adaptor, POE, Third-party adapter)
 
 
 
