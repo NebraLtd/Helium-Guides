@@ -16,13 +16,13 @@
 ## Can I use a different antenna with the Outdoor Hotspot?
 
 
-Yes you can. Please check the [antenna connections](../handy-guides/antenna/connections.md) guide for more information on the necessary adpaters, connection types and setup.
+Yes you can. Please check the [antenna connections](../handy-guides/antenna/connections.md) guide for more information on the necessary adapters, connection types and setup.
 
 
 ## Can I add 4G connectivity to the Outdoor Hotspot?
 
 
-You can add an optional 4G module to the outdoor hotspot, this is a module that is simple to install when you receive your hotspot. We have an [LTE Config page](outdoor-hotspot/lte-config.md) which guides you through the setup process for this module.
+You can add an optional 4G module to the outdoor hotspot, this is a module that is simple to install when you receive your hotspot. We have an [LTE Config page](outdoor-hotspot/lte-config.md) that guides you through the setup process for this module.
 
 
 ## Do I have to add 4G Connectivity and Does 4G increase earnings?
@@ -37,7 +37,7 @@ A 4G connection does not increase your HNT earnings.
 ## Does the 4G Module require a SIM card?
 
 
-Yes you will need to sign up to a data plan with a mobile network. You can find more details about seeing up 4G with the outdoor gateway on the [LTE Config page](../outdoor-hotspot/lte-config.md).
+Yes, you will need to sign up for a data plan with a mobile network. You can find more details about seeing up 4G with the outdoor gateway on the [LTE Config page](../outdoor-hotspot/lte-config.md).
 
 We recommend this as it is typically cheaper to sign up to a local plan than the worldwide sims we could ship with it.
   
@@ -48,7 +48,7 @@ Often, cheaper SIM plans do not have a dedicated IP address and use something ca
 ## How much internet data per month does the Hotspot use?
 
 
-Currently we are roughly estimating 30-50GB per month so recommend a 50GB plan when using 4G.
+Currently, we are roughly estimating 30-50GB per month so recommend a 50GB plan when using 4G.
 
 The actual usage may be slightly less or more and will be something we up-date over time as we start measuring more units.
   
@@ -60,7 +60,7 @@ Once all hotspots become "light hotspots" this data usage will reduce.
 
 
 
-For the outdoor hotspot we are including a 3dBi glass fiber antenna. This antenna, and upgraded ones, can be [purchased separately from our website](https://www.nebra.com/collections/antennas).
+For the outdoor hotspot, we are including a 3dBi glass fiber antenna. This antenna, and upgraded ones, can be [purchased separately from our website](https://www.nebra.com/collections/antennas).
 
 
 ## Does the Wi-Fi module have an external antenna?
@@ -94,7 +94,7 @@ If the issue relates to initial setup of the hotspot, please also include:
 * What version of the Helium App are you using?
 * Do you have any screenshots of any error codes? 
 
-Alternatively, you you can get in touch using any of the methods listed on our [support page](../support.md) and we'll work on resolving your issue.
+Alternatively, you can get in touch using any of the methods listed on our [support page](../support.md) and we'll work on resolving your issue.
   
 
 
