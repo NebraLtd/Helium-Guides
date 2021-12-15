@@ -33,7 +33,7 @@ To help you decide we've created this handy guide.
 
 | Feature | Nebra Indoor Hotspot | Nebra Outdoor Hotspot |
 | --- | ---  | --- |
-| **Price** | £350 ex VAT | £450 ex VAT |
+| **Price** | £550 ex VAT | £650 ex VAT |
 | **Case** | Plastic (ABS) | Aluminium |
 | **Ingress Protection** | IP40 | IP67 |
 | **Ethernet** | <span class="material-icons">check_circle</span> | <span class="material-icons">check_circle</span>  |
