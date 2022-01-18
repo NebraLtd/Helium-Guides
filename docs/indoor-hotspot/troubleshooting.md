@@ -23,7 +23,7 @@ If you are having trouble with setting up your hotspot or you have got a query, 
 ### How to access the diagnostics
 
 
-On the Nebra Helium Hotspots we have two local diagnostics tools that can help you to find any issues with your miners.
+On the Nebra Helium Hotspots, we have two local diagnostics tools that can help you to find any issues with your miners.
   
 Please take a look at the dedicated [local diagnostics page](../handy-guides/local-diagnostics.md) for more information.
 
@@ -35,12 +35,16 @@ Please take a look at the dedicated [local diagnostics page](../handy-guides/loc
 You should see the lower light (Amber light) on the back of the unit turn on as soon as power is applied.
 If this is the case, ensure the power supply is firmly plugged into the wall outlet, the power jack is plugged into the unit and that the wall outlet is switched on.
 
+<<<<<<< HEAD
 To Do ✅
 
 * Power adapater is connected correctly 
 * Try a different power adaptor if available (12V 1.5A Power Adapter)
 
 Upon power up the lower LED (yellow) should light up instantly. Approximately after a minute the top LED (green) should then start blinking.
+=======
+Upon powering up, the lower LED (yellow) should light up instantly. Approximately after a minute the top LED (green) should then start blinking.
+>>>>>>> dbdee983324f37a3b629a4236f6bfead94e9a34c
 
 
 ### Green activity light is off 
@@ -56,8 +60,8 @@ To Do✅
 
 ### The Green LED is blinking rapidly with few seconds intervall 
 
-The upper light on the back fo the unit blinks rapidly with few seconds intervall. This is expected behaviour. 
-If this is the case, use your web browser to access diagnostic page of the hotspot. If the diagnostic page does not show any error everything is fine. 
+The upper light on the back of the unit blinks rapidly with a few seconds interval. This is expected behaviour. 
+If this is the case, use your web browser to access the diagnostic page of the hotspot. If the diagnostic page does not show any error, everything is fine. 
 
 
 ### Hotspot is not showing in the Helium App
@@ -89,7 +93,7 @@ To Do ✅
 
 ### Updating Nebra Hotspot Firmware
 
-If after completing the initial troubleshooting steps above, you are still having issues, you may find your issues can be resolved by ensuring it is running the latest up to date software.
+If after completing the initial troubleshooting steps above, you are still having issues, you may find your issues can be resolved by ensuring it is running the latest up-to-date software.
 
 Nebra Hotspots automatically update once connected to the internet, if you are using an Ethernet connection leaving the hotspot for around half an hour should ensure all updates are downloaded.
 
@@ -104,7 +108,7 @@ If you get an error like this while setting up your miner:
 
 ![Bluetooth Error](../media/photos/troubleshooting/bluetooth_error.jpg)
 
-Please close your Helium app completely and turn off the bluetooth on your device. Then turn on bluetooth agin, open the app and try again. 
+Please close your Helium app completely and turn off the bluetooth on your device. Then turn on bluetooth again, open the app and try again. 
 
 If you get a different error then please let us know!
 

@@ -40,7 +40,7 @@ The Indoor hotspot has 4 internal lights.
 
 * **3.3v and 5v Power Indicator** : These are two RED LEDs that indicate the 3.3v and 5v power supply status. 
 
-*  **Duagther Board Status Indicator**: This green LED indicates power is present for the daughterboard.
+*  **Daughter Board Status Indicator**: This green LED indicates power is present for the daughterboard.
 
 ## Nebra Outdoor Hotspot
 

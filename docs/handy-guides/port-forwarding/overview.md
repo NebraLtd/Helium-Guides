@@ -8,6 +8,7 @@
     * [Virgin Media Superhub 3.0](handy-guides/port-forwarding/vm-superhub-v3.md)
     * [Sky Hub SR102](handy-guides/port-forwarding/sky-hub-sr102.md)
     * [Google WiFi](handy-guides/port-forwarding/google-wifi.md)
+    * [UniFi](handy-guides/port-forwarding/unifi.md)
 * [Port forwarding with 4G / LTE connection](#port-forwarding-with-4G-/-LTE-connection)
 * [Contributing](#Contributing)
 
