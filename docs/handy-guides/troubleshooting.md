@@ -32,7 +32,7 @@ If you are having trouble with setting up your hotspot or you have got a query, 
 * [LoRa OK showing as False in diagnostics](#lora-ok-showing-as-false-in-diagnostics)
 * [Invalid Wire Type / Index out of range](#invalid-wire-type-or-index-out-of-range)
 * [Request Failed with status code 404 when setting location](#request-failed-with-status-code-404-when-setting-location)
-* [Hotspot going offline for no reason wihtout any error](#hotspot-going-offline-for-no-reason-wihtout-any-error)
+* [Hotspot going offline for no reason without any error](#hotspot-going-offline-for-no-reason-without-any-error)
 * [No onboarding key found or Hotspot not found on Onboarding Server](#no-onboarding-key-found-or-hotspot-not-found-on-onboarding-server)
 * [Green light is rapidly blinking](#green-light-is-rapidly-blinking)
 * [Blue LED inside ON  all the time](#blue-led-inside-on-all-the-time)
@@ -57,7 +57,7 @@ Possible causes of this could be:
 * The Bluetooth Adaptor has become loose in transit - [Check diagnostics page](../handy-guides/local-diagnostics.md) to confirm.
 * The Daughterboard has become loose in transit, **open case and check board is correctly seated.**
 * The Daughterboard is in programming mode disabling USB, check JP3 & JP4 . **Please make sure JP3 jumper not connected and JP4 jumper in 1-2 mode**.  
-* The USB circuitry has an issue, **connect a wired ethernet cable to help confirm. If no lights on ethernet turn on and rest has been check this could be the cause.**
+* The USB circuitry has an issue, **connect a wired ethernet cable to help confirm. If no lights on ethernet turn on and rest has been checked this could be the cause.**
 
 
 ### LoRa OK showing as False in diagnostics
@@ -75,17 +75,17 @@ Two possible fixes for this are:
 
 ### Invalid Wire Type or Index out of range
 
-Typically, only occuring on iPhones & iPads this issue relates to there being too many wi-fi networks being detected by the hotspot.
+Typically, only occurring on iPhones & iPads this issue relates to there being too many wi-fi networks being detected by the hotspot.
 
-We fixed this issue in firmware version 2021.05.26.2, hotspots from batch 2 onwards should have a fixed already applied.
+We fixed this issue in firmware version 2021.05.26.2, hotspots from batch 2 onwards should have a fix already applied.
 
-However, if you have an older hotspot to resolve this issue we recommend that you plug the hotspot into a wired ethernet connection for approximately 30 minutes and then re-try with wireless.
+However, if you have an older hotspot to resolve this issue we recommend that you plug the hotspot into a wired ethernet connection for approximately 30 minutes and then retry with wireless.
 
 ### Request Failed with status code 404 when setting location
 
 To solve the error, please update helium mobile application. 
 
-### Hotspot going offline for no reason wihtout any error. 
+### Hotspot going offline for no reason without any error. 
 
 Check power adpater and make sure it's firmely connected and check compute module is inserted fully. 
 
