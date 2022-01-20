@@ -62,15 +62,15 @@ Possible causes of this could be:
 
 ### LoRa OK showing as False in diagnostics
 
-This error is displayed if the system fails to start the software for the Miner 5 times in a row.
+If you see LoRa concentrator status is **false** in the [local diagnostics page](../handy-guides/local-diagnostics.md)
 
-Two possible fixes for this are:
-* Ensure the antenna connector is connected to the LoRa module.
-* Open up the hotspot and remove then re-insert the LoRa module.
+To Do ✅
 
-##### LoRa Module Re-Seating 
-
+* Reseat LoRa concentrator 
 <iframe src="https://drive.google.com/file/d/1ejIEVme4L40zjC71diR7DO2BkYz_ZoIQ/preview" width="340" height="380"></iframe>
+
+* Make sure to **asserted the location** for your hotspot. Otherwise it will be display as false. 
+
 
 
 ### Invalid Wire Type or Index out of range
