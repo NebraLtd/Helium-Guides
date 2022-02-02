@@ -4,6 +4,7 @@ Here's a list of APNs we have collected for configuring your 4G / LTE modem. Thi
 
 * [Australia](#australia)
 * [Canada](#canada)
+* [Chile](#chile)
 * [France](#france)
 * [Italy](#italy)
 * [Spain](#spain)
@@ -30,6 +31,12 @@ If you find working APN settings for a network that is not listed here we would 
 | Network Name | APN | Number | Username | Password | Confirmed Working | Notes |
 | --- | ---  | ---  | ---  | ---  | ---  | --- |
 |  |  |  |  |  |  |  |
+
+# Chile
+
+| Network Name | APN | Number | Username | Password | Confirmed Working | Notes |
+| --- | ---  | ---  | ---  | ---  | ---  | --- |
+| Entel | bam.entelpcs.cl | *99# |  |  | Yes | See [#312](https://github.com/NebraLtd/Helium-Guides/issues/312) |
 
 # France
 
