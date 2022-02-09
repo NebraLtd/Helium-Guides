@@ -35,16 +35,12 @@ Please take a look at the dedicated [local diagnostics page](../handy-guides/loc
 You should see the lower light (Amber light) on the back of the unit turn on as soon as power is applied.
 If this is the case, ensure the power supply is firmly plugged into the wall outlet, the power jack is plugged into the unit and that the wall outlet is switched on.
 
-<<<<<<< HEAD
 To Do ✅
 
 * Power adapater is connected correctly 
 * Try a different power adaptor if available (12V 1.5A Power Adapter)
 
 Upon power up the lower LED (yellow) should light up instantly. Approximately after a minute the top LED (green) should then start blinking.
-=======
-Upon powering up, the lower LED (yellow) should light up instantly. Approximately after a minute the top LED (green) should then start blinking.
->>>>>>> dbdee983324f37a3b629a4236f6bfead94e9a34c
 
 
 ### Green activity light is off 
