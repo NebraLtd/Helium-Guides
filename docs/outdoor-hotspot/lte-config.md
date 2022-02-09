@@ -6,7 +6,8 @@
 * [Onboard or offboard SIM card?](#onboard-or-offboard-sim-card)
 * [Installing the 4G Module and Sim Card](#installing-the-4g-module-and-sim-card)
 * [Adding your APN details using the diagnostics page](#adding-your-apn-details-using-the-diagnostics-page)
-* [Manually adding the APN details](#manually-adding-the-apn-details)
+    * [Device with inbuilt eMMC](#manually-adding-the-apn-details-with-device-inbuilt-emmc)
+    * [Device with external eMMC](#manually-adding-the-apn-details-with-external-external-emmc)
 
 
 ## 4G Module Installation Overview
@@ -100,7 +101,7 @@ For modems without an onboard SIM slot, you will obviously need to use the Micro
 
 In the future, you will be able to do the initial configuration of the APN settings for your modem from the local diagnostics page on our miners whilst they are connected over WiFi or Ethernet. However we have not yet implemented this feature. So for the time being you will need to use the manual setup below.
 
-## Manually adding the APN details
+### Manually adding the APN details with device inbuilt eMMC
 
 In order to manually add your APN connection details you will need to plug your Nebra Outdoor Hotspot into another computer with a text editor. Any Windows, macOS or Linux machine with USB connectivity should be fine.
 
@@ -167,3 +168,82 @@ JP3 - covering just one of the two pins (it doesn't matter which one)
 JP4 - accross pins 1 and 2
 
 You can now boot up your hotspot as normal and it should get a cellular connection. We would highly recommend verifying you have a good connection before sealing the case so you do not have to continually keep having to open and close the case.
+
+#
+
+### Manually adding the APN details with external external eMMC
+
+The LTE configuration on devices with eMMC modules is different from the process on units with
+onboard memory. The first step is to identify if the outdoor unit has an eMMC memory module or if it
+is using onboard memory.
+
+If the outdoor unit has the component marked with the red arrow, this is the correct guide for you. For
+other units with the onboard memory the guide can be found here: [Device with inbuilt eMMC](#manually-adding-the-apn-details-with-device-inbuilt-emmc)
+
+![Devie with external eMMC](../media/photos/lte/deviceWithemmc.png) 
+
+
+#### Step 1: Remove the eMMC memory module
+
+The first step is to remove the eMMC memory module from the outdoor hotspot. Make sure that the
+hotspot is powered off. It should be removable without any force.
+
+
+#### Step 2: Insert the eMMC module in an SD-card reader
+The next step is to insert the eMMC module in an SD-card reader. Some SD-card readers might not
+support reading eMMC memory. E.g., the Transcend TS-RDF5K is supporting these cards.
+
+#### Step 3: Windows/ Linux compatibility
+Linux and Mac should support reading the eMMC memory by default. On Windows systems you might
+need to install RPIBoot and reboot the computer. RPI boot can be downloaded from the following link
+https://github.com/raspberrypi/usbboot/raw/master/win32/rpiboot_setup.exe
+The stand-alone installer is the recommended option. This installer has been tested on Windows 10
+32-bit and 64-bit, and Windows XP 32-bit.
+
+
+#### Step 4: Accessing the file system
+A new hard drive should appear in the explorer. It should be called resin-boot. 
+![Devie with external eMMC](../media/photos/lte/lte7.jpg)
+
+Open the resin-boot folder and navigate to the system-connections folder.
+
+![Devie with external eMMC](../media/photos/lte/lte8.jpg) 
+
+#### Step 5: Creating the cellular file
+
+We recommend using Notepad++ to create the cellular file. It is very important that the file is saved without any file extension – just called **cellular** Create a new document in Notepad++ and paste in the following configuration:
+
+```
+[connection]
+id=cellular
+type=gsm
+autoconnect=true
+[gsm]
+apn=giffgaff.com
+number=*99#
+password=password
+username=giffgaff
+[serial]
+baud=115200
+[ipv4]
+method=auto
+[ipv6]
+addr-gen-mode=stable-privacy
+method=auto
+```
+
+Please note, the APN settings need to be adjusted based on the mobile provider used.
+
+Name the file **cellular** and on “Save as type” select “All types”. This way no file extension is attached to the name.
+
+![Devie with external eMMC](../media/photos/lte/lte9.jpg) 
+
+You can now eject the storage from your computer and plug it back into the outdoor hotspot. 
+
+
+
+
+
+
+
+
