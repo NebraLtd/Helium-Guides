@@ -8,7 +8,7 @@ Helium and LongFi Nebra units are available to purchase at the following links:
 
 You can also purchase from our [growing list of distributors](distributors.md).
 
-> Not sure what region you require for your Helium Hotspot? Use [What Helium Region](https://whatheliumregion.xyz/) to find out! 
+> Not sure what region you require for your Helium Hotspot? Use [Nebra Region Tool](https://region.nebra.com/) to find out! 
 
 ## Contributing
 
