@@ -20,6 +20,13 @@
   - [Outdoor Hotspot LTE APN List](outdoor-hotspot/lte-apns.md)
   - [Outdoor Hotspot FAQs](outdoor-hotspot/outdoor-faq.md)
 
+- RockPi Indoor Helium Hotspot 
+  - [RockPi Indoor Hotspot Overview](Indoor-rockpi-hotspot/overview.md)
+  - [RockPi Indoor Hotspot Quick Start](Indoor-rockpi-hotspot/quick-start.md)
+  - [RockPi Indoor Hotspot Troubleshooting](Indoor-rockpi-hotspott/troubleshooting.md)
+  - [RockPi Indoor Hotspot FAQs](Indoor-rockpi-hotspot/indoor-faq.md)
+
+
 - General Information
 
   - [Frequently Asked Questions](FAQs.md)
