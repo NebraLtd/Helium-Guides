@@ -24,6 +24,8 @@
 
   - [Frequently Asked Questions](FAQs.md)
   - [Troubleshooting Guide](handy-guides/troubleshooting.md)
+  - [Advanced Diagnostics Info](handy-guides/advanced-diagnostics.md)
+  - [Local Diagnostics](handy-guides/local-diagnostics.md)
   - [Security Overview](security.md)
   - [Distributors](distributors.md)
   - [Datasheets](datasheets.md)
@@ -37,8 +39,6 @@
   - [Surge Protectors](handy-guides/surge-protectors.md)
   - [Antenna](handy-guides/antenna/overview.md)
   - [Ideal Hotspot Placement](handy-guides/hotspot-ideal-location.md)
-  - [Local Diagnostics](handy-guides/local-diagnostics.md)
-  - [Advanced Diagnostics Info](handy-guides/advanced-diagnostics.md)
   - [First Few Days](handy-guides/first-days.md)
   - [Nebra Dashboard](handy-guides/dashboard.md)
   - [PDF Documents](pdfs/overview.md)
