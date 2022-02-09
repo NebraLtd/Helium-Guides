@@ -8,6 +8,8 @@ Helium and LongFi Nebra units are available to purchase at the following links:
 * [Nebra Indoor HNT Hotspot Miner (ROCK Pi Version)](https://www.nebra.com/products/nebra-hnt-indoor-hotspot-miner-rock-pi-version)
 * [Nebra Outdoor HNT Hotspot Miner](https://nebra.io/hntout)
 * [Nebra HNT 5G Ready Hotspot Miner](https://www.nebra.com/products/nebra-hnt-5g-ready-hotspot-miner)
+
+
 You can also purchase from our [growing list of distributors](distributors.md).
 
 > Not sure what region you require for your Helium Hotspot? Use [Nebra Region Tool](https://region.nebra.com/) to find out! 
