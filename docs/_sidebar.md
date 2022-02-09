@@ -41,6 +41,9 @@
   - [Advanced Diagnostics Info](handy-guides/advanced-diagnostics.md)
   - [First Few Days](handy-guides/first-days.md)
   - [Nebra Dashboard](handy-guides/dashboard.md)
+  - [PDF Documents](../docs/pdfs/overview.md)
+
+  docs\pdfs\overview.md
 
 - Contributions and Support
 
