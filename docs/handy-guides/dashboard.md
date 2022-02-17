@@ -5,6 +5,8 @@
 * [Rewards Section](#rewards-section)
 * [Helium Status](#helium-status)
 * [Device Details](#device-details) 
+* [Transfer Device To Another Dashboard](#transfer-device-to-another-dashboard)
+* [Remove Device From Current Dashboard](#remove-device-from-current-dashboard)
 
 
 <hr>
@@ -42,7 +44,15 @@ To add a device by scanning its QR code, click Start scan. You will be requested
 
 ![Nebra Dashboard](../media/photos/nebraDashboard/4.jpg)
 
-To add a device by manual input, enter the device RPI/RSER and ETH.   
+To add a device by manual input, enter the device RPI/RSER and ETH.  
+
+
+![Indoor Hotspot Base](../media/photos/indoor/Unit_Informations.png ':size=800')
+
+You can can find ETH and RPi/RSER in the device QR Sticker. 
+
+* **ETH**: Ethernet MAC address
+* **RPi/RSER**: Raspberry Pi Serial Number
 
 ### Step 3: Done: Device Regsiatrtion Completed
 
@@ -73,10 +83,46 @@ The Helium Status tab shows you how many of your hotspots are in sync, syncing, 
 
 The device details will show you the connection status, individual rewards, CPU usage, CPU temperature, memory usage, and storage usage. You can also issue a number of actions to your hotspot like reboot, restart and shutdown.
 
+# 
+
+## Transfer Device To Another Dashboard
+
+You can transfer device from one dashboard to another dashboard very easily. 
+
+Go to Device List -> https://dashboard.nebra.com/devices/ and select **Transfer** in device property. 
+
+![Nebra Dashboard](../media/photos/nebraDashboard/deviceTransfer.png)
+
+Next, you will get a warning message
+> Warning! ⚠ **You are about to transfer your device to another user**
+
+Input the email address you would like to transfer your device to.
+
+If the recipient has a Nebra Dashboard account, the device will be transferred immediately.
+
+If the recipient does not have an account, we will send them an invitation link.
+
+![Nebra Dashboard](../media/photos/nebraDashboard/deviceTransfer2.png)
+
+After confirming the warning message, please enter the recipient email account associted with nebra dashboard. 
+
+![Nebra Dashboard](../media/photos/nebraDashboard/deviceTransfer3.png)
+
+Transfer Done. 
+
+## Remove Device From Current Dashboard
+
+You can remove the device from your dashboard For that, Go to Device List -> https://dashboard.nebra.com/devices/ and select **Remove** in device property. 
+
+Go to Device List -> https://dashboard.nebra.com/devices/ 
+
+![Nebra Dashboard](../media/photos/nebraDashboard/deviceRemove.png)
 
 
+Please note, Once the device is unlinked, it will be open for anyone to add the device to their own dashboard. Only do this if you plan on transferring the device to another account.
 
+Continue by clicking **Remove** 
 
+![Nebra Dashboard](../media/photos/nebraDashboard/deviceRemove2.png)
 
-
-
+#
