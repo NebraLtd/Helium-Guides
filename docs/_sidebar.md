@@ -40,18 +40,16 @@
 - Handy Guides
 
   - [Overview](handy-guides/overview.md)
-  - [Port Forwarding](handy-guides/port-forwarding/overview.md)
-  - [Setting Up the Helium App](handy-guides/setting-up-hnt-app.md)
-  - [PoE Explained](handy-guides/poe-explained.md)
-  - [Surge Protectors](handy-guides/surge-protectors.md)
   - [Antenna](handy-guides/antenna/overview.md)
-  - [Ideal Hotspot Placement](handy-guides/hotspot-ideal-location.md)
+  - [PoE Explained](handy-guides/poe-explained.md)
   - [First Few Days](handy-guides/first-days.md)
   - [Nebra Dashboard](handy-guides/dashboard.md)
+  - [Surge Protectors](handy-guides/surge-protectors.md)
+  - [Port Forwarding](handy-guides/port-forwarding/overview.md)
+  - [Setting Up the Helium App](handy-guides/setting-up-hnt-app.md)
+  - [Ideal Hotspot Placement](handy-guides/hotspot-ideal-location.md)
   - [PDF Documents](pdfs/overview.md)
   - [Resource](handy-guides/resource.md)
-
-
 
 - Contributions and Support
 
