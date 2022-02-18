@@ -1,7 +1,9 @@
 # RockPi Indoor Helium  Hotspot Overview
 
 
-![Indoor Hotspot Included](../media/photos/indoorRockpi/RockPi-Miner-Top.jpg ':size=600')
+
+![Indoor Hotspot Included](../media/photos/indoorRockpi/Nebra-ROCK.jpg ':size=600')
+
 
 The Nebra RockPi Indoor Helium Hotspot is a compact & elegant solution to provide Helium LongFi coverage and start mining HNT with ease.
 
