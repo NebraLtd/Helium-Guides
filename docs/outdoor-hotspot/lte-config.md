@@ -105,7 +105,19 @@ In the future, you will be able to do the initial configuration of the APN setti
 
 In order to manually add your APN connection details you will need to plug your Nebra Outdoor Hotspot into another computer with a text editor. Any Windows, macOS or Linux machine with USB connectivity should be fine.
 
+
+Steps for adding the APN details  
+
+1. **Change Jumper Settings to Storage Mode** 
+2. **Connect Dugather Board to Computer via USB** 
+3. **Copy APN Details to "System-connections" Folder** 
+4. **Change jumper into default settings** 
+
+
 Please note, if your PC doesn't properlly recognize the device, you will need to install the drivers contained in the program here: https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md
+
+
+#### Step 1: Change Jumper Settings to Storage Mode 
 
 First, you will need to adjust some pin jumpers on the "daughterboard". The daughterboard is the highest of the blue circuit boards in the case, and has the green Raspberry Pi compute module attached to it. As you can see circled in the image below, there are two jumpers labeled JP3 and JP4:
 
@@ -119,21 +131,29 @@ Then you can remove the short microUSB cable from between the WiFi/Bluetooth don
 
 ![Daughterboard USB Connector](../media/photos/lte/usbmainboard.JPG)
 
-You can then proceed to removing the USB hub board altogether:
+#### Step 2: Connect Dugather Board to Computer via USB
+
+Now you can then proceed to removing the USB hub board altogether:
 
 ![USB Hub Removed](../media/photos/lte/hubremoved.JPG)
 
 Next, you can plug a microUSB cable into the microUSB connector on the daughterboard (please be **very careful** during this step so that you do not damage the connector, it's also good to note that this is not the microUSB connector used on the USB hub):
 
-pic
+![USB Connection](../media/photos/lte/usbConnection.jpg)
 
-Plug the other end of the microUSB cable into your computer and it should recognise the compute module as a mass storage device. In your file browser you should be able to now find a device / volume called `resin-boot`:
+Plug the other end of the microUSB cable into your computer and it should recognise the compute module as a mass storage device. 
 
-Please note, if your PC doesn't properly recognize the device, you will need to install the drivers contained in the RPI Boot software here: https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md
+#### Step 3: Copy APN Details to "System-connections" Folder. 
 
-pic
+Now your file browser you should be able to now find a device / volume called `resin-boot`:
 
-You will then need to open a plain text editor on your computer (something like Notepad on Windows or TextEdit on macOS) and copy the following settings into a blank file:
+![resin-boot](../media/photos/lte/lte8.jpg)
+
+Please note, if your PC doesn't properly recognize the device, you will need to install the drivers contained in the RPI Boot software here: https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md, You also need to open the **rpiboot** software after connecting USB cable in your computer if you are using windows OS.  
+
+![rpiBoot](../media/photos/lte/rpiBoot.jpg)
+
+Then, You will then need to open a plain text editor on your computer (something like Notepad on Windows or TextEdit on macOS) and copy the following settings into a blank file:
 
 ```
 [connection]
@@ -162,6 +182,8 @@ Alternatively you can download the file by right clicking [this link](https://ra
 
 Once you have updated the settings in the file, make sure to save the file somewhere that you will remember with the file name `cellular` (no file extension like .txt should be used). Browse to the location of this file, right click on it and click copy. Then browse back to the `resin-boot` device we found earlier, navigate to the `system-connections` folder and paste the file here (you should also see some files already there called ???). You can then eject the mass storage device from your computer and then remove the USB cable.
 
+#### Step 4: Change jumper into default settings
+
 Last but not least, you will need to re-assemble the hotspot as it was when we started, and return the pin jumpers JP3 and JP4 back to their original positions:
 
 JP3 - covering just one of the two pins (it doesn't matter which one)
@@ -169,7 +191,6 @@ JP4 - accross pins 1 and 2
 
 You can now boot up your hotspot as normal and it should get a cellular connection. We would highly recommend verifying you have a good connection before sealing the case so you do not have to continually keep having to open and close the case.
 
-#
 
 ### Manually adding the APN details with external external eMMC
 
@@ -202,7 +223,9 @@ The stand-alone installer is the recommended option. This installer has been tes
 
 
 #### Step 4: Accessing the file system
+
 A new hard drive should appear in the explorer. It should be called resin-boot. 
+
 ![Devie with external eMMC](../media/photos/lte/lte7.jpg)
 
 Open the resin-boot folder and navigate to the system-connections folder.
