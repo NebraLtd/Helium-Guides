@@ -1,4 +1,4 @@
-# Indoor Hotspot Troubleshooting
+# Indoor ROCK Pi Hotspot Troubleshooting
 
 If you are having trouble with setting up your hotspot or you have got a query, the following tips may help.
 

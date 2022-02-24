@@ -1,4 +1,4 @@
-# Indoor Hotspot FAQs
+# Indoor ROCK Pi Hotspot FAQs
 
 *  [What is the antenna connector on the Hotspot?](#what-is-the-antenna-connector-on-the-hotspot)
 * [Can I add 4G connectivity to my Indoor Hotspot?](#can-i-add-4g-connectivity-to-my-indoor-hotspot)

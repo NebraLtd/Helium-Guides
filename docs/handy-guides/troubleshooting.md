@@ -13,6 +13,19 @@ If you are having trouble with setting up your hotspot or you have got a query, 
     * [Application error while setting up](../indoor-hotspot/troubleshooting#application-error-while-setting-up)
     * [Syncing Issues](../indoor-hotspot/troubleshooting.md/#no-lights-are-turning-on/#syncing-issues)
 
+* **Indoor ROCK Pi Hotspot Troubleshooting**
+    * [How to access the diagnostics](../indoor-rockpi-hotspot/troubleshooting.md#how-to-access-the-diagnostics)
+    * [No lights are turning on](#no-lights-are-turning-on) 
+    * [Device is not booting/Green activity light is off](#green-activity-light-is-off)
+    * [The Green LED is blinking rapidly with few seconds intervall](#the-green-led-is-blinking-rapidly-with-few-seconds-intervall)
+    * [Hotspot is not showing in the Helium App](#hotspot-is-not-showing-in-the-helium-app)
+    * [Hotspot is not detecting Wi-Fi networks](#hotspot-is-not-detecting-wi-fi-networks)
+    * [Updating Nebra Hotspot Firmware](#updating-nebra-hotspot-firmware)
+    * [Syncing Issues](#syncing-issues)
+    * [Onboarding key is missing error](#onboarding-key-is-missing-error)
+    * [Hotspot not witnessing](#hotspot-not-witnessing)
+    * [Still having trouble](#still-having-trouble)
+
     
 
 * **Outdoor Hotspot Troubleshooting**
