@@ -53,11 +53,11 @@ All were tested in the UK. Please note however that **only the Quectel EG25-G mP
 
 You will notice that on our outdoor hotspot main board, between the mPCIe module slot and the LoRa module, there is a holder for a Micro SIM card. This is directly wired to the external SIM card pins for the mPCIe module such that a Micro SIM card inserted in this slot works seamlessly with the modem.
 
-![Nebra SIM slot](../media/photos/lte/lte-7.jpg)
+![Nebra SIM slot](../media/photos/lte/lte-7.jpg ':size=800' )
 
 However in the table above you can see that some of the modems listed have both an onboard SIM card slot on the module itself as well as the Micro SIM slot on the outdoor hotspot main board. You can see an example of this in the below photo, which shows the Quectel EG25-G (no SIM slot) and EG25-G-S (with SIM slot) mPCIe modules, both of which we supply like-for-like as part of our [Quectel EG25-G package](https://www.nebra.com/products/quectel-eg25-g-mini-pcie-with-antennas):
 
-![EG25-G with and without SIM card slot](../media/photos/lte/lte-6.jpg)
+![EG25-G with and without SIM card slot](../media/photos/lte/lte-6.jpg ':size=800')
 
 For modems without an onboard SIM slot, you will obviously need to use the Micro SIM slot on the Nebra Outdoor Hotspot itself. For the modems that have a SIM slot on the modem itself, typically these modules will support having your SIM card placed either directly in the module or in the Nebra SIM slot. However, if you find that the modem is not working correctly then we would highly recommend trying the other slot as it might be that your specific modem is not wired up in a conventional way (especially if it is not featured on the above list or marked as not tested). One final thing to note is that for modules that have on board SIM card holders these are sometimes not the same size as the Micro SIM on our outdoor hotspot but instead may use a standard or nano sized SIM card so you must make sure to get the correct size SIM for your application.
 
@@ -121,25 +121,25 @@ Please note, if your PC doesn't properlly recognize the device, you will need to
 
 First, you will need to adjust some pin jumpers on the "daughterboard". The daughterboard is the highest of the blue circuit boards in the case, and has the green Raspberry Pi compute module attached to it. As you can see circled in the image below, there are two jumpers labeled JP3 and JP4:
 
-![Daughterboard Pin Jumpers](../media/photos/lte/jumperoriginal.JPG)
+![Daughterboard Pin Jumpers](../media/photos/lte/jumperoriginal.JPG ':size=800' )
 
 JP3 is the 2 pin jumper at the bottom of the circled area and JP4 is the 3 pin jumper at the top of the circled area. When you get your miner, JP3 should be covering just one of the two pins and JP4 should be on the pins labelled 1 and 2. In order to program the compute module, you need to move the jumper JP3 so that it covers both of the two pins and you will need to move the jumper for JP4 onto the pins labeled 2 and 3. When done it should look like this:
 
-![Daughterboard Pin Jumpers Changed](../media/photos/lte/jumperchanged.JPG)
+![Daughterboard Pin Jumpers Changed](../media/photos/lte/jumperchanged.JPG ':size=800')
 
 Then you can remove the short microUSB cable from between the WiFi/Bluetooth dongle board and the main board (you can see it indicated with an arrow below):
 
-![Daughterboard USB Connector](../media/photos/lte/usbmainboard.JPG)
+![Daughterboard USB Connector](../media/photos/lte/usbmainboard.JPG ':size=800')
 
 #### Step 2: Connect Dugather Board to Computer via USB
 
 Now you can then proceed to removing the USB hub board altogether:
 
-![USB Hub Removed](../media/photos/lte/hubremoved.JPG)
+![USB Hub Removed](../media/photos/lte/hubremoved.JPG ':size=800')
 
 Next, you can plug a microUSB cable into the microUSB connector on the daughterboard (please be **very careful** during this step so that you do not damage the connector, it's also good to note that this is not the microUSB connector used on the USB hub):
 
-![USB Connection](../media/photos/lte/usbConnection.jpg)
+![USB Connection](../media/photos/lte/usbConnection.jpg ':size=800')
 
 Plug the other end of the microUSB cable into your computer and it should recognise the compute module as a mass storage device. 
 
@@ -147,7 +147,7 @@ Plug the other end of the microUSB cable into your computer and it should recogn
 
 Now your file browser you should be able to now find a device / volume called `resin-boot`:
 
-![resin-boot](../media/photos/lte/lte8.jpg)
+![resin-boot](../media/photos/lte/lte8.jpg ':size=800')
 
 Please note, if your PC doesn't properly recognize the device, you will need to install the drivers contained in the RPI Boot software here: https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md, You also need to open the **rpiboot** software after connecting USB cable in your computer if you are using windows OS.  
 
