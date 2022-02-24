@@ -14,17 +14,17 @@ If you are having trouble with setting up your hotspot or you have got a query, 
     * [Syncing Issues](../indoor-hotspot/troubleshooting.md/#no-lights-are-turning-on/#syncing-issues)
 
 * **Indoor ROCK Pi Hotspot Troubleshooting**
+    * [No lights are turning on](../indoor-rockpi-hotspot/troubleshooting.md#no-lights-are-turning-on) 
     * [How to access the diagnostics](../indoor-rockpi-hotspot/troubleshooting.md#how-to-access-the-diagnostics)
-    * [No lights are turning on](#no-lights-are-turning-on) 
-    * [Device is not booting/Green activity light is off](#green-activity-light-is-off)
-    * [The Green LED is blinking rapidly with few seconds intervall](#the-green-led-is-blinking-rapidly-with-few-seconds-intervall)
-    * [Hotspot is not showing in the Helium App](#hotspot-is-not-showing-in-the-helium-app)
-    * [Hotspot is not detecting Wi-Fi networks](#hotspot-is-not-detecting-wi-fi-networks)
-    * [Updating Nebra Hotspot Firmware](#updating-nebra-hotspot-firmware)
-    * [Syncing Issues](#syncing-issues)
-    * [Onboarding key is missing error](#onboarding-key-is-missing-error)
-    * [Hotspot not witnessing](#hotspot-not-witnessing)
-    * [Still having trouble](#still-having-trouble)
+    * [Device is not booting/Green activity light is off](../indoor-rockpi-hotspot/troubleshooting.md#green-activity-light-is-off)
+    * [The Green LED is blinking rapidly with few seconds intervall](../indoor-rockpi-hotspot/troubleshooting.md#the-green-led-is-blinking-rapidly-with-few-seconds-intervall)
+    * [Hotspot is not showing in the Helium App](../indoor-rockpi-hotspot/troubleshooting.md#hotspot-is-not-showing-in-the-helium-app)
+    * [Hotspot is not detecting Wi-Fi networks](../indoor-rockpi-hotspot/troubleshooting.md#hotspot-is-not-detecting-wi-fi-networks)
+    * [Updating Nebra Hotspot Firmware](../indoor-rockpi-hotspot/troubleshooting.md#updating-nebra-hotspot-firmware)
+    * [Syncing Issues](../indoor-rockpi-hotspot/troubleshooting.md#syncing-issues)
+    * [Onboarding key is missing error](../indoor-rockpi-hotspot/troubleshooting.md#onboarding-key-is-missing-error)
+    * [Hotspot not witnessing](../indoor-rockpi-hotspot/troubleshooting.md#hotspot-not-witnessing)
+    * [Still having trouble](../indoor-rockpi-hotspot/troubleshooting.md#still-having-trouble)
 
     
 
