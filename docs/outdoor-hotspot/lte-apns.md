@@ -80,6 +80,15 @@ If you find working APN settings for a network that is not listed here we would 
 | T-Mobile | fast.t-mobile.com | *99# |  |  | Yes |  |
 | Mint Mobile | Wholesale | *99# |  |  | Yes |  |
 
+
+# India 
+
+| Network Name | APN | Number | Username | Password | Confirmed Working | Notes |
+| --- | ---  | ---  | ---  | ---  | ---  | --- |
+| JIO | Jionet | *99# |  |  | Yes |  |
+
+
+
 # Worldwide
 
 | Network Name | APN | Number | Username | Password | Confirmed Working | Notes |
