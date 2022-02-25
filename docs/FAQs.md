@@ -34,13 +34,13 @@ To help you decide we've created this handy guide.
 | Feature | Nebra Indoor Hotspot | Nebra Outdoor Hotspot | Nebra ROCK Pi Indoor Hotspot| 
 | --- | ---  | --- | --- | 
 | **Price** | £550 ex VAT | £650 ex VAT | £550 ex VAT | 
-| **Case** | Plastic (ABS) | Aluminium | Aluminium |
-| **Ingress Protection** | IP40 | IP67 | IP40  | 
+| **Case** | Plastic (ABS) | Aluminium | Aluminium + Acrylic |
+| **Ingress Protection** | IP40 | IP67 |  <span class="material-icons">remove_circle_outline</span>  | 
 | **Ethernet** | <span class="material-icons">check_circle</span> | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span> | 
 | **Wi-Fi** | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span> |
 | **Bluetooth** | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span> |
 | **Optional 4G Module** | <span class="material-icons">remove_circle_outline</span> | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span> |
-| **Power Over Ethernet** | <span class="material-icons">remove_circle_outline</span>*  | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span> |
+| **Power Over Ethernet** | <span class="material-icons">remove_circle_outline</span>*  | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span>* |
 | **Power Adaptor Included** | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span>**  | <span class="material-icons">check_circle</span> | 
 
 \* Whilst it doesn't natively support PoE, you can use active or passive PoE injectors/splitters to achieve the same effect. More info [can be found below](#can-i-use-poe-with-the-indoor-hotspot).
