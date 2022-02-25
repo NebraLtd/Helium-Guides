@@ -13,5 +13,3 @@
 
 1. [Nebra INdoor ROCK Pi Hotspot Overview](https://helium.nebra.com/pdfs/indoor-rockpi-overview.pdf)
 2. [Nebra INdoor ROCK Pi Hotspot Quik Start Guide](https://helium.nebra.com/pdfs/indoor-rockpi-quick-start.pdf)
-
-
