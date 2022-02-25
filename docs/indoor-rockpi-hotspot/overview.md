@@ -11,7 +11,7 @@ The Nebra RockPi Indoor Helium Hotspot is a compact & elegant solution to provid
 
 | Specification |RockPi Indoor Hotspot |
 | --- | ---  |
-| **Dimensions** | 150x150x50 mm (Excluding Antenna) |
+| **Dimensions** | 94x70x53 mm (Excluding Antenna) |
 | **Weight** | 353g |
 | **Power Requirement** | 12V 2.5A USB-C |
 | **Maximum TX Power** | 24-27dBm** |
