@@ -18,7 +18,6 @@ Your Nebra ROKC Pi Indoor Helium Hotspot comes with the following items:
 * 1 x WiFi Antenna
 * 1 x Universal Power Supply
 * 1 x Ethernet Cable
-* 1 x Nebra ECC Key
 * 1 x Hotspot $40 On Boarding Fee
 * 1 x First $10 Location Assert Fee
 

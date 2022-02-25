@@ -36,7 +36,6 @@ The Nebra RockPi Indoor Helium Hotspot is a compact & elegant solution to provid
 * 1 x WiFi Antenna
 * 1 x Universal Power Supply
 * 1 x Ethernet Cable
-* 1 x Nebra ECC Key
 * 1 x Hotspot $40 On Boarding Fee
 * 1 x First $10 Location Assert Fee
 
@@ -91,9 +90,9 @@ The Nebra Indoor Hotspot is 94x70x53MM In size when nothing is connected.
 
 ## Firmware
 
-The RockPi Indoor Helium Hotspot run a customised software to provide high reliability and ensure your units are as up to date as they can be.
+The RockPi Indoor Helium Hotspot runs a customizd software to provide high reliability and ensure your units are as up to date as they can be.
 
-Approximately your hotspot will update once a week in an automatic process, we will announce updates via various social media platforms when they happen.
+Your hotspot will update approximately  once a week in an automatic process, we will announce updates via various social media platforms when they happen.
 
 The software is open source and available on our [Helium Miner Software repo on GitHub](https://github.com/nebraltd/helium-miner-software).
 
