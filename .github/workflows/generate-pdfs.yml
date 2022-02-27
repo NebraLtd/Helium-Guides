@@ -1,8 +1,10 @@
 name: Generate PDFs
 
 on:
-  schedule:
-    - cron:  "15 0 * * *" # Run daily at 00.15
+  push:
+    paths:
+      - "**-overview.md"
+      - "**-quick-start.md"
   workflow_dispatch:
 
 jobs:
@@ -21,8 +23,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-        with: 
-          ref: main
 
       - name: Generate PDFs (Non RasPi)
         if: matrix.sbc != 'raspi'
