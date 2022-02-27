@@ -22,13 +22,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with: 
-          ref: ${{ github.ref }}
-
-      - name: Get current branch
-        run: |
-          # Get the current branch and output as environment variable
-          GITHUB_BRANCH=$( echo "${{ github.ref }}" | sed 's/refs\/heads\///g' )
-          echo "GITHUB_BRANCH=$GITHUB_BRANCH" >> $GITHUB_ENV
+          ref: main
 
       - name: Generate PDFs (Non RasPi)
         if: matrix.sbc != 'raspi'
@@ -64,16 +58,16 @@ jobs:
         if: matrix.sbc != 'raspi'
         uses: test-room-7/action-update-file@v1
         with:
-          branch: ${{ env.GITHUB_BRANCH }}
+          branch: main
           file-path: docs/pdfs/${{ matrix.variant }}-${{ matrix.sbc }}-${{ matrix.file }}.pdf
-          commit-msg: Update ${{ matrix.sbc }} ${{ matrix.variant }} ${{ matrix.file }} PDFs
+          commit-msg: Update ${{ matrix.sbc }} ${{ matrix.variant }} ${{ matrix.file }} PDF
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update PDFs on repo (RasPi)
         if: matrix.sbc == 'raspi'
         uses: test-room-7/action-update-file@v1
         with:
-          branch: ${{ env.GITHUB_BRANCH }}
+          branch: main
           file-path: docs/pdfs/${{ matrix.variant }}-${{ matrix.file }}.pdf
-          commit-msg: Update ${{ matrix.sbc }} ${{ matrix.variant }} ${{ matrix.file }} PDFs
+          commit-msg: Update ${{ matrix.sbc }} ${{ matrix.variant }} ${{ matrix.file }} PDF
           github-token: ${{ secrets.GITHUB_TOKEN }}
