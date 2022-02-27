@@ -33,8 +33,8 @@ jobs:
       - name: Generate PDFs (Non RasPi)
         if: matrix.sbc != 'raspi'
         uses: docker://pandoc/latex:2.9
-        entrypoint: pdf-gen/gen-pdfs.sh
         with:
+          entrypoint: pdf-gen/gen-pdfs.sh
           args: >-
             pdf-gen/pdf-data.yml
             docs/${{ matrix.variant }}-${{ matrix.sbc }}-hotspot/${{ matrix.file }}.md
