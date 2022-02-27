@@ -56,18 +56,14 @@ jobs:
 
       - name: Update PDFs on repo (Non RasPi)
         if: matrix.sbc != 'raspi'
-        uses: test-room-7/action-update-file@v1
+        uses: EndBug/add-and-commit@v8
         with:
-          branch: main
-          file-path: docs/pdfs/${{ matrix.variant }}-${{ matrix.sbc }}-${{ matrix.file }}.pdf
-          commit-msg: Update ${{ matrix.sbc }} ${{ matrix.variant }} ${{ matrix.file }} PDF
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          message: Update ${{ matrix.sbc }} ${{ matrix.variant }} ${{ matrix.file }} PDF
+          add: "-A"
 
       - name: Update PDFs on repo (RasPi)
         if: matrix.sbc == 'raspi'
-        uses: test-room-7/action-update-file@v1
+        uses: EndBug/add-and-commit@v8
         with:
-          branch: main
-          file-path: docs/pdfs/${{ matrix.variant }}-${{ matrix.file }}.pdf
-          commit-msg: Update ${{ matrix.sbc }} ${{ matrix.variant }} ${{ matrix.file }} PDF
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          message: Update ${{ matrix.sbc }} ${{ matrix.variant }} ${{ matrix.file }} PDF
+          add: "-A"
