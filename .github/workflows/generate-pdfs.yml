@@ -8,6 +8,14 @@ on:
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-20.04
+    strategy:
+      fail-fast: false
+      matrix:
+        sbc: [raspi, rockpi]
+        variant: [indoor, outdoor]
+        exclude:
+          - sbc: rockpi
+            variant: outdoor
 
     steps:
       - name: Checkout
@@ -20,10 +28,20 @@ jobs:
           # Get the current branch and output as environment variable
           GITHUB_BRANCH=$( echo "${{ github.ref }}" | sed 's/refs\/heads\///g' )
           echo "GITHUB_BRANCH=$GITHUB_BRANCH" >> $GITHUB_ENV
-      - name: Generate PDFs 
+          
+      - name: Generate PDFs (Non RasPi)
+        if: matrix.sbc != 'raspi'
         uses: docker://pandoc/latex:2.9
-        with:
-          entrypoint: pdf-gen/gen-pdfs.sh
+        run: |
+          pandoc pdf-gen/pdf-data.yml  docs/${{ matrix.variant }}-${{ matrix.sbc }}-hotspot/overview.md -o docs/pdfs/${{ matrix.variant }}-${{ matrix.sbc }}-overview.pdf --pdf-engine=xelatex --resource-path docs/media/
+          pandoc pdf-gen/pdf-data.yml  docs/${{ matrix.variant }}-${{ matrix.sbc }}-hotspot/quick-start.md -o docs/pdfs/${{ matrix.variant }}-${{ matrix.sbc }}-quick-start.pdf --pdf-engine=xelatex --resource-path docs/media/
+
+      - name: Generate PDFs (RasPi)
+        if: matrix.sbc == 'raspi'
+        uses: docker://pandoc/latex:2.9
+        run: |
+          pandoc pdf-gen/pdf-data.yml  docs/${{ matrix.variant }}-hotspot/overview.md -o docs/pdfs/${{ matrix.variant }}-overview.pdf --pdf-engine=xelatex --resource-path docs/media/
+          pandoc pdf-gen/pdf-data.yml  docs/${{ matrix.variant }}-hotspot/quick-start.md -o docs/pdfs/${{ matrix.variant }}-quick-start.pdf --pdf-engine=xelatex --resource-path docs/media/
 
       - name: Upload artifacts
         uses: actions/upload-artifact@master
