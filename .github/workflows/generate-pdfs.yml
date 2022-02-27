@@ -60,10 +60,20 @@ jobs:
           name: pdf-artifacts
           path: docs/pdfs/*.pdf
 
-      - name: Update PDFs on repo
+      - name: Update PDFs on repo (Non RasPi)
+        if: matrix.sbc != 'raspi'
         uses: test-room-7/action-update-file@v1
         with:
           branch: ${{ env.GITHUB_BRANCH }}
-          file-path: docs/pdfs/*.pdf
-          commit-msg: Update PDFs
+          file-path: docs/pdfs/${{ matrix.variant }}-${{ matrix.sbc }}-${{ matrix.file }}.pdf
+          commit-msg: Update ${{ matrix.sbc }} ${{ matrix.variant }} ${{ matrix.file }} PDFs
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update PDFs on repo (RasPi)
+        if: matrix.sbc == 'raspi'
+        uses: test-room-7/action-update-file@v1
+        with:
+          branch: ${{ env.GITHUB_BRANCH }}
+          file-path: docs/pdfs/${{ matrix.variant }}-${{ matrix.file }}.pdf
+          commit-msg: Update ${{ matrix.sbc }} ${{ matrix.variant }} ${{ matrix.file }} PDFs
           github-token: ${{ secrets.GITHUB_TOKEN }}
