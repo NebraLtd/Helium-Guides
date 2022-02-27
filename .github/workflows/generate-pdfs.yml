@@ -48,11 +48,19 @@ jobs:
             --pdf-engine=xelatex
             --resource-path docs/media/
 
-      - name: Upload artifacts
+      - name: Upload artifacts (Non RasPi)
+        if: matrix.sbc != 'raspi'
         uses: actions/upload-artifact@master
         with:
           name: pdf-artifacts
-          path: docs/pdfs/*.pdf
+          path: docs/pdfs/${{ matrix.variant }}-${{ matrix.sbc }}-${{ matrix.file }}.pdf
+
+      - name: Upload artifacts (RasPi)
+        if: matrix.sbc == 'raspi'
+        uses: actions/upload-artifact@master
+        with:
+          name: pdf-artifacts
+          path: docs/pdfs/${{ matrix.variant }}-${{ matrix.file }}.pdf
 
       - name: Update PDFs on repo (Non RasPi)
         if: matrix.sbc != 'raspi'
