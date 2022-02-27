@@ -1,6 +1,6 @@
 ---
 title:
-header-includes:
+header-includes: |
    \usepackage{graphicx}
    \usepackage{fancyhdr}
    \pagestyle{fancy}
