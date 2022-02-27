@@ -60,6 +60,7 @@ jobs:
         with:
           message: Update ${{ matrix.sbc }} ${{ matrix.variant }} ${{ matrix.file }} PDF
           add: "-A"
+          pull: ""
 
       - name: Update PDFs on repo (RasPi)
         if: matrix.sbc == 'raspi'
@@ -67,3 +68,4 @@ jobs:
         with:
           message: Update ${{ matrix.sbc }} ${{ matrix.variant }} ${{ matrix.file }} PDF
           add: "-A"
+          pull: ""
