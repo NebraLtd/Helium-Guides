@@ -3,8 +3,8 @@ name: Generate PDFs
 on:
   push:
     paths:
-      - "**-overview.md"
-      - "**-quick-start.md"
+      - "**-hotspot/overview.md"
+      - "**-hotspot/quick-start.md"
   workflow_dispatch:
 
 jobs:
