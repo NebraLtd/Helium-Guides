@@ -43,7 +43,8 @@ The Nebra RockPi Indoor Helium Hotspot is a compact & elegant solution to provid
 
 ## Block Diagram
 
-TBA
+![Indoor Hotspot Included](../media/photos/indoorRockpi/block-digram.jpg ':size=600' )
+
 
 ## Supported Regions
 
