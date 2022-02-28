@@ -2,5 +2,4 @@
 node_modules/
 .vscode/
 static/
-docs/pdfs/*.pdf
-.DS_Store 
+.DS_Store
