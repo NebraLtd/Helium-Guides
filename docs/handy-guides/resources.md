@@ -1,8 +1,6 @@
-# Helium Resource and Community Projects. 
+# Helium Resources and Community Projects
 
-
-
-## Community Project
+## Community Projects
 
 List of project that developed & shared by community members with 💙
 
@@ -16,9 +14,3 @@ Overview: Solar powerd fully off grid nebra outdoor helium hotspot.
 
 
 ![Image](https://content.instructables.com/ORIG/FAN/FBI1/KTEDF4JS/FANFBI1KTEDF4JS.jpg ':size=150')
-
-#
-
-
-
-
