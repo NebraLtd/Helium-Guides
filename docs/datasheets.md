@@ -33,6 +33,20 @@ Here's a list of all datasheets for the following products:
 
 
 
+### Indoor ROCK Pi Hotspot 
+
+| Datasheet | Description |
+| --- | ---  |
+| [Indoor ROCK Pi Hotspot Datahseet v1.0](../docs/datasheets/hotspots/rockpi/)  | Indoor ROCK Pi Hotspot Datasheet |
+| [Nebra Indoor ROCK Pi Hotspot Overview](https://helium.nebra.com/pdfs/indoor-rockpi-overview.pdf)| Overview PDF for the Indoor ROCK Pi Hotspot |
+| [Nebra Indoor ROCK Pi Hotspot Quick Start Guide](https://helium.nebra.com/pdfs/indoor-rockpi-quick-start.pdf)| Setup manual for the Indoor ROCK Pi Hotspot |
+| [Indoor ROCK Pi Hotspot FCC Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/FCC) | This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/FCC) Contains FCC Certificates and Reports For The Indoor Unit and It's Modules.|
+|[Indoor ROCK Pi Hotspot CE Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/CE)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/CE) Contains CE Certificates and Reports For The Indoor Unit and It's Modules. |
+|[Indoor Hotspot RCM Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/RCM)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/RCM) Contains RCM Certificates and Reports For The Indoor Unit and It's Modules. |
+|[Indoor Hotspot UKCA Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/UKCA)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/UKCA) Contains UKCA Certificates and Reports For The Indoor Unit and It's Modules. |
+
+
+
 #### Antennas
 | Datasheet | Description |
 | --- | ---  |
