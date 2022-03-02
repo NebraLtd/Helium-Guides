@@ -8,12 +8,10 @@ Here's a list of all datasheets for the following products:
 | [Indoor Hotspot Overview / Datasheet](https://helium.nebra.com/pdfs/indoor-overview.pdf) | Overview PDF for the Indoor Hotspot |
 | [Indoor Hotspot Quick Start](https://helium.nebra.com/pdfs/indoor-quick-start.pdf)  | Setup manual for the Indoor Hotspot |
 | [Nebra 12V 1.5 A Worldwide Power Supply](https://github.com/NebraLtd/Helium-Guides/blob/main/docs/datasheets/accessories/Nebra12v1.5A-Power-Supply-Datasheet.pdf)  | Datasheet of the included PSU |
-| [420-470Mhz Antenna]| Datasheet of the included 3dBi plastic antenna for 470 Mhz Units |
-| [860-930Mhz Antenna]| Datasheet of the included 3dBi plastic antenna for 868 & 915 Mhz Units |
-| [Indoor Hotspot FCC Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/FCC) | This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/FCC) Contains FCC Certificates and Reports For The Indoor Unit and It's Modules.|
-|[Indoor Hotspot CE Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/CE)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/CE) Contains CE Certificates and Reports For The Indoor Unit and It's Modules. |
-|[Indoor Hotspot RCM Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/RCM)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/RCM) Contains RCM Certificates and Reports For The Indoor Unit and It's Modules. |
-|[Indoor Hotspot UKCA Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/UKCA)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/UKCA) Contains UKCA Certificates and Reports For The Indoor Unit and It's Modules. |
+| [Indoor Hotspot FCC Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/raspberry-pi/FCC) | This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/raspberry-pi/FCC) Contains FCC Certificates and Reports For The Indoor Unit and It's Modules.|
+|[Indoor Hotspot CE Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/raspberry-pi/CE)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/raspberry-pi/CE) Contains CE Certificates and Reports For The Indoor Unit and It's Modules. |
+|[Indoor Hotspot RCM Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/raspberry-pi/RCM)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/raspberry-pi/RCM) Contains RCM Certificates and Reports For The Indoor Unit and It's Modules. |
+|[Indoor Hotspot UKCA Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/raspberry-pi/UKCA)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/raspberry-pi/UKCA) Contains UKCA Certificates and Reports For The Indoor Unit and It's Modules. |
 
 
 
@@ -28,8 +26,8 @@ Here's a list of all datasheets for the following products:
 |[Outdoor Hotspot IP67 Case Drawing](../datasheets/cases/outdoor/IP67-Diagram.dwg ':ignore')|IP67 Case Diagram in **.DWG** Format |
 |[Outdoor Hotspot IP67 3D Model Top](.../datasheets/cases/outdoor/IP67-3D-Model-DAM005CLID.stp ':ignore')| IP67 Case Top Part 3D Model **.STP** Format |
 |[Outdoor Hotspot IP67 3D Model Bottom](../datasheets/cases/outdoor/IP67-3D-Model-DAM-005CBOTTOM.stp ':ignore')| IP67 Case Bottom Part 3D Model **.STP** Format|
-| [Outdoor Hotspot FCC Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/outdoor/FCC) | This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/outdoor/FCC) Contains FCC Certificates and Reports For The Outdoor Unit and It's Modules.|
-|[Outdoor Hotspot CE Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/outdoor/CE)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/outdoor/CE) Contains CE Certificates and Reports For The Outdoor Unit and It's Modules. |
+| [Outdoor Hotspot FCC Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/outdoor/raspberry-pi/FCC) | This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/outdoor/raspberry-pi/FCC) Contains FCC Certificates and Reports For The Outdoor Unit and It's Modules.|
+|[Outdoor Hotspot CE Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/outdoor/raspberry-pi/CE)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/outdoor/raspberry-pi/CE) Contains CE Certificates and Reports For The Outdoor Unit and It's Modules. |
 
 
 
