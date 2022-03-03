@@ -7,11 +7,11 @@ There are two different methods to access the diagnostics information of your Ne
 
 ## IP diagnostics
 
-We highly recommend utilizing the Nebra Diagnostics page. To do so, Identify the private IP address of your hotspot by retreiving the information from Helium App Diagnostics over Bluetooth, or by using your router's admin page (Typically can be accessed by typing 192.168.1.1 into a web browser, but not all routers are the same, for more details regarding your specific router, please visit some of the router guides found [here](https://portforward.com/router.htm)).
+We highly recommend utilizing the **Nebra Local Diagnostics Page**. To do so, Identify the private IP address of your hotspot by retreiving the information from Helium App Diagnostics over Bluetooth, or by using your router's admin page (Typically can be accessed by typing 192.168.1.1 into a web browser, but not all routers are the same, for more details regarding your specific router, please visit some of the router guides found [here](https://portforward.com/router.htm)).
 
 You can typically do all of these steps on a mobile device, laptop, or desktop. Once you have identified the IP address of your unit, you will be able to access a page that looks like this:
 
-![IP diagnostics](../media/photos/troubleshooting/local-diagnostics.jpg ':size=800')
+![IP diagnostics](../media/photos/troubleshooting/local-diagnostics.jpg)
 
 ### What information can you find in here
 
