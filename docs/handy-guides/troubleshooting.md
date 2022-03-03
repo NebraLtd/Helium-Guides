@@ -56,6 +56,7 @@ If you are having trouble with setting up your hotspot or you have got a query, 
 * [Characteristic **398168aa** Write Fail](#characteristic-398168aa-write-fail)
 * [Characteristics **b833d34f** Read fail](#characteristics-b833d34f-read-fail)
 * [Characteristics **7731de63** Device not connected](#characteristics-7731de63-device-not-connected)
+* [Miner RPC Unavailable](#miner-rpc-unavailable)
 * [Issue not listed here](#issue-not-listed-here)
 
 
@@ -168,6 +169,13 @@ The error is pop-up when helium application failed to read diagnostics over blue
 ### Characteristics 7731de63 device not connected 
 
 It is a rare issue and it will be resolved by unplugging the Wifi dongle. If you still getting the error please contact us. 
+
+
+### Miner RPC Unavailable
+
+![](../media/photos/troubleshooting/rpc_error.png)
+
+We have noticed an issue with the snapshot loading process. Miners are having issues loading the latest image. If you receive an error like this, please contact customer support and provide hotspot information. 
 
 
 
