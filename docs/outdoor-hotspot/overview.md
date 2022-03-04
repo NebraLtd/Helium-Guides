@@ -76,7 +76,7 @@ The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium
 
 ## Block Diagram
 
-![Outdoor Hotspot Block Diagram](../media/diagrams/outdoor/Outdoor-Block-Diagram.png  ':size=800')
+![Outdoor Hotspot Block Diagram](../media/diagrams/outdoor/block-diagram.png  ':size=800')
 
 
 ## Supported Regions

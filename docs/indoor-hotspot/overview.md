@@ -65,7 +65,7 @@ The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Heliu
 
 ## Block Diagram
 
-![Indoor Hotspot Block Diagram](../media/diagrams/indoor/Indoor-Block-Diagram.png ':size=800')
+![Indoor Hotspot Block Diagram](../media/diagrams/indoor/block-diagram.png ':size=800')
 
 ## Supported Regions
 
