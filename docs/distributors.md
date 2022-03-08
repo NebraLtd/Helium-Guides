@@ -65,4 +65,10 @@ We have a range of distributors and places you can buy our hotspots from.
 
 * **Indoor Hotspot:** <https://mauser.pt/catalog/product_info.php?products_id=096-9498>
 
+### Photonix Helium
+
+* Store Link: [https://photonixhelium.com/products/](ttps://photonixhelium.com/products/) 
+
+
+
 
