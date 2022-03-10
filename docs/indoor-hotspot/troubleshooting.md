@@ -142,9 +142,9 @@ Hotspot will not get witness with various reasons from device loation to device 
 
 To Do ✅
 * check your antenna connector/ cable and make sure everything connected well. 
-* Improve the antenna placement/ place it as high as possible - check our [Hotspot Ideal location doc](../../docs/handy-guides/hotspot-ideal-location.md)
+* Improve the antenna placement/ place it as high as possible - check our [Hotspot Ideal location doc](/docs/handy-guides/hotspot-ideal-location.md)
 
 
 ## Still having trouble
 
-If the above tips haven't been able to resolve your issue then get in touch at https://nebra.io/helium-support and we'll work on resolving your issue. But be sure to please perform the steps above to perform the update process.
+If the above tips haven't been able to resolve your issue then get in touch at  [https://nebra.io/helium-support](/docs/support.md) and we'll work on resolving your issue. But be sure to please perform the steps above to perform the update process.
