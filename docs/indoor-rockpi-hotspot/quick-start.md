@@ -54,7 +54,7 @@ If you are using wired connection, plug an ethernet cable in between a router an
 ![Indoor Hotspot Antenna](../media/photos/indoor/step2.jpg ':size=800')
 
 
-> Please check "[Ideal Hotspot Placement](../handy-guides/hotspot-ideal-location.md)" Guide 
+> Please check "[Hotspot Ideal location doc](/docs/handy-guides/hotspot-ideal-location.md)" Guide 
 
 
 **Step 3:** Assemble the appropriate adapter for country onto the universal power supply, plug into mains power and insert power cable into the hotspot. 

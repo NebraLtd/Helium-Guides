@@ -49,7 +49,7 @@ Please remember to follow these important warnings when using your Nebra Indoor 
 ![Indoor Hotspot Antenna](../media/photos/indoor/step2.jpg ':size=800')
 
 
-> Please check "[Ideal Hotspot Placement](../handy-guides/hotspot-ideal-location.md)" Guide 
+> Please check "[Hotspot Ideal location doc](/docs/handy-guides/hotspot-ideal-location.md)" Guide 
 
 **Step 3:** If you are using a wired Ethernet connection, connect an Ethernet cable between a router or switch and the Ethernet jack on the Hotspot.
 
