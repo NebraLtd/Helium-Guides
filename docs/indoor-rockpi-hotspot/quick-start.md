@@ -31,6 +31,7 @@ Please remember to follow these important warnings when using your Nebra ROCK Pi
 * **<span style="color:red">Never power on the ROCK Pi Indoor hotspot without it's antenna connected as this may damage the unit.</span>**
 * Do not place in direct sunlight or on hot surfaces (e.g a heater).
 * The Indoor unit's case is designed to be used indoors, and is not suitable for use outdoor usage.
+* **<span style="color:red">ROCK Pi comes with a 12v power adapter, so don't use that adapter to power your generic Type-C devices like a mobile phone or anything and vice versa, it will damage the device.</span>**
 
 </div>
 
