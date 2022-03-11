@@ -109,7 +109,7 @@ Hotspot will not get witness with various reasons from device loation to device 
 
 To Do
 * check your antenna connector/ cable and make sure everything connected well. 
-* Improve the antenna placement/ place it as high as possible - check our [Hotspot Ideal location doc](/docs/handy-guides/hotspot-ideal-location.md)
+* Improve the antenna placement/ place it as high as possible - check our [Ideal Hotspot Placement](../handy-guides/hotspot-ideal-location.md)
 
 
 ## Still having trouble
