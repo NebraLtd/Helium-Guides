@@ -54,7 +54,7 @@ If you are using wired connection, plug an ethernet cable in between a router an
 ![Indoor Hotspot Antenna](../media/photos/indoor/step2.jpg ':size=800')
 
 
-> Please check "[Hotspot Ideal location doc](/docs/handy-guides/hotspot-ideal-location.md)" Guide 
+> Please check "[Ideal Hotspot Placement](../handy-guides/hotspot-ideal-location.md)" Guide 
 
 
 **Step 3:** Assemble the appropriate adapter for country onto the universal power supply, plug into mains power and insert power cable into the hotspot. 
@@ -91,7 +91,7 @@ To configure your Hotspot, you will require the Helium Network application insta
 
 <!-- ![Choose your Hotspot](../media/screenshots/ios/hs-02.png  ':size=350') -->
 
-**Step 3:** Place your hotspot in appropriate location, please reffer [Ideal Hotspot Placement](../docs/handy-guides/hotspot-ideal-location.md)
+**Step 3:** Place your hotspot in appropriate location, please reffer [Ideal Hotspot Placement](../handy-guides/hotspot-ideal-location.md)
 
 
 ![Indoor Hotspot App Step 1](../media/photos/indoor/step8.jpg ':size=800')

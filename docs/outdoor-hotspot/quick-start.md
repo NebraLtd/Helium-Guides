@@ -220,7 +220,7 @@ To configure your Hotspot, you will require the Helium Network application insta
 
 <!-- ![Choose your Hotspot](../media/screenshots/ios/hs-02.png  ':size=350') -->
 
-**Step 3:** Place your hotspot in appropriate location, please reffer [Ideal Hotspot Placement](../docs/handy-guides/hotspot-ideal-location.md)
+**Step 3:** Place your hotspot in appropriate location, please reffer [Ideal Hotspot Placement](../handy-guides/hotspot-ideal-location.md)
 
 
 ![Indoor Hotspot App Step 1](../media/photos/outdoor/step8.jpg ':size=800')
