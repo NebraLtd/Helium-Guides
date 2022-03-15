@@ -69,6 +69,13 @@ We have a range of distributors and places you can buy our hotspots from.
 
 * Store Link: [https://photonixhelium.com/products/](ttps://photonixhelium.com/products/) 
 
+####  Passion Radio (France)
+
+* **Indoor Hotspot:** <https://www.passion-radio.fr/hotspot-miners/nebra-rockpi-1536.html>
+
+####  Bitcoin Merch (North America)
+
+* **Indoor Hotspot:** <https://bitcoinmerch.com/products/nebra-hnt-indoor-hotspot-miner-rock-pi-version>
 
 
 
