@@ -49,7 +49,7 @@
   - [Setting Up the Helium App](handy-guides/setting-up-hnt-app.md)
   - [Ideal Hotspot Placement](handy-guides/hotspot-ideal-location.md)
   - [PDF Documents](pdfs/overview.md)
-  - [Resource](handy-guides/resource.md)
+  - [Resource](handy-guides/resources.md)
 
 - Contributions and Support
 
