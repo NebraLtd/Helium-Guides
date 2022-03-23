@@ -33,11 +33,11 @@ Please take a look at the dedicated [local diagnostics page](../handy-guides/loc
 
 
 You should see the lower light (Amber light) on the back of the unit turn on as soon as power is applied.
-If this is the case, ensure the power supply is firmly plugged into the wall outlet, the power jack is plugged into the unit and that the wall outlet is switched on.
+If this is not the case, ensure the power supply is firmly plugged into the wall outlet, the power jack is plugged into the unit and that the wall outlet is switched on.
 
 To Do ✅
 
-* Power adapater is connected correctly 
+* Check if power adapter is connected correctly 
 * Try a different power adaptor if available (12V 1.5A Power Adapter)
 
 Upon power up the lower LED (yellow) should light up instantly. Approximately after a minute the top LED (green) should then start blinking.
@@ -78,13 +78,13 @@ Please note: You will need to grant location permissions for the Application to 
 
 You may find that sometimes your Wi-Fi network will not show in the application if the signal is poor where the Hotspot is located.
 
-Please note, Nebra Indoor hotspot only support **2.4G Wifi network.** 
+Please note, Nebra Indoor hotspot only support **2.4G Wi-Fi network.** 
 
 To Do ✅
-* Check [local diagnostics page](../handy-guides/local-diagnostics.md) and confirm wifi MAC address is listed. 
-* Make sure to connect 2.4Ghz WiFi
-* Remove special characters and emoticons from wifi name/SSID
-* Check WiFi dongle inserted fully. 
+* Check [local diagnostics page](../handy-guides/local-diagnostics.md) and confirm Wi-Fi MAC address is listed. 
+* Make sure to connect 2.4Ghz Wi-Fi
+* Remove special characters and emoticons from Wi-Fi name/SSID
+* Check Wi-Fi dongle inserted fully. 
 
 
 ### Updating Nebra Hotspot Firmware
@@ -131,10 +131,10 @@ To Do ✅
 * Reseat LoRa concentrator 
 <iframe src="https://drive.google.com/file/d/1ejIEVme4L40zjC71diR7DO2BkYz_ZoIQ/preview" width="340" height="380"></iframe>
 
-* Make sure to **asserted the location** for your hotspot. Otherwise it will be display as false. 
+* Make sure to **asserted the location** for your hotspot. Otherwise it will be displayed as false. 
 
 
-If the issue still persist, Contact support if that doesn't resolve it 
+If the issue still persists, contact support
 
 ### Hotspot not witnessing
 
