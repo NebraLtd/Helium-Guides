@@ -121,7 +121,7 @@ We are working on getting the Nebra Indoor Hotspot certified in multiple regions
 | --- | --- | --- | --- | --- |
 | CE | European Economic Area | 868 Mhz | [Completed](https://helium.nebra.com/certifications/indoor/rock-pi/CE/RED%20VOC.pdf) | EU 868 |
 | UKCA | United Kingdom | 868 Mhz | [Completed](https://helium.nebra.com/certifications/indoor/rock-pi/UKCA/JYTSZ-R01-2200019%20EN%2055032%2635%20UKCA.pdf) | EU 868 |
-| FCC | United States of America | 915 Mhz | [Completed](https://helium.nebra.com/certifications/indoor/rock-pi/CE/EU%20Declaration%20of%20Conformity%20(DoC).pdf) | US 915 |
+| FCC | United States of America | 915 Mhz | [Completed](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/FCC) | US 915 |
 
 
 All certification related documents can be viewed in the [certification folder for our indoor miner](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi).
