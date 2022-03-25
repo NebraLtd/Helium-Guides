@@ -143,8 +143,13 @@ To configure your Hotspot, you will require the Helium Network application insta
 
 ![Indoor Hotspot App Step 13](../media/photos/indoor/step12.jpg ':size=800')
 
-
 You can move device to another location, However every time you move your hotspot to a new location you will need to pay the $10 location assert fee again.
+
+**Resource**
+
+* [Ideal Hotspot Placement ](https://helium.nebra.com/#/handy-guides/hotspot-ideal-location)
+* [The First Few Days, What to Expct](https://helium.nebra.com/#/handy-guides/first-days)
+* [Advanced Diagnotics Information](https://helium.nebra.com/#/handy-guides/advanced-diagnostics)
 
 ## Onboarding Video
 

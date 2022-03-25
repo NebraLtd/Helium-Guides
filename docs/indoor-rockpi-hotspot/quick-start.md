@@ -142,6 +142,12 @@ To configure your Hotspot, you will require the Helium Network application insta
 
 You can move device to another location, However every time you move your hotspot to a new location you will need to pay the $10 location assert fee again.
 
+**Resource**
+
+* [Ideal Hotspot Placement ](https://helium.nebra.com/#/handy-guides/hotspot-ideal-location)
+* [The First Few Days, What to Expct](https://helium.nebra.com/#/handy-guides/first-days)
+* [Advanced Diagnotics Information](https://helium.nebra.com/#/handy-guides/advanced-diagnostics)
+
 ## Onboarding Video
 
 You can also watch this video to learn how to onboard the hotspot. This is using the Nebra Indoor Hotspot on Android, but the process is very similar for the Outdoor Hotspot and using iOS devices:
