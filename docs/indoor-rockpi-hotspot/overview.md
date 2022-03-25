@@ -106,7 +106,7 @@ The Nebra Indoor Hotspot is 94x70x53MM In size when nothing is connected.
 
 ## Firmware
 
-The RockPi Indoor Helium Hotspot runs a customizd software to provide high reliability and ensure your units are as up to date as they can be.
+The RockPi Indoor Helium Hotspot runs a customized software to provide high reliability and ensure your units are as up to date as they can be.
 
 Your hotspot will update approximately  once a week in an automatic process, we will announce updates via various social media platforms when they happen.
 
