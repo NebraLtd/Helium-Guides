@@ -115,7 +115,7 @@ The software is open source and available on our [Helium Miner Software repo on 
 ## Unit Information
 Each unit has a sticker located on the base of the unit.
 
-![ROCKPi Unit Identification lablel](../media/photos/indoorRockpi/rock-pi-label.png)
+![ROCKPi Unit Identification lablel](../media/photos/indoorRockpi/rock-pi-label.png ':size=400')
 
 This includes the following important Information:
 
@@ -181,4 +181,4 @@ If this equipment does cause harmful interference to radio or television recepti
 
 #### RoHS
 
-All our ROCK Pi miners have been tested under the EU RoHS Directive 2011/65/ EU and its amendmant directive 2015/863/EU� You can view the certification [here](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/RoHS)
+All our ROCK Pi miners have been tested under the EU RoHS Directive 2011/65/ EU and its amendment directive 2015/863/EU You can view the certification [here](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/RoHS)
