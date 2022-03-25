@@ -13,9 +13,9 @@ The Nebra RockPi Indoor Helium Hotspot is a compact & elegant solution to provid
 | --- | ---  |
 | **Dimensions** | 94x70x53 mm (Excluding Antenna) |
 | **Weight** | 353g |
-| **Power Requirement** | 12V 2.5A USB-C |
+| **Power Requirement** | 12V 2.5A USB-C*** |
 | **Maximum TX Power** | 24-27dBm** |
-| **Network Connectivity** | 1GBit Ethernet, 2.4/5GHz 802.ac WiFii |
+| **Network Connectivity** | 1GBit Ethernet, 2.4GHz 802.ac Wi-Fi, Bluetooth 4.2 |
 | **Antenna Connection** | RP-SMA Female |
 | **Rated Ambient Temperature** | 20-30C |
 | **Base SOM** | ROCK Pi RK3399 Processor |
@@ -26,6 +26,7 @@ The Nebra RockPi Indoor Helium Hotspot is a compact & elegant solution to provid
 
 ###### * Average Power Consumption Measured At Mains,
 ###### ** Maximum TX Power may be capped to a lower amount in some regions.
+###### *** Power supply must ONLY be used with ROCK Pi miner
 
 ## Package Contents
 
@@ -33,7 +34,7 @@ The Nebra RockPi Indoor Helium Hotspot is a compact & elegant solution to provid
 
 * 1 x Nebra ROCK Pi Miner
 * 1 x 3db LoRa Antenna
-* 1 x WiFi Antenna
+* 1 x Wi-Fi Antenna
 * 1 x Universal Power Supply
 * 1 x Ethernet Cable
 * 1 x Hotspot $40 On Boarding Fee
@@ -50,7 +51,7 @@ The Nebra RockPi Indoor Helium Hotspot is a compact & elegant solution to provid
 
 The Nebra Indoor Hotspot comes in three frequency versions:
 
-| Frequency | SKU | 
+| Frequency | SKU |
 | --- | ---  |
 | **433 Mhz** | NBR-0065 |
 | **470 Mhz** | NBR-0066 |
@@ -61,6 +62,8 @@ The frequency is set upon initialisation by the Helium Network.
 
 ## Antenna Specifications
 
+### LoRa Antenna
+
 | Specification | 470Mhz Model | 868 & 915Mhz Models |
 | --- | --- | --- |
 | **Frequency Range** | 420-480 | 860-930 Mhz|
@@ -69,6 +72,18 @@ The frequency is set upon initialisation by the Helium Network.
 | **Input Impediance** | 50 Ohms | 50 Ohms |
 | **Length** | 17.2CM | 20.7CM  |
 
+### Wi-Fi Antenna
+
+| Specification | Wi-Fi Antenna |
+| -- | -- |
+| ** Frequency ** | 2.4/5.8GHz |
+| ** Gain ** | 2-3dBi |
+| ** Length ** | 194mm |
+| ** Connector Type ** | RP-SMA male |
+| ** Polarization Type ** | Vertical |
+| ** Input Impedance ** | 50 Ohms |
+| ** Operating Temperature ** | -40 - 60C |
+| ** Colour ** | Black |
 
 ## Dimensions
 
@@ -100,16 +115,32 @@ The software is open source and available on our [Helium Miner Software repo on 
 ## Unit Information
 Each unit has a sticker located on the base of the unit.
 
-IMG NTB
+![ROCKPi Unit Identification lablel](../media/photos/indoorRockpi/rock-pi-label.png)
 
 This includes the following important Information:
 
+* **Model**: Model number
 * **FREQ**: Frequency of the Unit
 * **ETH**: Ethernet MAC address
+* **WiFi**: Wi-Fi MAC address
 * **NSER**: Nebra Serial Number
-* **RPi**: Raspberry Pi Serial Number
+* **SER**: Device Serial Number
 
 You will require some of this information when linking your unit to our [remote management dashboard](https://dashboard.nebra.com).
+
+## Safety instructions
+
+**To avoid malfunction or damage to this product, please observe the following:**
+
+Do not expose to water or moisture.
+
+Do not expose to any source of heat. The ROCK Pi indoor miner is designed for reliable operation and has been tested at normal ambient room temperatures (25c).
+
+Take care when handling to avoid mechanical, shock, vibration or electrical damage to the connectors or components inside.
+
+Do **NOT** open the case unless specifically requested to do so by a member of our support team. If opening the case please observe anti-static procedures.
+
+==Any modification to the ROCK Pi miner will void any warranty==
 
 ## Certifications
 
@@ -119,10 +150,10 @@ We are working on getting the Nebra Indoor Hotspot certified in multiple regions
 
 | Approval | Countries Covered | Hardware Frequency | Status | Frequency Plans |
 | --- | --- | --- | --- | --- |
-| CE | European Economic Area | 868 Mhz | [Completed](https://helium.nebra.com/certifications/indoor/rock-pi/CE/RED%20VOC.pdf) | EU 868 |
-| UKCA | United Kingdom | 868 Mhz | [Completed](https://helium.nebra.com/certifications/indoor/rock-pi/UKCA/JYTSZ-R01-2200019%20EN%2055032%2635%20UKCA.pdf) | EU 868 |
-| FCC | United States of America | 915 Mhz | [Completed](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/FCC) | US 915 |
-| RCM | Australia| 915 Mhz| [Completed](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/RCM)| AU 915 |  
+| CE | European Economic Area | 868 MHz | [Completed](https://helium.nebra.com/certifications/indoor/rock-pi/CE/EU%20Declaration%20of%20Conformity%20(DoC).pdf) | EU 868 |
+| UKCA | United Kingdom | 868 MHz | [Completed](https://helium.nebra.com/certifications/indoor/rock-pi/UKCA/JYTSZ-R01-2200019%20EN%2055032%2635%20UKCA.pdf) | EU 868 |
+| FCC | United States of America | 915 MHz | [Completed](https://helium.nebra.com/certifications/indoor/rock-pi/CE/EU%20Declaration%20of%20Conformity%20(DoC).pdf) | US 915 |
+| RCM | Australia & New Zealand | 915 MHz | [Completed](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/RCM) | AU 915 |
 
 
 All certification related documents can be viewed in the [certification folder for our indoor miner](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi).
@@ -147,3 +178,7 @@ If this equipment does cause harmful interference to radio or television recepti
 * Increase the separation between the equipment and receiver.
 * Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
 * Consult the dealer or an experienced radio/TV technician for help.
+
+#### RoHS
+
+All our ROCK Pi miners have been tested under the EU RoHS Directive 2011/65/ EU and its amendmant directive 2015/863/EU� You can view the certification [here](https://github�com/NebraLtd/Helium-Guides/tree/main/docs/certifications/ indoor/rock-pi/RoHS)
