@@ -100,7 +100,8 @@ The software is open source and available on our [Helium Miner Software repo on 
 ## Unit Information
 Each unit has a sticker located on the base of the unit.
 
-IMG NTB
+
+![Unit Information](../media/photos/indoorRockpi/serialNumber.png)
 
 This includes the following important Information:
 
