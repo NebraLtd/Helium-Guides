@@ -76,14 +76,14 @@ The frequency is set upon initialisation by the Helium Network.
 
 | Specification | Wi-Fi Antenna |
 | -- | -- |
-| ** Frequency ** | 2.4/5.8GHz |
-| ** Gain ** | 2-3dBi |
-| ** Length ** | 194mm |
-| ** Connector Type ** | RP-SMA male |
-| ** Polarization Type ** | Vertical |
-| ** Input Impedance ** | 50 Ohms |
-| ** Operating Temperature ** | -40 - 60C |
-| ** Colour ** | Black |
+| **Frequency** | 2.4/5.8GHz |
+| **Gain** | 2-3dBi |
+| **Length** | 194mm |
+| **Connector Type** | RP-SMA male |
+| **Polarization Type** | Vertical |
+| **Input Impedance** | 50 Ohms |
+| **Operating Temperature** | -40 - 60C |
+| **Colour** | Black |
 
 ## Dimensions
 
@@ -140,7 +140,7 @@ Take care when handling to avoid mechanical, shock, vibration or electrical dama
 
 Do **NOT** open the case unless specifically requested to do so by a member of our support team. If opening the case please observe anti-static procedures.
 
-==Any modification to the ROCK Pi miner will void any warranty==
+**Any modification to the ROCK Pi miner will void any warranty**
 
 ## Certifications
 
@@ -181,4 +181,4 @@ If this equipment does cause harmful interference to radio or television recepti
 
 #### RoHS
 
-All our ROCK Pi miners have been tested under the EU RoHS Directive 2011/65/ EU and its amendmant directive 2015/863/EU� You can view the certification [here](https://github�com/NebraLtd/Helium-Guides/tree/main/docs/certifications/ indoor/rock-pi/RoHS)
+All our ROCK Pi miners have been tested under the EU RoHS Directive 2011/65/ EU and its amendmant directive 2015/863/EU� You can view the certification [here](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/RoHS)
