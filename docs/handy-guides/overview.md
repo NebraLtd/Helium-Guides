@@ -19,4 +19,4 @@ Under this category we've got a small collection of helpful guides to help with 
 - [Advanced Diagnostics Info](../handy-guides/advanced-diagnostics.md)
 - [First Few Days](../handy-guides/first-days.md)
 - [Nebra Dashboard](../handy-guides/dashboard.md)
-
+- [Flashing New Firmware](../handy-guides/flash-sd.md)
