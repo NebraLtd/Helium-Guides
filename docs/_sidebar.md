@@ -20,7 +20,7 @@
   - [Outdoor Hotspot LTE APN List](outdoor-hotspot/lte-apns.md)
   - [Outdoor Hotspot FAQs](outdoor-hotspot/outdoor-faq.md)
 
-- RockPi Indoor Helium Hotspot 
+- RockPi Indoor Helium Hotspot
   - [RockPi Indoor Hotspot Overview](indoor-rockpi-hotspot/overview.md)
   - [RockPi Indoor Hotspot Quick Start](indoor-rockpi-hotspot/quick-start.md)
   - [RockPi Indoor Hotspot Troubleshooting](indoor-rockpi-hotspot/troubleshooting.md)
@@ -50,6 +50,7 @@
   - [Ideal Hotspot Placement](handy-guides/hotspot-ideal-location.md)
   - [PDF Documents](pdfs/overview.md)
   - [Resource](handy-guides/resources.md)
+  - [Flash SD card](handy-guides/flash-sd.md)
 
 - Contributions and Support
 
