@@ -9,7 +9,7 @@
 
 
 ## Box Contents
-Your Nebra ROKC Pi Indoor Helium Hotspot comes with the following items:
+Your Nebra ROCK Pi Indoor Helium Hotspot comes with the following items:
 
 ![Indoor Hotspot Included](../media/photos/indoorRockpi/packagecontents.jpg)
 
