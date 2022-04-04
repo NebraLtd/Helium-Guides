@@ -10,7 +10,7 @@ This guide will show you how to Flash new Firmware to your Hotspot miner so you 
 * Helium miner Hotspot
 
 <div class="tip">
-**<span style="color:red">This guide is not intended for current Nebra hotspots. Do NOT flash this Firmware on your Nebra hotspot</span>**
+<span style="color:red">This guide is not intended for current Nebra hotspots. Do NOT flash this Firmware on your Nebra hotspot</span>
 </div>
 
 ## Flashing your Helium miner
