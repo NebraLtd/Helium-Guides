@@ -10,7 +10,7 @@
     * [Connectors](#connectors)
     * [Status Indicator](#status-indicator)
     * [Button](#status-indicator )
-* [Firmware](#firmware) 
+* [Firmware](#firmware)
 * [Unit Information](#unit-information)
 * [Certifications ](#certifications )
     * [Certification List](#certification-list)
@@ -97,9 +97,13 @@ The Nebra Indoor Hotspot is 150x150x50MM In size when nothing is connected.
 
 ![Indoor Hotspot Connectors](../media/photos/indoor/Indoor_dimension.jpg ':size=500')
 
-
-
 Approximatley 175x150x50MM space is required when accounting in space required for connectors.
+
+## Mounting
+
+The Indoor Hotspot case has been designed to be standalone but can also be mounted to a wall. The bottom of the case has four mounting holes so it can be secured to the wall or flat surface using screws. The screws must be a maximum of 3.1mm in diameter with the bulkhead of the screw no more than 7.2mm. A standard wood screw would be perfect for mounting the case.
+
+The mounting holes themselves are positioned 75mm between each other according to the VESA 75 mounting standard.
 
 ## Interfaces
 
