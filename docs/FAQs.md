@@ -19,6 +19,7 @@
 * [What is the tariff code for these products?](#what-is-the-tariff-code-for-these-products)
 * [Where can I buy the Nebra Helium Hotspots?](#where-can-i-buy-the-nebra-helium-hotspots)
 * [Which cable should I use between hotspot and antenna?](#which-cable-should-i-use-between-hotspot-and-antenna)
+* [Why is my Nebra Hotspot still showing relayed in Helium Explorer?](#why-is-my-nebra-hotspot-still-showing-relayed-in-helium-explorer)
 
 ##
 
@@ -31,17 +32,17 @@ The biggest difference is the outdoor unit comes in a case which is suitable to 
 
 To help you decide we've created this handy guide.
 
-| Feature | Nebra Indoor Hotspot | Nebra Outdoor Hotspot | Nebra ROCK Pi Indoor Hotspot| 
-| --- | ---  | --- | --- | 
-| **Price** | £550 ex VAT | £650 ex VAT | £550 ex VAT | 
+| Feature | Nebra Indoor Hotspot | Nebra Outdoor Hotspot | Nebra ROCK Pi Indoor Hotspot|
+| --- | ---  | --- | --- |
+| **Price** | £550 ex VAT | £650 ex VAT | £550 ex VAT |
 | **Case** | Plastic (ABS) | Aluminium | Aluminium + Acrylic |
-| **Ingress Protection** | IP40 | IP67 |  <span class="material-icons">remove_circle_outline</span>  | 
-| **Ethernet** | <span class="material-icons">check_circle</span> | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span> | 
+| **Ingress Protection** | IP40 | IP67 |  <span class="material-icons">remove_circle_outline</span>  |
+| **Ethernet** | <span class="material-icons">check_circle</span> | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span> |
 | **Wi-Fi** | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span> |
 | **Bluetooth** | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span>  | <span class="material-icons">check_circle</span> |
 | **Optional 4G Module** | <span class="material-icons">remove_circle_outline</span> | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span> |
 | **Power Over Ethernet** | <span class="material-icons">remove_circle_outline</span>*  | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span>* |
-| **Power Adaptor Included** | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span>**  | <span class="material-icons">check_circle</span> | 
+| **Power Adaptor Included** | <span class="material-icons">check_circle</span>  | <span class="material-icons">remove_circle_outline</span>**  | <span class="material-icons">check_circle</span> |
 
 \* Whilst it doesn't natively support PoE, you can use active or passive PoE injectors/splitters to achieve the same effect. More info [can be found below](#can-i-use-poe-with-the-indoor-hotspot).
 
@@ -55,7 +56,7 @@ To help you decide we've created this handy guide.
 
 
 Not sure what region you require for your Helium Hotspot? Use [Nebra Region Tool](https://region.nebra.com/) to find out!
-  
+
 You can also consult the [frequency plan guide on the TTN [website](https://www.thethingsnetwork.org/docs/lorawan/frequencies-by-country.html) to find which frequency plan matches your country, if you have any questions feel free to message.
 
 While TTN is a different LoRa network the same frequency plans apply.
@@ -72,7 +73,7 @@ We're updating shipping times based on when orders are placed, please refer to t
 
 
 Yes, both the Indoor & Outdoor Hotspots have Wi-Fi Connectivity with a 2.4Ghz 802.11n Wi-Fi Adaptor included in the units.
-  
+
 Please note: Hotspots will only work on networks with valid characters in it's SSID, or network name. All characters of the network SSID should fall into the following ranges: A-Z 0-9
 
 
@@ -195,3 +196,9 @@ The distance that you need to run the Coax will be the main factor in deciding t
 
 Check more about cables and connectors on our [antenna connectors](handy-guides/antenna/connectors.md) guide.
 
+## Why is my Nebra Hotspot still showing relayed in Helium Explorer?
+
+First of all please check out the Port forwarding guide here - https://helium.nebra.com/#/handy-guides/port-forwarding/overview
+You will need to ensure that the port 44158 is open from the outside into your Nebra Hotspot. You can test if your Nebra Hotspot has this port open by testing the port at https://portchecker.co If the status returns OPEN then you have successfully forwarded that port number.
+
+If all of the above steps have been taken and still the Helium explorer is still showing that the Nebra Hotspot is relayed then please wait 24-72 hours for this status to change. Sometimes the Helium Api can be slow to update the status of the Hotspot.
