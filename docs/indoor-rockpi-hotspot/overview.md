@@ -76,7 +76,7 @@ The frequency is set upon initialisation by the Helium Network.
 
 | Specification | Wi-Fi Antenna |
 | -- | -- |
-| **Frequency** | 2.4/5.8GHz |
+| **Frequency** | 2.4 GHz |
 | **Gain** | 2-3dBi |
 | **Length** | 194mm |
 | **Connector Type** | RP-SMA male |
