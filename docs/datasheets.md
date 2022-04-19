@@ -31,7 +31,7 @@ Here's a list of all datasheets for the following products:
 
 
 
-### Indoor ROCK Pi Hotspot 
+### Indoor ROCK Pi Hotspot
 
 | Datasheet | Description |
 | --- | ---  |
@@ -50,15 +50,15 @@ Here's a list of all datasheets for the following products:
 | Datasheet | Description |
 | --- | ---  |
 | [420-470Mhz 3dBi Plastic Antenna] | Datasheet of the 3dBi antenna included with the Indoor Unit |
-| [860-930Mhz Mhz 3dBi Plastic Antenna] | Datasheet of the 3dBi antenna included with the Indoor Unit |
+| [860-930Mhz 3dBi Plastic Antenna] | Datasheet of the 3dBi antenna included with the Indoor Unit |
 | [420-470Mhz 3dBi Glass Fiber Antenna](https://github.com/NebraLtd/Helium-Guides/blob/main/docs/datasheets/antennas/NBR-0041.pdf) | Datasheet of the 3dBi glass fiber antenna |
-| [860-930Mhz 3dBi Glass Fiber Antenna](https://helium.nebra.com/datasheets/antennas/NBR-0040.pdf)  | Datasheet of the 3dBi glass fiber antenna |
+| [860-930Mhz 3dBi Glass Fiber Antenna](https://helium.nebra.com/datasheets/antennas/Nebra-NBR-0040.pdf)  | Datasheet of the 3dBi glass fiber antenna |
 | [420-470Mhz 5.8dBi Glass Fiber Antenna] | Datasheet of the 5.8dBi glass fiber antenna |
-| [860-930Mhz 5.8dBi Glass Fiber Antenna](https://helium.nebra.com/datasheets/antennas/NBR-0042.pdf)  | Datasheet of the 5.8dBi glass fiber antenna |
-| [860-930Mhz 8dBi Glass Fiber Antenna](https://helium.nebra.com/datasheets/antennas/NBR-0039.pdf)  | Datasheet of the 8dBi glass fiber antenna |
+| [860-930Mhz 5.8dBi Glass Fiber Antenna](https://helium.nebra.com/datasheets/antennas/Nebra-NBR-0042.pdf)  | Datasheet of the 5.8dBi glass fiber antenna |
+| [860-930Mhz 8dBi Glass Fiber Antenna](https://helium.nebra.com/datasheets/antennas/Nebra-NBR-0039.pdf)  | Datasheet of the 8dBi glass fiber antenna |
 
 #### Accessories
 | Datasheet | Description |
 | --- | ---  |
-| [Nebra 12V 1.5 A Worldwide Power Supply](https://github.com/NebraLtd/Helium-Guides/blob/main/docs/datasheets/accessories/Nebra12v1.5A-Power-Supply-Datasheet.pdf) | Datasheet of the power supply included with the indoor unit. Also sold seperately.|
-| [EC25-G LTE Module Datasheet](https://www.quectel.com/wp-content/uploads/pdfupload/EP-FMEG25GMPCIs_Specification_V1.0-1609137.pdf)| Datasheet of the 4G Module sold seperately.|
+| [Nebra 12V 1.5 A Worldwide Power Supply](https://github.com/NebraLtd/Helium-Guides/blob/main/docs/datasheets/accessories/Nebra12v1.5A-Power-Supply-Datasheet.pdf) | Datasheet of the power supply included with the indoor unit. Also sold separately.|
+| [EC25-G LTE Module Datasheet](https://www.quectel.com/wp-content/uploads/pdfupload/EP-FMEG25GMPCIs_Specification_V1.0-1609137.pdf)| Datasheet of the 4G Module sold separately.|
