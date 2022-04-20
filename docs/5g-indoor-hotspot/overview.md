@@ -49,6 +49,7 @@ In its current form, the Nebra 5G Gateway utilises LoRa to mine (just like our H
 
 ## 3GPP Feature Specification
 
+| --- | ---  |
 | **3GPP Release** | 15 for LTE, 15 for 5G SA |
 | **4G Core** | MME, SGW, PGW, HSS-Lite |
 | **5G Corex** | AMF, SMF, UPF, UDM-Lite |
@@ -61,13 +62,15 @@ In its current form, the Nebra 5G Gateway utilises LoRa to mine (just like our H
 
 ## Federation Feature Specification
 
+| --- | ---  |
 | **PCRF** | Gx Diameter signalling to external PCRF (Dynamic PCC rule install/remove supported) |
 | **S8** | Home routed GTP-U support for external P-GW data path OCS |
-| **OCS** | Gy Diameter signaling to external OCS |
-| **HSS** | s6a Diameter signaling to external HSS |
+| **OCS** | Gy Diameter signalling to external OCS |
+| **HSS** | s6a Diameter signalling to external HSS |
 
 ## Networking Feature Specification
 
+| --- | ---  |
 | **UE NAT** | Support for UE IP allocation via NAT pool |
 | **UE Bridge** | Support for UE IP allocation via DHCP proxy from upstream router |
 | **UE Static IP** | Support for static IP allocation to UEs based on IMSI and per APN |
@@ -77,6 +80,7 @@ In its current form, the Nebra 5G Gateway utilises LoRa to mine (just like our H
 
 ## Software Specification
 
+| --- | ---  |
 | **OS** | Debian 9.9 (Ubuntu 20.04 coming soon) |
 | **Cloud based SW updates** | Major releases quarterly, hot patches monthly |
 | **Zero-touch provisioning** | Easy installation |
