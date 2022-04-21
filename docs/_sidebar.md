@@ -21,10 +21,15 @@
   - [Outdoor Hotspot FAQs](outdoor-hotspot/outdoor-faq.md)
 
 - RockPi Indoor Helium Hotspot
+
   - [RockPi Indoor Hotspot Overview](indoor-rockpi-hotspot/overview.md)
   - [RockPi Indoor Hotspot Quick Start](indoor-rockpi-hotspot/quick-start.md)
   - [RockPi Indoor Hotspot Troubleshooting](indoor-rockpi-hotspot/troubleshooting.md)
   - [RockPi Indoor Hotspot FAQs](indoor-rockpi-hotspot/indoor-faq.md)
+
+- 5G Indoor Helium Hotspot
+
+  - [5G Indoor Hotspot Overview](5g-indoor-hotspot/overview.md)
 
 
 - General Information
