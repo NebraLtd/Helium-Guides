@@ -1,5 +1,7 @@
 # Light Helium Hotspot Overview
 
+![Light Hotspot](../media/photos/light/Light_Gateway_1.png  ':size=800')
+
 ### This is a WIP and is in development, specifications are constantly changing for this product.
 
 ## Quick Specifications
@@ -43,9 +45,10 @@ The Nebra Light Hotspot comes in three hardware versions:
 
 | Frequency | Supported Regions |
 | --- | ---  |
-| **470 Mhz** | CN470 |
-| **868 Mhz** | EU868, IN865, RU864 |
-| **915 Mhz** | US915, AU915, AS923, KR920 |
+| **433 MHz** | EU433 |
+| **470 MHz** | CN470 |
+| **868 MHz** | EU868, IN865, RU864 |
+| **915 MHz** | US915, AU915, AS923, KR920 |
 
 The frequency is set upon initialisation by the Helium Network.
 
