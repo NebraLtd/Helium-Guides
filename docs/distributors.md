@@ -78,4 +78,8 @@ We have a range of distributors and places you can buy our hotspots from.
 * **Indoor Hotspot:** <https://bitcoinmerch.com/products/nebra-hnt-indoor-hotspot-miner-rock-pi-version>
 
 
+#### RPishop.cz (Czech Republic)
+
+* **Indoor Hotspot:** <https://rpishop.cz/longfi/4748-nebra-hnt-indoor-hotspot-miner-verze-rock-pi.html>
+
 
