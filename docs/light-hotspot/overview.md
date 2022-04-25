@@ -34,7 +34,7 @@
 
 ## Block Diagram
 
-![Indoor Hotspot Block Diagram](../media/diagrams/Indoor-Block-Diagram.png  ':size=800')
+![Indoor Hotspot Block Diagram](../media/diagrams/light/nebra-light-block.jpg  ':size=800')
 
 
 ## Supported Regions
@@ -57,7 +57,7 @@ TBC
 
 The Nebra Indoor Hotspot is 150x150x50MM In size when nothing is connected.
 
-Approximatley 175x150x50MM space is required when accounting in space required for connectors.
+Approximately 175x150x50MM space is required when accounting in space required for connectors.
 
 ## Interfaces
 
@@ -65,7 +65,7 @@ Approximatley 175x150x50MM space is required when accounting in space required f
 
 <Image>
 
-1.  9-16V @ 15W DC 6.5MMx2.0MM Barrel Jack
+1. 9-16V @ 15W DC 6.5MMx2.0MM Barrel Jack
 2. LED Indicator.
 3. Interface Button
 4. RP-SMA LoRa Connector

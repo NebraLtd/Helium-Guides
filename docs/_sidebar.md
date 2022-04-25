@@ -27,6 +27,10 @@
   - [RockPi Indoor Hotspot Troubleshooting](indoor-rockpi-hotspot/troubleshooting.md)
   - [RockPi Indoor Hotspot FAQs](indoor-rockpi-hotspot/indoor-faq.md)
 
+- Light Helium Hotspot
+
+  - [Light Hotspot Overview](light-hotspot/overview.md)
+
 - 5G Indoor Helium Hotspot
 
   - [5G Indoor Hotspot Overview](5g-indoor-hotspot/overview.md)
