@@ -62,3 +62,4 @@ Here's a list of all datasheets for the following products:
 | --- | ---  |
 | [Nebra 12V 1.5 A Worldwide Power Supply](https://github.com/NebraLtd/Helium-Guides/blob/main/docs/datasheets/accessories/Nebra12v1.5A-Power-Supply-Datasheet.pdf) | Datasheet of the power supply included with the indoor unit. Also sold separately.|
 | [EC25-G LTE Module Datasheet](https://www.quectel.com/wp-content/uploads/pdfupload/EP-FMEG25GMPCIs_Specification_V1.0-1609137.pdf)| Datasheet of the 4G Module sold separately.|
+| [Nebra LoRa Concentrator Module (SX1302/3)] (https://nebra.io/nebra-concentrator-datasheet) | Datasheet for the Nebra SX1302 & SX1303 concentrator modules |
