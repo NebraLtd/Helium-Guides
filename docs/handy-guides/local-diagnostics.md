@@ -50,7 +50,7 @@ You can typically do all of these steps on a mobile device, laptop, or desktop. 
 
 15. **BT detected**: Indicates if the bluetooth is connected.
 
-16. **Lora OK?**: Checks if the Lora module is recognized by your hotspot. If it is showing **False**, you should turn off the hotspot and reseat the LORA module. Contact us if the problem persists.
+16. **Lora OK?**: Checks if the Lora module is recognized by your hotspot. It will be showing as **False** if no location is asserted to the hotspot. Please check if your hotspot is Waiting for Location Assertion. If the region is correctly detected and it's still showing as **False** please reach out to our Support.
 
 17. **Modem Detected** : Check if the Cellular LTE module is reconginzed by your hotspot. If it is showing as **False**, turn off the hotspot and reseat the LTE module. Please note the Outdoor unit does't comes with LTE module pre-installed, it will show **False** as default.
 
