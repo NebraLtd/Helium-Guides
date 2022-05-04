@@ -35,6 +35,8 @@
 
   - [5G Indoor Hotspot Overview](5g-indoor-hotspot/overview.md)
 
+- Nebra Helium App
+  - [Nebra Helium Mobile Application](mobile-app.md)
 
 - General Information
 
