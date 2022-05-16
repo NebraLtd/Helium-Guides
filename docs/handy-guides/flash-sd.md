@@ -1,6 +1,6 @@
 # How to Flash your SD card for Nebra Firmware Update Support
 
-This guide will show you how to Flash new Firmware to your Hotspot miner so you can update the software and allow access to the local IP Nebra dashboard and in the future Nebra Dashboard for fleet management. This guide is intended for use with RAK Wireless, SenseCAP, Finestra, Pisces, OG and more coming soon.
+This guide will show you how to Flash balena OpenFleet to your Hotspot miner so you can update the software and allow access to the local IP Nebra dashboard and in the future Nebra Dashboard for fleet management. This guide is intended for use with RAK Wireless, SenseCAP, Finestra, Pisces, OG and more coming soon.
 
 ## What you will need
 
@@ -35,13 +35,18 @@ Once downloaded go ahead and open up Etcher program.
 
 **Step 4** - Before we move to the next step you will need to download the latest Openfleet software for your miner, which you can find here:
 
-* RAK - https://hub.balena.io/nebraltd/helium-rak
-* Helium OG - https://hub.balena.io/nebraltd/helium-og
-* Sensecap - https://hub.balena.io/nebraltd/helium-sensecap
-* Finestra - https://hub.balena.io/nebraltd/helium-finestra
-* Controllino - https://hub.balena.io/nebraltd/helium-controllino
-* Pisces - https://hub.balena.io/nebraltd/helium-pisces
+* RAK - https://nebra.io/rak
+* Helium OG - https://nebra.io/heliumog
+* Sensecap - https://nebra.io/sensecap
+* Finestra - https://nebra.io/finestra
+* Controllino - https://nebra.io/controllino
+* Pisces - https://nebra.io/pisces
 
+Click on one of the links above, which will redirect you to the balenaHub page for your Hotspot. Click on **Get Started** and select your preferred network connection. If you have Balena Etcher already installed you can select **Flash** otherwise you can select **Download** from the drop box by clicking the arrow.
+
+![6](../media/photos/sd/6.png)
+
+![7](../media/photos/sd/7.png)
 
 **Step 5** - Click on the **"Flash from File"** button in Etcher and navigate to where you saved your Firmware image file and select it to be installed.
 

@@ -61,7 +61,7 @@
   - [Ideal Hotspot Placement](handy-guides/hotspot-ideal-location.md)
   - [PDF Documents](pdfs/overview.md)
   - [Resource](handy-guides/resources.md)
-  - [Flash SD card](handy-guides/flash-sd.md)
+  - [Flash balena OpenFleet](handy-guides/flash-sd.md)
 
 - Contributions and Support
 
