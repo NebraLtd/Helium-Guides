@@ -147,4 +147,4 @@ To Do ✅
 
 ## Still having trouble
 
-If the above tips haven't been able to resolve your issue then get in touch at  [https://nebra.io/helium-support](/docs/support.md) and we'll work on resolving your issue. But be sure to please perform the steps above to perform the update process.
+If the above tips haven't been able to resolve your issue then get in touch at  [https://nebra.io/#/helium-support](https://helium.nebra.com/#/support) and we'll work on resolving your issue. But be sure to please perform the steps above to perform the update process.
