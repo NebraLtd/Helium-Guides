@@ -7,7 +7,7 @@ There are two different methods to access the diagnostics information of your Ne
 
 ## IP diagnostics
 
-We highly recommend utilizing the **Nebra Local Diagnostics Page**. To do so, Identify the private IP address of your hotspot by retreiving the information from Helium App Diagnostics over Bluetooth, or by using your router's admin page (Typically can be accessed by typing 192.168.1.1 into a web browser, but not all routers are the same, for more details regarding your specific router, please visit some of the router guides found [here](https://portforward.com/router.htm)).
+We highly recommend utilizing the **Nebra Local Diagnostics Page**. To do so, Identify the private IP address of your hotspot by retrieving the information from Helium App Diagnostics over Bluetooth, or by using your router's admin page (Typically can be accessed by typing 192.168.1.1 into a web browser, but not all routers are the same, for more details regarding your specific router, please visit some of the router guides found [here](https://portforward.com/router.htm)).
 
 You can typically do all of these steps on a mobile device, laptop, or desktop. Once you have identified the IP address of your unit, you will be able to access a page that looks like this:
 
@@ -38,7 +38,7 @@ You can typically do all of these steps on a mobile device, laptop, or desktop. 
 
 9. **Miner connected to Blockchain**: Will say yes if your hotspot has a good connection to the Helium network. Even when showing no your hotspot can still be connected to it, but it has less than 5 peer to peer connections. This will be updated in the future.
 
-10. **Miner Relayed**: Indicates if your hotspot is relayed. View our Port Forwarding guide if you are having trouble eliminating the relayed status.
+10. **Miner Relayed**: ~~Indicates if your hotspot is relayed. View our Port Forwarding guide if you are having trouble eliminating the relayed status.~~ Soon to be removed see [Port Forwarding Guide](../handy-guides/port-forwarding/overview.md)
 
 11. **ECC detected**: Shows True if your secure chip is detected. If it shows as false, check the hardware, reseat components. If the problem persists, contact us at support.
 
@@ -54,7 +54,7 @@ You can typically do all of these steps on a mobile device, laptop, or desktop. 
 
 17. **Modem Detected** : Check if the Cellular LTE module is reconginzed by your hotspot. If it is showing as **False**, turn off the hotspot and reseat the LTE module. Please note the Outdoor unit does't comes with LTE module pre-installed, it will show **False** as default.
 
-## In-app diagnostics 
+## In-app diagnostics
 
 To access the Helium Bluetooth diagnostics, your hotspot needs to be in pairing mode. Your hotspot is in pairing mode directly after startup. You can initiate pairing mode manually by pressing the pair button on the back of your hotspot for 10 seconds. You will now be able to pair with the hotspot in the helium app. If you are unaware of how to do this, simply click on the cog symbol on the top right corner and a new menu will appear. Choose Pair. Your hotspot will now appear.
 
@@ -62,7 +62,7 @@ To access the Helium Bluetooth diagnostics, your hotspot needs to be in pairing 
 
 ### What information can you find in here
 
-* **Hotspot name**: The animal name of your hotspot. 
+* **Hotspot name**: The animal name of your hotspot.
 
 * **Peer-to-Peer Connections**: Here you can see if your hotspot has successful Outbound and Inbound connections. It can take up to 15 minutes to update this information. If you have no inbound connections, this is an indicator that your hotspot is relayed. Refer to our port forwarding guide.
 

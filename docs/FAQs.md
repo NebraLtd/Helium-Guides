@@ -189,7 +189,6 @@ However if your are not able to find that code in your country's system you can 
 We have a growing list of distributors on our [Distributors](distributors.md) page.
 
 
-
 ## Which cable should I use between hotspot and antenna ?
 
 The distance that you need to run the Coax will be the main factor in deciding the cable to use, for short runs LMR/HDF 200 will be adequate but for longer runs then LMR/HDF 400 should be used.
@@ -198,7 +197,4 @@ Check more about cables and connectors on our [antenna connectors](handy-guides/
 
 ## Why is my Nebra Hotspot still showing relayed in Helium Explorer?
 
-First of all please check out the Port forwarding guide here - https://helium.nebra.com/#/handy-guides/port-forwarding/overview
-You will need to ensure that the port 44158 is open from the outside into your Nebra Hotspot. You can test if your Nebra Hotspot has this port open by testing the port at https://portchecker.co If the status returns OPEN then you have successfully forwarded that port number.
-
-If all of the above steps have been taken and still the Helium explorer is still showing that the Nebra Hotspot is relayed then please wait 24-72 hours for this status to change. Sometimes the Helium Api can be slow to update the status of the Hotspot.
+As per the recent development in Light Hotspots and the transition between full hotspots and light hotspots, port forwarding is now no longer required. The relayed messaging in the local dashboard will soon be removed. If your miner is still showing as relayed in the Helium Explorer please ensure that you have updated to the latest Firmware (which should be done automatically via OTA). You can check this in the [local diagnostics](../handy-guides/local-diagnostics.md).

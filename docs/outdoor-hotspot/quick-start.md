@@ -206,8 +206,6 @@ Things we need (already included with package)
 
 To configure your Hotspot, you will require the Helium Network application installed on a Mobile Phone, and for you to have gone through the account setup process to continue.
 
-> For the best results, Nebra Hotspots require some ports to be port forwarded on your network. Please check our [security](../security.md) and [port forwarding](../handy-guides/port-forwarding/overview.md) pages for more details.
-
 **Prerequisites**
 
 * Internet connected Nebra hotspot.

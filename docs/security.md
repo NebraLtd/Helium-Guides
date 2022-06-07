@@ -34,13 +34,7 @@ All of the software that runs on the Nebra Hotspots can be found on our github p
 
 ## Ports used
 
-Nebra Hotspots require the following ports to be port forwarded on your network
-
-| Port Number | Description |
-| --- | ---  |
-| 44158 | Helium Miner |
-
-The Nebra Hotspots also use the following ports, however these do not need to be port forwarded.
+The Nebra Hotspots use the following ports, however these do not need to be port forwarded.
 
 | Port Number | Description |
 | --- | ---  |

@@ -49,7 +49,7 @@ Please remember to follow these important warnings when using your Nebra Indoor 
 ![Indoor Hotspot Antenna](../media/photos/indoor/step2.jpg ':size=800')
 
 
-> Please check "[Ideal Hotspot Placement](../handy-guides/hotspot-ideal-location.md)" Guide 
+> Please check "[Ideal Hotspot Placement](../handy-guides/hotspot-ideal-location.md)" Guide
 
 **Step 3:** If you are using a wired Ethernet connection, connect an Ethernet cable between a router or switch and the Ethernet jack on the Hotspot.
 
@@ -81,12 +81,10 @@ If you have connected it to a wired Ethernet connection this process may take sl
 
 To configure your Hotspot, you will require the Helium Network application installed on a Mobile Phone, and for you to have gone through the account setup process to continue.
 
-> For the best results, Nebra Hotspots require some ports to be port forwarded on your network. Please check our [security](../security.md) and [port forwarding](../handy-guides/port-forwarding/overview.md) pages for more details.
-
 **Prerequisites**
 
-* Ready to connect nebra hotspot 
-* Helium application with account. 
+* Ready to connect nebra hotspot
+* Helium application with account.
 
 
 **Step 1:** Open the Helium application and login, then press **+ Add a Hotspot**.
@@ -129,7 +127,7 @@ To configure your Hotspot, you will require the Helium Network application insta
 ![Indoor Hotspot App Step 7](../media/photos/indoor/step10.jpg ':size=800')
 
 
-**Step 10:** Next you need to submit antenna height and power details. 
+**Step 10:** Next you need to submit antenna height and power details.
 
 **Step 11:** Provide location permission: The helium application use phone location to assert location to the device.  
 

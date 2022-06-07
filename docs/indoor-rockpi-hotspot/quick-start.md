@@ -44,7 +44,7 @@ Please remember to follow these important warnings when using your Nebra ROCK Pi
 ![Indoor Hotspot Included](../media/photos/indoorRockpi/connectAntenna.jpg)
 
 
-If you are using wired connection, plug an ethernet cable in between a router and the ethernet port on the hotspot. 
+If you are using wired connection, plug an ethernet cable in between a router and the ethernet port on the hotspot.
 
 ![Indoor Hotspot Included](../media/photos/indoorRockpi/connectETH.jpg)
 
@@ -54,19 +54,19 @@ If you are using wired connection, plug an ethernet cable in between a router an
 ![Indoor Hotspot Antenna](../media/photos/indoor/step2.jpg ':size=800')
 
 
-> Please check "[Ideal Hotspot Placement](../handy-guides/hotspot-ideal-location.md)" Guide 
+> Please check "[Ideal Hotspot Placement](../handy-guides/hotspot-ideal-location.md)" Guide
 
 
-**Step 3:** Assemble the appropriate adapter for country onto the universal power supply, plug into mains power and insert power cable into the hotspot. 
+**Step 3:** Assemble the appropriate adapter for country onto the universal power supply, plug into mains power and insert power cable into the hotspot.
 
 
 ![Indoor Hotspot Included](../media/photos/indoorRockpi/connectPower.jpg)
 
-**Step 5:** When the hotspot is powered up, the lower orange LED will be on. It will take up to 5 minutes to configure after the first boot. 
+**Step 5:** When the hotspot is powered up, the lower orange LED will be on. It will take up to 5 minutes to configure after the first boot.
 
 ![Indoor Hotspot Included](../media/photos/indoorRockpi/LEDon.jpg)
 
-This process may take slightly longer as it’ll also perform firmware updates as soon as it gets a connection to the internet. Once it's done you can see the Green light led is turned on. 
+This process may take slightly longer as it’ll also perform firmware updates as soon as it gets a connection to the internet. Once it's done you can see the Green light led is turned on.
 
 ![Indoor Hotspot Included](../media/photos/indoorRockpi/LEDonComplete.jpg)
 
@@ -77,12 +77,10 @@ This process may take slightly longer as it’ll also perform firmware updates a
 
 To configure your Hotspot, you will require the Helium Network application installed on a Mobile Phone, and for you to have gone through the account setup process to continue.
 
-> For the best results, Nebra Hotspots require some ports to be port forwarded on your network. Please check our [security](../security.md) and [port forwarding](../handy-guides/port-forwarding/overview.md) pages for more details.
-
 **Prerequisites**
 
-* Ready to connect nebra hotspot 
-* Helium application with account. 
+* Ready to connect nebra hotspot
+* Helium application with account.
 
 
 **Step 1:** Open the Helium application and login, then press **+ Add a Hotspot**.
@@ -125,7 +123,7 @@ To configure your Hotspot, you will require the Helium Network application insta
 ![Indoor Hotspot App Step 7](../media/photos/indoor/step10.jpg ':size=800')
 
 
-**Step 10:** Next you need to submit antenna height and power details. 
+**Step 10:** Next you need to submit antenna height and power details.
 
 **Step 11:** Provide location permission: The helium application use phone location to assert location to the device.  
 
