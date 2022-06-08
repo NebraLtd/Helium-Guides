@@ -19,7 +19,7 @@ Here's a list of all datasheets for the following products:
 
 | Datasheet | Description |
 | --- | ---  |
-| [Outdoor Hotspot Overview / Datasheet](https://helium.nebra.com/pdfs/outdoor-overview.pdf) | Overview PDF for the Outdoor Hotspot |
+| [Outdoor Hotspot Datasheet](https://nebra.io/outdoor-datasheet) | Overview PDF for the Outdoor Hotspot |
 | [Outdoor Hotspot Quick Start](https://helium.nebra.com/pdfs/outdoor-quick-start.pdf)  | Setup manual for the Outdoor Hotspot |
 | [860-930Mhz Antenna](https://helium.nebra.com/datasheets/antennas/NBR-0040.pdf) | Datasheet of the included 3dBi glass fiber antenna for 868 & 915 Mhz Units |
 | [Outdoor Hotspot IP67 Case Diagram](../datasheets/cases/outdoor/IP67-Diagram-DAM005C.pdf ':ignore')  | IP67 Case Dimensions in **.PDF** |
@@ -31,11 +31,11 @@ Here's a list of all datasheets for the following products:
 
 
 
-### Indoor ROCK Pi Hotspot
+#### Indoor ROCK Pi Hotspot
 
 | Datasheet | Description |
 | --- | ---  |
-| [Indoor ROCK Pi Hotspot Datasheet v2.1](https://helium.nebra.com/datasheets/hotspots/rockpi/RockPi-Helium-Miner-Datasheet-v2-1.pdf)  | Indoor ROCK Pi Hotspot Datasheet |
+| [Indoor ROCK Pi Hotspot Datasheet](https://nebra.io/rockpi-datasheet)  | Indoor ROCK Pi Hotspot Datasheet |
 | [Nebra Indoor ROCK Pi Hotspot Overview](https://helium.nebra.com/pdfs/indoor-rockpi-overview.pdf)| Overview PDF for the Indoor ROCK Pi Hotspot |
 | [Nebra Indoor ROCK Pi Hotspot Quick Start Guide](https://helium.nebra.com/pdfs/indoor-rockpi-quick-start.pdf)| Setup manual for the Indoor ROCK Pi Hotspot |
 | [Indoor ROCK Pi Hotspot FCC Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/FCC) | This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/FCC) Contains FCC Certificates and Reports For The Indoor Unit and It's Modules.|
