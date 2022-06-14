@@ -44,7 +44,13 @@ Here's a list of all datasheets for the following products:
 |[Indoor ROCK Pi Hotspot UKCA Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/UKCA)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/UKCA) Contains UKCA Certificates and Reports For The Indoor Unit and It's Modules. |
 |[Indoor ROCK Pi Hotspot IC Report](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/IC)| This [Folder](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/rock-pi/IC) Contains IC Certificates and Reports For The Indoor Unit and It's Modules. |
 
+#### Light Hotspot
 
+| Datasheet | Description |
+| --- | ---  |
+| Light Hotspot Datasheet | TBC |
+|[Light Hotspot 3D Model Lid](.../datasheets/cases/light/GATEWAY_Lid_Moulding-1.STL ':ignore')| Light Hotspot Case Lid 3D Model **.STL** Format |
+|[Light Hotspot 3D Model Base](../datasheets/cases/light/GATEWAY_Base_Moulding-1.STL ':ignore')| Light Hotspot Case Base 3D Model **.STL** Format|
 
 #### Antennas
 | Datasheet | Description |
