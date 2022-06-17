@@ -40,8 +40,6 @@ A 4G connection does not increase your HNT earnings.
 Yes, you will need to sign up for a data plan with a mobile network. You can find more details about seeing up 4G with the outdoor gateway on the [LTE Config page](../outdoor-hotspot/lte-config.md).
 
 We recommend this as it is typically cheaper to sign up to a local plan than the worldwide sims we could ship with it.
-  
-Often, cheaper SIM plans do not have a dedicated IP address and use something called [CGNAT (carrier grade network address translation)](https://en.wikipedia.org/wiki/Carrier-grade_NAT) which will mean it will be nearly impossible for you to remove the "relayed" status from your miner and to correctly set up [port forwarding](../handy-guides/port-forwarding/overview.md). For this reason, we recommend that you try to find a business SIM plan that comes with a dedicated public IP address.
 
 
 
@@ -51,7 +49,7 @@ Often, cheaper SIM plans do not have a dedicated IP address and use something ca
 Currently, we are roughly estimating 30-50GB per month so recommend a 50GB plan when using 4G.
 
 The actual usage may be slightly less or more and will be something we up-date over time as we start measuring more units.
-  
+
 Once all hotspots become "light hotspots" this data usage will reduce.
 
 
@@ -87,14 +85,11 @@ If your issues cannot be resolved with information from this FAQs page or the [t
 * Frequency of the unit (Shown as Freq on sticker)?
 * How are you connecting it to internet? (Ethernet, Wi-Fi, Cellular)?
 * How are you powering the unit? (PoE, Nebra power supply, third party adaptor)
-  
+
 If the issue relates to initial setup of the hotspot, please also include:
-  
+
 * What make & model of phone are you using?
 * What version of the Helium App are you using?
-* Do you have any screenshots of any error codes? 
+* Do you have any screenshots of any error codes?
 
 Alternatively, you can get in touch using any of the methods listed on our [support page](../support.md) and we'll work on resolving your issue.
-  
-
-
