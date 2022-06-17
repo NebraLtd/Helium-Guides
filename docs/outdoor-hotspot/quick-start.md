@@ -25,7 +25,7 @@ Your Nebra Outdoor Helium Hotspot comes with the following items:
 3. **L Shaped Mounting Brackets 2 x L**
 4. **Z clamp Brackets x 2** (for pole mounting)
 5. **Spare Blanking Plugs N-type**
-6. **M22 General Cable Gland**
+6. **Nut & washer for U clamps x4**
 7. **U Brackets for pole mounting**
 8. **Spare Cable glands M10, M20, M22**
 9. **Wi-Fi antenna N-type**
