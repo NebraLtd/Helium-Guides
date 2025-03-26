@@ -8,12 +8,11 @@ Before going anywhere else, we would highly recommend visiting our [FAQs page](F
 
 ## Product guides
 
-We have a huge amount of guides and information available on [this website](/) including how to set up your [indoor](indoor-hotspot/overview.md) and [outdoor](outdoor-hotspot/overview.md) miners and much more. It is worth having a browse around and using the search function in the menu as you may find that we have already created a tutorial to help you.
+We have a huge amount of guides and information available on [this website](broken-reference) including how to set up your [indoor](indoor-hotspot/overview.md) and [outdoor](outdoor-hotspot/overview.md) miners and much more. It is worth having a browse around and using the search function in the menu as you may find that we have already created a tutorial to help you.
 
 ## Order information
 
 For information about your order, and assuming you ordered directly from our [Nebra.com shop](https://nebra.com) and not from one of our [distributors](distributors.md), we recommend first taking a look at our [order information page](https://www.nebra.com/pages/order-information). If you still can't find the information you are looking for then please contact us directly via email to [sales@nebra.com](mailto:sales@nebra.com).
-
 
 ## GitHub
 
@@ -40,10 +39,11 @@ If you are suffering with an issue with your hotspot, it helps if you can includ
 ## Social media
 
 You can find us on social media at the following links. We do our best to respond to questions on social media however please bear in mind these aren't recommended channels for general or technical customer support:
-- [Twitter](https://twitter.com/NebraLtd)
-- [Facebook](https://facebook.com/NebraLtd)
-- [Instagram](https://instagram.com/NebraLtd)
-- [YouTube](https://youtube.com/channel/UCAB2dClW-LV8jgDgCrsmFwQ)
+
+* [Twitter](https://twitter.com/NebraLtd)
+* [Facebook](https://facebook.com/NebraLtd)
+* [Instagram](https://instagram.com/NebraLtd)
+* [YouTube](https://youtube.com/channel/UCAB2dClW-LV8jgDgCrsmFwQ)
 
 ## Generic Helium questions
 

@@ -4,26 +4,27 @@ Der Nebra Outdoor Helium Hotspot ist eine optimale Lösung zur Bereitstellung de
 
 ## Spezifikationen
 
-| Spezifikation | Nebra Outdoor Hotspot |
-| --- | ---  |
-| **UVP** | £350 exkl. Steuer |
-| **Gehäuse** |  |
-| **Schutzklasse** | IP67 |
-| **Abmessungen** | 300x200x100 mm (Ohne Antenne) |
-| **Gewicht** | 1.25 Kg |
-| **Leistungsbedarf** | 802.3AF 48V POE *oder* 9-16V DC @ 15W |
-| **Durchschnittlicher Stromverbrauch** | ~12-15W* |
-| **Jährlicher Stromverbrauch** | ~105-130kWh |
-| **Maximale Sendeleistung** | 24-27dBm** |
-| **Netzwerkanschluss** | 10/100 Ethernet, 2.4Ghz 802.11N Wi-Fi, optionales 4G-Modul erhältlich.|
-| **Antennenanschluss** | N Type Female |
-| **Base SOM** | Raspberry Pi CM3+ |
-| **CPU Spezifikation** | Broadcom BCM2837B0, Quad Core Cortex-A53 (ARMv8) 64-bit SoC @ 1.2GHz |
-| **Speicherplatz** | 32GB |
-| **RAM** | 1GB LPDDR2 SDRAM |
+| Spezifikation                         | Nebra Outdoor Hotspot                                                  |
+| ------------------------------------- | ---------------------------------------------------------------------- |
+| **UVP**                               | £350 exkl. Steuer                                                      |
+| **Gehäuse**                           |                                                                        |
+| **Schutzklasse**                      | IP67                                                                   |
+| **Abmessungen**                       | 300x200x100 mm (Ohne Antenne)                                          |
+| **Gewicht**                           | 1.25 Kg                                                                |
+| **Leistungsbedarf**                   | 802.3AF 48V POE _oder_ 9-16V DC @ 15W                                  |
+| **Durchschnittlicher Stromverbrauch** | \~12-15W\*                                                             |
+| **Jährlicher Stromverbrauch**         | \~105-130kWh                                                           |
+| **Maximale Sendeleistung**            | 24-27dBm\*\*                                                           |
+| **Netzwerkanschluss**                 | 10/100 Ethernet, 2.4Ghz 802.11N Wi-Fi, optionales 4G-Modul erhältlich. |
+| **Antennenanschluss**                 | N Type Female                                                          |
+| **Base SOM**                          | Raspberry Pi CM3+                                                      |
+| **CPU Spezifikation**                 | Broadcom BCM2837B0, Quad Core Cortex-A53 (ARMv8) 64-bit SoC @ 1.2GHz   |
+| **Speicherplatz**                     | 32GB                                                                   |
+| **RAM**                               | 1GB LPDDR2 SDRAM                                                       |
 
-###### * Durchschnittlicher Stromverbrauch, gemessen am Netz,
-###### ** Die maximale Sendeleistung kann in manchen Regionen eingeschränkt sein.
+**\* Durchschnittlicher Stromverbrauch, gemessen am Netz,**
+
+**\*\* Die maximale Sendeleistung kann in manchen Regionen eingeschränkt sein.**
 
 ## Lieferumfang
 
@@ -32,70 +33,57 @@ Der Nebra Outdoor Helium Hotspot ist eine optimale Lösung zur Bereitstellung de
 
 ## Block Diagramm
 
-![Outdoor Hotspot Block Diagram](../media/diagrams/Outdoor-Block-Diagram.png  ':size=800')
-
+![Outdoor Hotspot Block Diagram](../media/diagrams/Outdoor-Block-Diagram.png)
 
 ## Unterstützte Regionen
 
 Der Nebra Outdoor Hotspot ist in drei verschiedenen Varianten erhältlich:
 
-| Frequenz | Unterstützte Regionen |
-| --- | ---  |
-| **470 Mhz** | CN470 |
-| **868 Mhz** | EU868, IN865, RU864 |
+| Frequenz    | Unterstützte Regionen      |
+| ----------- | -------------------------- |
+| **470 Mhz** | CN470                      |
+| **868 Mhz** | EU868, IN865, RU864        |
 | **915 Mhz** | US915, AU915, AS923, KR920 |
 
 Die Frequenz wird automatisch vom Helium Netzwerk bei der Installation gesetzt.
 
 ## Antennen Spezifikationen
 
-| Spezifikation | 470Mhz Modell | 868 & 915Mhz Modelle |
-| --- | --- | --- |
-| **Frequenz Bandbreite** | 420-480 | 860-930 Mhz|
-| **Maximale Verstärkung** |  | 3 dBi |
-| **VSWR** |  | ≤1.5 |
-| **Eingangsimpedanz** | 50 Ohms | 50 Ohms |
-| **Länge** |  | 30CM |
-
+| Spezifikation            | 470Mhz Modell | 868 & 915Mhz Modelle |
+| ------------------------ | ------------- | -------------------- |
+| **Frequenz Bandbreite**  | 420-480       | 860-930 Mhz          |
+| **Maximale Verstärkung** |               | 3 dBi                |
+| **VSWR**                 |               | ≤1.5                 |
+| **Eingangsimpedanz**     | 50 Ohms       | 50 Ohms              |
+| **Länge**                |               | 30CM                 |
 
 ## Abmesseungen
 
 Der Nebra Outdoor Hotspot ist ungefähr 300x200x100 mm groß, wenn nichts angeschlossen ist.
 
-
 ## Schnittstellen
 
 #### Anschlüsse
 
-##### Außenseite
-
-<Image>
+**Außenseite**
 
 1. CAT 5e Kabeldurchgang
 2. N-Type Female LoRa Antenna Connector
 
-##### Innenseite
-
-<Image>
+**Innenseite**
 
 1. 9-16V @ 15W DC 6.5MMx2.0MM Klinke
 2. Ethernet Anschluss
 3. LED Indikator.
 4. Interface Schalter
 5. 4G / LTE Modul Anschluss
-5. Sim Karten Slot
+6. Sim Karten Slot
 
 #### Status Indicator
----
-title:
-header-includes:
-   \usepackage{graphicx}
-   \usepackage{fancyhdr}
-   \pagestyle{fancy}
-   \setlength\headheight{28pt}
-   \fancyhead[L]{\includegraphics[width=5cm]{../media/Nebra.png}}
-   \fancyfoot[LE,RO]{Nebra LTD. 2021}
-...
+
+***
+
+title: header-includes: \usepackage{graphicx} \usepackage{fancyhdr} \pagestyle{fancy} \setlength\headheight{28pt} \fancyhead\[L]{\includegraphics\[width=5cm]{../media/Nebra.png\}} \fancyfoot\[LE,RO]{Nebra LTD. 2021} ...
 
 Die Nebra Outdoor Hotspot hat eine Statusanzeige wie oben abgebildet.
 
@@ -104,7 +92,7 @@ Die obere LED verhält sich wie folgt:
 * Aus - Die Software ist noch nicht gestartet.
 * An - normaler Betrieb
 * Langsames blinken - Bluetooth koppel ist aktiviert
-* Schnelles Blinken - Es besteht ein Fehler. Bitte prüfen sie die Diagnoseseite. 
+* Schnelles Blinken - Es besteht ein Fehler. Bitte prüfen sie die Diagnoseseite.
 
 #### Schalter
 

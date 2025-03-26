@@ -2,61 +2,56 @@
 
 The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium LongFi coverage and suitable for use outside in most envrionments.
 
+* [Specifications](overview.md#specifications)
+* [Package Contents](overview.md#package-contents)
+* [Block Diagram](overview.md#block-diagram)
+* [Supported Regions](overview.md#supported-regions)
+* [Antenna Specifications](overview.md#antenna-specifications)
+* [Hardware Overview](overview.md#hardware-overview)
+  * [Mainboard Layout](overview.md#mainboard-layout)
+  * [Status LEDS](overview.md#status-leds)
+  * [Daughterboard Overview](overview.md#daughterboard-overview)
+* [Dimensions](overview.md#dimensions)
+* [Interfaces](overview.md#interfaces)
+  * [Status Indicator](overview.md#status-indicator)
+  * [Button](overview.md#button)
+* [Firmware](overview.md#firmware)
+* [Certifications](overview.md#certifications)
+  * [Certification List](overview.md#certification-list)
+  * [Certification Codes](overview.md#certification-codes)
+  * [FCC Statement](overview.md#fcc-statement)
+* [Resources](overview.md#resources)
 
-* [Specifications](#specifications)
-* [Package Contents](#package-contents)
-* [Block Diagram](#block-diagram)
-* [Supported Regions](#supported-regions)
-* [Antenna Specifications](#antenna-specifications)
-* [Hardware Overview](#hardware-overview)
-    * [Mainboard Layout](#mainboard-layout)
-    * [Status LEDS](#status-leds)
-    * [Daughterboard Overview](#daughterboard-overview)
-* [Dimensions](#dimensions)
-* [Interfaces](#interfaces)
-    * [Status Indicator](#status-indicator)
-    * [Button](#button)
-* [Firmware](#firmware)
-* [Certifications](#certifications)
-    * [Certification List](#certification-list)
-    * [Certification Codes](#certification-codes)
-    * [FCC Statement](#fcc-statement)
-* [Resources](#resources)
-
-
-
-<hr>
-
+***
 
 ## Specifications
 
-| Specification | Nebra Outdoor Hotspot |
-| --- | ---  |
-| **RRP** | £450 ex VAT |
-| **Ingress Protection** | IP67 |
-| **Dimensions** | 300x200x100 mm (Excluding Antenna) |
-| **Rated Ambient Temperature** |-25-80<sup>oC</sup> |
-| **Weight** | 1.25 Kg |
-| **Power Requirement** | 802.3AF 48V POE *OR* 9-16V DC @ 15W |
-| **Average Power Consumption** | ~12-15W* |
-| **Annual Power Consumption** | ~105-130kWh |
-| **Maximum TX Power** | 24-27dBm** |
-| **Network Connectivity** | 10/100 Ethernet, 2.4Ghz 802.11N Wi-Fi, Optional 4G Module available separately.|
-| **Antenna Connection** | N Type Female |
-| **Base SOM** | Raspberry Pi CM3+ |
-| **CPU Specification** | Broadcom BCM2837B0, Quad Core Cortex-A53 (ARMv8) 64-bit SoC @ 1.2GHz |
-| **High Endurance Storage** | 32GB |
-| **RAM** | 1GB LPDDR2 SDRAM |
-| **Outer dimensions (w/o connectors)** |235mm x 155mm x 75mm|
+| Specification                         | Nebra Outdoor Hotspot                                                           |
+| ------------------------------------- | ------------------------------------------------------------------------------- |
+| **RRP**                               | £450 ex VAT                                                                     |
+| **Ingress Protection**                | IP67                                                                            |
+| **Dimensions**                        | 300x200x100 mm (Excluding Antenna)                                              |
+| **Rated Ambient Temperature**         | -25-80oC                                                                        |
+| **Weight**                            | 1.25 Kg                                                                         |
+| **Power Requirement**                 | 802.3AF 48V POE _OR_ 9-16V DC @ 15W                                             |
+| **Average Power Consumption**         | \~12-15W\*                                                                      |
+| **Annual Power Consumption**          | \~105-130kWh                                                                    |
+| **Maximum TX Power**                  | 24-27dBm\*\*                                                                    |
+| **Network Connectivity**              | 10/100 Ethernet, 2.4Ghz 802.11N Wi-Fi, Optional 4G Module available separately. |
+| **Antenna Connection**                | N Type Female                                                                   |
+| **Base SOM**                          | Raspberry Pi CM3+                                                               |
+| **CPU Specification**                 | Broadcom BCM2837B0, Quad Core Cortex-A53 (ARMv8) 64-bit SoC @ 1.2GHz            |
+| **High Endurance Storage**            | 32GB                                                                            |
+| **RAM**                               | 1GB LPDDR2 SDRAM                                                                |
+| **Outer dimensions (w/o connectors)** | 235mm x 155mm x 75mm                                                            |
 
+**\* Average Power Consumption Measured At Mains, higher average consumption when the optional 4G Module is used.**
 
-###### * Average Power Consumption Measured At Mains, higher average consumption when the optional 4G Module is used.
-###### ** Maximum TX Power may be capped to a lower amount in some regions.
+**\*\* Maximum TX Power may be capped to a lower amount in some regions.**
 
 ## Package Contents
 
-![Outdoor Hotspot Included](../media/photos/outdoor/Accessories-Numbered.png ':size=800')
-
+![Outdoor Hotspot Included](../media/photos/outdoor/Accessories-Numbered.png)
 
 1. **3 dBi N-Type Glass Fiber Antenna**
 2. **Sealing String**
@@ -71,43 +66,40 @@ The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium
 * **Serial Number QR Code Stickers x 2**
 * **Nebra Stickers x 2**
 
-
 ## Block Diagram
 
-![Outdoor Hotspot Block Diagram](../media/diagrams/outdoor/block-diagram.png  ':size=800')
-
+![Outdoor Hotspot Block Diagram](../media/diagrams/outdoor/block-diagram.png)
 
 ## Supported Regions
 
 The Nebra Outdoor Hotspot comes in three hardware versions:
 
-| Frequency | Supported Regions |
-| --- | ---  |
-| **433 Mhz** | Coming Soon |
-| **470 Mhz** | CN470 |
-| **868 Mhz** | EU868, IN865, RU864 |
+| Frequency   | Supported Regions                  |
+| ----------- | ---------------------------------- |
+| **433 Mhz** | Coming Soon                        |
+| **470 Mhz** | CN470                              |
+| **868 Mhz** | EU868, IN865, RU864                |
 | **915 Mhz** | US915, AU915, AS923-1/2/3/4, KR920 |
 
 The frequency is set upon initialisation by the Helium Network.
 
 ## Antenna Specifications
 
-| Specification | 470Mhz Model | 868 & 915Mhz Models |
-| --- | --- | --- |
-| **Frequency Range** | 420-480 | 860-930 Mhz|
-| **Peak Gain** | 3 dBi | 3 dBi |
-| **VSWR** | ≤1.5 | ≤1.5 |
-| **Input Impediance** | 50 Ohms | 50 Ohms |
-| **Length** | 50CM | 30CM |
-
+| Specification        | 470Mhz Model | 868 & 915Mhz Models |
+| -------------------- | ------------ | ------------------- |
+| **Frequency Range**  | 420-480      | 860-930 Mhz         |
+| **Peak Gain**        | 3 dBi        | 3 dBi               |
+| **VSWR**             | ≤1.5         | ≤1.5                |
+| **Input Impediance** | 50 Ohms      | 50 Ohms             |
+| **Length**           | 50CM         | 30CM                |
 
 ## Hardware Overview
 
 ### Mainboard Layout
 
-![SmartGatewayBreakdown](../media/photos/outdoor/smartGatewayBreakdown-sm.png ':size=800')
+![SmartGatewayBreakdown](../media/photos/outdoor/smartGatewayBreakdown-sm.png)
 
-##### Layout Contents
+**Layout Contents**
 
 1. DC Barrel Jack - 2MM Pin, 6.5MM Barrel centre positive. Recommended PSU 12V @1.5A.
 2. LAN Connector - RJ45 Connector wired to the Ethernet & POE Modules.
@@ -124,20 +116,24 @@ The frequency is set upon initialisation by the Helium Network.
 13. GPS Module - NEO-6M GPS module, connected to UART1 on the compute module. Plus PPS signal to LoRa modules for accurate timings. **PLEASE NOTE: this is not used by the Nebra Helium Hotspots and is only present on the first batch.**
 14. Daughterboard Connector - Connects to Compute Module Daughterboard.
 
-#####  Status LEDS
+**Status LEDS**
+
 The mainboard has 3 Status LEDs which do the following:
+
 * 12V LED - Indicates the mainboard has power located near the jumper.
 * 5V LED - Indicates the 5V regulator is operational located in the power section.
 * 3V3 LED - Indicates the 3V3 regulator is operational located in the power section.
 
-####  Daughterboard Overview
+#### Daughterboard Overview
+
 The standard daughterboard supports both the Compute Module 3 and Compute Module 3+ (including Lite) variants.
 
 While also compatible with the CM1 we recommend using the CM3 / CM3+ / CM3 Lite / CM3+ Lite for the extra power and RAM as well as larger onboard storage options.
 
-![DaughterboardBreakdown](../media/photos/outdoor/daughterboardBreakdown.png ':size=800')
+![DaughterboardBreakdown](../media/photos/outdoor/daughterboardBreakdown.png)
 
-##### Layout Contents
+**Layout Contents**
+
 1. Daughterboard Connector - Connects to the Mainboard.
 2. SO-DIMM connector - Raspberry Pi Compute Module connects here.
 3. Power Regulator - Power Circuitry required for the compute module.
@@ -147,8 +143,7 @@ While also compatible with the CM1 we recommend using the CM3 / CM3+ / CM3 Lite 
 7. USB Jumper - Used to switch between normal operation and flash mode, ensure it is in position 1-2 for normal operation and 2-3 for programming.
 8. Power Jumper - Allows the module to be powered from the Micro USB connector. Only connect when programming from PC and ensure mainboard is not connected.
 
-##### Status LEDS
-
+**Status LEDS**
 
 The board has 2 Status LEDs which do the following:
 
@@ -157,34 +152,31 @@ The board has 2 Status LEDs which do the following:
 
 ## Dimensions
 
-![DaughterboardBreakdown](../media/photos/outdoor/Dimensions.png ':size=800')
-
+![DaughterboardBreakdown](../media/photos/outdoor/Dimensions.png)
 
 The Nebra Outdoor Hotspot is approximately 300x200x100 mm In size when nothing is connected.
 
-> You can find the datasheet [here](#resources)
+> You can find the datasheet [here](overview.md#resources)
 
 ## Interfaces
 
 #### Connectors
 
-##### From the outside
-
-<Image>
+**From the outside**
 
 1. CAT 5e Gland / Passthrough Gland
 2. N-Type Female LoRa Antenna Connector
 
 #### On the inside
 
-![DaughterboardBreakdown](../media/photos/outdoor/Inside-Interfaces.jpg ':size=500')
+![DaughterboardBreakdown](../media/photos/outdoor/Inside-Interfaces.jpg)
 
 1. **9-16V @ 15W DC 6.5MMx2.0MM Barrel Jack**
 2. **Ethernet Connector**
 3. **LED Indicator**
 4. **Interface Button**
 5. **4G / LTE Module Connector**
-5. **Sim Card Slot**
+6. **Sim Card Slot**
 
 #### Status Indicator
 
@@ -219,26 +211,26 @@ We are working on getting the Nebra Outdoor Hotspot certified in multiple region
 
 #### Certification List
 
-| Approval | Countries Covered | Hardware Frequency | Status | Frequency Plans |
-| --- | --- | --- | --- | --- |
-| CE | European Economic Area | 868 Mhz | [Completed](https://helium.nebra.com/certifications/outdoor/raspberry-pi/CE/EU%20Declaration%20of%20Conformity%20%28DoC%29.pdf) | EU 868 |
-| UKCA | United Kingdom | 868 Mhz | In Progress | EU 868 |
-| FCC | United States of America | 915 Mhz | [Completed](https://helium.nebra.com/certifications/outdoor/raspberry-pi/FCC/P21SZ07107%20FCC%20ID%202AZDM-HNTOUT-JAD.pdf) | US 915 |
-| ISED | Canada | 915 Mhz | In Progress | US 915 |
-| RCM | Australia & New Zealand | 915 Mhz | In Progress | AU 915 |
-| MIC | Japan | 915 Mhz | In Progress | AS920 (AS1) |
-| SRRC | China | 470 Mhz | In Progress | CN 470 |
-| EAC  | Russia | 868 Mhz | In Progress | RU 864 |
-| WPC | India | 868 Mhz | In Progress | IN 865 |
+| Approval | Countries Covered        | Hardware Frequency | Status                                                                                                                        | Frequency Plans |
+| -------- | ------------------------ | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| CE       | European Economic Area   | 868 Mhz            | [Completed](https://helium.nebra.com/certifications/outdoor/raspberry-pi/CE/EU%20Declaration%20of%20Conformity%20\(DoC\).pdf) | EU 868          |
+| UKCA     | United Kingdom           | 868 Mhz            | In Progress                                                                                                                   | EU 868          |
+| FCC      | United States of America | 915 Mhz            | [Completed](https://helium.nebra.com/certifications/outdoor/raspberry-pi/FCC/P21SZ07107%20FCC%20ID%202AZDM-HNTOUT-JAD.pdf)    | US 915          |
+| ISED     | Canada                   | 915 Mhz            | In Progress                                                                                                                   | US 915          |
+| RCM      | Australia & New Zealand  | 915 Mhz            | In Progress                                                                                                                   | AU 915          |
+| MIC      | Japan                    | 915 Mhz            | In Progress                                                                                                                   | AS920 (AS1)     |
+| SRRC     | China                    | 470 Mhz            | In Progress                                                                                                                   | CN 470          |
+| EAC      | Russia                   | 868 Mhz            | In Progress                                                                                                                   | RU 864          |
+| WPC      | India                    | 868 Mhz            | In Progress                                                                                                                   | IN 865          |
 
 All certification related documents can be viewed in the [certification folder for our outdoor Raspberry Pi miner](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/outdoor/raspberry-pi).
 
 #### Certification Codes
 
-| Certification | ID Code |
-| --- | ---  |
-| FCC | 2AZDM-HNTOUT |
-| ISED | 27187-HNTOUT |
+| Certification | ID Code      |
+| ------------- | ------------ |
+| FCC           | 2AZDM-HNTOUT |
+| ISED          | 27187-HNTOUT |
 
 #### FCC Statement
 
@@ -249,13 +241,10 @@ This device complies with Part 15 of the FCC Rules. Operation is subject to the 
 
 Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the equipment.
 
-NOTE:
-This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to Part 15 of the FCC Rules.
-These limits are designed to provide reasonable protection against harmful interference in a residential installation.
-This equipment generates uses and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications.
-However, there is no guarantee that interference will not occur in a particular installation.
+NOTE: This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to Part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential installation. This equipment generates uses and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications. However, there is no guarantee that interference will not occur in a particular installation.
 
 If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one or more of the following measures:
+
 * Reorient or relocate the receiving antenna.
 * Increase the separation between the equipment and receiver.
 * Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
@@ -265,9 +254,9 @@ If this equipment does cause harmful interference to radio or television recepti
 
 You can find 2D and 3D drawings of the outdoor IP67 case here
 
-* [Outdoor IP67 Case Diagram](../datasheets/cases/outdoor/IP67-Diagram-DAM005C.pdf ':ignore')
-* [Outdoor IP67 Case Drawing](../datasheets/cases/outdoor/IP67-Diagram.dwg ':ignore')
-* [Outdoor IP67 3D Model Top](../datasheets/cases/outdoor/IP67-3D-Model-DAM005CLID.stp ':ignore')
-* [Outdoor IP67 3D Model Bottom](../datasheets/cases/outdoor/IP67-3D-Model-DAM-005CBOTTOM.stp ':ignore')
+* [Outdoor IP67 Case Diagram](../datasheets/cases/outdoor/IP67-Diagram-DAM005C.pdf)
+* [Outdoor IP67 Case Drawing](../datasheets/cases/outdoor/IP67-Diagram.dwg)
+* [Outdoor IP67 3D Model Top](../datasheets/cases/outdoor/IP67-3D-Model-DAM005CLID.stp)
+* [Outdoor IP67 3D Model Bottom](../datasheets/cases/outdoor/IP67-3D-Model-DAM-005CBOTTOM.stp)
 
-Click [here](../datasheets/cases/outdoor/IP67-Diagram.zip ':ignore') to download all the files.
+Click [here](../datasheets/cases/outdoor/IP67-Diagram.zip) to download all the files.

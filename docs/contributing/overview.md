@@ -1,7 +1,5 @@
 # Contribution
 
-
-
 ## Creating an Issue
 
 Found an issue, inform us! We can make the respective changes.
@@ -36,28 +34,31 @@ Add an appropriate title and answer the questions in the description field. You 
 [Fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) your own copy of [NebraLtd/Helium-Guides](https://github.com/NebraLtd/Helium-Guides) to your account.
 
 Then clone a local copy:
-```console
+
+```
 git clone git@github.com:<your-github-username>/Helium-Guides
 cd Helium-Guides
 ```
+
 ### Step 2: Make your contributions
 
 This documentation is produced from our extensive global community. We gladly welcome any of the following:
+
 * typo fixes
 * documentation improvements
 * documentation translations
 
 ### Step 3: Create a commit for the submission
 
-```console
+```
 git add *
 git commit -m "Brief description of your changes"
 git push origin HEAD
 ```
 
 ### Non-CLI options
-**If you are not super familar with using git in a command-line enviorment, feel free to perform these actions using Github.com, or Github Desktop. Once you have forked the main branch, the rest of the process should be pretty straightforward. Make changes in your copy of this repository, and submit a Pull Request to get your changes reviewed. Cheers!**
 
+**If you are not super familar with using git in a command-line enviorment, feel free to perform these actions using Github.com, or Github Desktop. Once you have forked the main branch, the rest of the process should be pretty straightforward. Make changes in your copy of this repository, and submit a Pull Request to get your changes reviewed. Cheers!**
 
 ### Step 4: Make a Pull Request
 

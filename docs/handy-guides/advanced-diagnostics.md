@@ -1,46 +1,43 @@
 # Nebra Helium Hotspot Advanced Diagnostics Information
 
-* [Nebra Indoor Hotspot](#nebra-indoor-hotspot)
-    * [External lights](#external-lights)
-    * [Internal Lights](#internal-lights)
-* [Nebra Outdoor Hotspot](#nebra-outdoor-hotspot)
-* [Nebra CM3 Daughterboard Lights](#nebra-cm3-daughterboard-lights)
-* [Daughterboard Jumpers](#daughterboard-jumpers)
-
-
+* [Nebra Indoor Hotspot](advanced-diagnostics.md#nebra-indoor-hotspot)
+  * [External lights](advanced-diagnostics.md#external-lights)
+  * [Internal Lights](advanced-diagnostics.md#internal-lights)
+* [Nebra Outdoor Hotspot](advanced-diagnostics.md#nebra-outdoor-hotspot)
+* [Nebra CM3 Daughterboard Lights](advanced-diagnostics.md#nebra-cm3-daughterboard-lights)
+* [Daughterboard Jumpers](advanced-diagnostics.md#daughterboard-jumpers)
 
 ## Nebra Indoor Hotspot
 
 The Nebra Indoor Hotspot has six lights that can indicate certain issues or conditions.
 
 ### External lights
+
 The main lights are located on the back of the unit, one green, and one amber.
 
 ![Indoor External Lights](../media/photos/indoor/indoor-external-lights.png)
 
-**Amber Light: Power Indicator**  - This should turn on as soon as the unit is plugged in, it will indicate that power is present.
+**Amber Light: Power Indicator** - This should turn on as soon as the unit is plugged in, it will indicate that power is present.
 
-**Green Light: Activity LED**  - This light will turn on one minute after powering up, indicating the software has started. It should then advance to become a slow blink.
+**Green Light: Activity LED** - This light will turn on one minute after powering up, indicating the software has started. It should then advance to become a slow blink.
 
-#### Green Light Blinking  Status 
+#### Green Light Blinking Status
 
 * Blink fast if diagnostics are not OK
 * Blink slowly if advertising Bluetooth
-* Solid if diagnostics are OK and not advertising 
+* Solid if diagnostics are OK and not advertising
 
 If the light does not turn on, there may be an issue with the daughterboard inside the unit. Open your unit and investigate, many issues can be resolved by reseating components.
 
 ### Internal Lights
 
-The Indoor hotspot has 4 internal lights. 
+The Indoor hotspot has 4 internal lights.
 
 ![](../media/photos/indoor/Indoor-internal-lights.png)
 
-* **Daughter Board Status Indicator** :  In normal operation, this BLUE led will turn off. During boot, it will blink several times.
-
-* **3.3v and 5v Power Indicator** : These are two RED LEDs that indicate the 3.3v and 5v power supply status. 
-
-*  **Daughter Board Status Indicator**: This green LED indicates power is present for the daughterboard.
+* **Daughter Board Status Indicator** : In normal operation, this BLUE led will turn off. During boot, it will blink several times.
+* **3.3v and 5v Power Indicator** : These are two RED LEDs that indicate the 3.3v and 5v power supply status.
+* **Daughter Board Status Indicator**: This green LED indicates power is present for the daughterboard.
 
 ## Nebra Outdoor Hotspot
 
@@ -60,12 +57,10 @@ If this light does not blink at all, it could indicate that the compute module i
 
 ## Daughterboard Jumpers
 
-**JP3 - Power Jumper**
-JP3 enables the unit to enter program mode.
+**JP3 - Power Jumper** JP3 enables the unit to enter program mode.
 
-**JP4 - Onboard Flash Jumper**
-This jumper is used in conjunction with JP3 to put the CM3 into program mode. This disables the onboard flash and the CM3 is ready to receive data over MicroUSB.
+**JP4 - Onboard Flash Jumper** This jumper is used in conjunction with JP3 to put the CM3 into program mode. This disables the onboard flash and the CM3 is ready to receive data over MicroUSB.
 
-**Only to be connected if you are connecting to a computer to view the files and/or make changes. No external power is required, you will need compute module drivers found [here].(https://github.com/raspberrypi/usbboot/raw/master/win32/rpiboot_setup.exe)**
+**Only to be connected if you are connecting to a computer to view the files and/or make changes. No external power is required, you will need compute module drivers found \[here].(https://github.com/raspberrypi/usbboot/raw/master/win32/rpiboot\_setup.exe)**
 
 **For normal operation the JP4 jumper should be in position 1+2**

@@ -1,10 +1,9 @@
-<!-- _coverpage.md -->
-![]()
-![Nebra Logo](media/Nebra.svg  ':size=400')
+# \_coverpage
 
-# Helium Hotspot User Guides
+![Nebra Logo](media/Nebra.svg)
 
-[Getting Started](#helium-hotspot-guides)
-[Buy Now](https://www.nebra.com/collections/helium-hotspot-miners-hnt)
+## Helium Hotspot User Guides
+
+[Getting Started](_coverpage.md#helium-hotspot-guides) [Buy Now](https://www.nebra.com/collections/helium-hotspot-miners-hnt)
 
 ![color](#f0f0f0)

@@ -1,3 +1,5 @@
-- Translations
-  - [:uk: English](/)
-  - [:de: Deutsch](/de-de/)
+# \_navbar
+
+* Translations
+  * [:uk: English](broken-reference)
+  * [:de: Deutsch](../de-de/)

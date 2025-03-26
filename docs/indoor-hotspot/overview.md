@@ -1,58 +1,57 @@
 # Indoor Helium Hotspot Overview
 
-* [Quick Specifications](#quick-specifications)
-* [Package Contents](#package-contents)
-* [Block Diagram](#block-diagram)
-* [Supported Regions](#supported-regions)
-* [Antenna Specifications](#antenna-specifications)
-* [Dimensions](#dimensions)
-* [Interfaces](#interfaces)
-    * [Connectors](#connectors)
-    * [Status Indicator](#status-indicator)
-    * [Button](#status-indicator )
-* [Firmware](#firmware)
-* [Unit Information](#unit-information)
-* [Certifications ](#certifications )
-    * [Certification List](#certification-list)
-    * [Certification Codes](#certification-codes)
-    * [FCC Statement](#fcc-Statement)
+* [Quick Specifications](overview.md#quick-specifications)
+* [Package Contents](overview.md#package-contents)
+* [Block Diagram](overview.md#block-diagram)
+* [Supported Regions](overview.md#supported-regions)
+* [Antenna Specifications](overview.md#antenna-specifications)
+* [Dimensions](overview.md#dimensions)
+* [Interfaces](overview.md#interfaces)
+  * [Connectors](overview.md#connectors)
+  * [Status Indicator](overview.md#status-indicator)
+  * [Button](overview.md#status-indicator)
+* [Firmware](overview.md#firmware)
+* [Unit Information](overview.md#unit-information)
+* [Certifications](overview.md#certifications)
+  * [Certification List](overview.md#certification-list)
+  * [Certification Codes](overview.md#certification-codes)
+  * [FCC Statement](overview.md#fcc-Statement)
 
+***
 
-<hr>
-
-![Indoor Hotspot Included](../media/photos/indoor/Indoor-flyer.png ':size=800')
+![Indoor Hotspot Included](../media/photos/indoor/Indoor-flyer.png)
 
 The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Helium LongFi coverage and start mining HNT with ease.
 
 ## Quick Specifications
 
-| Specification | Nebra Indoor Hotspot |
-| --- | ---  |
-| **RRP** | £350 ex VAT |
-| **Case** | Plastic (ABS) |
-| **Ingress Protection** | IP40 |
-| **Dimensions** | 150x150x50 mm (Excluding Antenna) |
-| **Weight** | 0.4 Kg |
-| **Power Requirement** | 9-16V DC @ 15W |
-| **Average Power Consumption** | ~8W* |
-| **Annual Power Consumption** | ~70kWh |
-| **Maximum TX Power** | 24-27dBm** |
-| **Network Connectivity** | 10/100 Ethernet, 2.4Ghz 802.11N Wi-Fi |
-| **Antenna Connection** | RP-SMA Female |
-| **Rated Ambient Temperature** | 20-30C |
-| **Base SOM** | Raspberry Pi CM3+ |
-| **CPU Specification** | Broadcom BCM2837B0, Quad Core Cortex-A53 (ARMv8) 64-bit SoC @ 1.2GHz |
-| **High Endurance Storage** | 32GB |
-| **RAM** | 1GB LPDDR2 SDRAM |
-| **Internal PCB Dimensions** | ~ 139x139x30 mm |
+| Specification                 | Nebra Indoor Hotspot                                                 |
+| ----------------------------- | -------------------------------------------------------------------- |
+| **RRP**                       | £350 ex VAT                                                          |
+| **Case**                      | Plastic (ABS)                                                        |
+| **Ingress Protection**        | IP40                                                                 |
+| **Dimensions**                | 150x150x50 mm (Excluding Antenna)                                    |
+| **Weight**                    | 0.4 Kg                                                               |
+| **Power Requirement**         | 9-16V DC @ 15W                                                       |
+| **Average Power Consumption** | \~8W\*                                                               |
+| **Annual Power Consumption**  | \~70kWh                                                              |
+| **Maximum TX Power**          | 24-27dBm\*\*                                                         |
+| **Network Connectivity**      | 10/100 Ethernet, 2.4Ghz 802.11N Wi-Fi                                |
+| **Antenna Connection**        | RP-SMA Female                                                        |
+| **Rated Ambient Temperature** | 20-30C                                                               |
+| **Base SOM**                  | Raspberry Pi CM3+                                                    |
+| **CPU Specification**         | Broadcom BCM2837B0, Quad Core Cortex-A53 (ARMv8) 64-bit SoC @ 1.2GHz |
+| **High Endurance Storage**    | 32GB                                                                 |
+| **RAM**                       | 1GB LPDDR2 SDRAM                                                     |
+| **Internal PCB Dimensions**   | \~ 139x139x30 mm                                                     |
 
+**\* Average Power Consumption Measured At Mains,**
 
-###### * Average Power Consumption Measured At Mains,
-###### ** Maximum TX Power may be capped to a lower amount in some regions.
+**\*\* Maximum TX Power may be capped to a lower amount in some regions.**
 
 ## Package Contents
 
-![Indoor Hotspot Included](../media/photos/indoor/Indoor_PackageContents.jpg ':size=800')
+![Indoor Hotspot Included](../media/photos/indoor/Indoor_PackageContents.jpg)
 
 * The Nebra Helium Indoor Hotspot
 * RP-SMA LoRa Antenna
@@ -61,41 +60,40 @@ The Nebra Indoor Helium Hotspot is a compact & elegant solution to provide Heliu
 * 2 x serial number QR code stickers
 * 2 x Nebra stickers
 
-*Please note the above image is for illustrative purposes only, colours of some parts may change.*
+_Please note the above image is for illustrative purposes only, colours of some parts may change._
 
 ## Block Diagram
 
-![Indoor Hotspot Block Diagram](../media/diagrams/indoor/block-diagram.png ':size=800')
+![Indoor Hotspot Block Diagram](../media/diagrams/indoor/block-diagram.png)
 
 ## Supported Regions
 
 The Nebra Indoor Hotspot comes in three frequency versions:
 
-| Frequency | Supported Regions |
-| --- | ---  |
-| **433 Mhz** | Coming Soon |
-| **470 Mhz** | CN470 |
-| **868 Mhz** | EU868, IN865, RU864 |
+| Frequency   | Supported Regions                  |
+| ----------- | ---------------------------------- |
+| **433 Mhz** | Coming Soon                        |
+| **470 Mhz** | CN470                              |
+| **868 Mhz** | EU868, IN865, RU864                |
 | **915 Mhz** | US915, AU915, AS923-1/2/3/4, KR920 |
 
 The frequency is set upon initialisation by the Helium Network.
 
 ## Antenna Specifications
 
-| Specification | 470Mhz Model | 868 & 915Mhz Models |
-| --- | --- | --- |
-| **Frequency Range** | 420-480 | 860-930 Mhz|
-| **Peak Gain** | 3 dBi | 3 dBi |
-| **VSWR** | &lt; 2.3 | &lt; 1.8 |
-| **Input Impediance** | 50 Ohms | 50 Ohms |
-| **Length** | 17.2CM | 20.7CM  |
-
+| Specification        | 470Mhz Model | 868 & 915Mhz Models |
+| -------------------- | ------------ | ------------------- |
+| **Frequency Range**  | 420-480      | 860-930 Mhz         |
+| **Peak Gain**        | 3 dBi        | 3 dBi               |
+| **VSWR**             | < 2.3        | < 1.8               |
+| **Input Impediance** | 50 Ohms      | 50 Ohms             |
+| **Length**           | 17.2CM       | 20.7CM              |
 
 ## Dimensions
 
 The Nebra Indoor Hotspot is 150x150x50MM In size when nothing is connected.
 
-![Indoor Hotspot Connectors](../media/photos/indoor/Indoor_dimension.jpg ':size=500')
+![Indoor Hotspot Connectors](../media/photos/indoor/Indoor_dimension.jpg)
 
 Approximatley 175x150x50MM space is required when accounting in space required for connectors.
 
@@ -109,7 +107,7 @@ The mounting holes themselves are positioned 75mm between each other according t
 
 #### Connectors
 
-![Indoor Hotspot Connectors](../media/photos/indoor/Connectors.png  ':size=600')
+![Indoor Hotspot Connectors](../media/photos/indoor/Connectors.png)
 
 1. **9-16V @ 15W DC 6.5MMx2.0MM Barrel Jack**
 2. **LED Indicator.**
@@ -137,7 +135,7 @@ The Bottom LED acts accordingly:
 
 The Nebra Indoor Hotspot has a button on the back of the unit.
 
-![Indoor Hotspot Connectors](../media/photos/indoor/Indoor_button.png  ':size=600')
+![Indoor Hotspot Connectors](../media/photos/indoor/Indoor_button.png)
 
 This is used to re-enable bluetooth pairing on the hotspot, hold the button in for approximately 15 seconds then release to start pairing. The top light should start blinking slowly if successful.
 
@@ -150,15 +148,10 @@ Approximately your hotspot will update once a week in an automatic process, we w
 The software is open source and available on our [Helium Miner Software repo on GitHub](https://github.com/nebraltd/helium-miner-software).
 
 ## Unit Information
+
 Each unit has a sticker located on the base of the unit.
 
-
-<!-- ![Indoor Hotspot Base](../media/photos/indoor/indoor_bottom.png  ':size=600')
-
-![product label image ](../media/photos/indoor/product_label_image.jpg  ':size=500') -->
-
-
-![Indoor Hotspot Base](../media/photos/indoor/Unit_Informations.png ':size=800')
+![Indoor Hotspot Base](../media/photos/indoor/Unit_Informations.png)
 
 This includes the following important Information:
 
@@ -175,26 +168,26 @@ We are working on getting the Nebra Indoor Hotspot certified in multiple regions
 
 #### Certification List
 
-| Approval | Countries Covered | Hardware Frequency | Status | Frequency Plans |
-| --- | --- | --- | --- | --- |
-| CE | European Economic Area | 868 Mhz | [Completed](https://helium.nebra.com/certifications/indoor/raspberry-pi/CE/RED%20VOC.pdf) | EU 868 |
-| UKCA | United Kingdom | 868 Mhz | [Completed](https://helium.nebra.com/certifications/indoor/raspberry-pi/UKCA/JYTS287_UK_Cert.pdf) | EU 868 |
-| FCC | United States of America | 915 Mhz | [Completed](https://helium.nebra.com/certifications/indoor/raspberry-pi/FCC/P21SZ04076%20FCC%20ID%202AZDM-HNTIN.pdf) | US 915 |
-| ISED | Canada | 915 Mhz | In Progress | US 915 |
-| RCM | Australia & New Zealand | 915 Mhz | [Completed](https://helium.nebra.com/certifications/indoor/raspberry-pi/RCM/JYTSZB-R01-2100219%20ASNZS%20CISPR%2032.pdf) | AU 915 |
-| MIC | Japan | 915 Mhz | In Progress | AS 923-1 |
-| SRRC | China | 470 Mhz | In Progress | CN 470 |
-| EAC  | Russia | 868 Mhz | In Progress | RU 864 |
-| WPC | India | 868 Mhz | In Progress | IN 865 |
+| Approval | Countries Covered        | Hardware Frequency | Status                                                                                                                   | Frequency Plans |
+| -------- | ------------------------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------ | --------------- |
+| CE       | European Economic Area   | 868 Mhz            | [Completed](https://helium.nebra.com/certifications/indoor/raspberry-pi/CE/RED%20VOC.pdf)                                | EU 868          |
+| UKCA     | United Kingdom           | 868 Mhz            | [Completed](https://helium.nebra.com/certifications/indoor/raspberry-pi/UKCA/JYTS287_UK_Cert.pdf)                        | EU 868          |
+| FCC      | United States of America | 915 Mhz            | [Completed](https://helium.nebra.com/certifications/indoor/raspberry-pi/FCC/P21SZ04076%20FCC%20ID%202AZDM-HNTIN.pdf)     | US 915          |
+| ISED     | Canada                   | 915 Mhz            | In Progress                                                                                                              | US 915          |
+| RCM      | Australia & New Zealand  | 915 Mhz            | [Completed](https://helium.nebra.com/certifications/indoor/raspberry-pi/RCM/JYTSZB-R01-2100219%20ASNZS%20CISPR%2032.pdf) | AU 915          |
+| MIC      | Japan                    | 915 Mhz            | In Progress                                                                                                              | AS 923-1        |
+| SRRC     | China                    | 470 Mhz            | In Progress                                                                                                              | CN 470          |
+| EAC      | Russia                   | 868 Mhz            | In Progress                                                                                                              | RU 864          |
+| WPC      | India                    | 868 Mhz            | In Progress                                                                                                              | IN 865          |
 
 All certification related documents can be viewed in the [certification folder for our indoor miner](https://github.com/NebraLtd/Helium-Guides/tree/main/docs/certifications/indoor/raspberry-pi).
 
 #### Certification Codes
 
-| Certification | ID Code |
-| --- | ---  |
-| FCC | 2AZDM-HNTIN |
-| ISED | 27187-HNTIN |
+| Certification | ID Code     |
+| ------------- | ----------- |
+| FCC           | 2AZDM-HNTIN |
+| ISED          | 27187-HNTIN |
 
 #### FCC Statement
 
@@ -205,13 +198,10 @@ This device complies with Part 15 of the FCC Rules. Operation is subject to the 
 
 Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the equipment.
 
-NOTE:
-This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to Part 15 of the FCC Rules.
-These limits are designed to provide reasonable protection against harmful interference in a residential installation.
-This equipment generates uses and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications.
-However, there is no guarantee that interference will not occur in a particular installation.
+NOTE: This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to Part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential installation. This equipment generates uses and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications. However, there is no guarantee that interference will not occur in a particular installation.
 
 If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one or more of the following measures:
+
 * Reorient or relocate the receiving antenna.
 * Increase the separation between the equipment and receiver.
 * Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.

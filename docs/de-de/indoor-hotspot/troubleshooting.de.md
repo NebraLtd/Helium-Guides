@@ -4,8 +4,7 @@ Wenn sie Probleme mit der Installation ihres Hotspots haben könnten Ihnen die f
 
 ### Die Lampen schalten sich nicht ein:
 
-Die untere LED sollte sich einschalten, sobald das Gerät mit Strom versorgt wird. 
-Sollte das nicht der Fall sein, sollten sie sicherstellen, dass der Stromstecker richtig in der Steckdose sitzt und dass die Steckdose mit Strom versogt wird.
+Die untere LED sollte sich einschalten, sobald das Gerät mit Strom versorgt wird. Sollte das nicht der Fall sein, sollten sie sicherstellen, dass der Stromstecker richtig in der Steckdose sitzt und dass die Steckdose mit Strom versogt wird.
 
 Nur die untere LED schaltet sich ein, bis das Gerät fertig gestartet ist.
 
@@ -15,7 +14,7 @@ Es kann bis zu einer Minute dauern bis der Hotspot nach dem Einschalten in der A
 
 Stellen sie sicher, dass Bluetooth eingeschaltet wird, denn die Verbindung zwischen Hotspot und Handy benötigt diese Schnittstelle.
 
-Sie müssen die Ortungsdienste aktivieren, damit die Anwendung korrekten Zugriff auf ihren Hotspot über Bluetooth erhalten kann. 
+Sie müssen die Ortungsdienste aktivieren, damit die Anwendung korrekten Zugriff auf ihren Hotspot über Bluetooth erhalten kann.
 
 ### Mein Gerät erkennt keine WLAN Netzwerke:
 
